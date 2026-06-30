@@ -1,0 +1,20 @@
+# Temporary files from OCR processing
+.ocr_temp/
+.ocr_temp_fix/
+.ocr_temp_fix2/
+.test/
+.test2/
+.test3/
+.test4/
+.test5/
+.test6/
+.test7/
+.test8/
+.test9/
+.clean/
+.view/
+.debug/
+.fix/
+
+# macOS
+.DS_Store
