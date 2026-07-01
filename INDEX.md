@@ -15,6 +15,7 @@
 | [ORGANIGRAMM_VERFLECHTUNGEN.md](ORGANIGRAMM_VERFLECHTUNGEN.md) | 7 Mermaid-Diagramme: Alle Organisationsverflechtungen |
 | [ERMITTLUNGEN_WARNUNGEN.md](ERMITTLUNGEN_WARNUNGEN.md) | Laufende & abgeschlossene Ermittlungen, Behördenwarnungen |
 | [GLAUBWUERDIGKEIT_TNHCO.md](GLAUBWUERDIGKEIT_TNHCO.md) | 🚨 FINMA-Warnung, IOSCO, Glaubwürdigkeits-Risiken |
+| [PERSONEN_VERFLECHTUNGEN.md](PERSONEN_VERFLECHTUNGEN.md) | 👥 Alle Schlüsselpersonen & Verbindungen (Paramonov, Bolliger, Marty, Immoos, Manuel, Sexwale) |
 
 ---
 

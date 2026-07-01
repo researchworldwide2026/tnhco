@@ -2,7 +2,7 @@
 
 > Sämtliche Verbindungen basierend auf Dokumentenanalyse und Internetrecherche
 >
-> 📎 **Verwandte Dokumente:** [Hauptrecherche](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [Ermittlungen & Warnungen](ERMITTLUNGEN_WARNUNGEN.md) · [Gesamtindex](INDEX.md)
+> 📎 **Verwandte Dokumente:** [Hauptrecherche](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [Ermittlungen & Warnungen](ERMITTLUNGEN_WARNUNGEN.md) · [Glaubwürdigkeit TNHCO](GLAUBWUERDIGKEIT_TNHCO.md) · [Personen & Verflechtungen](PERSONEN_VERFLECHTUNGEN.md) · [Gesamtindex](INDEX.md)
 
 ---
 

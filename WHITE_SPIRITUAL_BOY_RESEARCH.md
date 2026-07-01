@@ -3,7 +3,7 @@
 > **Stand:** 2026-07-01 | **Quellen:** DuckDuckGo-Recherche, Webdokumente, TNHCO-Archive  
 > **Hinweis:** Die folgenden Informationen stammen aus öffentlich zugänglichen Quellen. Viele Behauptungen der beteiligten Akteure sind nicht verifizierbar.
 >
-> 📎 **Verwandte Dokumente:** [Ermittlungen & Warnungen](ERMITTLUNGEN_WARNUNGEN.md) · [Organigramm](ORGANIGRAMM_VERFLECHTUNGEN.md) · [Glaubwürdigkeit TNHCO](GLAUBWUERDIGKEIT_TNHCO.md) · [Gesamtindex](INDEX.md)
+> 📎 **Verwandte Dokumente:** [Ermittlungen & Warnungen](ERMITTLUNGEN_WARNUNGEN.md) · [Organigramm](ORGANIGRAMM_VERFLECHTUNGEN.md) · [Glaubwürdigkeit TNHCO](GLAUBWUERDIGKEIT_TNHCO.md) · [Personen & Verflechtungen](PERSONEN_VERFLECHTUNGEN.md) · [Gesamtindex](INDEX.md)
 
 ---
 

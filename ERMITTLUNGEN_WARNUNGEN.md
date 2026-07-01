@@ -1,7 +1,7 @@
 # Ermittlungen & Warnungen — White Spiritual Boy / M1 / TNHCO
 
 > **Stand:** 2026-07-01 | **Quellen:** Südafrikanische Medien, Behörden, Zentralbanken, FINMA  
-> **Verlinkte Dokumente:** [Hauptrecherche](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [Organigramm](ORGANIGRAMM_VERFLECHTUNGEN.md) · [Glaubwürdigkeit TNHCO](GLAUBWUERDIGKEIT_TNHCO.md) · [TNHCO Archiv](../markdown/) · [Übersetzungen](../markdown_de/)
+> **Verlinkte Dokumente:** [Hauptrecherche](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [Organigramm](ORGANIGRAMM_VERFLECHTUNGEN.md) · [Glaubwürdigkeit TNHCO](GLAUBWUERDIGKEIT_TNHCO.md) · [Personen & Verflechtungen](PERSONEN_VERFLECHTUNGEN.md) · [TNHCO Archiv](../markdown/) · [Übersetzungen](../markdown_de/)
 
 ---
 
