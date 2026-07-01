@@ -8,7 +8,7 @@
 ## 📊 Übersicht: Schlüsselpersonen
 
 ```mermaid
-flowchart TB
+graph TB
     subgraph "🇷🇺 RUSSLAND — Ideologischer Kern"
         PARAMONOV["👑 Alexander N. Paramonov<br/>»King of Kings«<br/>Chief Treasurer M1<br/>Präsident White Spiritual Boy Corp"]
         SHARIPOV["👤 Rustam Sharipov<br/>Leiter NOD SSSR<br/>Nizhnevartovsk"]
@@ -71,7 +71,7 @@ flowchart TB
 ### Organisationen & Strukturen
 
 ```mermaid
-flowchart LR
+graph LR
     PARAMONOV["👑 Alexander<br/>Paramonov"]
 
     subgraph "Finanz-Konstrukte"
@@ -275,7 +275,7 @@ Die sekty.tv-Analyse identifiziert folgende **extremistische Elemente**:
 ## 🔗 5. Gesamtnetzwerk — Die Verflechtungen im Detail
 
 ```mermaid
-flowchart TB
+graph TB
     subgraph "KERNIDEOLOGIE"
         AP["👑 Alexander N. Paramonov<br/>King of Kings<br/>Chief Treasurer M1"]
     end
@@ -349,7 +349,7 @@ flowchart TB
 ## 📊 6. Chronologie der Personen & Organisationen
 
 ```mermaid
-flowchart LR
+graph LR
     subgraph Y2010["2010"]
         A1["Sergey Taraskin gründet<br/>SSSR / Slawische Kräfte"]
     end
@@ -397,7 +397,7 @@ flowchart LR
 ## ⚠️ 7. Rollenverteilung im Netzwerk
 
 ```mermaid
-flowchart LR
+graph LR
     subgraph "Ideologische Führung"
         AP2["Paramonov<br/>👑 Spiritueller Führer<br/>📜 Mythen-Schöpfer<br/>💰 Schatzmeister"]
     end

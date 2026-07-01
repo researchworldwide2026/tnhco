@@ -21,7 +21,7 @@ Es gibt **vier dokumentierte offizielle Reaktionen** von staatlichen Stellen auf
 ## 🔍 1. Hawks-Ermittlung: "White Spiritual Boy Trust"
 
 ```mermaid
-flowchart LR
+graph LR
     subgraph Y2021["2021"]
         A1["April: Sexwale erstattet<br/>Anzeige bei den Hawks"]
         A2["April: SARB + Treasury<br/>weisen Vorwürfe zurück"]
@@ -101,7 +101,7 @@ Die CNB stellt klar:
 ## 🌐 4. Weitere internationale Berichterstattung
 
 ```mermaid
-flowchart TB
+graph TB
     subgraph "Offizielle Stellen"
         HAWKS["🇿🇦 Hawks Police<br/>Fall: UNSUBSTANTIATED"]
         SARB["🇿🇦 SARB + Treasury<br/>Warnung vor Betrug"]
@@ -170,7 +170,7 @@ flowchart TB
 ## 📊 Chronologie der rechtlichen Aktionen
 
 ```mermaid
-flowchart LR
+graph LR
     subgraph Y2021["2021"]
         A1["April: Sexwale erstattet<br/>Anzeige bei Hawks"]
         A2["April: National Treasury<br/>+ SARB warnen vor Betrug"]

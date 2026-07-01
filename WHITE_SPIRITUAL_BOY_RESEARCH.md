@@ -42,7 +42,7 @@ Das Konstrukt vereint klassische Elemente von Souveränitätsbewegungen, anti-et
 ### Kernorganisationen
 
 ```mermaid
-flowchart TB
+graph TB
     subgraph "Kernebene"
         TNHCO["🏛️ Terra Nova Helvetica<br/>Cooperative<br/><i>Neuheim CH, tnhco.org</i>"]
         M1["💰 International Treasury<br/>Monetary One (M1)<br/><i>Moskau RU, sovereign.int</i>"]
@@ -93,7 +93,7 @@ flowchart TB
 ### Die "White Spiritual Boy"-Kontenstruktur
 
 ```mermaid
-flowchart LR
+graph LR
     subgraph "White Spiritual Boy Account Universe"
         WSB_MAIN["🌍 World Account<br/>01-00-01-4-AAA-777-C3-AM-01"]
         WSB_SEC["🌍 World Account<br/>01-1-700-3516 222 777 8888 999"]
@@ -160,7 +160,7 @@ flowchart LR
 ### Währungen & Werte
 
 ```mermaid
-flowchart TD
+graph TD
     GOLD["🥇 XAU (Bankgold)<br/>Systemisches Bankgold MO"]
     
     subgraph "Reservewährungen"
@@ -193,7 +193,7 @@ flowchart TD
 ## ⚖️ Kontroversen & Ermittlungen
 
 ```mermaid
-flowchart LR
+graph LR
     subgraph Y2016["2016"]
         A1["Blogspot-Artikel über<br/>White Spiritual Boy<br/>9.965 Mrd. Guthaben"]
     end
@@ -223,7 +223,7 @@ flowchart LR
 ## 🌐 Internationale Verbindungen
 
 ```mermaid
-flowchart TB
+graph TB
     subgraph "Schweiz"
         TNHCO_CH["TNHCO<br/>Neuheim ZG"]
     end
@@ -272,7 +272,7 @@ flowchartEXWALE -->|"White Spiritual Boy<br/>Heritage Fund"| M1_RU
 ## 🔗 Vollständige Verflechtungsmatrix
 
 ```mermaid
-flowchart LR
+graph LR
     subgraph "LEGENDE"
         L1["🔴 Schlüsselperson"]
         L2["🟡 Finanzinstitution"]

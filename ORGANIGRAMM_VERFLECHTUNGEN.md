@@ -9,7 +9,7 @@
 ## 1. Gesamtnetzwerk (vollständige Verflechtung)
 
 ```mermaid
-flowchart TB
+graph TB
     %% ZENTRALE FIGUR
     PARAMONOV["👤 **Alexander N. Paramonov**<br/>═══ Titel ═══<br/>• Chief Treasurer, M1<br/>• King of Kings<br/>• President, IFC<br/>• President, WSB R.S.B. Global Corp<br/>• Commander, Grand Magisterium<br/>• Grand Intendant, Order of Hospitallers"]
 
@@ -100,7 +100,7 @@ flowchart TB
 ## 2. Dokumentenfluss & Mirrors
 
 ```mermaid
-flowchart LR
+graph LR
     ORIGIN["📝 Resolutionen<br/>& Dekrete<br/>M1 Treasury Moskau"]
     
     TNHCO_SITE["🌐 tnhco.org<br/>Schweiz<br/>90 PDFs<br/>DE/EN/IT/FR/HU"]
@@ -161,7 +161,7 @@ mindmap
 ## 4. Geldflüsse (behauptet)
 
 ```mermaid
-flowchart TD
+graph TD
     GOLD["🥇 Weltgoldreserve<br/>Bankbilanz + Außerbilanz"]
     
     M1_TREASURY["💰 M1 Treasury"]
@@ -197,7 +197,7 @@ flowchart TD
 ## 5. Akteursnetzwerk (Personen & Rollen)
 
 ```mermaid
-flowchart TB
+graph TB
     PARAMONOV["👤 Alexander N. Paramonov<br/>═══ Rollen ═══<br/>Chief Treasurer M1<br/>King of Kings<br/>President IFC<br/>President WSB Global Corp<br/>Grand Commander Hospitallers"]
 
     TOKYO["👤 Tokyo Sexwale<br/>ANC-Veteran<br/>Ex-Minister Südafrika<br/>Heritage Fund Claims"]
@@ -231,7 +231,7 @@ flowchart TB
 ## 6. Zeitstrahl der Schlüsselereignisse
 
 ```mermaid
-flowchart LR
+graph LR
     subgraph Y1961["Vorgeschichte"]
         A1["1961: Goldener Sowjet-Rubel<br/>definiert (0.987g Gold)"]
         A2["1944: Bretton Woods<br/>Goldener US-Dollar"]
@@ -272,7 +272,7 @@ flowchart LR
 ## 7. Geographische Verteilung
 
 ```mermaid
-flowchart TB
+graph TB
     subgraph "🇨🇭 Schweiz"
         TNHCO_HQ["Neuheim ZG<br/>TNHCO Hauptsitz"]
     end

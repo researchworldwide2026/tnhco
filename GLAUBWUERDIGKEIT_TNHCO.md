@@ -10,7 +10,7 @@
 Die **Schweizer Finanzmarktaufsicht FINMA** hat "Terra Nova Helvetica Genossenschaft" am **4. Februar 2025** auf ihre **offizielle Warnliste** gesetzt — die höchste Eskalationsstufe der Schweizer Finanzmarktaufsicht.
 
 ```mermaid
-flowchart TB
+graph TB
     subgraph "FINMA Warnung"
         FINMA["🏛️ FINMA<br/>Swiss Financial Market<br/>Supervisory Authority"]
         TNHCO_WARN["⚠️ Terra Nova Helvetica<br/>Genossenschaft<br/>⚠️ AUF DER WARNLISTE"]
@@ -123,7 +123,7 @@ Die FINMA stellt ausdrücklich klar: TNHCO ist im Handelsregister eingetragen. *
 ## 🔍 5. Glaubwürdigkeits-Checkliste
 
 ```mermaid
-flowchart TD
+graph TD
     subgraph "POSITIV"
         A["✅ Handelsregister-Eintrag<br/>(formell existent)"]
         B["✅ Physische Adresse<br/>in der Schweiz"]
@@ -171,7 +171,7 @@ Durch die IOSCO I-SCAN-Meldung sind **Wertpapieraufsichtsbehörden in über 130 
 ## 📊 7. Chronologie der behördlichen Aktionen
 
 ```mermaid
-flowchart LR
+graph LR
     subgraph Y2023["2023"]
         A1["TNHCO-Gründung<br/>laut Website<br/>Copyright 2023"]
     end
