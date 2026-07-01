@@ -1,223 +1,214 @@
-# Resolution-003_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
-
 # Resolution-003_en
 
-**Source PDF:** `Resolution-003_en.pdf`
+**Quell-PDF:** „Resolution-003_en.pdf“.
 
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 4
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR über eingebettete Bildextraktion + Vorverarbeitung
+**Bilder extrahiert:** 4
+**OCR:** tesseract deu+eng, Schwellenwertvorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 Mexaynapoanoe Kasnayericreo Mil
 International Treasury Monetary One
 
-LEI: 2534008YC6NRPA4BLOF15; UN ID: 626139; Ph: +7-495-1258418
+LEI: 2534008YC6NRPA4BLOF15; UN-ID: 626139; Tel.: +7-495-1258418
 
-Date: October 01, 2020
-Ref. N°: 003/RES2020
+Datum: 01. Oktober 2020
+Ref. Nr.: 003/RES2020
 
-RESOLUTION No. 003
+Beschluss Nr. 003
 
-Recognizing the changes on Earth that have been accompanied by numerous daily natural
-disasters that threaten the existence of future generations on Earth;
+Erkennen der Veränderungen auf der Erde, die mit zahlreichen täglichen natürlichen Veränderungen einhergehen
+Katastrophen, die die Existenz zukünftiger Generationen auf der Erde bedrohen;
 
-Convinced of the need for prompt and effective implementation by the governments and the
-international community of measures aimed at protecting and improving the environment for
-the benefit of present and future human generations;
+Überzeugt von der Notwendigkeit einer raschen und wirksamen Umsetzung durch die Regierungen und die
+internationale Gemeinschaft von Maßnahmen zum Schutz und zur Verbesserung der Umwelt
+das Wohl gegenwärtiger und zukünftiger menschlicher Generationen;
 
-Recognizing that the responsibility for taking measures to protect and improve the environment
-rests primarily with governments and can be better implemented at the national and regional
-levels in the first stage;
+In Anerkennung der Verantwortung, Maßnahmen zum Schutz und zur Verbesserung der Umwelt zu ergreifen
+liegt in erster Linie bei den Regierungen und kann auf nationaler und regionaler Ebene besser umgesetzt werden
+Ebenen in der ersten Stufe;
 
-Recognizing further that environmental issues of international importance fall within the
-competence ofthe International Treasury Monetary One;
+In Anerkennung der Tatsache, dass Umweltfragen von internationaler Bedeutung in den Bereich fallen
+Zuständigkeit des International Treasury Monetary One;
 
-Taking into account that international cooperation programs in the field of the environment
-should be implemented with due respect for the sovereign rights of States and in accordance
-with the principles of international law;
+Unter Berücksichtigung der internationalen Kooperationsprogramme im Umweltbereich
+sollten unter gebührender Achtung der Souveränitätsrechte der Staaten und im Einklang mit diesen umgesetzt werden
+mit den Grundsätzen des Völkerrechts;
 
-Bearing in mind the sectoral responsibilities of the International Treasury Monetary One and
-taking into account the lack of sufficient financial assets of Organizations with the goals of
-improving, preserving, and protecting the environment;
+Unter Berücksichtigung der sektoralen Zuständigkeiten des International Treasury Monetary One und
+unter Berücksichtigung des Mangels an ausreichenden finanziellen Mitteln von Organisationen mit den Zielen
+Verbesserung, Erhaltung und Schutz der Umwelt;
 
-Aware of the importance of regional and subregional cooperation in the field of the
-environment and the importance of the role of the regional economic commissions and other
-regional intergovernmental organizations;
+Im Bewusstsein der Bedeutung der regionalen und subregionalen Zusammenarbeit im Bereich der
+Umwelt und die Bedeutung der Rolle der regionalen Wirtschaftskommissionen und anderer
+regionale zwischenstaatliche Organisationen;
 
-Emphasizing that environmental issues constitute a new and important area of international
-cooperation and that the complexity and interdependence of such issues require new
-approaches;
+Betont, dass Umweltfragen einen neuen und wichtigen internationalen Bereich darstellen
+Zusammenarbeit und dass die Komplexität und Interdependenz solcher Themen neue erfordern
+Ansätze;
 
 7G AGAGARARARAGA GAGA GAGA FAGAGARAGAGAGAGAGE
 
 ls
 
 
-## Section 001
+## Abschnitt 001
 
-Recognizing that relevant international scientific and other professional communities can make
-an important contribution to international cooperation in the field ofthe environment;
+In Anerkennung dessen, dass relevante internationale wissenschaftliche und andere Fachgemeinschaften etwas bewirken können
+ein wichtiger Beitrag zur internationalen Zusammenarbeit im Umweltbereich;
 
-Aware of the need to implement activities and projects that would effectively assist developing
-countries in implementing environmental policies and programs that are compatible with
-development plans and in participating significantly in international environmental programs
-and projects;
+Sich der Notwendigkeit bewusst, Aktivitäten und Projekte umzusetzen, die die Entwicklung wirksam unterstützen
+Länder bei der Umsetzung kompatibler Umweltpolitiken und -programme
+Entwicklungspläne und maßgebliche Beteiligung an internationalen Umweltprogrammen
+und Projekte;
 
-Convinced that effective international cooperation in the field of the environment will require
-financial and technical resources;
+Überzeugt, dass eine wirksame internationale Zusammenarbeit im Umweltbereich erforderlich ist
+finanzielle und technische Ressourcen;
 
-Aware of the urgent need for continuous organizational measures to protect and improve the
-environment;
+Im Bewusstsein der dringenden Notwendigkeit kontinuierlicher organisatorischer Maßnahmen zum Schutz und zur Verbesserung der
+Umwelt;
 
-Considering all these facts the International Treasury Monetary One, who manage in ownership
-and on behalf for all affiliated shareholders the nearly entire world gold reserve, both bank on-
-balance gold and off-balance gold on Earth, introduces the following decisions:
+In Anbetracht all dieser Tatsachen ist das internationale Finanzministerium ein Währungsfonds, der die Verwaltung im Eigentum übernimmt
+und im Namen aller angeschlossenen Aktionäre die fast gesamten Weltgoldreserven, beide stützen sich auf
+Gold im Gleichgewicht und Gold im Ungleichgewicht auf der Erde führt die folgenden Entscheidungen ein:
 
-1. To create a financial center for funding of programs, projects and activities for
-environmental protection. To give the name in Russian «BcemupHaa Opranv3auna
-Oxpy;karomeii Cpenpp, in English «World Environment Organization» (hereinafter referred to
-as the “Organization”).
+1. Schaffung eines Finanzzentrums zur Finanzierung von Programmen, Projekten und Aktivitäten für
+Umweltschutz. Um den Namen auf Russisch zu geben: „BcemupHaa Opranv3auna
+Oxpy;karomeii Cpenpp, auf Englisch „Weltumweltorganisation“ (im Folgenden bezeichnet).
+als „Organisation“).
 
-2. To determine the authorized subvention capital of the World Environment Organization in
-the amount of 50 (Fifty) Trillion XAU.
+2. Ermittlung des genehmigten Subventionskapitals der Weltumweltorganisation in
+der Betrag von 50 (fünfzig) Billionen XAU.
 
-3. To create a governing Council composed solely of representatives of States of participating
-countries, which should meet annually.
+3. Einen Regierungsrat einzurichten, der ausschließlich aus Vertretern der teilnehmenden Staaten besteht
+Länder, die sich jährlich treffen sollten.
 
-4. To form the scientific Council of the World Environment organization (hereinafter referred
-to as the Council of the Organization) from representatives of scientific institutions that can
-adequately, taking into account all the challenges of the present and future, develop and
-promote activities, programs, projects that meet the main goals of the Organization.
+4. Bildung des wissenschaftlichen Rates der Weltumweltorganisation (im Folgenden genannt).
+(zum Beispiel der Rat der Organisation) aus Vertretern wissenschaftlicher Institutionen, die dazu in der Lage sind
+angemessen und unter Berücksichtigung aller Herausforderungen der Gegenwart und Zukunft entwickeln und
+Förderung von Aktivitäten, Programmen und Projekten, die den Hauptzielen der Organisation entsprechen.
 
-5. To form Executive management for international programs, events, projects, and
-agreements.
+5. Bildung der Geschäftsleitung für internationale Programme, Veranstaltungen, Projekte usw
+Vereinbarungen.
 
-6. To create a database of programs, activities, and projects to protect and improve the
-environment for their financing.
+6. Erstellen einer Datenbank mit Programmen, Aktivitäten und Projekten zum Schutz und zur Verbesserung der
+Umfeld für ihre Finanzierung.
 
-7. To provide funding for programs, projects, and activities from assets transferred by the
-International Treasury M1, as well as with the involvement of trust funds.
+7. Bereitstellung von Mitteln für Programme, Projekte und Aktivitäten aus den von der Organisation übertragenen Vermögenswerten
+International Treasury M1 sowie unter Einbindung von Treuhandfonds.
 
-8. The mission of the World Environment Organization will be to develop and finance
-programs, projects, and activities aimed at protecting the environment, environmental safety,
-and improving, preserving, and protecting the environment for the life and activities of people
-and future generations on Earth.
+8. Die Aufgabe der Weltumweltorganisation besteht in der Entwicklung und Finanzierung
+Programme, Projekte und Aktivitäten zum Schutz der Umwelt, der Umweltsicherheit,
+und Verbesserung, Erhaltung und Schutz der Umwelt für das Leben und die Aktivitäten der Menschen
+und zukünftige Generationen auf der Erde.
 
-RARER GAUCHE EA GAG ARAGIEAGAGARIEAGAARES
+SELTENER GAUCHE EA GAG ARAGIEAGAGARIEAGAARES
 
 
-## Section 002
+## Abschnitt 002
 
 E
 
-9. Among the main activities of the Organization are:
+9. Zu den Hauptaktivitäten der Organisation gehören:
 
-- introduction of innovative free energy technologies with the transition to alternative
-environmentally friendly energy sources;
+- Einführung innovativer freier Energietechnologien mit Übergang zu Alternativen
+umweltfreundliche Energiequellen;
 
-- integrated approach to planning and rational use of land resources;
+- integrierter Ansatz zur Planung und rationellen Nutzung von Landressourcen;
 
-- transition to the rational use of natural resources with the introduction of new
-innovative technologies;
+- Übergang zur rationellen Nutzung natürlicher Ressourcen mit der Einführung neuer
+innovative Technologien;
 
-- creation of environmentally friendly production facilities using innovative
-technologies, followed by the closure of environmentally harmful production facilities;
+- Schaffung umweltfreundlicher Produktionsanlagen durch innovative
+Technologien, gefolgt von der Schließung umweltschädlicher Produktionsanlagen;
 
-- eradication of poverty, creation in each state of the production of the food base for a
-complete solution to food addiction;
+- Beseitigung der Armut, Schaffung der Produktionsgrundlage für a
+Komplettlösung gegen Esssucht;
 
-- protection and promotion of human health, creation of centers of free medical care for
-the population in all countries of the world;
+- Schutz und Förderung der menschlichen Gesundheit, Schaffung von Zentren für kostenlose medizinische Versorgung
+die Bevölkerung in allen Ländern der Welt;
 
-- atmosphere protection;
+- Schutz der Atmosphäre;
 
-- combating deforestation of territories;
+- Bekämpfung der Entwaldung von Gebieten;
 
-- managing vulnerable ecosystems: combating desertification and drought;
-- managing vulnerable ecosystems: sustainable mountain development;
+- Management gefährdeter Ökosysteme: Bekämpfung von Wüstenbildung und Dürre;
+- Management gefährdeter Ökosysteme: nachhaltige Bergentwicklung;
 
-- providing leadership and promoting partnership in the field of environmental
-protection by creating opportunities to improve the quality of life of States and peoples
-without compromising future generations;
+- Führung und Förderung von Partnerschaften im Umweltbereich
+Schutz durch die Schaffung von Möglichkeiten zur Verbesserung der Lebensqualität von Staaten und Völkern
+ohne zukünftige Generationen zu gefährden;
 
-- development and financing of sustainable agriculture and rural development projects;
-- preservation of biological diversity;
-- environmentally safe use of biotechnology;
+- Entwicklung und Finanzierung nachhaltiger Landwirtschafts- und ländlicher Entwicklungsprojekte;
+- Erhaltung der biologischen Vielfalt;
+- umweltschonender Einsatz der Biotechnologie;
 
-- protection of the oceans and all types of seas, including closed and semi-closed seas,
-coastal areas, their protection, rational use and development of their living resources;
+- Schutz der Ozeane und aller Arten von Meeren, einschließlich geschlossener und halbgeschlossener Meere,
+Küstengebiete, ihr Schutz, ihre rationelle Nutzung und Entwicklung ihrer lebenden Ressourcen;
 
-- preservation of the quality of fresh water resources and their supply, application of
-integrated approaches to water resources development, water management and water
+- Erhaltung der Qualität der Süßwasserressourcen und ihrer Versorgung, Anwendung von
+integrierte Ansätze für die Entwicklung von Wasserressourcen, Wassermanagement und Wasser
 
-use;
+verwenden;
 
-- environmentally safe management of the use of toxic chemicals, including prevention
-of illegal international traffic in toxic and dangerous products;
+- Umweltfreundliches Management des Einsatzes giftiger Chemikalien, einschließlich Prävention
+des illegalen internationalen Handels mit giftigen und gefährlichen Produkten;
 
-- environmentally safe disposal of hazardous waste, including prevention of illegal
-international traffic in toxic and hazardous waste;
+- umweltgerechte Entsorgung gefährlicher Abfälle, einschließlich der Vermeidung illegaler Abfälle
+internationaler Verkehr mit giftigen und gefährlichen Abfällen;
 
-- environmentally safe disposal of solid waste and solution of issues related to
-wastewater treatment;
+- Umweltfreundliche Entsorgung fester Abfälle und Lösung damit verbundener Probleme
+Abwasserbehandlung;
 
-TAR AGA GARAGAGA GA GAGA GAGA GAGAGAGAGAGAGAGAGE
+TAR AGA GARAGAGA GA GAGA GAGA GAGAGAGAGAGAGAGAGAGE
 
+## Abschnitt 003
 
+- sichere und umweltgerechte Entsorgung radioaktiver Abfälle;
 
-## Section 003
+- Transfer und Verbreitung umweltfreundlicher Technologien, Zusammenarbeit und
+Kapazitätsaufbau für ihre Entwicklung;
 
-- safe and environmentally sound disposal of radioactive waste;
+- Finanzierung der Grundlagen- und angewandten Wissenschaft für nachhaltige Entwicklung;
 
-- transfer and dissemination of environmentally pure technologies, cooperation and
-capacity-building for their development;
+- Förderung der Bildung, des öffentlichen Bewusstseins, der Ausbildung und der beruflichen Entwicklung von
+Personal;
 
-- financing of basic and applied science for sustainable development;
+10. Die Arbeit der Organisation aufzunehmen und zu etablieren, Einladungen an alle zu verschicken
+Länder, die dem Gouverneursrat beitreten. Jedes Land erhält einen Sitz im Vorstand
+Gouverneure.
 
-- promotion of education, public awareness, training and professional development of
-personnel;
+11. Um Forschungsinstitute zu identifizieren und eine Einladung zur Mitgliedschaft im wissenschaftlichen Rat der zu versenden
+Organisation angesehener und vertrauenswürdiger Wissenschaftler.
 
-10. To start functioning and establish the work of the Organization, to send invitations to all
-countries to join the Board of governors. Each country is given one seat on the Board of
-governors.
+12. Unter internationalen und zwischenstaatlichen Organisationen diejenigen Organisationen zu identifizieren, deren
+Die Aktivitäten entsprechen der Mission der Weltumweltorganisation. Zum Versenden
+Einladungen an Organisationen, dem Board of Governors beizutreten.
 
-11. To identify research institutes and send an invitation to join the scientific Council of the
-Organization of reputable and trusted scientists.
+13. Die Kontrolle über die Umsetzung dieser Resolution Nr. 003 liegt beim Ministerium
+von Sonderprogrammen und Projekten des International Treasury Monetary One.
 
-12. To identify among international and interstate Organizations those Organizations whose
-activities correspond to the mission of the World Environment Organization. To send
-invitations to Organizations to join the Board of governors.
+Dieser Beschluss wurde am 01.10.2020 gefasst und tritt mit der Unterzeichnung ab sofort in Kraft
+Zeuge.
 
-13. Control over the implementation of this Resolution No. 003 is entrusted to the Department
-of special programmes and projects of the International Treasury Monetary One.
+Internationales Finanzministerium M1
+S.E. Alexander N. Paramonow
 
-This resolution has been passed on this 01-10-2020 and is effective forthwith by signing under
-witness.
+Chefschatzmeister
 
-International Treasury M1
-H.E. Alexander N. Paramonov
+Präsident,
 
-Chief Treasurer
+die Internationale Finanz-Corporation
 
-President,
+Weißer spiritueller Junge R.S.B. Global Corp Inc
 
-the International Financial Corporation
+Kommandant, Großintendant des Patrimoniums, Oberschatzmeister
+des Großmagisteriums, der Großkommandeur
+Souveräner und militärischer Orden des Heiligen Johannes von Jerusalem
 
-White Spiritual Boy R.S.B. Global Corp Inc
-
-Commander, the Patrimony Grand Intendant, the Chief Treasurer
-of the Grand Magisterium, the Grand Commander
-Sovereign and Military Order of Saint John of Jerusalem
-
-Order of the Hospitaliers
+Orden der Hospitaliers
 
 SAGARA GAARA RA RAGA AAA AoA
-
-
-
