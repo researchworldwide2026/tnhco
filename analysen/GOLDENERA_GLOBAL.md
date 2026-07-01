@@ -1,280 +1,176 @@
-# GOLDENERA.GLOBAL — Vollständige Analyse
+# GOLDENERA.GLOBAL — Vollständige Analyse (mit Whitepaper-Daten)
 
-> **Stand:** 01.07.2026 | **Quelle:** Telegram-Kanal TNHCO → goldenera.global  
-> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [Personen](../PERSONEN_VERFLECHTUNGEN.md) · [Glaubwürdigkeit](../GLAUBWUERDIGKEIT_TNHCO.md) · [Sun Coin Recherche](SUN_COIN_RECHERCHE.md)
-
----
-
-## 🚨 ZENTRALER FUND: SunCoin ICO Pre-Sale!
-
-Die Website bewirbt aktiv einen **"SunCoin ICO pre-sale"**. Damit ist "Sun Coin" **KEIN** externes Projekt — sondern das **neueste Produkt des M1/TNHCO-Netzwerks**!
-
-> ⬅️ **Damit ist unsere vorherige Sun-Coin-Recherche überholt.** Sun Coin ist das Krypto-Token des GoldenEra-Ökosystems.
+> **Stand:** 01.07.2026 | **Quellen:** Website goldenera.global + Whitepaper V1.3 (27.02.2026)  
+> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [Personen](../PERSONEN_VERFLECHTUNGEN.md) · [Sun Coin](SUN_COIN_RECHERCHE.md) · [Whitepaper DE](goldenera_raw/GoldenEra_Whitepaper_DE.md)
 
 ---
 
-## 📊 Das GoldenEra-Ökosystem — Übersicht
+## 🚨 ZENTRALER FUND: SunCoin ICO Pre-Sale aktiv!
+
+| Parameter | Wert |
+|-----------|------|
+| **Token-Name** | SunCoin (SCGE) |
+| **Total Supply** | **88.888.888.888** (88,9 Mrd.) — 100% pre-minted |
+| **Gold-Backing** | **25%** (0,25g pro Coin) — Whitepaper: *"NOT fully backed"* |
+| **Initialpreis** | **$20,00 USD** — festgelegt von *Sovereign International Treasury Monetary One* |
+| **Pre-Sale Phase 1** | 2%, Preis geheim ("fixed per contract") |
+| **Pre-Sale Phase 2** | 1%, $15,00 (Q2 2026) |
+| **Public Launch** | 17%, $20,00 (Q3 2026) |
+| **Lockup** | **2 Jahre** |
+| **Zahlungsmittel** | BTC, ETH, USDT, USDC, DAI, wBTC, cbBTC + Fiat |
+
+---
+
+## 📊 Ökosystem-Übersicht
 
 ```mermaid
 graph TB
-    subgraph "KERN — GoldenEra Blockchain"
-        GEB["🔗 GoldenEra Blockchain (GEB)<br/>goldenera.global<br/>Hostinger (lime-camel-749827)"]
-        GEE["🌐 GoldenEra Ecosystem (GEE)<br/>Blockchain + Coops +<br/>Bildung + Medien"]
-        SUNCOIN["☀️ SunCoin<br/>ICO Pre-Sale<br/>via SunPay M1"]
+    subgraph "KERN"
+        GEB["🔗 GoldenEra Blockchain (GEB)<br/>Hostinger Free-Hosting<br/>Account-based, keine Smart Contracts"]
+        SUNCOIN["☀️ SunCoin (SCGE)<br/>88,9 Mrd. Supply | 25% Gold<br/>$20 Initialpreis | 2-Jahres-Lockup"]
     end
-
-    subgraph "VERLINKTE DOMAINS"
-        WSBOH["🏦 wsboh.org<br/>World Sovereign Bank<br/>of the Order of Hospitallers"]
-        ORDER["⚜️ ordrehospitaliers.world<br/>Order of Hospitallers"]
-        M1_ORG["💰 monetaryone.org<br/>Monetary One<br/>(NEUE Domain!)"]
-        SUNPAY["💳 sunpaym1.world<br/>SunPay M1<br/>Payment Gateway"]
-        TNHCO_ORG["🏛️ tnhco.org<br/>Terra Nova Helvetica<br/>(bestehend)"]
+    subgraph "ÖKOSYSTEM (11 Komponenten — 0 operationell)"
+        GEW["Wallet"]; GES["Scan"]; GEX["Exchange Q3"]
+        SCH["SunChat"]; GEM["Marketplace"]; GEA["Academy"]
+        GEIH["Hub"]; GEC["Charity"]; SUNPAY["SunPay ❌"]
+        RAM["RA Media"]; PROGSUN["ProgramSunrise ❌"]
     end
-
-    subgraph "KOOPERATIONEN"
-        LIGHT_RUS["World Sovereign Union<br/>of Cooperation<br/>Light Great Rus"]
-        SPD_ROD["SPD ROD<br/>Slovenské Podielové<br/>Druzstvo ROD"]
-        PEOPLE_LIGHT["International Consumer<br/>Cooperation of<br/>People's Light"]
-        TNHCO["Terra Nova Helvetica<br/>Cooperative"]
+    subgraph "DOMAINS (3/5 tot)"
+        WSBOH["wsboh.org ✅"]; M1ORG["monetaryone.org 🟡"]
+        ORDER["ordrehospitaliers.world ❌"]; SUNPAYD["sunpaym1.world ❌"]
     end
-
-    GEB --> GEE
     GEB --> SUNCOIN
-    SUNCOIN --> SUNPAY
-    GEE --> WSBOH
-    GEE --> ORDER
-    GEE --> M1_ORG
-    GEE --> SUNPAY
-    GEB --> LIGHT_RUS
-    GEB --> SPD_ROD
-    GEB --> PEOPLE_LIGHT
-    GEB --> TNHCO
-
+    SUNCOIN -->|"Phase 1: 2%"| PRESALE1["💰 Pre-Sale privat"]
+    SUNCOIN -->|"Phase 2: 1% à $15"| PRESALE2["💰 Pre-Sale Q2"]
+    SUNCOIN -->|"Launch: 17% à $20"| PUBLIC["🌐 Launch Q3"]
+    SUNCOIN -->|"50% gesperrt"| VAULT["🔒 Vault 44,4 Mrd."]
     style SUNCOIN fill:#ffd700,color:#000,stroke:#cc9900,stroke-width:3px
-    style GEB fill:#e17055,color:#fff,stroke:#cc0000,stroke-width:2px
-    style WSBOH fill:#6c5ce7,color:#fff
+    style VAULT fill:#ff4444,color:#fff
 ```
 
 ---
 
-## 🌐 Technische Details
+## 💰 Tokenomics
 
-### Domain & Hosting
+### Allokation
 
-| Merkmal | Detail |
-|---------|--------|
-| **Domain** | goldenera.global |
-| **IP** | 185.206.161.59 |
-| **Nameserver** | dns1.exigo.ch / dns2.exigo.ch (Schweiz) |
-| **Hosting** | Hostinger (kostenlos/Shared) |
-| **Interne URL** | `lime-camel-749827.hostingersite.com` |
-| **Zertifikat** | SSL (Let's Encrypt) |
-| **CMS** | WordPress |
-| **Sprachen** | Nur Englisch |
-| **Erstellt** | 2026 (© 2026) |
+| % | Menge | Empfänger | Kontrolle |
+|---|-------|-----------|-----------|
+| **50%** | 44,4 Mrd. | Vault – Savings of Coins | 🔒 Projekt |
+| **10%** | 8,9 Mrd. | Validators | ⚙️ Projekt |
+| **5%** | 4,4 Mrd. | Miners CBT Fund | ⛏️ Projekt |
+| **7%** | 6,2 Mrd. | Community & Internal Ecosystem | 👥 Projekt |
+| **7%** | 6,2 Mrd. | Strategical External Ecosystem | 🤝 Projekt |
+| **3%** | 2,7 Mrd. | Pre-Sales | 💰 Investoren |
+| **17%** | 15,1 Mrd. | Go Public – Launch | 🌐 Öffentlich |
+| **1%** | 889 Mio. | Rewards & Bonus | 🎁 Marketing |
 
-**⚠️ Unstimmigkeit 1 — Billig-Hosting für ein "Weltfinanzsystem":**
-Ein Blockchain-Projekt, das angeblich das globale Finanzsystem revolutioniert, hostet auf einem **kostenlosen Hostinger-Shared-Subdomain** (`lime-camel-749827.hostingersite.com`). Die interne URL ist ein generierter Name — nicht einmal eine eigene Subdomain wurde eingerichtet. Das ist unvereinbar mit dem Anspruch, eine "Pillar of the New Global Financial Era" zu sein.
+**⚠️ 79% aller Coins unter Projektkontrolle.**
 
----
+### ICO-Phasen
 
-### Präsenz auf ALLEN Plattformen (🚨 ungewöhnlich aggressives Marketing)
+| Phase | Coins | Preis | Lockup |
+|-------|-------|-------|--------|
+| Phase 1 (privat) | 1,78 Mrd. | Geheim | 2 Jahre |
+| Phase 2 (öffentlich) | 889 Mio. | $15 | 2 Jahre (25% nach Jahr 1) |
+| Public Launch | 15,1 Mrd. | $20 | Kein Lockup |
 
-| Plattform | URL | Follower (geschätzt) |
-|-----------|-----|----------------------|
-| X/Twitter | [@goldenera88888](https://x.com/goldenera88888) | Neu/gering |
-| YouTube | [@goldenerablockchain](https://www.youtube.com/@goldenerablockchain) | Neu/gering |
-| Facebook | [GoldenEraBlockchain](https://www.facebook.com/GoldenEraBlockchain/) | Neu/gering |
-| Instagram | [goldenera_blockchain](https://www.instagram.com/goldenera_blockchain) | Neu/gering |
-| Telegram | [t.me/GoldenEraBlockchain](http://t.me/GoldenEraBlockchain) | Aktiv (Quelle des Fundes) |
-| TikTok | [goldenera_blockchain](https://www.tiktok.com/@goldenera_blockchain) | Neu/gering |
-| Rumble | [goldenerablockchain](https://www.rumble.com/goldenerablockchain) | Neu/gering |
-| BitChute | [GoldenEraBlockchain](https://www.bitchute.com/GoldenEraBlockchain) | Neu/gering |
+### Finanzmathematik
 
-**⚠️ Unstimmigkeit 2 — Plattform-Spam:**
-Präsenz auf **8 sozialen Plattformen gleichzeitig**, inklusive Rumble und BitChute (Plattformen mit Fokus auf Verschwörungstheoretiker/Rechtsextreme). Dies ist das Verhalten eines **aggressiven Marketing-Funnels**, nicht einer seriösen Finanzinstitution.
+- **Implied Market Cap:** 88,9 Mrd. × $20 = **$1,78 Billionen**
+- **Max. Fundraising:** Phase 2 $13,3 Mrd. + Launch $302 Mrd.
+- **Gold für 25% Deckung:** 22.222 Tonnen (~11% allen jemals geförderten Goldes)
 
 ---
 
-## 📄 Inhaltliche Analyse
-
-### Die "10 Punkte" der Project Philosophy
-
-Die Learn-Seite listet 10 Punkte auf (vollständiger Text nicht extrahierbar). Basierend auf dem Kontext:
-
-1. Asset-backed blockchain
-2. Gold standard
-3. Program Sunrise
-4. National sovereignty
-5. Community empowerment
-6. Transparency
-7. Real-value economy
-8. Cooperative infrastructure
-9. Educational platforms
-10. "Peaceful, transparent, and prosperous global future"
-
-**⚠️ Unstimmigkeit 3 — Widerspruch zu Resolution 042:**
-GoldenEra bewirbt eine **Blockchain** mit **SunCoin ICO** — aber Resolution 042 (18.10.2023) hat **ALLE** Kryptowährungen ohne M1-Golddeckung verboten! SunCoin wird jetzt als DAS M1-konforme Token vermarktet. Dies ist eine **180-Grad-Wende** von "Alle Kryptos sind Terror" zu "Kauft unseren SunCoin im Pre-Sale".
-
----
-
-### Strategische Partner (laut Learn-Seite)
-
-| Partner | Beschreibung | Realität |
-|---------|-------------|----------|
-| **World Sovereign Bank of the Order of Hospitallers** | Auftraggeber der Blockchain | Nicht als Bank registriert, keine Lizenz |
-| **World Sovereign Union of Cooperation Light Great Rus** | Partner | Keine Registrierung auffindbar |
-| **SPD ROD** (Slovenské Podielové Druzstvo) | Slowakische Genossenschaft | Existiert möglicherweise in SK, aber: Zlatá éra / Paramonov-Kult! |
-| **People's Light** | International Consumer Cooperation | Keine Registrierung auffindbar |
-| **Terra Nova Helvetica** | Schweizer Genossenschaft | FINMA-Warnliste! Keine Finanzlizenz! |
-| **200 "International Cooperatives"** | Angeblich unter Program Sunrise | Keine einzige namentlich genannt |
-
-**⚠️ Unstimmigkeit 4 — Phantom-Partner:**
-"200 International Cooperatives under the Program Sunrise Initiative" werden behauptet — aber **keine einzige wird namentlich genannt.** Die vier genannten Partner sind entweder nicht registriert, stehen auf FINMA-Warnlisten, oder sind Teil des Paramonov-Kultnetzwerks.
-
----
-
-## ☀️ SunCoin ICO — Das neue Produkt
-
-### Was wir wissen
-
-| Merkmal | Detail |
-|---------|--------|
-| **Name** | SunCoin |
-| **Status** | ICO Pre-Sale (laut Homepage-Banner) |
-| **Payment Gateway** | SunPay M1 (sunpaym1.world) |
-| **Blockchain** | GoldenEra Blockchain (GEB) |
-| **Backing** | Behauptet "asset-backed" (Gold?) |
-| **Verbindung zu M1** | "Monetary One" (monetaryone.org) |
-
-### Was wir NICHT wissen
-
-- ❌ Kein Whitepaper zu SunCoin selbst (nur GoldenEra-Whitepaper)
-- ❌ Kein Token-Standard genannt (ERC-20? Eigenentwicklung?)
-- ❌ Keine Smart-Contract-Adresse
-- ❌ Keine Audit-Berichte
-- ❌ Keine Angaben zum Team hinter SunCoin
-- ❌ Keine Angaben zur Tokenomics (Total Supply, Distribution, Lock-up)
-- ❌ sunpaym1.world ist nicht erreichbar (leere Seite)
-
-**⚠️ Unstimmigkeit 5 — SunCoin hat keine technische Dokumentation:**
-Ein ICO ohne Whitepaper, ohne Token-Adresse, ohne Audit, ohne Team-Nennung — das sind **alle** Red Flags für einen Krypto-Scam.
-
----
-
-## 🔗 Das erweiterte Domain-Netzwerk
+## 🔗 Verbindung zum Paramonov-Netzwerk
 
 ```mermaid
-graph LR
-    subgraph "Neue Domains (2026)"
-        GOLDENERA["goldenera.global<br/>GoldenEra Blockchain<br/>+ SunCoin ICO"]
-        M1_ORG["monetaryone.org<br/>Monetary One<br/>NEU"]
-        WSBOH_D["wsboh.org<br/>World Sovereign Bank"]
-        ORDER_D["ordrehospitaliers.world<br/>Hospitaller Order"]
-        SUNPAY_D["sunpaym1.world<br/>SunPay Payment"]
-    end
+graph TB
+    PARAMONOV["👑 Alexander Paramonov<br/>King of Kings"]
+    M1["💰 Sovereign International Treasury M1<br/>Setzt SunCoin-Preis"]
+    TNHCO["🏛️ Terra Nova Helvetica<br/>⚠️ FINMA-Warnliste"]
+    SPD_ROD[" SPD ROD — Zlatá éra Kult"]
+    GOLDENERA["☀️ GoldenEra Blockchain"]
+    SUNCOIN["🪙 SunCoin ICO"]
 
-    subgraph "Bestehende Domains"
-        TNHCO_D["tnhco.org<br/>Terra Nova Helvetica<br/>2019/2023"]
-        MAKS_D["maks.hu<br/>Ungarischer Mirror"]
-        ZWP_D["zwpcoop.pl<br/>Polnischer Mirror"]
-        GOVUSSR["governmentussr.org<br/>USSR Government"]
-        RUSKAZNA["ruskazna.su<br/>Russisches Schatzamt"]
-    end
+    PARAMONOV -->|"Chief Treasurer"| M1
+    M1 -->|"Program Sunrise"| GOLDENERA
+    M1 -->|"Setzt \$20-Preis"| SUNCOIN
+    TNHCO -->|"Strategic Partner"| GOLDENERA
+    SPD_ROD -->|"Strategic Partner"| GOLDENERA
+    GOLDENERA -->|"ICO"| SUNCOIN
 
-    GOLDENERA -->|"Quick Links"| WSBOH_D
-    GOLDENERA -->|"Quick Links"| ORDER_D
-    GOLDENERA -->|"Quick Links"| M1_ORG
-    GOLDENERA -->|"Quick Links"| SUNPAY_D
-    M1_ORG -.->|"Konkurriert/Ersetzt?"| TNHCO_D
-    TNHCO_D -->|"Hostet Resolutionen"| M1_ORG
-
-    style GOLDENERA fill:#ffd700,color:#000,stroke:#cc9900,stroke-width:3px
-    style SUNPAY_D fill:#ff6b6b,color:#fff
-    style M1_ORG fill:#e17055,color:#fff
+    style SUNCOIN fill:#ffd700,color:#000,stroke-width:3px
+    style PARAMONOV fill:#ff4444,color:#fff
+    style TNHCO fill:#e17055,color:#fff
 ```
 
 ---
 
-## 🎯 Wer steckt dahinter?
+## 🏗️ Technische Architektur
 
-### Direkte Verbindungen zum Paramonov-Netzwerk
-
-| Beweis | Verbindung |
-|--------|-----------|
-| **SPD ROD** als Partner gelistet | SPD ROD = Zlatá éra = Paramonovs Kult |
-| **Program Sunrise** als Framework | Resolution 031 = Paramonovs Goldstandard-Programm |
-| **World Sovereign Bank of Hospitallers** | Paramonovs selbsternannte Bank (Resolution 028) |
-| **Order of Hospitallers** (ordrehospitaliers.world) | Paramonov beansprucht "Supreme Sovereign" (Resolution 024) |
-| **"Light Great Rus"** | Paramonovs slawophile Ideologie |
-| **Telegram-Kanal** | Verlinkt von TNHCO-Telegram |
-
-### Indirekte Hinweise
-
-- **Hosting in der Schweiz** (exigo.ch) — gleiches Land wie TNHCO
-- **WordPress** — gleiche Technologie wie tnhco.org
-- **Copyright 2026** — sehr neue Domain, aktive Entwicklung
-- **8 soziale Plattformen** — aggressive Promo-Strategie, typisch für Krypto-Projekte
+| Merkmal | Wert | Kritik |
+|---------|------|--------|
+| Typ | Account-based | Standard |
+| Smart Contracts | **KEINE** | Nur Werttransfer |
+| Konsens | Permissioned PoW | Zentral kontrolliert |
+| Token Standard | Custom (nicht ERC-20) | Keine Interoperabilität |
+| Mining | Validator-Liste | Nicht dezentral |
+| Governance | BIP-System | Kopie von Bitcoin |
 
 ---
 
-## 🚨 Unstimmigkeiten — Zusammenfassung
+## 🔗 Domain-Status
 
-| # | Unstimmigkeit | Schwere |
-|---|--------------|---------|
-| 1 | **Billig-Hosting** (Hostinger Free/Shared) für angebliches Weltfinanzsystem | 🔴 Hoch |
-| 2 | **8 Plattformen gleichzeitig** — aggressives Marketing statt Substanz | 🔴 Hoch |
-| 3 | **180°-Wende zu Krypto**: Res. 042 verbietet ALLE Kryptos → jetzt ICO-Pre-Sale | 🔴 Hoch |
-| 4 | **Phantom-Partner**: "200 Cooperatives" — keine einzige genannt | 🟡 Mittel |
-| 5 | **SunCoin ICO ohne Dokumentation** — kein Whitepaper, kein Audit, kein Team | 🔴 Kritisch |
-| 6 | **MonetaryOne.org** — neue Domain, ersetzt/konkurriert tnhco.org? | 🟡 Mittel |
-| 7 | **sunpaym1.world** nicht erreichbar — Payment-Gateway existiert nicht | 🔴 Kritisch |
-| 8 | **Kein Team, kein Impressum** — völlige Intransparenz | 🔴 Kritisch |
+| Domain | Status |
+|--------|--------|
+| wsboh.org | ✅ Erreichbar |
+| monetaryone.org | 🟡 DNS nur |
+| ordrehospitaliers.world | ❌ NXDOMAIN |
+| sunpaym1.world | ❌ NXDOMAIN |
+| programsunrise.org | ❌ Nicht registriert |
 
----
-
-## 📊 Das Gesamtbild: Die nächste Eskalationsstufe
-
-```mermaid
-timeline
-    title Evolution des M1/TNHCO-Netzwerks
-    section 2020-2022
-        : Resolutionen 001-022<br/>Papier-Claims<br/>World Accounts
-    section 2023
-        : Resolutionen 023-034<br/>Eskalation zu Drohungen<br/>Bilderberg-Hitliste
-    section 2024
-        : Resolutionen 035-048<br/>CryptoXAu & Tether<br/>Supreme Council
-    section 2025
-        : FINMA-Warnung<br/>TNHCO auf Warnliste
-    section 2026
-        : GoldenEra Blockchain<br/>SunCoin ICO Pre-Sale<br/>Aggressive Expansion
-```
-
-**Die Entwicklung ist klar:** Von Papier-Dekreten (2020-2023) → zu eigenen Krypto-Token (2024) → zu einer **Blockchain mit ICO** (2026). Der nächste logische Schritt: **Geldeinsammlung von Investoren.**
+**3 von 5 Domains existieren nicht.**
 
 ---
 
-## 📋 Quellen
+## 👥 Strategische Partner
 
-| # | Quelle | URL |
-|---|--------|-----|
-| 1 | GoldenEra Homepage | https://goldenera.global |
-| 2 | GoldenEra Learn/Philosophy | https://goldenera.global/learn/ |
-| 3 | GoldenEra Whitepaper | https://goldenera.global/wp-content/uploads/2026/02/GoldenEra-Whitepaper-Original_1.3.pdf |
-| 4 | World Sovereign Bank | https://wsboh.org |
-| 5 | Order of Hospitallers | https://ordrehospitaliers.world |
-| 6 | Monetary One (NEU) | https://monetaryone.org |
-| 7 | SunPay M1 | https://sunpaym1.world |
-| 8 | DNS: exigo.ch (Schweiz) | dig goldenera.global |
-| 9 | Resolution 042 (Crypto-Ban) | [analysen/042_Crypto_Ban.md](042_Crypto_Ban.md) |
-| 10 | Resolution 031 (Sunrise) | [analysen/031_Sunrise.md](031_Sunrise.md) |
+| Partner | Realität |
+|---------|----------|
+| World Sovereign Bank of Hospitallers | Keine Banklizenz |
+| Light Great Rus | Keine Registrierung |
+| SPD ROD | = Zlatá éra Kult |
+| People's Light | Keine Registrierung |
+| **Terra Nova Helvetica** | **FINMA-Warnliste!** |
+| "200 Cooperatives" | Keine einzige genannt |
+
+---
+
+## 🚨 Die 12 kritischsten Red Flags
+
+| # | Red Flag | Beleg |
+|---|----------|-------|
+| 1 | **NICHT vollständig goldgedeckt** | Whitepaper: *"NOT fully backed"* |
+| 2 | **$1,78 Bio. Market Cap** | Für Hostinger-Free-Projekt |
+| 3 | **79% Projekt-Kontrolle** | 50% Vault + 29% Projekt-Pools |
+| 4 | **2-Jahres-Lockup** | Exit-Scam-Fenster |
+| 5 | **88,9 Mrd. Pre-Mint** | Kein Mining-Mechanismus |
+| 6 | **"USDB" existiert nicht** | Basel III ≠ Währung |
+| 7 | **0/11 Komponenten live** | Nur ICO funktioniert |
+| 8 | **Payment-Gateway tot** | sunpaym1.world = NXDOMAIN |
+| 9 | **"Permissioned" = zentral** | Widerspricht "dezentral" |
+| 10 | **Keine Smart Contracts** | Technisch trivial |
+| 11 | **Kein Team/Impressum** | Null reale Personen |
+| 12 | **"200 Cooperatives" Phantom** | Keine einzige genannt |
 
 ---
 
 ## 🚨 Fazit
 
-> **GoldenEra.global ist die neueste und gefährlichste Evolutionsstufe des Paramonov/TNHCO-Netzwerks.** Wo frühere Resolutionen nur Papier-Dekrete waren, betreibt GoldenEra nun einen **aktiven Krypto-ICO-Pre-Sale (SunCoin)** über ein **nicht funktionierendes Payment-Gateway (SunPay)**, gehostet auf einem **kostenlosen Shared-Hosting**, beworben über **8 soziale Plattformen**, ohne **Whitepaper, Audit, Team oder Impressum.** Dies erfüllt ALLE Kriterien eines klassischen **Krypto-Rug-Pull-Scams.**
+> **GoldenEra.global ist ein aktiver Krypto-ICO-Scam.** Null funktionierende Produkte, tote Domains, fiktive Währungen, zentralisierte Token-Kontrolle, 2-Jahres-Lockup. Die Verbindung zum Paramonov/TNHCO-Netzwerk ist durch Partnerliste und Preissetzer (Sovereign International Treasury Monetary One) eindeutig. Dies ist die Monetarisierungsphase eines jahrelang aufgebauten Finanzkult-Ökosystems.
 
 ---
 
-> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [Sun Coin Recherche (überholt)](SUN_COIN_RECHERCHE.md) · [Personen](../PERSONEN_VERFLECHTUNGEN.md) · [Glaubwürdigkeit](../GLAUBWUERDIGKEIT_TNHCO.md)
+> **Quellen:** [Whitepaper EN](goldenera_raw/GoldenEra_Whitepaper.md) · [Whitepaper DE](goldenera_raw/GoldenEra_Whitepaper_DE.md) · [Whitepaper PDF](goldenera_raw/GoldenEra_Whitepaper.pdf)
