@@ -8,7 +8,7 @@
 ## 📊 Übersicht: Schlüsselpersonen
 
 ```mermaid
-graph TB
+flowchart TB
     subgraph "🇷🇺 RUSSLAND — Ideologischer Kern"
         PARAMONOV["👑 Alexander N. Paramonov<br/>»King of Kings«<br/>Chief Treasurer M1<br/>Präsident White Spiritual Boy Corp"]
         SHARIPOV["👤 Rustam Sharipov<br/>Leiter NOD SSSR<br/>Nizhnevartovsk"]
@@ -71,7 +71,7 @@ graph TB
 ### Organisationen & Strukturen
 
 ```mermaid
-graph LR
+flowchart LR
     PARAMONOV["👑 Alexander<br/>Paramonov"]
 
     subgraph "Finanz-Konstrukte"
@@ -275,7 +275,7 @@ Die sekty.tv-Analyse identifiziert folgende **extremistische Elemente**:
 ## 🔗 5. Gesamtnetzwerk — Die Verflechtungen im Detail
 
 ```mermaid
-graph TB
+flowchart TB
     subgraph "KERNIDEOLOGIE"
         AP["👑 Alexander N. Paramonov<br/>King of Kings<br/>Chief Treasurer M1"]
     end
@@ -349,38 +349,47 @@ graph TB
 ## 📊 6. Chronologie der Personen & Organisationen
 
 ```mermaid
-timeline
-    title Entwicklung des Paramonov/TNHCO-Netzwerks
-    section 2010
-        : Sergey Taraskin gründet<br/>SSSR / Union Slawischer Kräfte
-    section ~2015-2019
-        : Paramonov baut NOD SSSR<br/>in Nizhnevartovsk auf
-        : »Domov SSSR« aktiv in<br/>verschiedenen Städten
-    section Juli 2019
-        : SSSR / Union Slawischer Kräfte<br/>als extremistisch eingestuft
-        : FSB stürmt Domov SSSR<br/>20+ Festnahmen
-    section 2020
-        Mai : Paramonov organisiert<br/>Pro-UdSSR-Autokorso<br/>Polizei schreitet ein
-        01. Juni : Erste M1-Resolution<br/>Resolution-001 datiert
-    section 2021
-        Februar : Resolution-004<br/>19-seitiges Manifest
-        April : Tokyo Sexwale erstattet<br/>Anzeige bei Hawks (Südafrika)
-        April : SARB + National Treasury<br/>weisen Vorwürfe zurück
-    section 2022
-        Januar : Resolution-011<br/>Paramonov als »King of Kings«
-        : M1-Dokumente erscheinen<br/>auf maks.hu (Ungarn)
-    section 2023
-        : TNHCO tritt als<br/>Website-Betreiber auf
-        15. Juni : Hawks stellen Fall ein<br/>»unsubstantiated«
-    section 2024
-        April : sekty.tv publiziert<br/>Paramonov-Recherche
-        : TNHCO-Infoveranstaltungen<br/>in der Schweiz
-    section 2025
-        04. Februar : FINMA setzt TNHCO<br/>auf die Warnliste
-        04. Februar : IOSCO I-SCAN<br/>Warnung #36211
-        Februar : OffshoreAlert<br/>nennt Bolliger/Marty/<br/>Immoos/Manuel
-    section 2026
-        März-Juni : TNHCO macht weiter<br/>Infoveranstaltungen<br/>Trotz FINMA-Warnung
+flowchart LR
+    subgraph Y2010["2010"]
+        A1["Sergey Taraskin gründet<br/>SSSR / Slawische Kräfte"]
+    end
+    subgraph Y2015["~2015-2019"]
+        B1["Paramonov baut NOD SSSR<br/>in Nizhnevartovsk auf"]
+        B2["Domov SSSR aktiv<br/>in versch. Städten"]
+    end
+    subgraph Y2019["Juli 2019"]
+        C1["SSSR als extremistisch<br/>eingestuft"]
+        C2["FSB stürmt Domov SSSR<br/>20+ Festnahmen"]
+    end
+    subgraph Y2020["2020"]
+        D1["Mai: Paramonov organisiert<br/>Pro-UdSSR-Autokorso"]
+        D2["01. Juni: Erste M1-Resolution<br/>Resolution-001 datiert"]
+    end
+    subgraph Y2021["2021"]
+        E1["Februar: Resolution-004<br/>19-seitiges Manifest"]
+        E2["April: Tokyo Sexwale<br/>erstattet Anzeige bei Hawks"]
+    end
+    subgraph Y2022["2022"]
+        F1["Januar: Resolution-011<br/>Paramonov als King of Kings"]
+        F2["M1-Dokumente erscheinen<br/>auf maks.hu (Ungarn)"]
+    end
+    subgraph Y2023["2023"]
+        G1["TNHCO tritt als<br/>Website-Betreiber auf"]
+        G2["15. Juni: Hawks stellen<br/>Fall ein — unsubstantiated"]
+    end
+    subgraph Y2024["2024"]
+        H1["April: sekty.tv publiziert<br/>Paramonov-Recherche"]
+        H2["TNHCO-Infoveranstaltungen<br/>in der Schweiz"]
+    end
+    subgraph Y2025["2025"]
+        I1["04. Feb: FINMA setzt TNHCO<br/>auf die Warnliste"]
+        I2["04. Feb: IOSCO I-SCAN<br/>Warnung #36211"]
+        I3["Februar: OffshoreAlert<br/>nennt Bolliger/Marty/Immoos/Manuel"]
+    end
+    subgraph Y2026["2026"]
+        J1["März-Juni: TNHCO macht weiter<br/>Infoveranstaltungen<br/>Trotz FINMA-Warnung"]
+    end
+    Y2010 --> Y2015 --> Y2019 --> Y2020 --> Y2021 --> Y2022 --> Y2023 --> Y2024 --> Y2025 --> Y2026
 ```
 
 ---
@@ -388,7 +397,7 @@ timeline
 ## ⚠️ 7. Rollenverteilung im Netzwerk
 
 ```mermaid
-graph LR
+flowchart LR
     subgraph "Ideologische Führung"
         AP2["Paramonov<br/>👑 Spiritueller Führer<br/>📜 Mythen-Schöpfer<br/>💰 Schatzmeister"]
     end

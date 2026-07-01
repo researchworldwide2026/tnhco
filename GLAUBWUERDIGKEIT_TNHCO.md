@@ -10,8 +10,7 @@
 Die **Schweizer Finanzmarktaufsicht FINMA** hat "Terra Nova Helvetica Genossenschaft" am **4. Februar 2025** auf ihre **offizielle Warnliste** gesetzt — die höchste Eskalationsstufe der Schweizer Finanzmarktaufsicht.
 
 ```mermaid
-graph TB
-    subgraph "FINMA-Warnung (04.02.2025)"
+flowchart TB
         FINMA["🏛️ FINMA<br/>Swiss Financial Market<br/>Supervisory Authority"]
         TNHCO_WARN["⚠️ Terra Nova Helvetica<br/>Genossenschaft<br/>⚠️ AUF DER WARNLISTE"]
         REASON["❗ Verdacht auf<br/>unbewilligte Tätigkeiten<br/>im Finanzmarkt"]
@@ -123,8 +122,7 @@ Die FINMA stellt ausdrücklich klar: TNHCO ist im Handelsregister eingetragen. *
 ## 🔍 5. Glaubwürdigkeits-Checkliste
 
 ```mermaid
-graph TD
-    subgraph "POSITIV"
+flowchart TD
         A["✅ Handelsregister-Eintrag<br/>(formell existent)"]
         B["✅ Physische Adresse<br/>in der Schweiz"]
     end
@@ -171,19 +169,23 @@ Durch die IOSCO I-SCAN-Meldung sind **Wertpapieraufsichtsbehörden in über 130 
 ## 📊 7. Chronologie der behördlichen Aktionen
 
 ```mermaid
-timeline
-    title Behördliche Aktionen gegen TNHCO
-    section 2023
-        unbekannt : TNHCO-Gründung<br/>(laut Website<br/>Copyright 2023)
-    section 2024
-        laufend : TNHCO hostet M1-Dokumente<br/>Bewirbt "Monetary One"
-    section 2025
-        04. Februar : FINMA setzt TNHCO<br/>auf Warnliste<br/>Verdacht: unbewilligte<br/>Finanzmarkttätigkeit
-        04. Februar : IOSCO I-SCAN<br/>internationale Warnung<br/>ID 36211
-        04. Februar : OffshoreAlert<br/>berichtet über<br/>FINMA-Warnung
-        Februar : Verbraucherschutzforum<br/>Berlin warnt vor TNHCO
-    section 2026
-        März-Juni : TNHCO führt<br/>Infoveranstaltungen<br/>in der Schweiz durch<br/>Trotz FINMA-Warnung
+flowchart LR
+    subgraph Y2023["2023"]
+        A1["TNHCO-Gründung<br/>laut Website<br/>Copyright 2023"]
+    end
+    subgraph Y2024["2024"]
+        B1["TNHCO hostet M1-Dokumente<br/>Bewirbt Monetary One"]
+    end
+    subgraph Y2025["2025"]
+        C1["04. Feb: FINMA setzt TNHCO<br/>auf Warnliste"]
+        C2["04. Feb: IOSCO I-SCAN<br/>internationale Warnung"]
+        C3["04. Feb: OffshoreAlert<br/>berichtet über FINMA-Warnung"]
+        C4["Februar: Verbraucherschutzforum<br/>Berlin warnt vor TNHCO"]
+    end
+    subgraph Y2026["2026"]
+        D1["März-Juni: TNHCO führt<br/>Infoveranstaltungen durch<br/>Trotz FINMA-Warnung"]
+    end
+    Y2023 --> Y2024 --> Y2025 --> Y2026
 ```
 
 ---

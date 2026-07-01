@@ -42,7 +42,7 @@ Das Konstrukt vereint klassische Elemente von Souveränitätsbewegungen, anti-et
 ### Kernorganisationen
 
 ```mermaid
-graph TB
+flowchart TB
     subgraph "Kernebene"
         TNHCO["🏛️ Terra Nova Helvetica<br/>Cooperative<br/><i>Neuheim CH, tnhco.org</i>"]
         M1["💰 International Treasury<br/>Monetary One (M1)<br/><i>Moskau RU, sovereign.int</i>"]
@@ -93,7 +93,7 @@ graph TB
 ### Die "White Spiritual Boy"-Kontenstruktur
 
 ```mermaid
-graph LR
+flowchart LR
     subgraph "White Spiritual Boy Account Universe"
         WSB_MAIN["🌍 World Account<br/>01-00-01-4-AAA-777-C3-AM-01"]
         WSB_SEC["🌍 World Account<br/>01-1-700-3516 222 777 8888 999"]
@@ -160,7 +160,7 @@ graph LR
 ### Währungen & Werte
 
 ```mermaid
-graph TD
+flowchart TD
     GOLD["🥇 XAU (Bankgold)<br/>Systemisches Bankgold MO"]
     
     subgraph "Reservewährungen"
@@ -193,15 +193,29 @@ graph TD
 ## ⚖️ Kontroversen & Ermittlungen
 
 ```mermaid
-timeline
-    title Chronologie der Ereignisse
-    2016 : Blogspot-Artikel über<br/>"White Spiritual Boy<br/>off-ledger accounts"<br/>$9.965 Mrd. Guthaben
-    2020 : Resolution 001<br/>Anti-Crisis Measures<br/>Paramonov tritt auf
-    2022 : Resolution 011<br/>Abbruch aller Beziehungen<br/>zu Rothschild
-    2023 : FarmersLivesMatter Exposé<br/>"Huge money laundering scam"<br/>BIS/Rothschilds beschuldigt
-    2024 : sekty.tv Bericht<br/>Paramonov: "M1 übernimmt<br/>ALLE White-Spiritual-Boy-Assets"
-    2025 : SABC News / Hawks<br/>Ermittlungen zu Sexwale<br/>"Heritage Fund" Betrug
-    2026 : TNHCO weiter aktiv<br/>Dokumentation & Expansion<br/>Infoveranstaltungen in CH
+flowchart LR
+    subgraph Y2016["2016"]
+        A1["Blogspot-Artikel über<br/>White Spiritual Boy<br/>9.965 Mrd. Guthaben"]
+    end
+    subgraph Y2020["2020"]
+        B1["Resolution 001<br/>Anti-Crisis Measures<br/>Paramonov tritt auf"]
+    end
+    subgraph Y2022["2022"]
+        C1["Resolution 011<br/>Abbruch aller Beziehungen<br/>zu Rothschild"]
+    end
+    subgraph Y2023["2023"]
+        D1["FarmersLivesMatter Exposé<br/>Geldwäsche-Vorwürfe"]
+    end
+    subgraph Y2024["2024"]
+        E1["sekty.tv Bericht<br/>Paramonov: M1 übernimmt<br/>ALLE WSB-Assets"]
+    end
+flowchartubgraph Y2025["2025"]
+        F1["SABC News / Hawks<br/>Ermittlungen zu Sexwale<br/>Heritage Fund Betrug"]
+    end
+    subgraph Y2026["2026"]
+        G1["TNHCO weiter aktiv<br/>Dokumentation & Expansion<br/>Infoveranstaltungen in CH"]
+    end
+    Y2016 --> Y2020 --> Y2022 --> Y2023 --> Y2024 --> Y2025 --> Y2026
 ```
 
 ---
@@ -209,7 +223,7 @@ timeline
 ## 🌐 Internationale Verbindungen
 
 ```mermaid
-graph TB
+flowchart TB
     subgraph "Schweiz"
         TNHCO_CH["TNHCO<br/>Neuheim ZG"]
     end
@@ -244,7 +258,7 @@ graph TB
     M1_RU --> UN
     M1_RU --> LEI
     SEXWALE --> HAWKS
-    SEXWALE -->|"White Spiritual Boy<br/>Heritage Fund"| M1_RU
+flowchartEXWALE -->|"White Spiritual Boy<br/>Heritage Fund"| M1_RU
     USSL_SK --> TNHCO_CH
     SEKTY --> M1_RU
 
@@ -258,7 +272,7 @@ graph TB
 ## 🔗 Vollständige Verflechtungsmatrix
 
 ```mermaid
-graph LR
+flowchart LR
     subgraph "LEGENDE"
         L1["🔴 Schlüsselperson"]
         L2["🟡 Finanzinstitution"]

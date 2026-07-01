@@ -9,7 +9,7 @@
 ## 1. Gesamtnetzwerk (vollständige Verflechtung)
 
 ```mermaid
-graph TB
+flowchart TB
     %% ZENTRALE FIGUR
     PARAMONOV["👤 **Alexander N. Paramonov**<br/>═══ Titel ═══<br/>• Chief Treasurer, M1<br/>• King of Kings<br/>• President, IFC<br/>• President, WSB R.S.B. Global Corp<br/>• Commander, Grand Magisterium<br/>• Grand Intendant, Order of Hospitallers"]
 
@@ -100,7 +100,7 @@ graph TB
 ## 2. Dokumentenfluss & Mirrors
 
 ```mermaid
-graph LR
+flowchart LR
     ORIGIN["📝 Resolutionen<br/>& Dekrete<br/>M1 Treasury Moskau"]
     
     TNHCO_SITE["🌐 tnhco.org<br/>Schweiz<br/>90 PDFs<br/>DE/EN/IT/FR/HU"]
@@ -197,7 +197,7 @@ flowchart TD
 ## 5. Akteursnetzwerk (Personen & Rollen)
 
 ```mermaid
-graph TB
+flowchart TB
     PARAMONOV["👤 Alexander N. Paramonov<br/>═══ Rollen ═══<br/>Chief Treasurer M1<br/>King of Kings<br/>President IFC<br/>President WSB Global Corp<br/>Grand Commander Hospitallers"]
 
     TOKYO["👤 Tokyo Sexwale<br/>ANC-Veteran<br/>Ex-Minister Südafrika<br/>Heritage Fund Claims"]
@@ -231,46 +231,47 @@ graph TB
 ## 6. Zeitstrahl der Schlüsselereignisse
 
 ```mermaid
-timeline
-    title Chronologie TNHCO / M1 / White Spiritual Boy
-    section Vorgeschichte
-        1961 : Goldener Sowjet-Rubel<br/>definiert (0.987g Gold)
-        1944 : Bretton Woods<br/>Goldener US-Dollar
-        2008 : White Spiritual Boy<br/>Account Audit $9.965 Mrd.
-    section 2020
-        April : Resolution 001<br/>Anti-Crisis Measures<br/>Paramonov tritt auf
-        Juni : Resolution 002-003<br/>Weltfinanzsystem
-    section 2021
-        Feb-Okt : Resolutionen 004-007<br/>Strukturaufbau
-        Dez : Resolution 008-009<br/>Weltaccount-Details
-    section 2022
-        Jan : Resolution 010<br/>King of Kings Proklamation
-        Jan : Resolution 011<br/>Rothschild-Beziehungen beendet
-        Jan-Nov : Resolutionen 012-022<br/>Operationelle Dekrete
-    section 2023
-        Jan-Dez : Resolutionen 023-043<br/>Expansion & Gold/Zyper
-        Apr : Resolution 031 Sunrise
-        Mai : Resolution 032 Pokon
-        Jun : Resolution 033 Decree / 034 Bilderbergs
-        Dez : 042-1 CryptoXAu / 043 DEC2023
-    section 2024
-        Jan : Resolution 044 Tether Decree
-        Apr : Resolution 045
-        Jul : Resolution 046
-        Apr : sekty.tv Bericht über Paramonov
-    section 2025
-        Mai : Resolution 047
-        Jun : Resolution 048
-        SABC : Hawks-Ermittlungen zu Sexwale/Heritage Fund
-    section 2026
-        Mrz-Jun : TNHCO Infoveranstaltungen<br/>in der Schweiz
+flowchart LR
+    subgraph Y1961["Vorgeschichte"]
+        A1["1961: Goldener Sowjet-Rubel<br/>definiert (0.987g Gold)"]
+        A2["1944: Bretton Woods<br/>Goldener US-Dollar"]
+        A3["2008: White Spiritual Boy<br/>Account Audit 9.965 Mrd."]
+    end
+    subgraph Y2020["2020"]
+        B1["April: Resolution 001<br/>Anti-Crisis Measures"]
+        B2["Juni: Resolution 002-003<br/>Weltfinanzsystem"]
+    end
+    subgraph Y2021["2021"]
+        C1["Feb-Okt: Res. 004-007<br/>Strukturaufbau"]
+        C2["Dez: Resolution 008-009<br/>Weltaccount-Details"]
+    end
+    subgraph Y2022["2022"]
+        D1["Jan: Resolution 010<br/>King of Kings Proklamation"]
+        D2["Jan-Nov: Res. 012-022<br/>Operationelle Dekrete"]
+    end
+    subgraph Y2023["2023"]
+        E1["Jan-Dez: Res. 023-043<br/>Expansion & Gold/Zyper"]
+        E2["Dez: 042-1 CryptoXAu<br/>043 DEC2023"]
+    end
+    subgraph Y2024["2024"]
+        F1["Jan-Jul: Res. 044-046<br/>Tether Decree"]
+        F2["April: sekty.tv Bericht<br/>über Paramonov"]
+    end
+    subgraph Y2025["2025"]
+        G1["Mai-Jun: Res. 047-048"]
+        G2["Hawks-Ermittlungen zu<br/>Sexwale/Heritage Fund"]
+    end
+    subgraph Y2026["2026"]
+        H1["Mrz-Jun: TNHCO<br/>Infoveranstaltungen<br/>in der Schweiz"]
+    end
+    Y1961 --> Y2020 --> Y2021 --> Y2022 --> Y2023 --> Y2024 --> Y2025 --> Y2026
 ```
 
 ---
 
 ## 7. Geographische Verteilung
 
-```mermaid
+flowchartrmaid
 graph TB
     subgraph "🇨🇭 Schweiz"
         TNHCO_HQ["Neuheim ZG<br/>TNHCO Hauptsitz"]

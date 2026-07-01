@@ -21,13 +21,26 @@ Es gibt **vier dokumentierte offizielle Reaktionen** von staatlichen Stellen auf
 ## 🔍 1. Hawks-Ermittlung: "White Spiritual Boy Trust"
 
 ```mermaid
-timeline
-    title Hawks-Ermittlung (Südafrika)
-    2021 : Tokyo Sexwale erstattet Anzeige<br/>bei den Hawks<br/>Behauptet Diebstahl von Milliarden<br/>aus dem "White Spiritual Boy Trust"
-    April 2021 : National Treasury + SARB<br/>weisen Vorwürfe zurück<br/>"No evidence for White Spiritual Boy Trust"
-    2022 : Hawks führen Ermittlungen durch<br/>Befragungen, Dokumentenprüfung
-    15. Juni 2023 : Hawks schließen Fall ab<br/>General Godfrey Lebeya:<br/>"Allegations UNSUBSTANTIATED"
-    Nach 2023 : Sexwale beharrt auf seinen<br/>Behauptungen. Zizi Kodwa:<br/>"Might have fallen victim<br/>to scammers"
+flowchart LR
+    subgraph Y2021["2021"]
+        A1["April: Sexwale erstattet<br/>Anzeige bei den Hawks"]
+        A2["April: SARB + Treasury<br/>weisen Vorwürfe zurück"]
+    end
+    subgraph Y2022["2022"]
+        B1["Hawks-Ermittlungen<br/>Dokumentenprüfung<br/>Zeugenbefragungen"]
+    end
+    subgraph Y2023["2023"]
+        C1["Mai: FarmersLivesMatter<br/>Exposé"]
+        C2["15. Juni: Hawks schließen<br/>Fall ab — UNSUBSTANTIATED"]
+        C3["CNB-Warnung vor M1<br/>bleibt aktiv"]
+    end
+    subgraph Y2024["2024"]
+        D1["April: sekty.tv Bericht<br/>über Paramonov & M1"]
+    end
+    subgraph Y2025["2025-2026"]
+        E1["TNHCO-Infoveranstaltungen<br/>in der Schweiz"]
+    end
+    Y2021 --> Y2022 --> Y2023 --> Y2024 --> Y2025
 ```
 
 ### Details
@@ -88,8 +101,7 @@ Die CNB stellt klar:
 ## 🌐 4. Weitere internationale Berichterstattung
 
 ```mermaid
-graph TB
-    subgraph "Offizielle Stellen"
+flowchart TB
         HAWKS["🇿🇦 Hawks Police<br/>Fall: UNSUBSTANTIATED"]
         SARB["🇿🇦 SARB + Treasury<br/>Warnung vor Betrug"]
         CNB["🇨🇿 Czech National Bank<br/>Warnung vor M1"]
@@ -157,21 +169,26 @@ graph TB
 ## 📊 Chronologie der rechtlichen Aktionen
 
 ```mermaid
-timeline
-    title Rechtliche Aktionen gegen White Spiritual Boy / M1
-    section 2021
-        April : Sexwale erstattet Anzeige<br/>bei Hawks (Südafrika)
-        April : National Treasury + SARB<br/>weisen Vorwürfe zurück<br/>Warnung vor Betrug
-    section 2022
-        laufend : Hawks-Ermittlungen<br/>Dokumentenprüfung<br/>Zeugenbefragungen
-    section 2023
-        Mai : FarmersLivesMatter Exposé<br/>Geldwäsche-Vorwürfe
-        15. Juni : Hawks schließen Fall ab<br/>"UNSUBSTANTIATED"
-        laufend : CNB-Warnung vor M1<br/>bleibt aktiv
-    section 2024
-        April : sekty.tv Bericht über<br/>Paramonov & M1
-    section 2025-2026
-        aktiv : TNHCO-Infoveranstaltungen<br/>in der Schweiz<br/>Keine neuen Ermittlungen bekannt
+flowchart LR
+    subgraph Y2021["2021"]
+        A1["April: Sexwale erstattet<br/>Anzeige bei Hawks"]
+        A2["April: National Treasury<br/>+ SARB warnen vor Betrug"]
+    end
+    subgraph Y2022["2022"]
+        B1["Hawks-Ermittlungen<br/>Dokumentenprüfung<br/>Zeugenbefragungen"]
+    end
+    subgraph Y2023["2023"]
+        C1["Mai: FarmersLivesMatter<br/>Exposé"]
+        C2["15. Juni: Hawks schließen<br/>Fall ab UNSUBSTANTIATED"]
+        C3["CNB-Warnung vor M1<br/>bleibt aktiv"]
+    end
+    subgraph Y2024["2024"]
+        D1["April: sekty.tv Bericht<br/>über Paramonov & M1"]
+    end
+    subgraph Y2025["2025-2026"]
+        E1["TNHCO-Infoveranstaltungen<br/>in der Schweiz"]
+    end
+    Y2021 --> Y2022 --> Y2023 --> Y2024 --> Y2025
 ```
 
 ---
