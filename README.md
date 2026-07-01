@@ -64,11 +64,51 @@ oder entfernt — mit Ausnahme von Formatierungsanpassungen (PDF → Markdown).
 
 ---
 
-## Haftungsausschluss
+## Rechtlicher Hinweis
 
-Dieses Repository dient **ausschließlich Recherche- und Dokumentationszwecken**.
-Alle Informationen stammen aus öffentlich zugänglichen Quellen. Für die
-Richtigkeit und Aktualität der Originalquellen wird keine Gewähr übernommen.
+### Zweck dieses Repositories
+
+Dieses Repository dient **ausschließlich der Recherche, Dokumentation und
+Aufklärung** im öffentlichen Interesse. Es verfolgt **keine kommerziellen
+Zwecke** und ist kein journalistisches Produkt im Sinne eines Presseerzeugnisses,
+sondern eine **quellenbasierte Materialsammlung** zu einem Sachverhalt von
+öffentlicher Relevanz.
+
+### Quellengrundlage
+
+Sämtliche Inhalte stützen sich auf **öffentlich zugängliche Quellen**:
+
+- Amtliche Einträge des [Schweizer Handelsregisters](https://www.zefix.ch) (Art. 930 OR)
+- Publikationen des [SHAB](https://www.shab.ch) (Schweizerisches Handelsamtsblatt)
+- Behördliche Warnungen der [FINMA](https://www.finma.ch)
+- Selbstpublikationen der betreffenden Organisationen auf deren eigenen Webseiten
+- Internationale Finanzwarnlisten (IOSCO)
+
+Die dokumentierten Dokumente (Resolutionen, Dekrete, Whitepaper) sind
+**originalgetreue Wiedergaben** der auf den jeweiligen Webseiten
+veröffentlichten Inhalte.
+
+### Personenbezogene Daten
+
+Die in diesem Repository genannten Personendaten (Namen, Funktionen,
+Firmenzugehörigkeiten) stammen **ausschließlich aus dem öffentlich
+einsehbaren Handelsregister** (Art. 10 HRegV) sowie aus den
+Selbstdarstellungen der betreffenden Organisationen. Die Verarbeitung
+erfolgt zu **Dokumentationszwecken im öffentlichen Interesse**
+(Art. 31 Abs. 2 lit. e DSG / Art. 6 Abs. 1 lit. f DSGVO).
+
+### Richtigstellung
+
+Sollten sich in den Dokumentationen **Fehler oder Unstimmigkeiten**
+befinden, werden diese auf Hinweis umgehend geprüft und korrigiert.
+Hinweise bitte per GitHub Issue.
+
+### Haftungsausschluss
+
+Die Zusammenstellung erhebt **keinen Anspruch auf Vollständigkeit**.
+Schlussfolgerungen und Analysen sind als **Arbeitshypothesen** zu
+verstehen. Für die Richtigkeit der Originalquellen wird keine Gewähr
+übernommen.
 
 ---
 
