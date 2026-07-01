@@ -1,7 +1,7 @@
 # Resolution 034 — ORDER No 034 (Bilderbergs)
 
 > **Datum:** 02.06.2023 | **Sprachen:** EN  
-> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [← 033](033_Divine_Law.md)
+> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md)
 
 ---
 

@@ -21,15 +21,15 @@
 
 | Document | Description |
 |----------|-------------|
-| [analysen/ANALYSE_INDEX.md](analysen/ANALYSE_INDEX.md) | 📑 Master-Index aller Einzelanalysen (48 Resolutionen) |
-| [analysen/UNGEREIMTHEITEN.md](analysen/UNGEREIMTHEITEN.md) | 🚨 Widersprüche, fehlende Beweise, logische Brüche |
-| [analysen/THEMEN_VERMISCHUNG.md](analysen/THEMEN_VERMISCHUNG.md) | 🔀 Finanzen/Religion/Verschwörung — systematische Analyse |
-| [analysen/GELDSYSTEM_PARADOX.md](analysen/GELDSYSTEM_PARADOX.md) | 💰 Warum ein eigenes Geldsystem gegen "Betrug"? |
-| [analysen/VERFLECHTUNGSGRAPH.md](analysen/VERFLECHTUNGSGRAPH.md) | 📊 Graph aller Dokumenten-Referenzen & Abhängigkeiten |
-| [analysen/001_Anti-Crisis.md](analysen/001_Anti-Crisis.md) | Resolution 001: Gründungsdokument |
-| [analysen/010_King_of_Kings.md](analysen/010_King_of_Kings.md) | Resolution 010: Selbstkrönung |
-| [analysen/034_Bilderbergs.md](analysen/034_Bilderbergs.md) | Resolution 034: 120+ Personen angeklagt |
-| [analysen/042_Crypto_Ban.md](analysen/042_Crypto_Ban.md) | Resolution 042: Weltweites Krypto-Verbot |
+| [ANALYSE_INDEX.md](ANALYSE_INDEX.md) | 📑 Master-Index aller Einzelanalysen (48 Resolutionen) |
+| [UNGEREIMTHEITEN.md](UNGEREIMTHEITEN.md) | 🚨 Widersprüche, fehlende Beweise, logische Brüche |
+| [THEMEN_VERMISCHUNG.md](THEMEN_VERMISCHUNG.md) | 🔀 Finanzen/Religion/Verschwörung — systematische Analyse |
+| [GELDSYSTEM_PARADOX.md](GELDSYSTEM_PARADOX.md) | 💰 Warum ein eigenes Geldsystem gegen "Betrug"? |
+| [VERFLECHTUNGSGRAPH.md](VERFLECHTUNGSGRAPH.md) | 📊 Graph aller Dokumenten-Referenzen & Abhängigkeiten |
+| [001_Anti-Crisis.md](001_Anti-Crisis.md) | Resolution 001: Gründungsdokument |
+| [010_King_of_Kings.md](010_King_of_Kings.md) | Resolution 010: Selbstkrönung |
+| [034_Bilderbergs.md](034_Bilderbergs.md) | Resolution 034: 120+ Personen angeklagt |
+| [042_Crypto_Ban.md](042_Crypto_Ban.md) | Resolution 042: Weltweites Krypto-Verbot |
 
 ---
 

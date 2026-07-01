@@ -1,7 +1,7 @@
 # Resolution 010 — NOTIFICATION No. 010 (King of Kings)
 
 > **Datum:** 13.01.2022 | **Sprachen:** EN, HU  
-> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [← 009](009_Global_Crisis.md) · [011 →](011_Rothschild.md)
+> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md)
 
 ---
 

@@ -1,7 +1,7 @@
 # Resolution 042 — DECREE No. 042 (Crypto Ban & Supreme Council)
 
 > **Datum:** 18.10.2023 | **Sprachen:** EN, HU  
-> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [042-1 CryptoXAu →](042-1_CryptoXAu.md)
+> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md)
 
 ---
 

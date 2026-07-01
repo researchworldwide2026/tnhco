@@ -1,7 +1,7 @@
 # Resolution 001 — ANTI CRISIS FINANCIAL MEASURES
 
 > **Datum:** 07.04.2020 (Amendment 05.10.2023) | **Sprachen:** EN, DE, HU  
-> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [Ungereimtheiten](UNGEREIMTHEITEN.md) · [Nächste: 002](002_World_Finance.md)
+> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [Ungereimtheiten](UNGEREIMTHEITEN.md)
 
 ---
 
