@@ -1,6 +1,4 @@
-# Resolution-027 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-027
 
 # Resolution-027
 

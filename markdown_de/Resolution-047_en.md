@@ -1,6 +1,4 @@
-# Resolution-047_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-047_en
 
 # Resolution-047_en
 

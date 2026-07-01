@@ -1,6 +1,4 @@
-# Resolution-016 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-016
 
 # Resolution-016
 

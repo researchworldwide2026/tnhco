@@ -1,6 +1,4 @@
-# Resolution-033_Decree_ (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-033_Decree_
 
 # Resolution-033_Decree_
 

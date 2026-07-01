@@ -1,6 +1,4 @@
-# Resolution-014 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-014
 
 # Resolution-014
 

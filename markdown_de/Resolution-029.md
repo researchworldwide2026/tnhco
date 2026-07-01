@@ -1,6 +1,4 @@
-# Resolution-029 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-029
 
 # Resolution-029
 

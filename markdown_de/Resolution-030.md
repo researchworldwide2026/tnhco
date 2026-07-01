@@ -1,6 +1,4 @@
-# Resolution-030 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-030
 
 # Resolution-030
 

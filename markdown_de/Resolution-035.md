@@ -1,6 +1,4 @@
-# Resolution-035 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-035
 
 # Resolution-035
 

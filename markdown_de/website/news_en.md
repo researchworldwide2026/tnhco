@@ -1,6 +1,4 @@
-# news_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# news_en
 
 # News (EN)
 

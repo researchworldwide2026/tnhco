@@ -1,6 +1,4 @@
-# Resolution-028 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-028
 
 # Resolution-028
 

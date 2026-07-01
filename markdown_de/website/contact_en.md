@@ -1,14 +1,10 @@
-# contact_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
-
-# Contact (EN)
+# Kontakt (DE)
 
 **URL:** https://tnhco.org/en/contact/
 
 					
-				<article
-class="post-647 page type-page status-publish ast-article-single" id="post-647" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+				<Artikel
+class="post-647 Seitentyp-Seitenstatus-Veröffentlichung ast-article-single" id="post-647" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
 	
 				
 							 
@@ -23,7 +19,7 @@ class="post-647 page type-page status-publish ast-article-single" id="post-647" 
 			
 						
 				
-					CONTACT				
+					KONTAKT				
 				
 					
 		
@@ -35,11 +31,11 @@ class="post-647 page type-page status-publish ast-article-single" id="post-647" 
 			
 						
 				
-					Contact Us				
+					Kontaktieren Sie uns				
 				
 				
 				
-									In case of any questions, do not hesitate to contact us.								
+									Bei Fragen zögern Sie nicht, uns zu kontaktieren.								
 				
 				
 				
@@ -52,7 +48,7 @@ class="post-647 page type-page status-publish ast-article-single" id="post-647" 
 						
 									
 						
-							EMAIL						
+							E-MAIL						
 					
 				
 									
@@ -82,13 +78,13 @@ class="post-647 page type-page status-publish ast-article-single" id="post-647" 
 						
 									
 						
-							Address						
+							Adresse						
 					
 				
 									
-						Industriestrasse 3
+						Industriestraße 3
 6345 Neuheim
-Switzerland					
+Schweiz					
 				
 			
 			
@@ -102,22 +98,8 @@ Switzerland
 						
 				
 							
-			<iframe loading="lazy"
+			<iframe wird geladen="faul"
 					src="https://maps.google.com/maps?q=Industriestrasse%203%2C%20Neuheim&#038;t=m&#038;z=14&#038;output=embed&#038;iwloc=near"
-					title="Industriestrasse 3, Neuheim"
-					aria-label="Industriestrasse 3, Neuheim"
+					title="Industriestraße 3, Neuheim"
+					aria-label="Industriestraße 3, Neuheim"
 			>
-		
-						
-				
-					
-		
-					
-		
-				
-		
-	
-	
-	
-	
-			

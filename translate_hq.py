@@ -79,25 +79,31 @@ def translate_file(src, dst):
 def main():
     # Find files needing translation
     todo = []
+    skipped = 0
     for src in sorted(list(SRC_DIR.glob("*.md")) + list((SRC_DIR/"website").glob("*.md"))):
         if '_de.md' in src.name: continue
         parent = "website" if "website" in str(src) else ""
         dst = DST_DIR/parent/src.name if parent else DST_DIR/src.name
         if dst.exists():
-            first = dst.read_text(encoding='utf-8').split('\n')[0]
+            # Skip if file has substantial translated content (not just error header)
+            content = dst.read_text(encoding='utf-8')
+            lines = content.split('\n')
+            first = lines[0] if lines else ''
+            # Skip if already properly translated (no error marker in first line)
             if 'fehlgeschlagen' not in first.lower() and 'failed' not in first.lower():
+                skipped += 1
                 continue
         todo.append((src, dst))
     
     if not todo:
-        print("Alle Dateien bereits uebersetzt!")
+        print(f"Alle {skipped} Dateien bereits uebersetzt!")
         return
     
     total = len(todo)
     eta = total * (BASE_DELAY + 5)
     print(f"{'='*55}")
     print(f"  High-Quality DE Translation (Google)")
-    print(f"  Dateien: {total}  |  ~{eta//60}min  |  Delay: {BASE_DELAY}s")
+    print(f"  Neu/Fehlerhaft: {total}  |  Bereits OK: {skipped}  |  ~{eta//60}min  |  Delay: {BASE_DELAY}s")
     print(f"{'='*55}\n")
     
     ok = fail = 0

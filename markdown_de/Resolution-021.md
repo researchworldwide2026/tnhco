@@ -1,6 +1,4 @@
-# Resolution-021 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-021
 
 # Resolution-021
 

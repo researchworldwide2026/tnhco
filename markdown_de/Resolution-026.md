@@ -1,6 +1,4 @@
-# Resolution-026 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-026
 
 # Resolution-026
 

@@ -1,6 +1,4 @@
-# Resolution-010 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-010
 
 # Resolution-010
 

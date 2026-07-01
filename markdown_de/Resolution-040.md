@@ -1,6 +1,4 @@
-# Resolution-040 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-040
 
 # Resolution-040
 

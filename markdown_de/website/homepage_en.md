@@ -1,6 +1,4 @@
-# homepage_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# homepage_en
 
 # TNHCO Homepage (EN)
 

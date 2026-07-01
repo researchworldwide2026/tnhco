@@ -1,6 +1,4 @@
-# Resolution-046_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-046_en
 
 # Resolution-046_en
 

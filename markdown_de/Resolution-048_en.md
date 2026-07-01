@@ -1,6 +1,4 @@
-# Resolution-048_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-048_en
 
 # Resolution-048_en
 

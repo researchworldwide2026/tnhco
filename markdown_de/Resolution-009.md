@@ -1,6 +1,4 @@
-# Resolution-009 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-009
 
 # Resolution-009
 

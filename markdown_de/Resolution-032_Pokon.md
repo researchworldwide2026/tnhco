@@ -1,6 +1,4 @@
-# Resolution-032_Pokon (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-032_Pokon
 
 # Resolution-032_Pokon
 

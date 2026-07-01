@@ -1,6 +1,4 @@
-# Resolution-013 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-013
 
 # Resolution-013
 

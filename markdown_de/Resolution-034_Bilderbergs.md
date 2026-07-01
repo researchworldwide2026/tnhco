@@ -1,6 +1,4 @@
-# Resolution-034_Bilderbergs (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-034_Bilderbergs
 
 # Resolution-034_Bilderbergs
 

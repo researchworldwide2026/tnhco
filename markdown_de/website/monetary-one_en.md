@@ -1,6 +1,4 @@
-# monetary-one_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# monetary-one_en
 
 # Monetary One (EN)
 

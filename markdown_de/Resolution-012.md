@@ -1,6 +1,4 @@
-# Resolution-012 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-012
 
 # Resolution-012
 

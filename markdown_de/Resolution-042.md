@@ -1,6 +1,4 @@
-# Resolution-042 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-042
 
 # Resolution-042
 

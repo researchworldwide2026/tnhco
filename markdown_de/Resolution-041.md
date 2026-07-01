@@ -1,6 +1,4 @@
-# Resolution-041 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-041
 
 # Resolution-041
 

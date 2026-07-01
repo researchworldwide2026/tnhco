@@ -1,6 +1,4 @@
-# documents_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# documents_en
 
 # Documents (EN)
 

@@ -1,6 +1,4 @@
-# Resolution-018 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-018
 
 # Resolution-018
 

@@ -1,6 +1,4 @@
-# Resolution-031_Sunrise (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+# Resolution-031_Sunrise
 
 # Resolution-031_Sunrise
 
