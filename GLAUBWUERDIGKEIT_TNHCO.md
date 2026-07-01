@@ -11,6 +11,7 @@ Die **Schweizer Finanzmarktaufsicht FINMA** hat "Terra Nova Helvetica Genossensc
 
 ```mermaid
 flowchart TB
+    subgraph "FINMA Warnung"
         FINMA["🏛️ FINMA<br/>Swiss Financial Market<br/>Supervisory Authority"]
         TNHCO_WARN["⚠️ Terra Nova Helvetica<br/>Genossenschaft<br/>⚠️ AUF DER WARNLISTE"]
         REASON["❗ Verdacht auf<br/>unbewilligte Tätigkeiten<br/>im Finanzmarkt"]
@@ -123,6 +124,7 @@ Die FINMA stellt ausdrücklich klar: TNHCO ist im Handelsregister eingetragen. *
 
 ```mermaid
 flowchart TD
+    subgraph "POSITIV"
         A["✅ Handelsregister-Eintrag<br/>(formell existent)"]
         B["✅ Physische Adresse<br/>in der Schweiz"]
     end

@@ -209,7 +209,7 @@ flowchart LR
     subgraph Y2024["2024"]
         E1["sekty.tv Bericht<br/>Paramonov: M1 übernimmt<br/>ALLE WSB-Assets"]
     end
-flowchartubgraph Y2025["2025"]
+    subgraph Y2025["2025"]
         F1["SABC News / Hawks<br/>Ermittlungen zu Sexwale<br/>Heritage Fund Betrug"]
     end
     subgraph Y2026["2026"]

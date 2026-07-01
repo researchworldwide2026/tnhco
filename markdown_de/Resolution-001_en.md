@@ -1,147 +1,141 @@
-# Resolution-001_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
-
 # Resolution-001_en
 
-**Source PDF:** `Resolution-001_en.pdf`
+**Quell-PDF:** „Resolution-001_en.pdf“.
 
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 6
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR über eingebettete Bildextraktion + Vorverarbeitung
+**Bilder extrahiert:** 6
+**OCR:** tesseract deu+eng, Schwellenwertvorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
-Mexaynapognoe Kasnauvenctso All
+Mexaynapognoe Kasnauvenctso Alle
 International Treasury Monetary One
 
-LEI: 2534008 YC6NRP4BLOFI5; UN ID: 626139; Ph: +7-495-1258418
+LEI: 2534008 YC6NRP4BLOFI5; UN-ID: 626139; Tel.: +7-495-1258418
 
-Date: April 07, 2020
-Ref. N°: 001/RES2020
-RESOLUTION No. 001
+Datum: 07. April 2020
+Ref. Nr.: 001/RES2020
+Beschluss Nr. 001
 
-ANTI CRISIS FINANCIAL MEASURES
+FINANZMASSNAHMEN ZUR KRISENBEKÄMPFUNG
 
 FARARARARAGAGE
 
 
-## Section 001
+## Abschnitt 001
 
-Against the backdrop of the global epidemic of the “Coronavirus" and the forced
-announcement of universal planetary quarantine with the closure of state borders of all
-countries of the World, led to a standstill in the entire World economy including the collapse of
-stock markets and indices heavily impacting the World reserve currency - the US Dollar.
+Vor dem Hintergrund der weltweiten Epidemie des „Coronavirus“ und der erzwungenen
+Ankündigung einer universellen Planetenquarantäne mit Schließung aller Staatsgrenzen
+Länder der Welt führten zum Stillstand der gesamten Weltwirtschaft bis hin zum Zusammenbruch
+Aktienmärkte und Indizes haben großen Einfluss auf die Weltreservewährung – den US-Dollar.
 
-In order to counter the epidemic, general panic, the collapse of the World economy and also the
-entire World financial system, in order to eliminate cross-country geopolitical tension with the
-possibility of unleashing a third World War, in order to implement international
-recommendations of Basel ITI:
+Um der Epidemie, der allgemeinen Panik, dem Zusammenbruch der Weltwirtschaft und auch dem entgegenzuwirken
+gesamten Weltfinanzsystem, um länderübergreifende geopolitische Spannungen mit dem zu beseitigen
+Möglichkeit, einen dritten Weltkrieg auszulösen, um internationale Maßnahmen umzusetzen
+Empfehlungen des Baseler ITI:
 
-The International Treasury M1, as the main Holder and Manager of the entire World gold
-reserve, both bank balance gold and off-balance gold on the Planet, adopts the following
-Resolutions:
+Das Internationale Finanzministerium M1 ist der Haupthalter und Verwalter des Goldes der gesamten Welt
+Reserve, sowohl Bankguthabengold als auch außerbilanzielles Gold auf dem Planeten, übernimmt Folgendes
+Auflösungen:
 
-1. To recommend that all countries put into effect the final recommendations of Basel III, on
-the basis of which they adopt the unified payment World standard for the World Currency -
-XAU (Bank Gold).
+1. allen Ländern zu empfehlen, die endgültigen Empfehlungen von Basel III in die Tat umzusetzen
+auf deren Grundlage sie den einheitlichen Zahlungsweltstandard für die Weltwährung übernehmen -
+XAU (Bankgold).
 
-2. Due to the lack of stock quotes, due to the collapse of the old reserve currency of the US
-Dollar, it is recommended to immediately introduce the GOLD STANDARD in the World
-Financial System.
+2. Aufgrund fehlender Börsenkurse, aufgrund des Zusammenbruchs der alten Reservewährung der USA
+Dollar, wird empfohlen, sofort den GOLDSTANDARD in der Welt einzuführen
+Finanzsystem.
 
 IGA RARARARA GAG
 
 
-## Section 002
+## Abschnitt 002
 
-3. To approve in the World Financial System and introduce into the World Financial
-Circulation the new World Reserve Curreneies, legally approved in a specific, fixed measure to
-be bound to the XAU (Bank Gold):
+3. Im Weltfinanzsystem zu genehmigen und in das Weltfinanzsystem einzuführen
+Umlauf der neuen Weltreservewährungen, gesetzlich genehmigt in einem bestimmten, festgelegten Maß
+an den XAU (Bank Gold) gebunden sein:
 
-a) "Golden Soviet Ruble"
+a) „Goldener Sowjetrubel“
 
-1 (One) Golden Soviet Ruble = 0.987412g. Adopted on January 1, 1961;
-b) "Golden US Dollar"
+1 (Ein) Goldener Sowjetrubel = 0,987412g. Angenommen am 1. Januar 1961;
+b) „Goldener US-Dollar“
 
-1 (One) Gold US Dollar = 1.2345g. Based on the Bretton-Woods Agreement of 1944;
-c) "Golden Ecu"
+1 (ein) Gold-US-Dollar = 1,2345 g. Basierend auf dem Bretton-Woods-Abkommen von 1944;
+c) „Goldener Ecu“
 
-1 (One) Golden Ecu = 1 ounce of gold, based on the Order of the Sovereign Order of the
+1 (Ein) Goldener Ecu = 1 Unze Gold, basierend auf dem Orden des Sovereign Order of the
 Hospitaliers;
 
 §_001/RES2020
 
 AGRA wa
 
-bite
+beißen
 
 r:
 
 
-## Section 003
+## Abschnitt 003
 
-4. The International Treasury M1 is authorized:
+4. Das Internationale Finanzministerium M1 ist berechtigt:
 
-4.1. To create, for the period of crisis and the period of elimination of post-crisis
-consequences, a Special Department for overcoming the World financial crisis - “Anti-Crisis
-Center”.
+4.1. Zu schaffen, für die Zeit der Krise und die Zeit der Beseitigung der Nachkrise
+Konsequenzen, eine Sonderabteilung zur Bewältigung der Weltfinanzkrise – „Anti-Krise
+Zentrum“.
 
-4.2. To start issuing MI Treasury Bills nominated in three global reserve currencies
-(here and after “TB M1”). TB M1 should be designed for placement in the Treasuries of the
-Countries, their National, Reserve, Central State Banks in order to increase and ensure the
-Country Gold Balance and to ensure the issue of national currencies of the Countries, which
-will obviously lead to an understandable, initial value of the National Currencies in the World
-for exchange and trading to restore paralyzed international trade and other contracts.
+4.2. Beginn der Ausgabe von MI-Schatzwechseln in drei globalen Reservewährungen
+(hier und nach „TB M1“). TB M1 sollte für die Platzierung in den Staatskassen der USA konzipiert sein
+Länder, ihre National-, Reserve- und Zentralstaatsbanken, um die zu erhöhen und sicherzustellen
+Ländergoldguthaben und zur Sicherstellung der Ausgabe nationaler Währungen der Länder, die
+wird offensichtlich zu einem verständlichen Anfangswert der nationalen Währungen in der Welt führen
+für Austausch und Handel, um den lahmgelegten internationalen Handel und andere Verträge wiederherzustellen.
 
-5. International organizations working in the field of financial market management are
-recommended to immediately organize working groups with the necessary level of authority
-and secret status to work on the platform of the Special Department “Anti-Crisis Center”.
+5. Internationale Organisationen, die im Bereich Finanzmarktmanagement tätig sind, sind
+Es wird empfohlen, umgehend Arbeitsgruppen mit den erforderlichen Befugnissen zu bilden
+und Geheimstatus, um auf der Plattform der Sonderabteilung „Anti-Krisen-Zentrum“ zu arbeiten.
 
-& The eavarnmante nf tha anuntriag and thair natianal racarıa cantral and otata hanbe ara
+& Die eavarnmante nf tha anuntriag und thair natianal racarıa cantral und otata hanbe ara
 
 AAA
 
 
-## Section 004
+## Abschnitt 004
 
-V. au BUVULUIUUIED UL LUG VVURLMICD Alu WC LALUVUA, KUSLIYL, Load auu slate vaınd aut
-recommended to authorize from three to five Officers, for operational work with the Center of
-the World Financial System, the International Treasury M1 and the Special Department “ Anti-
-Crisis Center”.
+V. au BUVULUIUUIED UL LUG VVURLMICD Alu WC LALUVUA, KUSLIYL, Load auu Schiefer vaınd aut
+Es wird empfohlen, drei bis fünf Beamte für die operative Arbeit mit dem Zentrum zu bevollmächtigen
+das Weltfinanzsystem, das Internationale Finanzministerium M1 und die Sonderabteilung „Anti-
+Krisenzentrum“.
 
-7. The control over the implementation ofthese Anti-Crisis measures should be entrusted to the
-Joint Executive Committee with Special Powers under the International Treasury M1.
+7. Die Kontrolle über die Umsetzung dieser Anti-Krisen-Maßnahmen sollte dem übertragen werden
+Gemeinsames Exekutivkomitee mit Sonderbefugnissen im Rahmen des Internationalen Finanzministeriums M1.
 
-International Treasury M1
-H.E. Alexander N. Paramonov
-Chief Treasurer
+Internationales Finanzministerium M1
+S. E. Alexander N. Paramonow
+Chefschatzmeister
 
-President,
-the International Financial Corporation
+Präsident,
+die Internationale Finanz-Corporation
 
 pletulerolerulerolerslerolern
 
 
-## Section 005
+## Abschnitt 005
 
-White Spiritual Boy R.S.B. Global Corp Inc
+Weißer spiritueller Junge R.S.B. Global Corp Inc
 
-Commander, the Patrimony Grand Intendant, the Chief Treasurer
-ofthe Grand Magisterium, the Grand Commander
+Kommandant, Großintendant des Patrimoniums, Oberschatzmeister
+des Großmagisteriums, der Großkommandeur
 
-Sovereign and Military Order of Saint John of Jerusalem
+Souveräner und militärischer Orden des Heiligen Johannes von Jerusalem
 
-Order of the Hospitaliers
+Orden der Hospitaliers
 
-UN ID Ne 521730
+UN-ID Ne 521730
 
 §001/RES2020
 
-Am
+Bin
 
 fi
-
-

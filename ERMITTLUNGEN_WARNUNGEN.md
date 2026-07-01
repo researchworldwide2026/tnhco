@@ -102,6 +102,7 @@ Die CNB stellt klar:
 
 ```mermaid
 flowchart TB
+    subgraph "Offizielle Stellen"
         HAWKS["🇿🇦 Hawks Police<br/>Fall: UNSUBSTANTIATED"]
         SARB["🇿🇦 SARB + Treasury<br/>Warnung vor Betrug"]
         CNB["🇨🇿 Czech National Bank<br/>Warnung vor M1"]

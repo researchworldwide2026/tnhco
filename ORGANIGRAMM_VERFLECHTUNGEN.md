@@ -271,8 +271,8 @@ flowchart LR
 
 ## 7. Geographische Verteilung
 
-flowchartrmaid
-graph TB
+```mermaid
+flowchart TB
     subgraph "🇨🇭 Schweiz"
         TNHCO_HQ["Neuheim ZG<br/>TNHCO Hauptsitz"]
     end
@@ -318,6 +318,7 @@ graph TB
 
     style TNHCO_HQ fill:#ff6b6b,color:#fff
     style M1_HQ fill:#ffd700,color:#000
+```
     style HAWKS_HQ fill:#6c5ce7,color:#fff
 ```
 

@@ -1,77 +1,73 @@
-# Resolution-001 (Übersetzung fehlgeschlagen)
+# Auflösung-001
 
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
+**Quell-PDF:** „Resolution-001.pdf“.
 
-# Resolution-001
-
-**Source PDF:** `Resolution-001.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 8
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR über eingebettete Bildextraktion + Vorverarbeitung
+**Bilder extrahiert:** 8
+**OCR:** tesseract deu+eng, Schwellenwertvorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 £
 
-Mexaynapognoe Kasnauenctso All
+Mexaynapognoe Kasnauenctso Alle
 International Treasury Monetary One
 
-LEI: 2534008 YC6NRP4BLOF15; UN ID: 626139; Ph: +7-495-1258418
+LEI: 2534008 YC6NRP4BLOF15; UN-ID: 626139; Tel.: +7-495-1258418
 
-Date: April 07, 2020
-Ref. N°: 001 /RES2020
-RESOLUTION No. 001
+Datum: 07. April 2020
+Ref. Nr.: 001 /RES2020
+Beschluss Nr. 001
 
-ANTI CRISIS FINANCIAL MEASURES
+FINANZMASSNAHMEN ZUR KRISENBEKÄMPFUNG
 
 FARRAR
 
 
-## Section 001
+## Abschnitt 001
 
-Against the backdrop of the global epidemic of the “Coronavirus" and the forced
-announcement of universal planetary quarantine with the closure of state borders of all
-countries of the World, led to a standstill in the entire World economy including the collapse of
-stock markets and indices heavily impacting the World reserve currency - the US Dollar.
+Vor dem Hintergrund der weltweiten Epidemie des „Coronavirus“ und der erzwungenen
+Ankündigung einer universellen Planetenquarantäne mit Schließung aller Staatsgrenzen
+Länder der Welt führten zum Stillstand der gesamten Weltwirtschaft bis hin zum Zusammenbruch
+Aktienmärkte und Indizes haben großen Einfluss auf die Weltreservewährung – den US-Dollar.
 
-In order to counter the epidemic, general panic, the collapse of the World economy and also the
-entire World financial system, in order to eliminate cross-country geopolitical tension with the
-possibility of unleashing a third World War, in order to implement international
-recommendations of Basel II:
+Um der Epidemie, der allgemeinen Panik, dem Zusammenbruch der Weltwirtschaft und auch dem entgegenzuwirken
+gesamten Weltfinanzsystem, um länderübergreifende geopolitische Spannungen mit dem zu beseitigen
+Möglichkeit, einen dritten Weltkrieg auszulösen, um internationale Maßnahmen umzusetzen
+Empfehlungen von Basel II:
 
-The International Treasury MI, as the main Holder and Manager of the entire World gold
-reserve, both bank balance gold and off-balance gold on the Planet, adopts the following
-Resolutions:
+Das International Treasury MI, als Haupthalter und Verwalter des Goldes der gesamten Welt
+Reserve, sowohl Bankguthabengold als auch außerbilanzielles Gold auf dem Planeten, übernimmt Folgendes
+Auflösungen:
 
-1. To recommend that all countries put into effect the final recommendations of Basel III, on
-the basis of which they adopt the unified payment World standard for the World Currency -
-XAU (Bank Gold).
+1. allen Ländern zu empfehlen, die endgültigen Empfehlungen von Basel III in die Tat umzusetzen
+auf deren Grundlage sie den einheitlichen Zahlungsweltstandard für die Weltwährung übernehmen -
+XAU (Bankgold).
 
-2. Due to the lack of stock quotes, due to the collapse of the old reserve currency of the US
-Dollar, it is recommended to immediately introduce the GOLD STANDARD in the World
-Financial System.
+2. Aufgrund fehlender Börsenkurse, aufgrund des Zusammenbruchs der alten Reservewährung der USA
+Dollar, wird empfohlen, sofort den GOLDSTANDARD in der Welt einzuführen
+Finanzsystem.
 
 IGARARAGARAGAG
 
 
-## Section 002
+## Abschnitt 002
 
-3. To approve in the World Financial System and introduce into the World Financial
-Circulation the new World Reserve Currencies, legally approved in a specific, fixed measure to
-be bound to the XAU (Bank Gold):
+3. Im Weltfinanzsystem zu genehmigen und in das Weltfinanzsystem einzuführen
+Der Umlauf der neuen Weltreservewährungen erfolgt in einem bestimmten, festgelegten Maß gesetzlich genehmigt
+an den XAU (Bank Gold) gebunden sein:
 
-a) "Golden Soviet Ruble"
+a) „Goldener Sowjetrubel“
 
-1 (One) Golden Soviet Ruble = 0.987412g. Adopted on January 1, 1961;
-b) "Golden US Dollar"
+1 (Ein) Goldener Sowjetrubel = 0,987412g. Angenommen am 1. Januar 1961;
+b) „Goldener US-Dollar“
 
-1 (One) Gold US Dollar = 1.2345g. Based on the Bretton-Woods Agreement of 1944;
-c) "Golden Ecu"
+1 (ein) Gold-US-Dollar = 1,2345 g. Basierend auf dem Bretton-Woods-Abkommen von 1944;
+c) „Goldener Ecu“
 
-1 (One) Golden Ecu = 1 ounce of gold, based on the Order of the Sovereign Order of the
+1 (Ein) Goldener Ecu = 1 Unze Gold, basierend auf dem Orden des Sovereign Order of the
 Hospitaliers;
 
 3001 /RES2020
@@ -81,163 +77,161 @@ TARARARAGAGAGT
 P
 
 
-## Section 003
+## Abschnitt 003
 
-4. The International Treasury M1 is authorized:
+4. Das Internationale Finanzministerium M1 ist berechtigt:
 
-4.1. To create, for the period of crisis and the period of elimination of post-crisis
-consequences, a Special Department for overcoming the World financial crisis - “Anti-Crisis
-Center”.
+4.1. Zu schaffen, für die Zeit der Krise und die Zeit der Beseitigung der Nachkrise
+Konsequenzen, eine Sonderabteilung zur Bewältigung der Weltfinanzkrise – „Anti-Krise
+Zentrum“.
 
-4.2. To start issuing M1 Treasury Bills nominated in three global reserve currencies
-(here and after “TB M1”). TB M1 should be designed for placement in the Treasuries of the
-Countries, their National, Reserve, Central State Banks in order to increase and ensure the
-Country Gold Balance and to ensure the issue of national currencies of the Countries, which
-will obviously lead to an understandable, initial value of the National Currencies in the World
-for exchange and trading to restore paralyzed international trade and other contracts.
+4.2. Beginn der Ausgabe von M1-Schatzwechseln in drei globalen Reservewährungen
+(hier und nach „TB M1“). TB M1 sollte für die Platzierung in den Staatskassen der USA konzipiert sein
+Länder, ihre National-, Reserve- und Zentralstaatsbanken, um die zu erhöhen und sicherzustellen
+Ländergoldguthaben und zur Sicherstellung der Ausgabe nationaler Währungen der Länder, die
+wird offensichtlich zu einem verständlichen Anfangswert der nationalen Währungen in der Welt führen
+für Austausch und Handel, um den lahmgelegten internationalen Handel und andere Verträge wiederherzustellen.
 
-5. International organizations working in the field of financial market management are
-recommended to immediately organize working groups with the necessary level of authority
-and secret status to work on the platform of the Special Department “Anti-Crisis Center’.
+5. Internationale Organisationen, die im Bereich Finanzmarktmanagement tätig sind, sind
+Es wird empfohlen, umgehend Arbeitsgruppen mit den erforderlichen Befugnissen zu bilden
+und Geheimstatus, um auf der Plattform der Sonderabteilung „Anti-Krisenzentrum“ zu arbeiten.
 
-K The anvarnmanto of tha nnunteiac and thair natinnal racanza cantral and otata hanbe ara
+K Die Anvarnmanto der nnnunteiac und thair natinnal racanza cantral und otata hanbe ara
 
 FARARARARAGA
 
 
-## Section 004
+## Abschnitt 004
 
-VU. Au BUVURUIULIED UL LIL VUULMILD AU WILL LAUVUAL, KUSLIYL, LUUUGL aU state valınd are
-recommended to authorize from three to five Officers, for operational work with the Center of
-the World Financial System, the International Treasury M1 and the Special Department “Anti-
-Crisis Center”.
+VU. Au BUVURUIULIED UL LIL VUULMILD AU WILL LAUVUAL, KUSLIYL, LUUUGL aU state valid sind
+Es wird empfohlen, drei bis fünf Beamte für die operative Arbeit mit dem Zentrum zu bevollmächtigen
+das Weltfinanzsystem, das Internationale Finanzministerium M1 und die Sonderabteilung „Anti-
+Krisenzentrum“.
 
-7. The control over the implementation ofthese Anti-Crisis measures should be entrusted to the
-Joint Executive Committee with Special Powers under the International Treasury M1.
+7. Die Kontrolle über die Umsetzung dieser Anti-Krisen-Maßnahmen sollte dem übertragen werden
+Gemeinsames Exekutivkomitee mit Sonderbefugnissen im Rahmen des Internationalen Finanzministeriums M1.
 
-International Treasury M1
-H.E. Alexander N. Paramonov
-Chief Treasurer
+Internationales Finanzministerium M1
+S. E. Alexander N. Paramonow
+Chefschatzmeister
 
-President,
-the International Financial Corporation
+Präsident,
+die Internationale Finanz-Corporation
 
 aleraleraferolersforsferalors
 
 
-## Section 005
+## Abschnitt 005
 
-White Spiritual Boy R.S.B. Global Corp Inc
+Weißer spiritueller Junge R.S.B. Global Corp Inc
 
-Commander, the Patrimony Grand Intendant, the Chief Treasurer
-of the Grand Magisterium, the Grand Commander
+Kommandant, Großintendant des Patrimoniums, Oberschatzmeister
+des Großmagisteriums, der Großkommandeur
 
-Sovereign and Military Order of Saint John of Jerusalem
+Souveräner und militärischer Orden des Heiligen Johannes von Jerusalem
 
-Order of the Hospitaliers
+Orden der Hospitaliers
 
-UN ID Ne 521730
+UN-ID Ne 521730
 
 $001 /RES2020
 
 RARARARAGAL
 
-
-
-## Section 006
+## Abschnitt 006
 
 Gysepennoe Mexaynapoanoe Kasnavercrso AM
 
-Sovereign international Treasury Monetary One
-LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+Sovereign International Treasury Monetary One
+LEI: 2534008YC6NRP4BLOF15; UN-ID: 626139; Telex: 64 623439 ITMO RU; Tel.: +7-495-1258418
 
-Hara: 11 anpens 2023r.
+Datum: 11. Januar 2023.
 N’: 001/1/RES2020
 
 Kon: @ 0139TBRA
-Kon: Gd {6 TIAH :
+Kon: G-tt {6 TIAH :
 
-re ON AMENDING AND SUPPLEMENTING THE RESOLUTION
-No. 001/RES2020 dated April 07, 2020
-ON OVERCOMING THE WORLD FINANCIAL CRISIS -
+zur ÄNDERUNG UND ERGÄNZUNG DES BESCHLUSSES
+Nr. 001/RES2020 vom 07.04.2020
+ZUR ÜBERWINDUNG DER WELTFINANZKRISE -
 
-In - pursuance of the Sacred Mission to overcome World Financial Crisis and
-prevent the third World Nuclear, War, as well as the transformation and creation of the
-New Light World Financial System with the transition to. the. Gold Standard,
+In Verfolgung der Heiligen Mission zur Überwindung der Weltfinanzkrise und
+Verhindern Sie den Atomkrieg der Dritten Welt sowie die Transformation und Schaffung des
+Neues Lichtweltfinanzsystem mit dem Übergang zu. Die. Goldstandard,
 
-. In order to simplify and stabilize the basis of the monetary and financial sphere of
-the World in the field of reserve World currencies M1 (XAU), set out in the Resolution of
-the Sovereign International Treasury Monetary One No. 001/RES2020 dated April 07,
-2020, namely in paragraph No. 3:
+. Um die Grundlagen des Währungs- und Finanzbereichs zu vereinfachen und zu stabilisieren
+die Welt im Bereich der Reserve-Weltwährungen M1 (XAU), dargelegt in der Resolution von
+die Sovereign International Treasury Monetary One Nr. 001/RES2020 vom 7. April,
+2020, und zwar in Absatz Nr. 3:
 
-Approve in the World Fi inancial System and introduce into the World Financial
-Turnover new World Reserve Currencies, legally approved in a specific, fixed measure of
-filling with System Banking Gold (XAU):
+Im Weltfinanzsystem genehmigen und in das Weltfinanzsystem einführen
+Umsatz neuer Weltreservewährungen, gesetzlich genehmigt in einem bestimmten, festen Maß
+Befüllung mit System Banking Gold (XAU):
 
-a) "Golden Soviet Ruble" - 1 (One) Golden Soviet Ruble = 0.987412 grams. Established
-since January 1, 1961;
+a) „Goldener Sowjetrubel“ – 1 (Ein) Goldener Sowjetrubel = 0,987412 Gramm. Gegründet
+seit 1. Januar 1961;
 
-b) "Gold Dollar" - 1 (One) Gold Dollar = 1.2345 grams. Based on the Bretton Woods
-Agreement of 1 944;
+b) „Golddollar“ – 1 (ein) Golddollar = 1,2345 Gramm. Basierend auf dem Bretton Woods
+Vereinbarung von 1944;
 
-c) "Golden Ecu" - 1 (One) Gold Ecu = I ounce of gold, based on the Decree of the
-Supreme Sovereign Order of Hospitallers.
+c) „Goldener Ecu“ – 1 (ein) Gold-Ecu = 1 Unze Gold, basierend auf dem Erlass des
+Oberster Souveräner Orden der Hospitaliter.
 
-Haka3yeMbIM ApecrymienHem / Any forgery of the official documents of the Severin bay
-Monetary One shall be a crime punishable by law
+Haka3yeMbIM ApecrymienHem / Jegliche Fälschung der offiziellen Dokumente der Severinbucht
+Geldstrafen sind ein strafbares Verbrechen
 
-1 of 2 ON =
+1 von 2 EIN =
 
 CG
 cal
 
-yey
+Ja
 
 re
 
 
-## Section 007
+## Abschnitt 007
 
-Am:
+Bin:
 
 Jiy lla nl
 
-WE HEREBY DECIDE:
+WIR BESCHLIESSEN HIERMIT:
 
-To amend and supplement Resolution No. 001/RES 2020 dated April 07, 2020 of the
+Zur Änderung und Ergänzung des Beschlusses Nr. 001/RES 2020 vom 7. April 2020
 
-Sovereign International Treasury Monetary One and interpret paragraph No. 3 as follows:
-Approve in the World Financial System and introduce into the World Financial
+Sovereign International Treasury Monetary One und interpretieren Sie Absatz Nr. 3 wie folgt:
+Im Weltfinanzsystem genehmigen und in das Weltfinanzsystem einführen
 
-turnover new World Reserve Currencies, approved in a specific, fixed measure of filling
-a) "Golden Soviet Ruble" - 1 (One) Gold Soviet Ruble = 1 gram of System Banking
+Umsatz neuer Weltreservewährungen, genehmigt in einem bestimmten, festen Füllmaß
+a) „Goldener Sowjetrubel“ – 1 (ein) Goldsowjetrubel = 1 Gramm System Banking
 
-with System Balance Banking Gold (XAU):
-b) "Gold Dollar" - 1 (One) Gold Dollar = 1 gram of System Banking Gold (XAU).
+mit System Balance Banking Gold (XAU):
+b) „Golddollar“ – 1 (ein) Golddollar = 1 Gramm System Banking Gold (XAU).
 
-Gold (XAU) . Established since April 11, 2023;
-c) "Golden Ecu" - 1 (One) Golden Ecu = 1 ounce of System Banking Gold (XAU),
+Gold (XAU) . Gegründet seit 11. April 2023;
+c) „Goldener Ecu“ – 1 (ein) goldener Ecu = 1 Unze Systembankengold (XAU),
 
-Established since April 11, 2023;
-based on the Decree of the Supreme Sovereign Order of Hospitallers.
+Gegründet seit 11. April 2023;
+basierend auf dem Dekret des Obersten Souveränen Ordens der Hospitaliter.
 
-FAR)
+WEIT)
 ER eine
 ak:
-PH '
-Ya NO-INS-00TF - White Spiritual Boy
+PH‘
+Ya NO-INS-00TF – Weißer spiritueller Junge
 h De Xe GOE _ Ä
-KR: ie im Secretary General
-N of the Sovereign International Treasury Monetary O
-| President
-of White Spiritual Boy R. S. B. Global Corp INC
+KR: Das heißt, ich bin Generalsekretär
+N des Sovereign International Treasury Monetary O
+| Präsident
+von White Spiritual Boy R. S. B. Global Corp INC
 
-alesse sels srelsrelsieisielsieisielsie sells als
+alesse sels srelsrelsieisielsieisielsie verkauft als
 
-Chairman of the Board .
-ereign Bank of the Order of the Hospitallers.
+Vorstandsvorsitzender.
+ehemalige Bank des Ordens der Hospitaliter.
 
-of the World Sov
+des Weltsowjets
 
 Ilonnenka oduuvansHEix JOKyMeHTOR
 Haka3yeMBIM npecrymienvem / Any fo
@@ -247,8 +241,5 @@ D
 x
 
 =A
-Monetary One shall be a crime punishabfe S
+Monetär soll ein Verbrechen bestraft werden
 - *
-
-
-

@@ -1,18 +1,14 @@
-# 20240117_044_Decree-Tether_eng (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
-
 # 20240117_044_Decree-Tether_eng
 
-**Source PDF:** `20240117_044_Decree-Tether_eng.pdf`
+**Quelle PDF:** `20240117_044_Decree-Tether_eng.pdf`
 
-**Extraction method:** OCR via embedded image extraction
-**Images:** 7
+**Extraktionsmethode:** OCR über eingebettete Bildextraktion
+**Bilder:** 7
 **OCR:** tesseract deu+eng
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 ty
 
@@ -20,237 +16,225 @@ AA
 GYBEPENNOE MERKAVNAPOANCE KA3NAUSHGTEO AAI
 SOVEREIGN INTERNATIONAL TREASURY MONGTARY ONG
 
-Date: January 17, 2024
+Datum: 17. Januar 2024
 Ref. Ne: 44/N€G
 Gode: @ 0139 TBRA
 
-Gode fad 7SCHR
+Gute Modeerscheinung 7SCHR
 
-the Owner and Manager of the World Account in World Sovereign Bank of the Order
-oF Hospitallers, Account No. 01-00-01-4-AAA-777-G3-AM-O1, distributed in
-various Banks in all Gountries all over the World.
+der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank of the Order
+of Hospitallers, Kontonummer 01-00-01-4-AAA-777-G3-AM-O1, verteilt in
+Verschiedene Banken in allen Ländern der Welt.
 
-We hereby confirm that Sovereign International Treasury Monetary One is
-the Owner and Alanager of the World Account in World Sovereign Bank oF the Order
-of Hospitallers, Account No. O1-1-700-3516 222 777 8888 999, distributed in
-various Banks in all Gountries around the World,
+Hiermit bestätigen wir, dass es sich um Sovereign International Treasury Monetary One handelt
+der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank of the Order
+der Hospitaliter, Kontonummer O1-1-700-3516 222 777 8888 999, verteilt in
+verschiedene Banken in allen Ländern der Welt,
 
-We remind you that the Sovereign International Treasury Alonetary One is
-the Owner and Manager of all World Assets, including accounts under the names:
-“White Spiritual Boy”, “Spiritual Wonder Boy”, “Spiritual Wonder Brothers”,
-“Morning Star”, “King David”, “Prophet Auhammad”, “Demas and Saint
-Timothy”, “White Mongolia”, “White Vatican”, “White Gagle”, “Aaria Sinukuan
-or Divine Grystal”, “Maria Banahaw or Divine Sunflower”, “Maria Gristina or
-Divine Magdalene”, “Maria Makiling or Divine Ester Gg9”, “Falcon”, “Alpha —
-Omega” and other accounts placed in various Banks in all Gountries around the
-World.
+Wir erinnern Sie daran, dass das Sovereign International Treasury Alonetary One ist
+der Eigentümer und Verwalter aller weltweiten Vermögenswerte, einschließlich Konten unter den Namen:
+„White Spiritual Boy“, „Spiritual Wonder Boy“, „Spiritual Wonder Brothers“,
+„Morgenstern“, „König David“, „Prophet Auhammad“, „Demas und der Heilige“.
+Timothy“, „Weiße Mongolei“, „Weißer Vatikan“, „Weiße Gagle“, „Aaria Sinukuan“.
+oder Göttlicher Grystal“, „Maria Banahaw oder Göttliche Sonnenblume“, „Maria Gristina oder
+Göttliche Magdalena“, „Maria Makiling oder Göttliche Ester Gg9“, „Falke“, „Alpha –
+Omega“ und andere Konten bei verschiedenen Banken in allen Ländern der Welt
+Welt.
 
 EL, Tloanenka ocbmunanenbix Hoxyuentoe Cypepennoro Maxaynapopnoro Kamiavanicten Mi nannercn ron heal
-: Any forgery of he officlat documenis ofthe Sovereign Internationa Tessury Monetary One shall ba
+: Jede Fälschung der offiziellen Dokumente des Sovereign International Tessury Monetary One ist ba
 
-. LEN 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU;
+. LEN 2534008YC6NRP4BLOF15; UN-ID: 626139; Telex: 64 623439 ITMO RU;
 
+## Abschnitt 001
 
-
-## Section 001
-
-GYBEPENNIE MEMAVNAPOANCE KA3NAYEHGTERS All
+GYBEPENNIE MEMAVNAPOANCE KA3NAYEHGTERS Alle
 GOVEREIGN INTERNATIONAL TREASURY ANONGTARY ONG
 
-We hereby confirm all previous Legal and Sub-Legal Sovereign International
-Acts of the Sovereign International Treasury Monetary One, namely: Decrees,
-Resolutions and Orders, and all other Legal and Subordinate Sovereign
-International Acts of the Sovereign International Treasury Monetary One.
+Hiermit bestätigen wir alle vorherigen rechtlichen und untergesetzlichen Bestimmungen von Sovereign International
+Gesetze des Sovereign International Treasury Monetary One, nämlich: Dekrete,
+Beschlüsse und Anordnungen sowie alle anderen gesetzlichen und untergeordneten Hoheitsrechte
+Internationale Gesetze des Sovereign International Treasury Monetary One.
 
-By God's Grace,
-By Right of the Supreme Sovereign
+Durch Gottes Gnade,
+Durch das Recht des Obersten Souveräns
 
-In Fulfillment of the Sacred Mission to overcome the World Financial
-Grisis, prevent a third world nuclear war, eliminate the destructive, toxic and
-dysfunctional debt, Fiat Financial System and in FulFiliment of the Greation oF a
-Bright World Financial System based on Heavenly principles and the Gold
-Standard, namely the Sacred Spiritual Gold Treasure RA MO AML (XAU) For
-Serving Light Humanity in its Development and Prosperity according to the Divine
-Law of Greation and Greation of a Light Greative World, Based on the Heavenly
-principles of Democracy, Justice, Love and Harmony, For the Greative, Spiritual
-and Divine Development of Light Humanity in Universal Love and Harmony with All
-That Is and with All That Is , For the Glory of the Highest Kind;
+In Erfüllung der Heiligen Mission zur Überwindung der Weltfinanzen
+Grisis, verhindern Sie einen Atomkrieg im dritten Weltkrieg, beseitigen Sie das Zerstörerische, Giftige und
+dysfunktionale Schulden, Fiat-Finanzsystem und in Erfüllung der Großartigkeit von a
+Helles Weltfinanzsystem basierend auf himmlischen Prinzipien und dem Gold
+Standard, nämlich der Heilige spirituelle Goldschatz RA MO AML (XAU) Für
+Der leichten Menschheit in ihrer Entwicklung und ihrem Wohlstand im Einklang mit dem Göttlichen dienen
+Gesetz der Großartigkeit und Großartigkeit einer lichtvollen Welt, basierend auf dem Himmlischen
+Prinzipien der Demokratie, Gerechtigkeit, Liebe und Harmonie, für das Großartige, Spirituelle
+und göttliche Entwicklung der Lichtmenschheit in universeller Liebe und Harmonie mit allen
+Das ist und mit allem, was ist, zur Ehre der höchsten Art;
 
-In Execution of the Right of the Sovereign and
-norms of International Law,
+In Ausübung des Rechts des Souveräns und
+Normen des Völkerrechts,
 
+## Abschnitt 002
 
-
-## Section 002
-
-GYBEPENNIE MEMAVNAPOANCE KA3SHAYEHGTSBO All
+GYBEPENNIE MEMAVNAPOANCE KA3SHAYEHGTSBO Alle
 SOVGRGIGN INTERNATIONAL TREASURY MONGTARY ONG
 
-In execution of Resolution No. 913/RES2922 dated 91.93.2022 on the
-State Bank of the USSR, and all other Legal Sovereign International Acts of the
+In Ausführung des Beschlusses Nr. 913/RES2922 vom 91.93.2022 am
+Staatsbank der UdSSR und alle anderen souveränen internationalen Gesetze der UdSSR
 Sovereign International Treasury Monetary One;
 
-By the Right of the Absolute Owner and Ghief Regulator of the Entire
-World Financial System, by the Right of the Absolute Owner and Manager of All
-World Assets in the entire World on the basis of the Exclusive Historical Right
-from the Greator of the New Era;
+Durch das Recht des absoluten Eigentümers und Hauptregulierers des Gesamten
+Weltfinanzsystem, durch das Recht des absoluten Eigentümers und Verwalters von allem
+Weltvermögen in der gesamten Welt auf der Grundlage des ausschließlichen historischen Rechts
+vom Greator der Neuen Ära;
 
-Based on criminal international Financial activities, including: on the
-basis of the Fact of a crime in relation to violations of the International Sovereign
-Legal Act of the Sovereign International Treasury AMonetary One No.
-013/K6S2022 dated 01.03.2022 and Sovereign Decrees on the han of Fiat
-eryptocurrencies No. 023/R6S2022, No. 028/RES2023, No. 042/RES2023, No.
-043/RES$2023, also taking into account the Fact of joint criminal activity with a
-prohibited terrorist organization, the Gentral Bank of the Russian Federation, the
-Gentral Bank of Russia (Bank of Russia), thereby violating the Sovereian
-Legislation of the Great Sovereign Gountry of the Union of Soviet Socialist
-Republics, as well as Decree SAAKMI No. 013/RES2022 dated 01.03.2022,
-committing International a crime, namely violating the Sovereign International Law
-and the Sovereign Legislation of the Great Sovereign Gountry of the Union of
-Soviet Socialist Republics on the mandatory appeal to the Main Regulator of the
-entire Banking System of the Great Sovereign Gountry of the Union of Soviet
-Socialist Republics throughout the USSR to the State Bank of the USSB,
+Basierend auf kriminellen internationalen Finanzaktivitäten, darunter: auf der
+Grundlage der Tatsache eines Verbrechens im Zusammenhang mit Verletzungen des internationalen Souveränitätsrechts
+Rechtsakt des Sovereign International Treasury AMonetary One Nr.
+013/K6S2022 vom 01.03.2022 und Hoheitsbeschlüsse über die Hand von Fiat
+Eryptowährungen Nr. 023/R6S2022, Nr. 028/RES2023, Nr. 042/RES2023, Nr.
+043/RES$2023, auch unter Berücksichtigung der Tatsache gemeinsamer krimineller Aktivitäten mit a
+verbotene terroristische Organisation, die Gentralbank der Russischen Föderation, die
+Gentral Bank of Russia (Bank of Russia) und verstößt damit gegen das Sovereian
+Gesetzgebung des Großen Souveränen Landes der Union der Sozialistischen Sowjetrepubliken
+Republiken, sowie Dekret SAAKMI Nr. 013/RES2022 vom 01.03.2022,
+die Begehung eines Verbrechens, nämlich der Verletzung des souveränen Völkerrechts
+und die souveräne Gesetzgebung des Großen Souveränen Landes der Union von
+Sozialistische Sowjetrepubliken über die obligatorische Berufung an die Hauptregulierungsbehörde der
+Das gesamte Bankensystem des Großen Souveränen Staates der Sowjetischen Union
+Sozialistische Republiken in der gesamten UdSSR an die Staatsbank der UdSSR,
 
-amy
+Amy
 PL, flonnemıa oqmunansnnix gorywenros Cynepennoro MexaynaponHoro Kasıauanicrun Mi ansietcn jr
-a ‘Any forgery of the officit documents of the Sovereign International Treasury Monetary Oral
+a „Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary Oral.“
 
-LEI: 2834008YC6NRPABLOFIS; UN ID: 626139; Telex: 64 623439 ITMO RU: NYP 7-495-1258418
+LEI: 2834008YC6NRPABLOFIS; UN-ID: 626139; Telex: 64 623439 ITMO RU: NYP 7-495-1258418
 
-
-
-## Section 003
+## Abschnitt 003
 
 GYBGPENHOE MEMKAVHAPOANCE KASHAYEHCTBO AAI
 SOVERGIGN INTERNATIONAL TREASURY AAONGTARY ONG
 
-Thereby declare:
+Erklären Sie dabei:
 
-Deprive Legal Subjectivity , recognize outside the Divine Law of Greation
-and outside the LAW and declare as International criminal, terrorist
-organizations: Gore Gompany Scientific, Tether Gompany Limited, Gantor
-Fitzgerald Bank of all their owners, participants, organizers, accomplices and
-satellites, as well as all Family members of owners, members, participants,
-organizers, their accomplices and satellites throughout the history of their
+Berauben Sie die rechtliche Subjektivität, erkennen Sie außerhalb des göttlichen Gesetzes die Größe an
+und außerhalb des GESETZES und erklären Sie als internationalen Kriminellen, Terroristen
+Organisationen: Gore Gompany Scientific, Tether Gompany Limited, Gantor
+Fitzgerald Bank aller ihrer Eigentümer, Teilnehmer, Organisatoren, Komplizen und
+Satelliten sowie alle Familienmitglieder von Eigentümern, Mitgliedern, Teilnehmern,
+Organisatoren, ihre Komplizen und Satelliten im Laufe ihrer Geschichte
 
-existence.
+Existenz.
 
-All specialized Subjects of Law to immediately begin a criminal investigation
-with criminal and Spiritual liability with the Full rigor of The Law , the Letter of
-the Law and International Griminal Law For International, criminal, terrorist
-organizations of their owners, participants, organizers, accomplices and satellites,
-as well as all members Families of owners, members, participants, organizers,
-their accomplices and satellites, who have heen conducting their criminal activities
+Alle spezialisierten Rechtsgebiete, um sofort eine strafrechtliche Untersuchung einzuleiten
+mit strafrechtlicher und geistiger Haftung mit der vollen Strenge des Gesetzes, dem Brief von
+das Recht und das internationale Strafrecht für internationale, kriminelle, terroristische
+Organisationen ihrer Eigentümer, Teilnehmer, Organisatoren, Komplizen und Satelliten,
+sowie alle Mitglieder Familien von Eigentümern, Mitgliedern, Teilnehmern, Organisatoren,
+ihre Komplizen und Satelliten, die ihre kriminellen Aktivitäten durchgeführt haben
 
-For a long time.
+Schon lange.
 
-All types oF assets and any property belonging to International Terrorist
-Organizations: (Gore Gompany Scientific, Tether Gompany Limited, Gantor
-Fitzgerald Bank), their owners, participants, organizers, accomplices and
-satellites, as well as all Family members of owners, members, participants,
+Alle Arten von Vermögenswerten und Eigentum von International Terrorist
+Organisationen: (Gore Gompany Scientific, Tether Gompany Limited, Gantor
+Fitzgerald Bank), ihre Eigentümer, Teilnehmer, Organisatoren, Komplizen und
+Satelliten sowie alle Familienmitglieder von Eigentümern, Mitgliedern, Teilnehmern,
 
-organizers, their accomplices and satellites, are subject To immediate conFiscation
+Organisatoren, ihre Komplizen und Satelliten unterliegen der sofortigen Beschlagnahmung
 
-
-
-## Section 004
+## Abschnitt 004
 
 GVBEPENNSE AAERKAYNAPSANOE KAZ3NAYEHSTES AAl
 SOVEREIGN INTERNATIONAL TREASURY AAONGTARY ONG
 
-and crediting to the balance sheet of the Sovereign International Treasury
-Monetary One with subsequent distribution and use For development of programs
+und Gutschrift in der Bilanz des Sovereign International Treasury
+Monetär mit anschließender Verteilung und Verwendung zur Entwicklung von Programmen
 
-and projects of Bright Humanity.
+und Projekte von Bright Humanity.
 
-In execution of this Decree:
+In Ausführung dieses Dekrets:
 
-e@ All International and State: Gounterterrorism, Legal, law enforcement
-organizations;
+e@ Alle internationalen und staatlichen Themen: Gounterterrorismus, Recht, Strafverfolgung
+Organisationen;
 
-© All Military organizations of the Army of the World;
+© Alle Militärorganisationen der Armee der Welt;
 
-+ All valid Orders;
++ Alle gültigen Bestellungen;
 
-+ All Masters of the World Systems;
++ Alle Meister der Weltsysteme;
 
 © All Masters of the World Financial systems;
 
-e All International and State control organizations;
+e Alle internationalen und staatlichen Kontrollorganisationen;
 
-© All missionaries performing the sacred Mission before United AllGod,
-AllGreator, AllAAaker, Giver of Light And Knowledge to the world ,
+© Alle Missionare, die die heilige Mission vor United AllGod erfüllen,
+AllGreator, AllAAaker, Geber von Licht und Wissen für die Welt,
 
-© All World Spaces: YAVE, NAVE, SLAVE and PRAVE,
+© Alle Welträume: YAVE, NAVE, SLAVE und PRAVE,
 
-© In pursuance of the All-Light All-Heavenly All-Divine Providence, All Great
-Divine Righteousness, All Great Gosmic Forces, All Divine Armadas, all Divine
-Fleets, as well as the Great Fleet of RA, immediately begin to implement this
-Decree in terms of its Full Implementation.
+© Im Streben nach der All-Licht All-Himmlischen All-Göttlichen Vorsehung, All Great
+Göttliche Gerechtigkeit, alle großen kosmischen Kräfte, alle göttlichen Armadas, alles göttlich
+Die Flotten sowie die Große Flotte von RA beginnen sofort mit der Umsetzung
+Dekret im Hinblick auf seine vollständige Umsetzung.
 
-e To all Bright Humanity and all International Subjects of Law, organized on
-the basis of the Gelestial principles of Democracy and observing the Gelestial
-principles of Democracy, Sovereign International Treasury Monetary One strongly
+e An alle hellen Menschen und alle internationalen Rechtssubjekte, organisiert am
+die Grundlage der Gelestial-Prinzipien der Demokratie und die Einhaltung des Gelestials
+Prinzipien der Demokratie, Sovereign International Treasury Monetary One stark
 
-ice npectynasimen.
+Eis-Nectynasimen.
 
-LEN 2534008YC6NRP4BLOFI5; UN ID: 626139; Telex: 64 623439 ITMO RU; Pp: +7-495-1258418
+LEN 2534008YC6NRP4BLOFI5; UN-ID: 626139; Telex: 64 623439 ITMO RU; Pp: +7-495-1258418
 
 
-## Section 005
+## Abschnitt 005
 
-GYBEPENNIE MERKAVNAPOANCE KA3NAYEHGTRO All
+GYBEPENNIE MERKAVNAPOANCE KA3NAYEHGTRO Alle
 SOVERGIGN INTERNATIONAL TREASURY AAONETARY ONE
 
-recommends to conduct a self-organization procedure in their Gountry in order to
-manifest the Supreme People's Power of the Sovereign and return the Sovereign
-Status of their Motherland For a Light, Peaceful and Greative Development in
-Universal Love and Friendship throughout the World. The Sovereign International
-Treasury Monetary One recommends a competent and Light approach to the issue
-of self-organization at the System level.
+empfiehlt, in ihrem Land ein Selbstorganisationsverfahren durchzuführen, um dies zu erreichen
+manifestieren Sie die höchste Volksmacht des Souveräns und geben Sie den Souverän zurück
+Status ihres Mutterlandes für eine leichte, friedliche und großartige Entwicklung in
+Universelle Liebe und Freundschaft auf der ganzen Welt. Die Souveräne Internationale
+Treasury Monetary One empfiehlt eine kompetente und lockere Herangehensweise an das Problem
+der Selbstorganisation auf Systemebene.
 
-© The Sovereign International Treasury Monetary One wishes all Gountries,
-all Glans and Tribes, all Nations of the World of all Bright Humanity the speedy
-restoration of their Bright Home under the Sovereign Flag and the sacred name
-Motherland in the universal Greative Gonstruction of Our Bright World, as the
+© The Sovereign International Treasury Monetary One wünscht allen Ländern,
+alle Eichelhäher und Stämme, alle Nationen der Welt der gesamten hellen Menschheit der Schnellen
+Wiederherstellung ihres strahlenden Zuhauses unter der souveränen Flagge und dem heiligen Namen
+Mutterland in der universellen großartigen Konstruktion unserer hellen Welt, als die
 
-Universal Native Temple.
+Universeller Ureinwohner-Tempel.
 
-Sovereign International Treasury Monetary One Firmly confirms its
-Statement and in the Future to impartially and correctly Fulfill its Light mission
-to restore Justice and build the All-Light All-Heavenly System, which should and
-will Faithfully serve the Bright Humanity, and consequentiy, All-God, All-Greator,
-All-Greative Family of the Supreme as the One All-Heavenly All to God All to the
-Creator All-Greative of all Existing and all Non-Existent in the creation of All-
-Light All-Great All-Heavenly.
+Sovereign International Treasury Monetary One bestätigt dies nachdrücklich
+Erklärung und in der Zukunft, um seine Lichtmission unparteiisch und korrekt zu erfüllen
+um die Gerechtigkeit wiederherzustellen und das All-Licht-All-Himmlische System aufzubauen, das und
+wird der strahlenden Menschheit treu dienen und folglich All-Gott, All-Großartiger,
+Allgroße Familie des Höchsten als das Eine, All-Himmlische, Alles für Gott, Alles für den
+Schöpfer All-Greative von allem Existierenden und allem Nicht-Existenten bei der Erschaffung von All-
+Leicht, allgroß, allhimmlisch.
 
 VEO
 
-
-
-## Section 006
+## Abschnitt 006
 
 GYBEPENNOG AAEKAYNAPOANOE KA3NAUEHGTEO AAI
 SOVEREIGN INTERNATIONAL TREASURY MONETARY ONG
 
-ay,
-or Ru,
+ja,
+oder Ru,
 Iren Rs gM,
 
-\ gs
-White Spiritual Boy XIX
+\gs
+Weißer spiritueller Junge XIX
 
-Secretary General
-of the Sovereign International Treasury Monetary One Ser
+Generalsekretär
+der Sovereign International Treasury Monetary One Ser
 
-President
-of White Spiritual Boy R. S. £. Global Gorp ING
+Präsident
+von White Spiritual Boy R. S. £. Global Gorp ING
 
-En Jerusalel
-[ithe Supreme Sovereign
+In Jerusalem
+[Der Oberste Souverän
 
-Ghairman of the Board
-of the World Sovereign Bank
-of the Order of the Hospitallers
-
-
+Ghairman des Vorstands
+der Weltbank
+des Hospitalordens
