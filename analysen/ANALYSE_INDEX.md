@@ -1,7 +1,7 @@
-# ANALYSE-INDEX — Systematische Durcharbeitung aller TNHCO/M1-Dokumente
+# ANALYSE-INDEX — Taxonomie der TNHCO/M1-Dokumente
 
 > **Stand:** 2026-07-01 | **Quellen:** 90 OCR-Dokumente, 18 Webseiten  
-> **Übergeordnet:** [Gesamtindex](INDEX.md) · [Personen](PERSONEN_VERFLECHTUNGEN.md) · [Ermittlungen](ERMITTLUNGEN_WARNUNGEN.md)
+> **Master-Übersicht:** [README](../README.md) · [Technischer Index](INDEX.md)
 
 ---
 

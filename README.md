@@ -19,48 +19,72 @@ auf Basis öffentlich zugänglicher Informationen.**
 
 ---
 
-## Inhalt
+## 📑 Dokumenten-Übersicht
 
-| Ordner | Beschreibung |
-|--------|-------------|
-| `analysen/` | Vertiefte Einzelanalysen zu Personen, Themen und Strukturen |
-| `markdown/` | Original-Dokumente der TNHCO-Website (Resolutionen, Dekrete) |
-| `markdown_de/` | Deutsche Übersetzungen der Dokumente |
-| `pdfs/` | Original-PDFs von den jeweiligen Webseiten |
-| `scripts/` | Hilfsskripte für OCR, Übersetzung und Archivierung |
+### 🔬 Hauptrecherchen
 
----
+| Dokument | Beschreibung |
+|----------|-------------|
+| [WHITE_SPIRITUAL_BOY_RESEARCH.md](analysen/WHITE_SPIRITUAL_BOY_RESEARCH.md) | Tiefenrecherche: Alexander Paramonov, White Spiritual Boy, M1-Kult |
+| [PERSONEN_VERFLECHTUNGEN.md](analysen/PERSONEN_VERFLECHTUNGEN.md) | Alle Schlüsselpersonen & Verbindungen |
+| [ORGANIGRAMM_VERFLECHTUNGEN.md](analysen/ORGANIGRAMM_VERFLECHTUNGEN.md) | Mermaid-Diagramme: Organisationsverflechtungen |
+| [GLAUBWUERDIGKEIT_TNHCO.md](analysen/GLAUBWUERDIGKEIT_TNHCO.md) | FINMA-Warnung, IOSCO, Glaubwürdigkeits-Risiken |
+| [ERMITTLUNGEN_WARNUNGEN.md](analysen/ERMITTLUNGEN_WARNUNGEN.md) | Laufende & abgeschlossene Ermittlungen, Behördenwarnungen |
 
-## Methodik & Quellen
+### 👤 Personen
 
-Sämtliche Inhalte basieren **ausschließlich auf öffentlich verfügbaren Quellen**:
+| Dokument | Beschreibung |
+|----------|-------------|
+| [GEORGES_BOLLIGER.md](analysen/GEORGES_BOLLIGER.md) | Vollständige Recherche: TNHCO-Hintermann, GSPC AG, Company Stacking |
 
-- [tnhco.org](https://tnhco.org) — Offizielle Resolutionen & Dekrete
-- [goldenera.global](https://goldenera.global) — Whitepaper, Partner, SunCoin ICO
-- [Zefix](https://www.zefix.ch) / [SHAB](https://www.shab.ch) — Schweizer Handelsregister
-- [FINMA Warnliste](https://www.finma.ch) — Behördliche Warnungen
-- [OffshoreAlert](https://www.offshorealert.com) — Investigative Finanzrecherche
-- [business-monitor.ch](https://business-monitor.ch) / [North Data](https://www.northdata.de) — Firmenprofile
+### ☀️ GoldenEra & Krypto
 
-Die Dokumente in `markdown/` und `pdfs/` sind **1:1-Kopien der Original-Webseiten**
-zum Zeitpunkt der Archivierung. Es wurden keine Inhalte verändert, hinzugefügt
-oder entfernt — mit Ausnahme von Formatierungsanpassungen (PDF → Markdown).
+| Dokument | Beschreibung |
+|----------|-------------|
+| [GOLDENERA_GLOBAL.md](analysen/GOLDENERA_GLOBAL.md) | GoldenEra-Whitepaper-Analyse, SunCoin ICO, Partner-Netzwerk |
+| [GOLDENERA_ARCHIV.md](analysen/GOLDENERA_ARCHIV.md) | Vollständiges goldenenera.global-Mirror-Archiv |
+| [SUN_COIN_RECHERCHE.md](analysen/SUN_COIN_RECHERCHE.md) | SunCoin: ICO-Details, Blockchain, Payment Gateway |
+| [GoldenEra Whitepaper (EN)](analysen/goldenera_raw/GoldenEra_Whitepaper.md) | Original-Whitepaper Markdown |
+| [GoldenEra Whitepaper (DE)](analysen/goldenera_raw/GoldenEra_Whitepaper_DE.md) | Deutsche Übersetzung des Whitepapers |
 
----
+### 🔀 Querschnittsanalysen
 
-## Wichtige Analyse-Dokumente
+| Dokument | Beschreibung |
+|----------|-------------|
+| [UNGEREIMTHEITEN.md](analysen/UNGEREIMTHEITEN.md) | Widersprüche, fehlende Beweise, logische Brüche |
+| [THEMEN_VERMISCHUNG.md](analysen/THEMEN_VERMISCHUNG.md) | Finanzen/Religion/Verschwörung — systematische Analyse |
+| [GELDSYSTEM_PARADOX.md](analysen/GELDSYSTEM_PARADOX.md) | Warum ein eigenes Geldsystem gegen „Betrug"? |
+| [VERFLECHTUNGSGRAPH.md](analysen/VERFLECHTUNGSGRAPH.md) | Graph aller Dokumenten-Referenzen & Abhängigkeiten |
 
-| Dokument | Thema |
-|----------|-------|
-| [`GLAUBWUERDIGKEIT_TNHCO.md`](analysen/GLAUBWUERDIGKEIT_TNHCO.md) | Gesamtbewertung der Glaubwürdigkeit |
-| [`PERSONEN_VERFLECHTUNGEN.md`](analysen/PERSONEN_VERFLECHTUNGEN.md) | Personelle Netzwerke |
-| [`ORGANIGRAMM_VERFLECHTUNGEN.md`](analysen/ORGANIGRAMM_VERFLECHTUNGEN.md) | Firmengeflechte |
-| [`WHITE_SPIRITUAL_BOY_RESEARCH.md`](analysen/WHITE_SPIRITUAL_BOY_RESEARCH.md) | Alexander Paramonov / Kult-Kontext |
-| [`analysen/GEORGES_BOLLIGER.md`](analysen/GEORGES_BOLLIGER.md) | Detaillierte Personenrecherche |
-| [`analysen/GOLDENERA_GLOBAL.md`](analysen/GOLDENERA_GLOBAL.md) | GoldenEra-Whitepaper-Analyse |
-| [`analysen/SUN_COIN_RECHERCHE.md`](analysen/SUN_COIN_RECHERCHE.md) | SunCoin ICO Recherche |
-| [`analysen/UNGEREIMTHEITEN.md`](analysen/UNGEREIMTHEITEN.md) | Widersprüche & Red Flags |
-| [`analysen/VERFLECHTUNGSGRAPH.md`](analysen/VERFLECHTUNGSGRAPH.md) | Visuelle Netzwerkanalyse |
+### 📜 Einzelresolutionen (Analysen)
+
+| # | Dokument | Analyse |
+|---|----------|---------|
+| 001 | Resolution-001 (07.04.2020) — Anti-Crisis Measures | [→ Analyse](analysen/001_Anti-Crisis.md) |
+| 010 | Resolution-010 (13.01.2022) — King of Kings | [→ Analyse](analysen/010_King_of_Kings.md) |
+| 034 | Resolution-034 (02.06.2023) — Bilderbergs | [→ Analyse](analysen/034_Bilderbergs.md) |
+| 042 | Resolution-042 (18.10.2023) — Crypto Ban | [→ Analyse](analysen/042_Crypto_Ban.md) |
+
+### 📋 Index-Dokumente
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [INDEX.md](analysen/INDEX.md) | Gesamtindex: alle 90 PDFs, 18 Webseiten, 48 Resolutionen |
+| [ANALYSE_INDEX.md](analysen/ANALYSE_INDEX.md) | Taxonomie: Phasen 1–4, Querschnittsanalysen |
+
+### 📄 Original-Dokumente & Übersetzungen
+
+| Ordner | Inhalt |
+|--------|--------|
+| [`markdown/`](markdown/) | 90 OCR-extrahierte Dokumente der TNHCO-Website (Resolutionen, Dekrete) |
+| [`markdown_de/`](markdown_de/) | 90 deutsche Übersetzungen der Dokumente (DeepSeek V4 / Google Translate) |
+| [`pdfs/`](pdfs/) | Original-PDFs — 1:1-Kopien der Quell-Webseiten |
+
+### 🛠️ Skripte
+
+| Ordner | Inhalt |
+|--------|--------|
+| [`scripts/`](scripts/) | OCR-Extraktion, Übersetzung (DeepSeek/Google), Website-Archivierung |
 
 ---
 

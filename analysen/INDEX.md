@@ -1,74 +1,48 @@
-# TNHCO (Terra Nova Helvetica Cooperative) - Complete Document Index
+# TNHCO — Technischer Dokumenten-Index
 
-**Extraction Date:** 2026-06-30 | **Last Update:** 2026-07-01
-**Source:** https://tnhco.org
-**Total PDF documents:** 90
-**Total website pages:** 18
-
----
-
-## 🔬 Research Documents (2026-07-01)
-
-| Document | Description |
-|----------|-------------|
-| [WHITE_SPIRITUAL_BOY_RESEARCH.md](WHITE_SPIRITUAL_BOY_RESEARCH.md) | Tiefenrecherche: White Spiritual Boy, M1, Paramonov |
-| [ORGANIGRAMM_VERFLECHTUNGEN.md](ORGANIGRAMM_VERFLECHTUNGEN.md) | 7 Mermaid-Diagramme: Alle Organisationsverflechtungen |
-| [ERMITTLUNGEN_WARNUNGEN.md](ERMITTLUNGEN_WARNUNGEN.md) | Laufende & abgeschlossene Ermittlungen, Behördenwarnungen |
-| [GLAUBWUERDIGKEIT_TNHCO.md](GLAUBWUERDIGKEIT_TNHCO.md) | 🚨 FINMA-Warnung, IOSCO, Glaubwürdigkeits-Risiken |
-| [PERSONEN_VERFLECHTUNGEN.md](PERSONEN_VERFLECHTUNGEN.md) | 👥 Alle Schlüsselpersonen & Verbindungen (Paramonov, Bolliger, Marty, Immoos, Manuel, Sexwale) |
-
-## 🔬 Dokumenten-Analysen (2026-07-01)
-
-| Document | Description |
-|----------|-------------|
-| [ANALYSE_INDEX.md](ANALYSE_INDEX.md) | 📑 Master-Index aller Einzelanalysen (48 Resolutionen) |
-| [UNGEREIMTHEITEN.md](UNGEREIMTHEITEN.md) | 🚨 Widersprüche, fehlende Beweise, logische Brüche |
-| [THEMEN_VERMISCHUNG.md](THEMEN_VERMISCHUNG.md) | 🔀 Finanzen/Religion/Verschwörung — systematische Analyse |
-| [GELDSYSTEM_PARADOX.md](GELDSYSTEM_PARADOX.md) | 💰 Warum ein eigenes Geldsystem gegen "Betrug"? |
-| [VERFLECHTUNGSGRAPH.md](VERFLECHTUNGSGRAPH.md) | 📊 Graph aller Dokumenten-Referenzen & Abhängigkeiten |
-| [001_Anti-Crisis.md](001_Anti-Crisis.md) | Resolution 001: Gründungsdokument |
-| [010_King_of_Kings.md](010_King_of_Kings.md) | Resolution 010: Selbstkrönung |
-| [034_Bilderbergs.md](034_Bilderbergs.md) | Resolution 034: 120+ Personen angeklagt |
-| [042_Crypto_Ban.md](042_Crypto_Ban.md) | Resolution 042: Weltweites Krypto-Verbot |
+> **Extraction:** 2026-06-30 | **Quelle:** https://tnhco.org  
+> **90 PDFs** · **48 Resolutionen** · **34 ungarische Übersetzungen** · **18 Webseiten**  
+> **Master-Übersicht:** [README](../README.md)
 
 ---
 
-## About TNHCO
+## Über TNHCO
 
-**Terra Nova Helvetica (TNHCO)** is a sovereign international consumer cooperative and international financial institution based in Neuheim, Switzerland (Industriestrasse 3, 6345 Neuheim).
+**Terra Nova Helvetica Genossenschaft (TNHCO)** ist eine im Schweizer
+Handelsregister eingetragene Genossenschaft mit Sitz in Neuheim ZG
+(Industriestrasse 3). Sie bezeichnet sich selbst als „souveräne internationale
+Konsumgenossenschaft und internationale Finanzinstitution".
 
 - **Website:** https://tnhco.org
-- **Email:** info@tnhco.org
-- **Languages:** German, English, Italian, French, Hungarian
-
-The cooperative aims to unite shareholders under one roof, providing financial services, legal protection, and socioeconomic development programs. Their "Monetary One" initiative involves a sovereign international treasury system.
+- **Sprachen:** DE, EN, IT, FR, HU
+- **FINMA-Warnung:** Seit 10.2024 auf der Warnliste
 
 ---
 
-## Website Pages (18 files)
+## Webseiten (18 Seiten)
 
-Located in: `markdown/website/`
+In: [`markdown/website/`](../markdown/website/)
 
-| File | Language | Content |
-|------|----------|---------|
+| Datei | Sprache | Inhalt |
+|-------|---------|--------|
 | homepage_de.md | DE | Homepage |
 | homepage_en.md | EN | Homepage |
 | homepage_it.md | IT | Homepage |
 | homepage_fr.md | FR | Homepage |
-| monetary-one_de.md | DE | Monetary One program |
-| monetary-one_en.md | EN | Monetary One program |
-| documents_de.md | DE | Documents overview |
-| documents_en.md | EN | Documents overview |
-| documents_it.md | IT | Documents overview |
-| documents_fr.md | FR | Documents overview |
+| monetary-one_de.md | DE | Monetary One |
+| monetary-one_en.md | EN | Monetary One |
+| documents_de.md | DE | Dokumente |
+| documents_en.md | EN | Documents |
+| documents_it.md | IT | Documenti |
+| documents_fr.md | FR | Documents |
 | news_de.md | DE | News |
 | news_en.md | EN | News |
-| contact_de.md | DE | Contact |
+| contact_de.md | DE | Kontakt |
 | contact_en.md | EN | Contact |
-| activities_de.md | DE | Activities |
-| goals_de.md | DE | Goals |
-| focus_de.md | DE | Focus |
-| info-events_de.md | DE | Info events |
+| activities_de.md | DE | Aktivitäten |
+| goals_de.md | DE | Ziele |
+| focus_de.md | DE | Fokus |
+| info-events_de.md | DE | Infoveranstaltungen |
 
 ---
 
@@ -178,42 +152,11 @@ All resolutions are from the "Sovereign International Treasury Monetary One" / "
 
 ---
 
-## Key Themes Found in Documents
+## Technische Hinweise
 
-1. **Sovereign International Treasury Monetary One** - A self-declared sovereign financial institution
-2. **World Account** - References to "World Sovereign Bank of the Order of Hospitallers"
-3. **Monetary One (MOM1)** - A proposed world reserve currency (Gold Dollar MOM1 XAU GDL)
-4. **CryptoXAu (AXM)** - A gold-backed cryptocurrency
-5. **Tether Decree** - Resolution 044 regarding Tether
-6. **King of Kings** - Title referenced in Resolution 010
-7. **Creator RA** - References to ancient Egyptian deity in treasury contexts
-8. **Bilderbergs** - Resolution 034 mentions Bilderberg
-9. **Sunrise** - Resolution 031 references Sunrise
-10. **Pokon** - Resolution 032 references Pokon
+- **OCR-Methoden:** pdftotext für 52 PDFs mit embedded text, Tesseract OCR (deu+eng / hun+eng) für 38 bildbasierte PDFs
+- **Qualität:** OCR-Ergebnisse enthalten Formatierungsartefakte der Original-PDFs. Textinhalte sind lesbar, können aber kleinere Erkennungsfehler enthalten.
 
 ---
 
-## Technical Notes
-
-- **Extraction methods:** pdftotext (embedded text) for 52 PDFs, Tesseract OCR (deu+eng/hun+eng) for 38 image-based PDFs
-- **OCR resolution:** 100 DPI (optimized for speed while maintaining readability)
-- **OCR languages:** German+English for primary docs, Hungarian+English for HU translations
-- **Quality note:** OCR results contain formatting artifacts from decorative borders in the original PDFs. The text content is readable but may have minor character recognition errors.
-- **PDF format:** Most PDFs are scanned/image-based documents with minimal embedded text. Some contain embedded text (marked as "Text" extraction).
-
----
-
-## Directory Structure
-
-```
-tnhco/
-├── pdfs/                    # 90 original PDF files (283 MB)
-├── markdown/               # 90 extracted markdown files (1.5 MB)
-│   ├── website/           # 18 website page captures
-│   ├── Resolution-*.md    # Resolution documents
-│   ├── *.HATAROZAT*.md    # Hungarian translations
-│   └── 202*.md            # Dated decree documents
-├── ocr_v3.sh              # Extraction script used
-├── save_website.sh        # Website capture script
-└── INDEX.md               # This file
-```
+> **Master-Übersicht:** [README](../README.md) · [Analyse-Index](ANALYSE_INDEX.md)
