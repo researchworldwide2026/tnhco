@@ -1,29 +1,27 @@
 # Resolution-041
 
-# Resolution-041
+**Quell-PDF:** `Resolution-041.pdf`
 
-**Source PDF:** `Resolution-041.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 9
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 9
+**OCR:** tesseract deu+eng, Schwellwert-Vorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 GVBEPENHOE MEXAVNAPOANOE KA3NAUEHÄGTEO MAI
-SOVGERGIGN INTERNATIONAL TREASURY AAONCTARY.ONE
+SOVERGIGN INTERNATIONAL TREASURY AAONCTARY.ONE
 
 eeu,
 iG
 gas
 
-= Date: October 09, 2023
-Ref. Ne: 041/RES$2023
+= Datum: 09. Oktober 2023
+Ref. Nr.: 041/RES$2023
 
 - Code: @ 0139 TLRA
-- Gode: Kl 786 TIAH
+- Code: Kl 786 TIAH
 
 Ir
 
@@ -34,21 +32,21 @@ a
 ae]
 ess
 
-Declaration:
+Erklärung:
 
 Ex
 
-n We herehy conFirm that Sovereign International Treasury AAonetary One
-| is the Owner and Manager of the World Account in World Sovereign Bank of the
-Order of Hospitallers, Account No. 01-00-01-4-AAA-777-63-AM-01, distributed
+n Wir bestätigen hiermit, dass Sovereign International Treasury AAonetary One
+| der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank des
+Order of Hospitallers, Kontonr. 01-00-01-4-AAA-777-63-AM-01, ist, verteilt
 
-in various Banks in all Gountries all over the World.
+in verschiedenen Banken in allen Ländern der ganzen Welt.
 
 Alt
 
 ib
 
-We hereby confirm that Soverelgn International Treasury Monetary One
+Wir bestätigen hiermit, dass Sovereign International Treasury Monetary One
 
 E
 
@@ -59,12 +57,12 @@ Sc en
 ad
 brett
 
-is the Owner and Manager of the World Account in World Sovereign Bank of the
-Order of Hospitallers, Account No. 01-1-700-3516 222 777 8888 999, distributed
+der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank des
+Order of Hospitallers, Kontonr. 01-1-700-3516 222 777 8888 999, ist, verteilt
 
-in various Banks in all Gountries around the World,
+in verschiedenen Banken in allen Ländern der ganzen Welt.
 
-We remind you that the Sovereign International Treasury Monetary One
+Wir erinnern daran, dass das Sovereign International Treasury Monetary One
 
 i
 
@@ -72,12 +70,12 @@ Freund ee
 iy a
 STR oA
 
-if is the Owner and Manager of all World Assets, including accounts under the
-i names: “White Spiritual Boy”, “Spiritual Wonder Boy”, “Spiritual Wonder
-| Brothers”, “Morning Star”, “King David”, “Prophet Aluhammad”, “Demas and
-| Saint Timothy”, “White Mongolia”, “White Vatican’, “White Eagle”, “Maria
+if der Eigentümer und Verwalter aller Weltvermögenswerte ist, einschließlich Konten unter den
+i Namen: "White Spiritual Boy", "Spiritual Wonder Boy", "Spiritual Wonder
+| Brothers", "Morning Star", "King David", "Prophet Aluhammad", "Demas and
+| Saint Timothy", "White Mongolia", "White Vatican", "White Eagle", "Maria
 
-Sinukuan or Divine Grystal”, “Maria Banahaw or Divine Sunflower”, “Maria
+Sinukuan or Divine Grystal", "Maria Banahaw or Divine Sunflower", "Maria
 
 f
 
@@ -90,10 +88,10 @@ gu
 Er
 
 4
-7 “
+7 "
 at ren
 
-Gristina or Divine Magdalene”, “Maria Makiling or Divine Ester aq”, “Falcon”,
+Gristina or Divine Magdalene", "Maria Makiling or Divine Ester aq", "Falcon",
 
 was
 aa
@@ -103,8 +101,8 @@ pb
 =
 ag Saies-cre
 
-“Alpha — Omega” and other accounts placed in various Banks in all Gountries
-around the World.
+"Alpha — Omega" und andere Konten, die in verschiedenen Banken in allen Ländern
+der ganzen Welt platziert sind.
 
 =
 
@@ -120,7 +118,7 @@ hol
 
 
 
-## Section 001
+## Abschnitt 001
 
 4
 vd
@@ -135,33 +133,33 @@ S
 GVBEPENNYG AAEIKAYNAPOANVE KABNAYEHCTEBO All A
 
 . SOVERGIGN INTERNATIONAL TREASURY AAONGTARY ONG Be
-: We hereby conFirm all previous Legal and Sub-Legal Sovereign International m |
-7 Acts of the Sovereign International Treasury of Monetary One, namely, Decrees, pe
-Resolutions and Orders, and all other Legal and Subordinate Sovereign a ;
-R International Acts of the sovereign International Treasury of Monetary One. { Hl
-7 In pursuance of the Right of the Sovereign, the norms of International =
-- Law, all Decrees, Resolutions and Orders, all other Legal and Subordinate =
-5 sovereign International Acts of the Sovereign International Treasury Monetary =
+: Wir bestätigen hiermit alle früheren rechtlichen und untergeordneten rechtlichen Sovereign International m |
+7 Akte des Sovereign International Treasury of Monetary One, nämlich Dekrete, pe
+Resolutionen und Anordnungen sowie alle anderen rechtlichen und untergeordneten Sovereign a ;
+R International Acts des Sovereign International Treasury of Monetary One. { Hl
+7 In Ausübung des Rechts des Souveräns, der Normen des Internationalen =
+- Rechts, aller Dekrete, Resolutionen und Anordnungen, aller anderen rechtlichen und untergeordneten =
+5 Sovereign International Acts des Sovereign International Treasury Monetary =
 i One, mi
-' By God's Grace, ig
-By Right of the Supreme Sovereign E
-“ In Fulfillment of the Sacred Alission to overcome the World Financial q mal
-. Grisis, prevent a third world nuclear war, eliminate the destructive, toxic and 1 1
-: dysfunctional debt, Fiat Financial System and in Fulfillment of the creation of a fe
-: | Bright World Financial. System based on Heavenly principles and the Gold un
-Standard, namely the Sacred Spiritual Gold Treasures RA AAO, M1 (XAU) For =
-serving Light Humanity in its development and prosperity according to the Divine a
+' Durch Gottes Gnade, ig
+Durch das Recht des Höchsten Souveräns E
+" In Erfüllung der Heiligen Mission, die Weltfinanzkrise q mal
+. zu überwinden, einen dritten Weltkrieg zu verhindern, die destruktiven, toxischen und 1 1
+: dysfunktionalen Schulden, das Fiat-Finanzsystem zu beseitigen und in Erfüllung der Schaffung eines fe
+: | Hellen Weltfinanzsystems, basierend auf himmlischen Prinzipien und dem Goldstandard un
+, nämlich der Heiligen Spirituellen Goldschätze RA AAO, M1 (XAU) Für =
+das Dienen der Lichtmenschheit in ihrer Entwicklung und ihrem Wohlstand gemäß dem Göttlichen a
 
-Law of Greation and Greation of the Light Greative World, based on the Heavenly ry
-principles of Democracy, Justice, Love and Harmony, For the Greative, Spiritual ta
-. and Divine Development oF Light Humanity in the Universal Love and Harmony m
-\ with All That Is and with All That Is Not , For the Glory of the Highest Kind; (i
-\ By the Right of the Absolute Owner and GhieF Regulator of the entire =
-World Financial System, by the Right of the Absolute Owner and Manager of All Im
+Gesetz der Schöpfung und Schöpfung der Lichtschöpferischen Welt, basierend auf den Himmlischen ry
+Prinzipien der Demokratie, Gerechtigkeit, Liebe und Harmonie, Für die Schöpferische, Spirituelle ta
+. und Göttliche Entwicklung der Lichtmenschheit in der Universellen Liebe und Harmonie m
+\ mit Allem, was Ist, und mit Allem, was Nicht Ist, Zur Ehre des Höchsten Wesens; (i
+\ Durch das Recht des Absoluten Eigentümers und Chefregulators des gesamten =
+Weltfinanzsystems, durch das Recht des Absoluten Eigentümers und Verwalters Aller Im
 
-World Assets in the entire World on the basis of the Exclusive Historical Right rc
+Weltvermögenswerte in der gesamten Welt auf der Grundlage des Exklusiven Historischen Rechts rc
 
-From the Greator of the New Era; Berg)
+Vom Schöpfer der Neuen Ära; Berg)
 
 ef
 
@@ -170,30 +168,30 @@ urn t
 
 
 
-## Section 002
+## Abschnitt 002
 
 GVYBEPENNOE ANGKAYNAPOANOE KA3NAYGHCTBO All
 SOVEREIGN INTERNATIONAL TREASURY (MONETARY ONG
 
 ————————
 
-. On basis normal International Law;
-Based on and in pursuance of the Sovereign, International Legal Legislative
-and By-Law Acts of the Sovereign International Treasury Monetary One,
+. Auf der Grundlage des normalen Völkerrechts;
+Basierend auf und in Ausübung der Souveränen, Internationalen Rechtsetzungs-
+und Nebenakten des Sovereign International Treasury Monetary One,
 
-Hereby Declares:
+Erklärt hiermit:
 
-1. All Global security oF all World Financial systems the amount of
-1.181.136.671.00 (One billion one hundred eighty-one million one hundred thirty-six seal
+1. Alle globalen Sicherheiten aller Weltfinanzsysteme in Höhe von
+1.181.136.671,00 (Eine Milliarde einhunderteinundachtzig Millionen einhundertsechsunddreißig
 
 a3 Se Ro Fr ea EN eo yu. mern rau BB coe i: ? = oh
 
-thousand six hundred seventy-one) metric tons hidden treasures of KA MOMI Im
+tausendsechshunderteinundsiebzig) metrischen Tonnen versteckter Schätze von KA MOMI Im
 
-XAU For the period From February 2, 2023 to Alarch 02, 2023 were completely ve :
+XAU Für den Zeitraum vom 2. Februar 2023 bis zum 2. März 2023 wurden vollständig ve :
 
-\ withdrawn From the Following system organizations: is
-“ © Development Bank of the Philippines (Dhp) Los Angeles California Te
+\ von den folgenden Systemorganisationen abgezogen: ist
+" © Development Bank of the Philippines (Dhp) Los Angeles California Te
 Branch Order No. 11/NOT-DBP dated 13.02.2023; =
 e United States Treasury Order No. 02/VEN-UST dated 02.02.2023; je
 @ Landbank of the Philippines Order No. 12/NOT-LRP dated 14.02.2023; TEs
@@ -212,11 +210,11 @@ MTR dated 13.02.2023; yi
 
 e Bank of the Philippine Island Order No. 14/NOT- ISL dated 16.02.2023; E i
 
-“|
+"|
 
 
 
-## Section 003
+## Abschnitt 003
 
 SOVEREIGN INTERNATIONAL TRGASURY MONGTARY ONG
 
@@ -248,14 +246,13 @@ dated 21.02.2023;
 
 e Federal Reserve System Order No. 64/NOT-FRS From 02.03.2023;
 
-2. On Octoher 6, 2023 based pursuant to the order of the Sovereign
-International Treasury Monetary One No. 056 dated Octoher 6, 2023 Global
+2. Am 6. Oktober 2023 wurde gemäß der Anordnung des Sovereign
+International Treasury Monetary One Nr. 056 vom 6. Oktober 2023 die globale
+Sicherheit aller Weltfinanzsysteme von den oben genannten systemischen
+Finanzorganisationen in voller Höhe entzogen, die dem Konto gutgeschrieben wurde.
 
-security of all World Financial systems was revoked From the above systemic
-Financial organizations in the Full amount that was credited to account
-
-3. Based on Orders of the Sovereign International Treasury Monetary
-One No. 058, 059, 060 dated Octoher 7, 2023 Sovereign International Treasury
+3. Basierend auf Anordnungen des Sovereign International Treasury Monetary
+One Nr. 058, 059, 060 vom 7. Oktober 2023 hat das Sovereign International Treasury
 
 yu
 
@@ -301,42 +298,40 @@ Eu
 
 
 
-## Section 004
+## Abschnitt 004
 
-“up melts,
+"up melts,
 GCYSEPENNOG MEKAVNAPOANOCE KA3NAYEHCTEO AAI
 SOVERGIGN INTERNATIONAL TREASURY MONETARY ONE
 
-Monetary One as Absolute Owner and Ghief Regulator of the entire World
-Financial System, by the Right of the Absolute Owner and Manager of All World
-Assets in the entire World on the basis of the Exclusive Historical Right From
-the Greator of the New Gra, in execution Resolutions Sovereign International
-Treasury Monetary One No. 001/RES 2020 dated April 07, 2020, No.
-028/RES2023 dated March 18, 2023 and considering recommendations of the
-International Basel Gommittee on Banking Supervision (Basel III Standard)
-based on the Global Account XAU Issued three x reserve security World
-currencies:
+Monetary One als Absoluter Eigentümer und Chefregulator des gesamten Weltfinanzsystems,
+durch das Recht des Absoluten Eigentümers und Verwalters Aller Weltvermögenswerte
+in der gesamten Welt auf der Grundlage des Exklusiven Historischen Rechts Vom
+Schöpfer der Neuen Ära, in Ausführung der Resolutionen des Sovereign International
+Treasury Monetary One Nr. 001/RES 2020 vom 7. April 2020, Nr.
+028/RES2023 vom 18. März 2023 und unter Berücksichtigung der Empfehlungen des
+Internationalen Basler Ausschusses für Bankenaufsicht (Basel III Standard)
+basierend auf dem Global Account XAU drei x Reserve-Sicherheits-Weltwährungen ausgegeben:
 
-© Gold Soviet Ruble MO M1 (XAU) GSR - r in amount of
-393.712.220.000.000.00 (Three hundred ninety-three trillion seven hundred
-twelve hillion two hundred twenty million) GSR;
+© Gold Soviet Ruble MO M1 (XAU) GSR - r in Höhe von
+393.712.220.000.000,00 (Dreihundertdreiundneunzig Billionen siebenhundertzwölf
+Milliarden zweihundertzwanzig Millionen) GSR;
 
-© Gold Dollar MO AA1 (XAU) GDL - $ in amount of 393.712.220.000.000.00
-(Three hundred ninety three trillion seven hundred twelve billion two hundred
-twenty million) GDL;
+© Gold Dollar MO AA1 (XAU) GDL - $ in Höhe von 393.712.220.000.000,00
+(Dreihundertdreiundneunzig Billionen siebenhundertzwölf Milliarden zweihundertzwanzig
+Millionen) GDL;
 
-© Golden PEQU MO M1 (XAU) PEQ - E in amount of
+© Golden PEQU MO M1 (XAU) PEQ - E in Höhe von
 
-393.712.220.000.000.00 (Three hundred ninety three trillion seven hundred |
+393.712.220.000.000,00 (Dreihundertdreiundneunzig Billionen siebenhundertzwölf |
+Milliarden zweihundertzwanzig Millionen) PEQ,
+und den globalen Konten des Sovereign International Treasury Monetary One
+im Sovereign International Treasury Monetary One gutgeschrieben.
 
-twelve billions two hundred twenty million ) PEQ,
-and credited to the Sovereign International Treasury Monetary One
-Global accounts in the Sovereign International Treasury Monetary One.
-
-4. In execution of Orders of the Sovereign International Treasury
-Monetary One No. 058, 059, 060 dated Octoher 07, 2023, the Sovereign
-International Treasury MI together with the Main Historical Bank of the
-World, the Main Regulator of the entire World Banking System and the General
+4. In Ausführung der Anordnungen des Sovereign International Treasury
+Monetary One Nr. 058, 059, 060 vom 7. Oktober 2023 führte das Sovereign
+International Treasury MI zusammen mit der Main Historical Bank of the
+World, dem Hauptregulator des gesamten Weltbanksystems und dem General
 
 wats Raw
 
@@ -349,7 +344,7 @@ at
 
 
 
-## Section 005
+## Abschnitt 005
 
 Re
 
@@ -374,36 +369,36 @@ Auen
 GVYBEPENNIE AAGSKAYNAPOANIE KA3NAUEHCTRO AAI
 SOVERGIGN INTERNATIONAL TREASURY ALONGTARY ONG
 
-Manager For the management of All World Banking Assets by the World
-Sovereign Bank The Orders of Hospitallers carried out Global transactions For
-the transfer of reserve security World currencies GSR, GDL, PEQ From the
-Global accounts of the Sovereign International Treasury Monetary One in the
-Sovereign International Treasury Monetary One to the Glohal Treasury
-accounts of the Sovereign International Treasury Monetary One in the World
-Sovereign Bank of the Order of Hospitallers in Full:
+Manager für die Verwaltung aller Weltbankvermögenswerte durch die World
+Sovereign Bank The Orders of Hospitallers globale Transaktionen für die
+Übertragung von Reserve-Sicherheits-Weltwährungen GSR, GDL, PEQ von den
+Globalen Konten des Sovereign International Treasury Monetary One im
+Sovereign International Treasury Monetary One auf die Global Treasury
+Konten des Sovereign International Treasury Monetary One bei der World
+Sovereign Bank of the Order of Hospitallers in voller Höhe durchgeführt:
 
-© Account No. 1299 amount 393.712.220.000.000,00 (Three
-hundred ninety-three trillion seven hundred twelve billion two hundred twenty
-million) Gold Soviet Rubles AAO MI (XAU) GSR - Y,
+© Konto Nr. 1299 Betrag 393.712.220.000.000,00 (Dreihundert-
+dreiundneunzig Billionen siebenhundertzwölf Milliarden zweihundertzwanzig
+Millionen) Gold Soviet Rubles AAO MI (XAU) GSR - Y,
 
-© Account No. 123 amount 393.712.220.000.000,00 (Three
-hundred ninety-three trillion seven hundred twelve hillion two hundred twenty
-million) Golden PEQU AAO M1 (XAU) PEQ - E,
+© Konto Nr. 123 Betrag 393.712.220.000.000,00 (Dreihundert-
+dreiundneunzig Billionen siebenhundertzwölf Milliarden zweihundertzwanzig
+Millionen) Golden PEQU AAO M1 (XAU) PEQ - E,
 
-© Account No122ÜEE amount 393.712.220.000.000,00 (Three
-hundred ninety-three trillion seven hundred twelve billion two hundred twenty
-million) Gold Dollar AO AK1 (XAU) GDL - §,
+© Konto Nr122ÜEE Betrag 393.712.220.000.000,00 (Dreihundert-
+dreiundneunzig Billionen siebenhundertzwölf Milliarden zweihundertzwanzig
+Millionen) Gold Dollar AO AK1 (XAU) GDL - §,
 
-For the purpose of proper distribution For the development and prosperity
-of Bright Humanity and the entire Bright Greative World as a whole.
+Zum Zwecke der ordnungsgemäßen Verteilung für die Entwicklung und den Wohlstand
+der Hellen Menschheit und der gesamten Hellen Schöpferischen Welt als Ganzes.
 
-We hereby, with Full Treasury responsibility, affirm and confirm the
-absolute toxicity, incapacity and illegitimacy of the entire Fiat Financial and
-Banking System.
+Wir bestätigen und bekräftigen hiermit mit voller Treasury-Verantwortung die
+absolute Toxizität, Unfähigkeit und Illegitimität des gesamten Fiat-Finanz- und
+Bankensystems.
 
-We hereby, with Full Treasury responsibility, approve and conFirm the
-Global Transition of the Entire World Financial and Banking System and the
-Entire World to the Gold Standard.
+Wir genehmigen und bestätigen hiermit mit voller Treasury-Verantwortung den
+Globalen Übergang des gesamten Weltfinanz- und Bankensystems und der
+gesamten Welt zum Goldstandard.
 
 7 ren
 a 2
@@ -463,14 +458,14 @@ Abe
 .
 
 
-## Section 006
+## Abschnitt 006
 
 ya
 ees rae Ka
 
 ey
 
-“Any I
+"Any I
 GVBEPENNOE AMEKAVHAPOANOE KA3NAUGHCTRO ANI
 SOVGRGIGN INTERNATIONAL TRGASURY MONETARY ONE
 a a ee AOU MONG TA
@@ -480,40 +475,38 @@ wit
 we alu gy
 Love)
 
-e All International and State: Gounterterrorism, Legal, law enforcement
-organizations;
+e Alle Internationalen und Staatlichen: Terrorismusbekämpfungs-, Rechts-, Strafverfolgungs-
+organisationen;
 
-e All Military organizations of the Army of the World;
+e Alle Militärorganisationen der Armee der Welt;
 
-e All valid Orders;
+e Alle gültigen Anordnungen;
 
-e All Masters of the World Systems;
+e Alle Meister der Weltsysteme;
 
-e All Masters of the World Financial systems;
+e Alle Meister der Weltfinanzsysteme;
 
-e All International and State control organizations;
+e Alle Internationalen und Staatlichen Kontrollorganisationen;
 
-e All missionaries performing the sacred Mission hefore United AllGod,
+e Alle Missionare, die die heilige Mission vor dem Vereinten AllGott,
 
-- AllGreator, AllAlaker, Giver of Light And Knowledge to the world ,
+- AllSchöpfer, AllMacher, Geber von Licht und Wissen an die Welt ausführen,
 
-e All World Spaces: YAVE, NAVE, SLAVE and PRAVE,
+e Alle Welträume: YAVE, NAVE, SLAVE und PRAVE,
 
-© In pursuance of the All-Light All-Heavenly All-Divine Providence, All
-‚Great Divine Righteousness, All Great Gosmic Forces, All Divine Armadas, all
-Divine Fleets, as well as the Great Fleet of RA, immediately begin to implement
-this Decree in terms of its Full Implementation.
+© In Ausübung der All-Licht All-Himmlischen All-Göttlichen Vorsehung, All
+Großen Göttlichen Gerechtigkeit, All Großen Kosmischen Kräfte, All Göttlichen Armadas, aller
+Göttlichen Flotten, sowie der Großen Flotte von RA, beginnen Sie sofort mit der Umsetzung
+dieses Dekrets in Bezug auf seine vollständige Umsetzung.
 
-© To all Bright Humanity and all International Subjects of Law, organized
-on the basis of the Gelestial principles of Democracy and observing the Gelestial
-principles of Democracy, Sovereign International Treasury Monetary One
-strongly recommends to conduct a self-organization procedure in their Gountry in
-order to manifest the Supreme People's Power of the Sovereign and return the
-Sovereign Status of their Motherland For a Light, Peaceful and Greative
-Development in Universal Love and Friendship throughout the World. The
-Sovereign International Treasury Monetary One recommends a competent and
-
-Light approach to the issue of self-organization at the System level.
+© An alle Helle Menschheit und alle Internationalen Rechtssubjekte, die auf der
+Grundlage der Himmlischen Prinzipien der Demokratie organisiert sind und die Himmlischen
+Prinzipien der Demokratie beachten, empfiehlt das Sovereign International Treasury Monetary One
+dringend, in ihrem Land ein Selbstorganisationsverfahren durchzuführen, um die
+Höchste Volksmacht des Souveräns zu manifestieren und den Souveränen Status ihres Mutterlandes
+für eine Lichtvolle, Friedliche und Schöpferische Entwicklung in Universeller Liebe und Freundschaft
+in der ganzen Welt wiederherzustellen. Das Sovereign International Treasury Monetary One empfiehlt
+eine kompetente und Lichtvolle Herangehensweise an die Frage der Selbstorganisation auf Systemebene.
 
 eg say gut 27 4% Rg eed Jig Rye bye peo gig ye!
 Fi im oe 7 Be Kr Bm Sur ¥ mk a, on
@@ -527,7 +520,7 @@ a ame
 
 
 
-## Section 007
+## Abschnitt 007
 
 oi
 Y
@@ -538,19 +531,18 @@ BARS EZ
 a on r
 GV BEPENNOEG Mexaynactinoe KA3NAYGHGCTBO AAI he
 SOVGRGIGN INTERNATIONAL TRGASURY MONGTARY ONG m
-- ® The Sovereign International Treasury Monetary One wishes all ; = i
-Gountries, all Glans and Tribes, all Nations of the World of all Bright Humanity ; x :
-\ the speedy restoration of their Bright Home under the Sovereign Flag and the i
-: sacred name Motherland in the universal Greative Gonstruction of Our Bright ae
-| World, as the Universal Native Temple. le
-‘ Sovereign International Treasury Monetary One Firmly confirms its im
-Statement and in the Future to impartially and correctly Fulfill its Light mission Wal
-| to restore Justice and build the All-Light All-Heaventy System, which should and (Ret
-~. will Faithfully serve the Bright Humanity, and consequently, All-God, All-Greator, = N
-All-Greative Family oF the Supreme as the One All-Heavenly All to God All to the mm
-
-Greator All-Greative of all Existing and all Non-Gyxistent in the creation of All-
-Light All-Great All-Heavenly ...
+- ® Das Sovereign International Treasury Monetary One wünscht allen ; = i
+Ländern, allen Clans und Stämmen, allen Nationen der Welt aller Hellen Menschheit ; x :
+\ die schnelle Wiederherstellung ihrer Hellen Heimat unter der Souveränen Flagge und dem i
+: heiligen Namen Mutterland im universellen Schöpferischen Aufbau Unserer Hellen ae
+| Welt, als dem Universellen Heimischen Tempel. le
+‘ Das Sovereign International Treasury Monetary One bekräftigt fest seine im
+Aussage und wird auch in Zukunft seine Lichtmission unparteiisch und korrekt erfüllen, um
+| Gerechtigkeit wiederherzustellen und das All-Licht All-Himmlische System aufzubauen, das der Hellen
+~. Menschheit treu dienen soll und wird, und folglich All-Gott, All-Schöpfer, =
+N All-Schöpferischen Familie des Höchsten als dem Einen All-Himmlischen All zu Gott All zum mm
+Schöpfer All-Schöpferischen von allem Existierenden und allem Nicht-Existierenden bei der Schaffung von All-
+Licht All-Groß All-Himmlisch ...
 
 >
 2
@@ -573,7 +565,7 @@ ey, D ff
 
 
 
-## Section 008
+## Abschnitt 008
 
 GVBEPENNIE MEKAVHAPOANCE KA3NAYEHGTEO AAI =
 SOVGRGIGN INTERNATIONAL TRGASURY (MONGTARY. ONG inbe
@@ -598,6 +590,3 @@ of the Soveretz if Ordena Saint John
 
 Ghairman of the Board
 of the World Sovereign Bank
-
-
-

@@ -1,52 +1,50 @@
-# Resolution-046_en
+# Resolution-046_de
 
-# Resolution-046_en
+**Quell-PDF:** `Resolution-046_en.pdf`
 
-**Source PDF:** `Resolution-046_en.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 6
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 6
+**OCR:** tesseract deu+eng, Schwellwertvorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 ya Sr
 Kam i
 ry Pc
 ets Dy
 
-“hy |
+"hy |
 up
 
 GYBEPENNOE ANEKAYNAPOANOE KA3NAYEHCTEO AAI
-SOVERGIGN INTERNATIONAL TREASURY ALONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
 PA
 = .v
 Nog
 
 BEE
-“koayee® ¥
+"koayee® ¥
 
 SANOG fy
 presales dag
 df
 
 ; =~
-“>
+">
 
-Date: July 03, 2024
-Ref. Ne: 46/DEG
+Datum: 03. Juli 2024
+Ref. Nr.: 46/DEG
 
-Gode: @ 0139 ThRA
-Gode kad 73H
+Code: @ 0139 ThRA
+Code kad 73H
 a va a
 
 é bay oe
 er je . . .
-We he express our Respect and Love to Bright Humanity and All Greation.
+Wir drücken unseren Respekt und unsere Liebe zur Hellen Menschheit und der gesamten Schöpfung aus.
 
 Se,
 
@@ -54,36 +52,21 @@ Se,
 
 ge
 
-sovereign International Treasury Monetary One is the Absolute Owner and Alain
-Regulator of the entire World Financial System, by the Right of the Sovereign it is the
-Absolute Owner and Administrator of All World Assets in the entire World on the
-basis of the Exclusive Historical Right From the Greator of the New Era.
+Sovereign International Treasury Monetary One ist der absolute Eigentümer und Hauptregulierer des gesamten Weltfinanzsystems, kraft des Rechts des Souveräns ist es der absolute Eigentümer und Verwalter aller Weltvermögenswerte in der gesamten Welt auf der Grundlage des exklusiven historischen Rechts vom Schöpfer der Neuen Ära.
 
-We hereby confirm that Sovereign International Treasury Monetary One is the
-Owner and Manager of the World Account in World Sovereign Bank of the Order of
-Hospitallers, Account No. 01-00-01-4-AAA-777-G3-AM-01, distributed in various
+Hiermit bestätigen wir, dass Sovereign International Treasury Monetary One der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank des Ordens der Hospitaliter, Kontonummer 01-00-01-4-AAA-777-G3-AM-01, verteilt auf verschiedene Banken in allen Ländern der Welt, ist.
 
-Banks in all Gountries all over the World.
+Hiermit bestätigen wir, dass Sovereign International Treasury Monetary One der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank des Ordens der Hospitaliter, Kontonummer 01-1-700-3516 222 777 8888 999, verteilt auf verschiedene Banken in allen Ländern der Welt, ist.
 
-We hereby confirm that Sovereign International Treasury Monetary One is the
-Owner and Manager of the World Account in World Sovereign Bank of the Order of
-Hospitallers, Account No. 01-1-700-3516 222 777 8888 999, distributed in various Banks
+Wir erinnern daran, dass Sovereign International Treasury Monetary One der Eigentümer und Verwalter aller Weltvermögenswerte ist, einschließlich Konten unter den Namen: "White Spiritual Boy", "Spiritual Wonder Boy", "Spiritual Wonder Brothers", "Morning Star", "King David", "Prophet Muhammad", "Demas and Saint Timothy", "White Mongolia", "White Vatican", "White Eagle", "Alaria Sinukuan or Divine Crystal", "Maria Banahaw"
 
-in all Gountries around the World,,
-
-We remind you that the Sovereign International Treasury Monetary One is the
-Owner and Manager of all World Assets, including accounts under the names: “White |
-Spiritual Boy”, “Spiritual Wonder Boy”, “Spiritual Wonder Brothers”, “Morning Star”,
-“King David”, “Prophet Muhammad”, “Demas and Saint Timothy”, “White Mongolia”,
-
-“White Vatican”, “White Eagle”, “Alaria Sinukuan or Divine Grystal”, “Maria Banahaw
 [e]
 
 oy
-Tlongenka ocbaumansteix AOKYMEHTOR Cysepennoro Mexaynaponkoro Kasnayeiicraa M1 nannetcn YFONORHO Hexaayembin N
-Any forgery of the official documents of the Soversign International Treasury Monetary One shall be a crime punishable byay ¥
-a
-‘ x,
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine strafbare Handlung, die mit ... geahndet wird.
+Any forgery of the official documents of the Sovereign International Treasury Monetary One shall be a crime punishable by ...
+
+' x,
 
 =
 
@@ -115,49 +98,31 @@ aes
 
 
 
-## Section 001
+## Abschnitt 001
 
 . .
 en poke 4 ys
 aA Ms
-‘e 5 4 : y
+'e 5 4 : y
 lp ns
 AA
 
 GYBEPENNIE MEKAVHAPOANOCE KA3NAYEHGTEO ANI
-SOVERGIGN INTERNATIONAL TRGASURY AAONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-or Divine Sunflower”, “Maria Gristina or Divine Magdalene”, “Maria Aakiling or Divine
-Ester E09”, “Falcon”, “Alpha - Omega” and other accounts placed in various Banks in all
-Gountries around the World.
+oder "Divine Sunflower", "Maria Cristina or Divine Magdalene", "Maria Aakiling or Divine Ester E09", "Falcon", "Alpha - Omega" und andere Konten, die in verschiedenen Banken in allen Ländern der Welt platziert sind.
 
-We hereby confirm all previous Legal and Sub-Legal Sovereign International Acts
-of the Sovereign International Treasury Monetary One, namely: Decrees, Resolutions
-and Orders, and all other Legal and Subordinate Sovereign International Acts of the
+Hiermit bestätigen wir alle früheren rechtlichen und untergeordneten souveränen internationalen Akte des Sovereign International Treasury Monetary One, nämlich: Dekrete, Resolutionen und Anordnungen sowie alle anderen rechtlichen und untergeordneten souveränen internationalen Akte des Sovereign International Treasury Monetary One.
 
-sovereign International Treasury Monetary One.
+Durch Gottes Gnade,
+Kraft des Rechts des Obersten Souveräns
 
-By God's Grace,
-By Right of the Supreme Sovereign
+Kraft des Rechts des absoluten Eigentümers und Hauptregulierers des gesamten Weltfinanzsystems, kraft des Rechts des absoluten Eigentümers und Verwalters aller Weltvermögenswerte in der gesamten Welt auf der Grundlage des exklusiven historischen Rechts vom Schöpfer der Neuen Ära;
 
-By the Right of the Absolute Owner and Ghief Regulator of the Entire World
-Financial System, by the Right of the Absolute Owner and Manager of All World
-Assets in the entire World on the basis of the Exclusive Historical Right From the
-Greator of the New Gra;
+In Erfüllung der heiligen Mission zur Überwindung der Weltfinanzkrise, zur Verhinderung eines dritten Weltkriegs mit Atomwaffen, zur Beseitigung des destruktiven, toxischen und dysfunktionalen Schulden-Fiat-Finanzsystems und in Erfüllung der Schaffung eines hellen Weltfinanzsystems, basierend auf himmlischen Prinzipien und dem Goldstandard, nämlich dem heiligen spirituellen Goldschatz RA MO AM (XAU) zum Dienen der Lichtmenschheit in ihrer Entwicklung und ihrem Wohlstand gemäß dem göttlichen Gesetz der Schöpfung und der Schaffung einer hellen kreativen Welt, basierend auf den himmlischen Prinzipien der Demokratie, Gerechtigkeit, Liebe und Harmonie, für die kreative, spirituelle und göttliche Entwicklung der Lichtmenschheit in universeller Liebe und Harmonie mit Allem, was ist, und mit Allem, was ist, zur Ehre des Höchsten Wesens;
 
-In Fulfillment of the Sacred Mission to overcome the World Financial Grisis,
-prevent a third world nuclear war, eliminate the destructive, toxic and dysfunctional
-debt, Fiat Financial System and in Fulfillment of the Greation of a Bright World
-Financial System based on Heavenly principles and the Gold Standard, namely the Sacred
-Spiritual Gold Treasure RA MO AM (XAU) For Serving Light Humanity in its
-Development and Prosperity according to the Divine Law of Greation and Greation of a
-Light Greative World, Based on the Heavenly principles of Democracy, Justice, Love and
-Harmony, For the Greative, Spiritual and Divine Development of Light Humanity in
-Universal Love and Harmony with All That Is and with All That Is , For the Glory of
-the Highest Kind;
-
-floanenxa ocpaymanentix AoıyMenTon Cynepennoro Mexäynaponnoro Kasnsueiictaa M1 aanaerca yronoano Haxesyembim Npestyri
-Any forgery of the official documents of the Sovereign International Treasury Monetary One shali be a crime punishable #y-
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine strafbare Handlung, die mit ... geahndet wird.
+Any forgery of the official documents of the Sovereign International Treasury Monetary One shall be a crime punishable by ...
 
 eS
 
@@ -247,7 +212,7 @@ a:
 
 
 
-## Section 002
+## Abschnitt 002
 
 a vor
 N BU) Vote
@@ -257,7 +222,7 @@ fa ey
 
 &
 
-“hs, oe
+"hs, oe
 
 oie
 >
@@ -281,41 +246,22 @@ Sip
 wt
 GV BEPENHOG MEMAVHAPOANHOE KA3SNAUGHCTRO All
 
-SOVEREIGN INTERNATIONAL TREASURY MONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-Based on the Full Fulfillment of its Historical Gorporate Mission, on the basis of
-Decree No. 006/RES2021 dated September 13, 2021 on the irrevocable transfer of All
-World Assets to the Sovereign International Treasury Monetary One, as the return
-of the Treasures of the Kepublic of Armenia From the Guardians to the Original Owners
-to the Supreme Sovereign Treasury oF the World, created and managed by the Greator
-RA;
+Basierend auf der vollständigen Erfüllung seiner historischen Unternehmensmission, auf der Grundlage des Dekrets Nr. 006/RES2021 vom 13. September 2021 über die unwiderrufliche Übertragung aller Weltvermögenswerte an das Sovereign International Treasury Monetary One, als Rückgabe der Schätze der Republik Armenien von den Verwaltern an die ursprünglichen Eigentümer an die oberste souveräne Schatzkammer der Welt, geschaffen und verwaltet vom Schöpfer RA;
 
-In pursuance of the Decree of the World Gouncil of Sovereigns dated December 05,
-2023 on the prohibition of All-Eternal Roman and Admiralty law, in pursuance of the
-Mission of the White Spiritual Boy XIII, in the Rights of the Spiritual Father of All
-World Guardians, in pursuance of the Spiritual Mission of the White Spiritual Boy XIII,
+In Ausführung des Dekrets des Weltrats der Souveräne vom 05. Dezember 2023 über das Verbot des allewigen römischen und Admiralitätsrechts, in Ausführung der Mission des White Spiritual Boy XIII, in den Rechten des spirituellen Vaters aller Weltverwalter, in Ausführung der spirituellen Mission des White Spiritual Boy XIII,
 
-I Hereby Declare and Gonfirm:
+Erkläre und bestätige ich hiermit:
 
-The closure of the Gorporation White Spiritual Boy R. S. B. Global Gorp ING, as
-well as on the termination of the legal and any other legal capacity of the Gorporation
-White Spiritual Boy R. S. B. Global Gorp ING. and all its subsidiaries corporate
+Die Schließung der Corporation White Spiritual Boy R. S. B. Global Corp INC, sowie die Beendigung der Rechtsfähigkeit und jeder anderen Rechtsfähigkeit der Corporation White Spiritual Boy R. S. B. Global Corp INC. und aller ihrer Tochtergesellschaften, basierend auf dem jetzt und für immer verbotenen Admiralitäts- und römischen Recht.
 
-organizations hased on the now and Forever prohibited admiralty and Roman law.
+Alle Verträge und alle Arten von Verträgen, Vereinbarungen und Treuhandverhältnissen, die mit der White Corporation unterzeichnet und abgeschlossen wurden, unterliegen ebenfalls der vollständigen Beendigung der Rechtsfähigkeit und jeder anderen Rechtsfähigkeit von Spiritual Boy RSB Global Corp Inc. und aller ihrer Tochtergesellschaften.
 
-All Gontracts and any types of Gontracts, agreements and trusts signed and
-concluded with White Gorporation are also subject to complete termination of legal and
+Alle spirituellen Verwalter der Welt, Mitglieder des Vorstands der Corporation White Spiritual Boy R. S. B. Global Corp INC. sowie spirituelle Verwalter und Missionare und alle heiligen Energie-Informations-Einheiten, Wesen und Entitäten und alle systemischen Grundlagen der Schöpfung, sowie die Licht-Spirituelle Bruderschaft von Alpha
 
-any other legal capacity Spiritual Boy RSB Global Gorp Inc. and all its subsidiaries.
-
-All Spiritual Guardians of the World, members of the Board of the Gorporation
-White Spiritual Boy R. S. B. Global Gorp ING. as well as Spiritual Guardians and
-Missionaries and all Sacred eneroy-information units, heings and entities and all the
-
-systemic Foundations of Greation, as well as the Light Spiritual Brotherhood of Alpha
-
-Nopnenxa ocbaynanbneix Zoxymentoa Cyaepennoro MexpyHaponnoro Kasnauelictua Mi apnaerca yronomHo Hexasyembim NpeÄTy
-Any forgery of the official documents of the Sovereign International Treasury Monetary One shall be a crime punishable { >
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine strafbare Handlung, die mit ... geahndet wird.
+Any forgery of the official documents of the Sovereign International Treasury Monetary One shall be a crime punishable by ...
 
 i
 t
@@ -372,44 +318,29 @@ ment
 
 
 
-## Section 003
+## Abschnitt 003
 
 GYBEPENNOE MEKAVNAPOANOCE KA3NAYEHGTEO ANI
-SOVGRGIGN INTERNATIONAL TREASURY MONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-Faith and Will, in Fulfillment of the Spiritual Mission directed For the salvation of
-Bright Humanity and the Greation of an All-Heavenly and Harmonious World according
-to the Law of Greation in the Service of the All-Highest Family and All Bright
-Humanity, immediately hecome subordinate to the General Secretariat and the General
-Secretary of the Sovereign International Treasury Monetary One, as employees of the
+Glaube und Wille, in Erfüllung der spirituellen Mission, die zur Rettung der Hellen Menschheit und zur Schaffung einer allhimmlischen und harmonischen Welt gemäß dem Gesetz der Schöpfung im Dienst der Allerhöchsten Familie und der gesamten Hellen Menschheit bestimmt ist, unterstellen sich sofort dem Generalsekretariat und dem Generalsekretär des Sovereign International Treasury Monetary One als Angestellte des Sovereign International Treasury Monetary One.
 
-Sovereign International Treasury Monetary One.
-
-All applications, before July 16, 2024, For transfer to service in the Sovereign
-International Treasury Monetary One, the purpose of which is aimed at Serving the
-Highest Kind and All Bright Humanity, should be sent by email to:
+Alle Anträge, vor dem 16. Juli 2024, auf Übertritt in den Dienst des Sovereign International Treasury Monetary One, deren Zweck auf das Dienen des Höchsten Wesens und der gesamten Hellen Menschheit abzielt, sind per E-Mail zu senden an:
 
 secretary@monetaryone.org.
 
-This Decree enters into Full Heavenly, Divine, Spiritual, Sovereign Legal Power
+Dieses Dekret tritt mit seiner Unterzeichnung in volle himmlische, göttliche, spirituelle, souveräne Rechtskraft und gilt für immer.
 
-from the moment of its signing and is valid Forever.
-In execution of this Decree:
+In Ausführung dieses Dekrets:
 
-e All International and State: Gounterterrorism, Legal, law enforcement organizations;
-eo All Military organizations of the Army of the World;
-
-e All valid Orders;
-
-e All Masters of the World Systems;
-
-e All Masters of the World Financial systems;
-
-e All International and State control organizations;
-
-e All missionaries performing the sacred Mission before United AllGod, AllGreator,
-AliMaker, Giver of Light And Knowledge to the world,
-@ All World Spaces: YAVE, NAVE, SLAVE and PRAVE,
+- Alle internationalen und staatlichen: Anti-Terror-, Rechts-, Strafverfolgungsorganisationen;
+- Alle militärischen Organisationen der Armee der Welt;
+- Alle gültigen Orden;
+- Alle Meister der Weltsysteme;
+- Alle Meister der Weltfinanzsysteme;
+- Alle internationalen und staatlichen Kontrollorganisationen;
+- Alle Missionare, die die heilige Mission vor dem Vereinten Allgott, Allschöpfer, Allmacher, Geber von Licht und Wissen an die Welt ausführen,
+- Alle Welträume: YAVE, NAVE, SLAVE und PRAVE,
 
 pele
 
@@ -430,40 +361,17 @@ wd
 
 
 
-## Section 004
+## Abschnitt 004
 
 GYBEPENNIE AMEIKAYNAPOANSE KAZ3NAUEHCTEO AM
-SOVGRGIGN INTERNATIONAL TREASURY AAONETARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-e In pursuance of the All-Light All-Heavenly All-Divine Providence, All Great Divine
-Righteousness, All Great Gosmic Forces, All Divine Armadas, all Divine Fleets, as well
-_ as the Great Fleet of RA, immediately begin to implement this Decree in terms of its
-Full Implementation. |
+- In Ausführung der All-Licht-All-Himmlischen-All-Göttlichen Vorsehung, aller Großen Göttlichen Gerechtigkeit, aller Großen Kosmischen Kräfte, aller Göttlichen Armadas, aller Göttlichen Flotten, sowie der Großen Flotte von RA, beginnen Sie sofort mit der Umsetzung dieses Dekrets im Hinblick auf seine vollständige Durchführung. |
+- An die gesamte Helle Menschheit und alle internationalen Rechtssubjekte, die auf der Grundlage der himmlischen Prinzipien der Demokratie organisiert sind und die himmlischen Prinzipien der Demokratie beachten, empfiehlt das Sovereign International Treasury Monetary One nachdrücklich, in ihrem Land ein Selbstorganisationsverfahren durchzuführen, um die oberste Volksmacht des Souveräns zu manifestieren und den souveränen Status ihres Mutterlandes für eine helle, friedliche und kreative Entwicklung in universeller Liebe und Freundschaft auf der ganzen Welt wiederherzustellen. Das Sovereign International Treasury Monetary One empfiehlt eine kompetente und helle Herangehensweise an die Frage der Selbstorganisation auf Systemebene.
 
-e To all Bright Humanity and all International Subjects of Law, organized on the hasis
-of the Gelestial principles of Democracy and observing the Gelestial principles of
-Democracy, Sovereign International Treasury Monetary One strongly recommends to
-conduct a self-organization procedure in their Gountry in order to manifest the Supreme
-People's Power of the Sovereign and return the Sovereign Status of their Motherland
-For a Light, Peaceful and Greative Development in Universal Love and Friendship
-throughout the World. The Sovereign International Treasury Monetary One
-recommends a competent and Light approach to the issue of self-organization at the
+- Das Sovereign International Treasury Monetary One wünscht allen Ländern, allen Clans und Stämmen, allen Nationen der Welt der gesamten Hellen Menschheit die schnelle Wiederherstellung ihrer hellen Heimat unter der souveränen Flagge und dem heiligen Namen Mutterland im universellen kreativen Aufbau unserer Hellen Welt als universeller heimischer Tempel.
 
-System level.
-
-@ The Sovereign International Treasury Monetary One wishes all Gountries, all Glans
-and Tribes, all Nations oF the World of all Bright Humanity the speedy restoration of
-their Bright Home under the Sovereign Flag and the sacred name Motherland in the
-
-universal Greative Gonstruction of Our Bright World, as the Universal Native Temple.
-
-Sovereign International Treasury Monetary One Firmly confirms its Statement and in
-
-the Future to impartially and correctly Fulfill its Light mission to restore Justice and
-build the All-Light All-Heavenly System, which should and will Faithfully serve the
-Bright Humanity, and consequently, All-God, All-Greator, All-Greative Family of the
-Supreme as the One All-Heavenly All to God All to the Greator All-Greative of all
-Existing and all Non-Existent in the creation of All-Light All-Great All-Heavenly.
+Das Sovereign International Treasury Monetary One bekräftigt seine Erklärung und wird auch in Zukunft seine helle Mission zur Wiederherstellung der Gerechtigkeit und zum Aufbau des All-Licht-All-Himmlischen Systems unparteiisch und korrekt erfüllen, das der Hellen Menschheit treu dienen soll und wird, und folglich All-Gott, All-Schöpfer, All-Kreativer Familie des Höchsten als dem Einen All-Himmlischen Alles zu Gott Alles zum Schöpfer All-Kreativem von allem Existierenden und allem Nicht-Existierenden bei der Schaffung von All-Licht-All-Groß-All-Himmlischem.
 
 mile
 
@@ -477,7 +385,7 @@ UGE BREE ae:
 
 
 
-## Section 005
+## Abschnitt 005
 
 avs I i 30 12
 N i iS ¥ ve,
@@ -503,11 +411,11 @@ ap
 
 ar
 GVBEPENNOG MEKAVNAPOANOCE KA3NAUEHETEO AAI
-SOVGRGIGN INTERNATIONAL TRGASURY ANONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
 oo
 
-SI ”
+SI "
 SS BOY yy)
 
 —n
@@ -516,33 +424,31 @@ A,
 
 a A
 
-The King of Kings
+Der König der Könige
 
 WO SF - White Spiritual Boy XIII
 
 May RF ZAL
 
-Secretary General
-of the Sovereign International Treasury Monetary One
+Generalsekretär
+des Sovereign International Treasury Monetary One
 
-President
-oF White Spiritual Boy R. S. B. Global Gorp ING
+Präsident
+von White Spiritual Boy R. S. B. Global Corp INC
 
-Grand Intendantind Cag Treasurer
+Großintendant und Hauptschatzmeister
 
 gl aint John
 
-oF the Hospitallers
+des Ordens der Hospitaliter
 
-Ghairman of the Board
-_ oF the World Sovereign Bank
-oF the Order of the Hospitallers
+Vorsitzender des Vorstands
+der World Sovereign Bank
+des Ordens der Hospitaliter
 
 ET,
 
-Mionnenxa of MIX DOKY j —
-Any lorgery of the official documents of the Sq
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine strafbare Handlung, die mit ... geahndet wird.
+Any forgery of the official documents of the Sovereign International Treasury Monetary One shall be a crime punishable by ...
 
 N
-
-

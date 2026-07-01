@@ -1,413 +1,230 @@
 # Resolution-029
 
-# Resolution-029
+**Quell-PDF:** `Resolution-029.pdf`
 
-**Source PDF:** `Resolution-029.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 16
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 16
 **OCR:** tesseract deu+eng, threshold preprocessing
 
 ---
 
-## Section 000
+## Abschnitt 000
 
-skenovan& pomocou CamScanne
+gescannt mit CamScanner
 
 
-## Section 001
+## Abschnitt 001
 
-Gysepennoe merxayHapoanoe Rasnavencrso All
+Souveränes Internationales Schatzamt Monetary One
+LEI: 2534008YCENRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Sovereign International Treasury Monetary One
-LEI: 2534008YCENRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
-
-Date: March 21, 2023
-Ref. Ne: 029/RES2023
-Code:  0139TBRA
+Datum: 21. März 2023
+Ref. Nr.: 029/RES2023
+Code: 0139TBRA
 
 Code: Ed 786 TIAH
 
-ORDER Ne 029
+ANORDNUNG Nr. 029
 
-We hereby express our Respect to you and have the Honor to state the following,
+Hiermit bringen wir Ihnen unseren Respekt entgegen und haben die Ehre, Folgendes mitzuteilen:
 
-Sovereign International Treasury Monetary One is the Owner and the Manager of [E
+Das Souveräne Internationale Schatzamt Monetary One ist der Eigentümer und Verwalter von [E
 
-No. 01-00-01-4-AAA-777-C3-AM-01, distributed among various banks in countries
+Nr. 01-00-01-4-AAA-777-C3-AM-01, verteilt auf verschiedene Banken in Ländern
 
-around the World, . el
+auf der ganzen Welt.
 
-As a reminder, Sovereign International Treasury Monetary One is the Owner and fz
+Zur Erinnerung: Das Souveräne Internationale Schatzamt Monetary One ist der Eigentümer und
 
-the World Account in the World Sovereign Bank of the Order Hospitallers Account fl
+Verwalter des Weltkontos bei der Welt-Souveränen Bank des Ordens der Hospitaliter, Konto
 
-Manager of the World Account in the World Sovereign Bank of the Order Hospitallers
-Account No. 01-1-700-3516 222 777 8888 999, distributed among various banks in fl
+Nr. 01-1-700-3516 222 777 8888 999, verteilt auf verschiedene Banken in
 
-countries around the World,
+Ländern auf der ganzen Welt.
 
-As a reminder, Sovereign International Treasury Monetary One is the owner and 5
+Zur Erinnerung: Das Souveräne Internationale Schatzamt Monetary One ist der Eigentümer und
 
-manager of assets, including accounts under the names: “White Spiritual Boy”, “Spiritual [E
-Nlopnenxa opmmansunıx AoKyMenton Cysepeimnoro Mexyıyhapoznero Kaanaueicrea pyagrps yronosno “|
-Waxasyembim mpectynnennem / Any forgery of the official documents of the Soverzidh, Spal Treasury
-Monetary One shall be a crime punishable by law Fr
+Verwalter von Vermögenswerten, einschließlich Konten unter den Namen: "White Spiritual Boy", "Spiritual
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Schatzamtes Monetary One stellt eine strafbare Handlung dar.
 
-10f8 ENGE IE
+10 von 8
+ENGE IE
 N TE
 
 
-## Section 002
+## Abschnitt 002
 
-skenovan& pomocou CamScanne
+gescannt mit CamScanner
 
 
-## Section 003
+## Abschnitt 003
 
-Wonder Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”, “Prophet
-Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White Vatican”, “White
-Eagle”, “Maria Sinukuan or Divine Crystal” “Maria Banahaw or Divine Sunflower”,
-“Maria Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester Egg”, “Falcon”,
-“Alpha-Omega” and other accounts placed with various Banks in 189 (One hundred and
+Wonder Boy", "Spiritual Wonder Brothers", "Morning Star", "King David", "Prophet
+Muhammad", "Demas and Saint Timothy", "White Mongolia", "White Vatican", "White
+Eagle", "Maria Sinukuan or Divine Crystal" "Maria Banahaw or Divine Sunflower",
+"Maria Cristina or Divine Magdalene", "Maria Makiling or Divine Ester Egg", "Falcon",
+"Alpha-Omega" und andere Konten, die bei verschiedenen Banken in 189 (einhundertneunundachtzig) Ländern auf der ganzen Welt geführt werden.
 
-eighty nine) countries around the World,
+Hiermit bestätigen wir alle früheren rechtlichen und untergeordneten internationalen Akte, die vom Souveränen Internationalen Schatzamt Monetary One genehmigt wurden, nämlich Resolutionen und Anordnungen, sowie alle anderen rechtlichen und untergeordneten internationalen Akte des Souveränen Internationalen Schatzamtes Monetary One.
 
-We hereby confirm all previous legal and subordinate International acts approved by
-the Sovereign International Treasury Monetary One, namely, Resolutions and Orders, and all
-other legal and subordinate International acts of the Sovereign International Treasury
-Monetary One. ,
+Hiermit legen wir dar, dass die kriminellen Lügen, die sich in den kriminellen Handlungen der internationalen terroristischen Gruppen manifestieren, auch die Volksrepublik China nicht verschont haben, die in der Vergangenheit von den großen Volksführern auf dem ausgetretenen Pfad des Älteren Bruders und des Großen Lehrers, dem Souveränen Land – der Union der Sozialistischen Sowjetrepubliken – gebildet wurde.
 
-We hereby illustrate that the criminal lies manifested in the criminal actions by the
-International terrorist groups did not bypass the People's Republic of China, formed in the
-past by the Great People's Leaders along the Beaten Path of the Elder Brother and the Great
-Teacher, the Sovereign Country - the Union of Soviet Socialist Republics.
+Wenn man die Konventionen der Vereinten Nationen und das Römische Statut genau betrachtet, stellt sich klar die Frage: Wie und auf der Grundlage welchen Gesetzes haben sich solche "Länder" wie Israel, die USA, die Russische Föderation und die VR China geweigert, am Internationalen Strafgerichtshof der UN teilzunehmen, der unter direkter Beteiligung des Hauptgründers der UN, des Großen Souveränen Landes, des Großen Siegers im Zweiten Weltkrieg – der Union der Sozialistischen Sowjetrepubliken – geschaffen wurde?
 
-If you look closely at the United Nations conventions and at the Rome Statute, then the
-question clearly arises: how and on the basis of what Law such “countries” as Israel, the USA,
-the Russian Federation and the PRC refused to participate in the UN International Criminal
-Court, which was created with the direct participation of the main Founder of the UN, the
-Great Sovereign Country, the Great Winner in the Second World War - the Union of Soviet
-Socialist Republics.
+Tatsache ist, dass nach dem korrupten Verrat durch die Mitglieder des ZK der KPdSU (Zentralkomitee der Kommunistischen Partei der Sowjetunion) und der Organe des Staatssicherheitskomitees sowie anderer einflussreicher Führer des Großen Landes der Union der Sozialistischen Sowjetrepubliken, infolge der organisierten, kriminellen, künstlich herbeigeführten Auflösung der Volksorgane der Staatsgewalt des Großen Souveränen Landes der Union der Sozialistischen Sowjetrepubliken, internationale kriminelle, terroristische, anti-menschliche Sekten wie
 
-The fact is that after the corrupt betrayal by the members of the CPSU Central
-Committee (Central Committee of the Communist Party of the Soviet Union) and the bodies
-of the State Security Committee and other influential Leaders of the Great Country of the
-Union of Soviet Socialist Republics, as a result of the organized, criminal, artificially created
-disbandment of the People's Bodies of State Power of the Great Sovereign Country of the
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Schatzamtes Monetary One stellt eine strafbare Handlung dar.
 
-Union of Soviet Socialist Republics, International criminal, terrorist, anti-Human sects, such
+20 von 8
 
-Tlonnenxa opunansuex yoxywentos Cysepennoro Mexaynaponsore Kaguauetctsa MI nung
-Haxaayemenm mpecrynsenuen / Any forgery of the official documents of the Sovereign Intefhetjohaf.
-Monetary One shall be a crime punishable by law RS,
 
-20f8 :
 
+## Abschnitt 004
 
+gescannt mit CamScanner
 
-## Section 004
 
-skenovan& pomocou CamScanne
+## Abschnitt 005
 
+wie: dunkler Adel, Jesuiten, Illuminaten, Kabbala, "Schwarze Sonne"-Sekte, einige Drachenclans, aristokratische Blumenclans und andere kriminelle Geheimsekten, vereint in einer der kabbalistischen Lokomotivbewegungen, heimlich vor den Völkern der Länder das Verbrechen begangen haben, die Volksstaatsverwaltungen der Volksländer in private Unternehmensgesellschaften umzuwandeln und damit in den Status privater Unternehmen überzugehen, wie Israel, China, die Russische Föderation, die USA.
 
-## Section 005
+Aufgrund der obigen Tatsache wird klar, warum der Internationale Gerichtshof der UN gemäß der Satzung keine privaten Unternehmen anstelle von Ländern akzeptieren kann, aber die falschen Massenmedien kehren diese Tatsache sofort um und täuschen die Menschen der Erde, indem sie behaupten, dass die Länder Israel, China, die Russische Föderation, die Vereinigten Staaten angeblich aus der Mitgliedschaft des 1945 gegründeten Internationalen Gerichtshofs der Vereinten Nationen austreten.
 
-as: dark nobility, jesuits, illuminati, kabbal, “black sun” sect, some dragon clans, aristocracy
-flower clans and other criminal secret sects, united in one of the kabbal locomotive
-movements, in secret from The Peoples of the Countries committed the crime of transforming
-the People's State Administrations of the People's Countries into private corporate companies,
-thereby moving into the status of private corporations, such as Israel, China, the Russian
-Federation, the USA.
+So erlaubt die terroristische kabbalistische Bewegung, nachdem sie die Völker ihrer Länder und das gesamte Volk der Welt getäuscht hat, die Begehung blutiger Verbrechen wie: Missachtung der Menschenrechte, Völkermord, massenhafte blutige Opfer und andere schreckliche globale Verbrechen gegen das Volk ihrer Länder und gegen die gesamte helle Menschheit, Gott und die Natur.
 
-As per the above fact, it becomes clear why the International Court of Justice UN,
-according to the charter, cannot accept private companies instead of countries, but the false
-mass media immediately reverse this fact, deceiving the People of the Earth by the fact that
-the countries Israel, China, the Russian Federation, the United States are allegedly
-withdrawing from the membership of the International Court of Justice United Nations
-founded in 1945.
+Es sei daran erinnert, dass alle Rechte der ständigen Mitgliedschaft in der UN und der ständigen Mitgliedschaft im UN-Sicherheitsrat in Bezug auf die VR China Taiwan gehören und nicht der VR China Corporation.
 
-Thus, the terrorist kabbal movement, having deceived the Peoples of their Countries
-and the entire People of the World, allows committing bloody crimes, such as: ignoring
-Human Rights, genocide, mass bloody sacrifices and other terrible global crimes against the
+Die Union der Sozialistischen Sowjetrepubliken als Älterer Bruder hat viel für das chinesische Volk getan, es verteidigt, gelehrt und Gold an die Schatzkammer der Kommunistischen Partei Chinas vergeben.
 
-People of their Countries and against all bright Humanity, God and Nature.
+Aufgrund der kriminellen Missachtung der offiziellen Anordnungen des Souveränen Internationalen Schatzamtes Monetary One (das auch die Funktion der Staatsschatzamtes der Union der Sozialistischen Sowjetrepubliken wahrnimmt), das der Eigentümer von Geldmitteln und Goldfinanzanlagen ist, einschließlich der auf Einlagen gehaltenen Mittel und Goldanlagen,
 
-Please be reminded that ali rights of permanent membership in the UN and permanent
-membership in the UN Security Council in relation to the PRC belong to Taiwan rather than
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Schatzamtes Monetary One stellt eine strafbare Handlung dar.
 
-to the PRC corporation.
+3 von 8
 
-The Union of Soviet Socialist Republics, as the Elder Brother, did a lot for the Chinese
-People, defended, taught, allocated gold to the Treasury of the Communist Party of China.
 
-On the basis of Criminal disregard on the part of the PRC corporation of the official
-orders of the Sovereign International Treasury Monetary One (also performing the function
-of the State Treasury of the Union of Soviet Socialist Republics), which is the Owner of
 
-Monetary Funds and gold financial assets, including funds and gold Assets held on deposits,
+## Abschnitt 006
 
-Tlonnenka ofpiustatcter noxyMeirrop Cyzepenoro Mexityıaponnoro Kasnauelicraa
-waxaayemsım npeorynacunem / Any forgery of the official documents of the Sovergigfiß
-Monetary One shall be a crime punishable by law +)
+gescannt mit CamScanner
 
-3 of 8 8:
 
+## Abschnitt 007
 
+Lagerung und Verwaltung durch das Land VR China und die VR China Corporation, und damit die internationalen Verpflichtungen gegenüber dem Eigentümer und Hauptregulierer des Weltfinanzsystems – dem Souveränen Internationalen Schatzamt Monetary One und dem Souveränen Land – der Union der Sozialistischen Sowjetrepubliken nicht erfüllt.
 
-## Section 006
+Basierend auf dem illegalen und betrügerischen Unternehmensrecht der VR China Corporation auf die kriminelle Aneignung fremden Finanzeigentums auf dem Territorium des Landes VR China.
 
-skenovan& pomocou CamScanne
+Basierend auf der Nichterfüllung der Verpflichtungen zur Umsetzung eines Teils der Anordnung des Souveränen Internationalen Schatzamtes Monetary One Nr. 008/RES 2021 vom 21. Dezember 2021 durch die VR China Corporation.
 
+Auf der Grundlage des von der VR China Corporation begangenen Verbrechens der verdeckten Beteiligung und geheimen Finanzierung der Harvard- und Houston-Projekte zur Durchführung des Völkermords an den Slawen, den souveränen Bürgern des Großen Souveränen Landes – der Union der Sozialistischen Sowjetrepubliken, in einem organisierten Bürgerkrieg auf dem Territorium des Souveränen Landes der UdSSR infolge eines organisierten Konflikts zwischen zwei privaten Verwaltungsgesellschaften, der Ukrainischen Volksrepublik und der Russischen Föderation – Russland.
 
-## Section 007
+Auf der Grundlage der Umsetzung einer inakzeptablen Kolonialpolitik durch die VR China Corporation gegenüber dem Souveränen Land der Union der Sozialistischen Sowjetrepubliken und seinem Großen Souveränen Volk der UdSSR in verschiedenen Formen der kolonialen Eroberung und Aneignung des Souveränen Territoriums des Souveränen Landes UdSSR und der Natürlichen Ressourcen des Souveränen Landes UdSSR sowie in Bezug auf andere Länder.
 
-storage and management by the PRC Country and the PRC corporation, thereby not fulfilling
-the International obligations to the Owner and Chief Regulator of the World Financial System
-- the Sovereign International Treasury Monetary One and to the Sovereign Country - the
+Basierend auf den Verbrechen, die infolge der geheimen und illegalen Verwaltung des FRS durch die LI-Dynastie (einem der Hauptclans der VR China Corporation) begangen wurden.
 
-Union of Soviet Socialist Republics.
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Schatzamtes Monetary One stellt eine strafbare Handlung dar.
 
-Based on the illegal and fraudulent corporate law of the PRC corporation on the
-criminal appropriation of someone else's Financial Property in the territory of the PRC
+40 von 8
 
-Country.
 
-Based on the non-fulfillment of obligations to implement part of the Order of the
-Sovereign International Treasury Monetary One No. 008/RES 2021 dated December 21, 2021,
-by the PRC corporation.
 
-On the basis of the crime committed by the PRC corporation on covert participation
-and secret financing of the Harvard and Houston projects to carry out the genocide of the
-Slavs, Sovereign Citizens of the Great Sovereign Country - the Union of Soviet Socialist
-Republics, in an organized civil war on the territory of the Sovereign Country of the USSR as
-a result of an organized conflict between two private management companies Ukrainian
+## Abschnitt 008
 
-People's Republic and Russian Federation - Russia.
+gescannt mit CamScanner
 
-On the basis of the implementation by the PRC corporation of an unacceptable colonial
-policy towards the Sovereign Country of the Union of Soviet Socialist Republics and its Great
-Sovereign People of the USSR on various forms of colonial seizure and appropriation of the
-Sovereign Territory of the USSR Sovereign Country and the Natural Resources of the USSR
 
-Sovereign Country, as well as in relation to to other countries.
+## Abschnitt 009
 
-Based on the crimes committed as a result of the secret and illegal management of the
+Auf der Grundlage einer kriminellen Verschwörung und krimineller Aktivitäten gegen die Helle Menschheit des terroristischen Kults "Schwarze Sonne" (zu dem die Tang-Dynastie gehört, vertreten durch Xi Jinping, der öffentlich die VR China Corporation leitet), PutYin ((Alexey und Alexander), der öffentlich das private Unternehmen RF leitet) und viele andere Leiter privater Unternehmen, die sich als Staaten ausgeben, die direkt oder anderweitig Teil einer anti-menschlichen Gruppe (KABBAL) sind.
 
-FRS by the LI dynasty (one of the main clans of the PRC corporation).
+Auf der Grundlage der begangenen internationalen Finanzverbrechen, die internationalem Terrorismus gleichgestellt sind, der Entwicklung und Einführung von Fiat- (ungedeckten) MI (XAU) Treasury Bills des Souveränen Internationalen Schatzamtes Monetary One (Anordnung des Souveränen Internationalen Schatzamtes Monetary One Nr. 028/RES 2023 vom 18.03.2023) in den Finanzumlauf,
 
-Raxaayemum npeeryrutenuem / Any forgery of the official documents of the Sovgpsifhikı
-Monetary One shatl be a crime punishable by law ay,
+elektronischen und digitalen Währungen und Zahlungsmitteln.
 
-40f8
+Durch Gottes Gnade, durch das Recht des Souveräns, auf der Grundlage des Exklusiven Historischen Eigentumsrechts an der gesamten Erde mit ihren oberirdischen, unterirdischen, oberflächlichen, unterwasser-, luft- und außerirdischen Räumen vom Schöpfer der Neuen Ära, durch das Recht des Absoluten Eigentums an allen Weltvermögenswerten und dem gesamten Weltfinanzsystem, durch das Recht des Hauptregulierers des gesamten Weltfinanzsystems, in Erfüllung der Lichtziele der Göttlichen Vorsehung und der Großen Göttlichen Vorsehung,
+WIR ENTSCHEIDEN HIERMIT:
+Entziehen der Rechtspersönlichkeit und Anerkennung außerhalb des Göttlichen Gesetzes der Schöpfung und außerhalb des Gesetzes, entziehen aller Vermögenswerte, aller finanziellen Vermögenswerte, aller Energien und des Rechts auf Existenz:
+- Die kriminelle anti-menschliche Sekte, der sogenannte "Schwarze Sonne"-Kult, ihre Diener und Komplizen, alle ihre Organisationen und Trusts;
 
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Schatzamtes Monetary One stellt eine strafbare Handlung dar.
 
+5 von 8
 
-## Section 008
 
-skenovan& pomocou CamScanne
 
+## Abschnitt 010
 
-## Section 009
+gescannt mit CamScanner
 
-On the basis of a criminal conspiracy and criminal activities in relation to the Bright
-Humanity of the terrorist cult “black sun” (which includes the Tang dynasty, represented by
-Xi Jinping, who publicly heads the PRC corporation), PutYin ((Alexey and Alexander), who
-publicly heads the RF private company) and many other heads of private corporations posing
 
-as States that are directly or otherwise part of an anti-human group (KABBAL).
+## Abschnitt 011
 
-On the basis of the committed International financial crimes equated to International
-Terrorism, on the development and introduction into financial circulation of fiat (unsecured
-MI (XAU) Treasury Bills of the Sovereign International Treasury Monetary One (Order of
-the Sovereign International Treasury Monetary One No. 028/RES 2023 of 18.03.2023)),
+- Die bekannte TAN-Dynastie, ihre Diener und Komplizen, alle ihre Organisationen und Trusts;
+- Die bekannte LI-Dynastie, ihre Diener und Komplizen, alle ihre Organisationen und Trusts;
+- VR China Corporation und alle ihre Unternehmenseinheiten und Trusts;
+- Taiwanische Kaiserliche Familie, ihre Diener und Komplizen, alle ihre Organisationen und Trusts (einschließlich aller Dynastischen Trusts).
 
-ca
+Entziehen der Rechtspersönlichkeit und Anerkennung außerhalb des Göttlichen Gesetzes der Schöpfung und außerhalb des Gesetzes, entziehen aller Vermögenswerte, aller finanziellen Vermögenswerte, aller Energien und des Rechts auf Existenz von internationalen, kriminellen, anti-menschlichen, terroristischen Einheiten und Gruppen:
+- Schwarzer Drache, Roter Drache, Gelber Drache, Grüner Drache, Blauer Drache, ihre Diener und Komplizen, alle ihre Organisationen und Trusts;
+- Die sogenannten Aristokratien (schwarze Aristokratie, blaue Aristokratie, rote Aristokratie, gelbe Aristokratie, grüne Aristokratie), ihre Diener und Komplizen, alle ihre Organisationen und Trusts;
+- Kriminelle terroristische Gruppen namens "Komitee der 300", alle Einheiten und alle Rechtssubjekte, die feindlich gegenüber der Lichtmenschheit, der Gerechtigkeit, dem Göttlichen Gesetz der Schöpfung und der Souveränität sind.
+Alles Eigentum der oben genannten ehemaligen Rechtssubjekte unterliegt der sofortigen Beschlagnahme und Übertragung auf die Bilanz des Souveränen Internationalen Schatzamtes Monetary One mit weiterer Verteilung durch die Oberste Souveräne Macht, die das Volk auf dem Territorium der wiederhergestellten Souveränen Länder ist.
 
-5
-electronic and digital currencies and means of payment. E
+3. Gemäß dieser Anordnung:
+- Alle internationalen und nationalen Anti-Terror- und Rechtsorganisationen,
+- Alle militärischen Organisationen,
 
-By God’s mercy, by the Right of the Sovereign, on the basis of the Exclusive Historical
+6 von 8
 
-eS
 
-Right of Ownership of the entire Earth with its aboveground, underground, surface,
-underwater, air and outer spaces from the Creator of the New Era, by the Right of Absolute 5
-Ownership of all World Assets and the entire World Financial System, by the Right of the [E
 
-Chief Regulator of the entire World Financial System, in fulfillment of the Light purposes of “||
+## Abschnitt 012
 
-God's Providence and the Great Divine Providence, 5
-WE HEREBY DECIDE: fl
-Deprive of Legal Personality and recognize outside the Divine Law of Creation and
+gescannt mit CamScanner
 
-outside the Law, withdraw all Assets, all financial Assets, all energies and the Right to Exist fl
 
-« The criminal anti-human sect, the so-called “black sun" cult, their servants and =|
-accomplices, all their organizations and trusts; [E
+## Abschnitt 013
 
-Tlonnensa opmuannuix aokymerros Cysepennoro Menuynaponuoro Kaunaueiiersa Mi annsercd yronosuo =|
-naxasyemms npecrynnemmem / Any forgery of the official documents of the Sovereign Inetyauoagt Tigasury
-Monetary One shall be a crime punishable by law td Sch
+- Allen tatsächlichen Anordnungen,
+- Allen Meistern des Weltsystems,
+- Allen Meistern des Weltfinanzsystems,
+- Allen internationalen und nationalen Kontrollorganisationen,
+- Allen Missionaren, die eine Mission vor dem Einen Gott, dem All-Schöpfer, erfüllen und Licht und Wissen in die Welt bringen,
+- Allen Welt-Räumen: YAVE, NAVE, SLAVE und PRAVE.
+- Gemäß der All-Licht-All-Himmlischen-All-Göttlichen-Vorsehung, der All-Großen-Göttlichen-Vorsehung, allen All-Großen-Kosmischen-Kräften, allen All-Göttlichen-Armeen, allen All-Göttlichen-Flotten sowie der Großen Flotte von RA, beginnen Sie sofort mit der Umsetzung dieser Anordnung hinsichtlich ihrer vollständigen Durchführung.
 
-5 of 8
+Das Souveräne Internationale Schatzamt Monetary One empfiehlt der gesamten Hellen Menschheit und allen internationalen Rechtssubjekten, die auf den Prinzipien der Volkssouveränität organisiert sind und die Prinzipien der Volkssouveränität beachten, dringend, in ihrem Land ein Selbstorganisationsverfahren durchzuführen, um die Oberste Volksmacht des Souveräns zu manifestieren und den Souveränen Status ihres Mutterlandes für eine helle, friedliche und kreative Entwicklung der universellen Liebe und Freundschaft im Weltraum wiederherzustellen. Das Souveräne Internationale Schatzamt Monetary One empfiehlt eine kompetente und helle Herangehensweise an die Frage der Selbstorganisation auf Systemebene. Das Souveräne Internationale Schatzamt Monetary One wünscht allen Ländern und allen Nationen der Welt der gesamten Hellen Menschheit die schnelle Wiederherstellung ihres Hellen Zuhauses unter der Souveränen Flagge und dem heiligen Namen des Mutterlandes im universellen kreativen Aufbau Unserer Hellen Welt als universellen heimischen Tempel.
 
-a
-E
-ii
+Das Souveräne Internationale Schatzamt Monetary One bestätigt nachdrücklich seine Erklärung und die zukünftige unparteiische und korrekte Erfüllung seiner Lichtmission, die Gerechtigkeit wiederherzustellen und ein All-Licht-All-Himmlisches System aufzubauen, das im Glauben und in der Wahrheit der Hellen Menschheit dienen soll und wird,
 
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Schatzamtes Monetary One stellt eine strafbare Handlung dar.
 
-## Section 010
+7 von 8
 
-skenovan& pomocou CamScanne
 
 
-## Section 011
+## Abschnitt 014
 
-© The well-known TAN Dynasty, their servants and accomplices, all their organizations
+gescannt mit CamScanner
 
-and trusts;
 
-« The well-known LI Dynasty, their servants and accomplices, all their organizations and
-trusts;
+## Abschnitt 015
 
-« PRC Corporation and all its corporate entities and trusts;
-
-fal
-
-© Taiwan Imperial Family, their servants and accomplices, all their organizations and
-
-trusts (including all Dynastic Trusts).
-
-Deprive of Legal Personality and recognize outside of the Divine Law of Creation and
-outside of the Law, withdraw all Assets, all financial Assets, all energies and the Right of
-
-Existence from International, criminal, anti-human, terrorist entities and groups:
-
-¢ black dragon, red dragon, yellow dragon, green dragon, blue dragon, their servants and
-
-els ets yer)
-
-accomplices, all their organizations and trusts;
-
-Gr
-
-¢ The so-called aristocracies (black aristocracy, blue aristocracy, red aristocracy, yellow
-
-aristocracy, green aristocracy), their servants and accomplices, all their organizations fl
-and trusts; ]
-Criminal terrorist groups called "committee of 300", all entities and any Subjects of [E
-Law, hostile against the Light Humanity, Justice, the Divine Law of Creation and Sovereignty. =
-All property of the above former Subjects of Rights is subject to immediate “||
-
-confiscation and transfer to the balance of the Sovereign International Treasury Monetary One E
-
-with further distribution of the Supreme Sovereign Power, which is the People on the territory
-
-of the restored Sovereign Countries. 5
-
-3. Pursuant to this Order: 5
-
-® All International and Country, counter-terrorism and legal organizations, [E
-
-@ All military organizations,
-
-gl
-mi
-E
-E 60f8
-
-Ge
-
-Kell
-
-
-
-## Section 012
-
-skenovan& pomocou CamScanne
-
-
-## Section 013
-
-« To all actual Orders,
-
-@ To all Masters of the World System,
-
-To all Masters of the World Financial System,
-
-© All International and Country Control Organizations,
-
-+ To all missionaries performing a mission before the One God The All-Creator,
-
-bringing Light and Knowledge to the World,
-@ To All world spaces: YAVE, NAVE, SLAVE and PRAVE.
-
-© Pursuant to the All Light All of Heaven All Divine Providence to All Great Divine
-Providence, All Great Cosmic Forces, All Divine Armadas, all Divine Fleets, as well
-as the Great Fleet of RA, immediately begin to implement this Order in terms of its
-full implementation.
-
-The Sovereign International Treasury Monetary One strongly recommends to all Bright
-Humanity and all International Subjects of Law, organized on the basis of the principles of
-popular Sovereignty and observing the principles of popular Sovereignty, to conduct a self-
-organization procedure in their country in order to manifest the Supreme People’s Power of
-the Sovereign and retum the Sovereign status of their Motherland. for a Light, Peaceful arid
-Creative development of universal love and friendship in the World Space. The Sovereign
-International Treasury Monetary One recommends a competent and Light approach to the
-issue of self-organization at the system level. The Sovereign International Treasury Monetary
-One wishes all Countries and all Nations of the World of all Bright Humanity the quick
-restoration of their Bright Home under the Sovereign flag and the sacred name of Motherland
-in the universal Creative Construction of Our Bright World, as a universal native Temple.
-
-Sovereign International Treasury Monetary One firmly confirms its statement and in
-the future impartial and correct fulfillment its Light mission to restore justice and build an All-
-
-Light All-Heavenly system, which should and will, in Faith and Truth, serve the Bright
-
-Ilonnenka opaunansusix nokyMentos Cysepennoro Mexayxaponuoro Kasuavelictea MI, glgagiga yronosno
-naxazyemnim npectynneunem / Any forgery of the official documents of the Sovereign if
-Monetary One shall be a crime punishable by law
-
-7 of 8
-
-wed bas dl & edd
-
-oe
-
-elsyelsyelsyeisye ls
-
-(sfelspe
-
-
-## Section 014
-
-skenovan& pomocou CamScanne
-
-
-## Section 015
-
-Humanity, and therefore All-God, All-Creator, All God Almighty, as the One All-Heavenly
-r
-
-All-God the All-Creator of All-Creator of all Existing and All-Non-existing in the creation of
-
-All-Light-All-Great-All-Heaven...
+und daher All-Gott, All-Schöpfer, All-Gott-Allmächtig, als der Eine All-Himmlische All-Gott der All-Schöpfer von Allem-Schöpfer von allem Existierenden und allem Nicht-Existierenden in der Schöpfung von All-Licht-All-Groß-All-Himmlisch...
 
 White Spiritual Boy
 
-Secretary General
-of the International Treasury Monetary One
+Generalsekretär
+des Internationalen Schatzamtes Monetary One
 
-President
-of White Spiritual Boy R. S. B. Global Corp INC
+Präsident
+von White Spiritual Boy R. S. B. Global Corp INC
 
-Chairman of the Board
-of the World Sovereign Bank
-of the Order of the Hospitallers
+Vorsitzender des Vorstands
+der Welt-Souveränen Bank
+des Ordens der Hospitaliter
 
-Monetary One shall be a crime punishable by law
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Schatzamtes Monetary One stellt eine strafbare Handlung dar.
 
-8 of 8
-
-
+8 von 8

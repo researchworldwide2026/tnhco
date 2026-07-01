@@ -1,74 +1,74 @@
 # Resolution-007
 
-**Quell-PDF:** „Resolution-007.pdf“.
+**Quell-PDF:** `Resolution-007.pdf`
 
 **Extraktionsmethode:** pdftotext (eingebetteter Text)
 
 ---
 
-5. 10. 2021 21:10 ENTSCHLIESSUNG Nr. 007 :: Global Treasury Monetary One und Goldbarrendepot
+5. 10. 2021 21:10                        RESOLUTION Nr. 007 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-                                                                          → Gehen Sie zur Website ICC „Light Great Russia“
+                                                                          → Zur Website des ICC «Light Great Russia»
 
 
 
-    Homepage / Resolution / RESOLUTION Nr. 007
-
-
-
-
-    ENTSCHLIESSUNG Nr. 007
+    Startseite / Resolution / RESOLUTION Nr. 007
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-007 1/9
-5. 10. 2021 21:10 ENTSCHLIESSUNG Nr. 007 :: Global Treasury Monetary One und Goldbarrendepot
+    RESOLUTION Nr. 007
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-007 2/9
-5. 10. 2021 21:10 ENTSCHLIESSUNG Nr. 007 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-007                                                                                   1/9
+5. 10. 2021 21:10                        RESOLUTION Nr. 007 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-007 3/9
-5. 10. 2021 21:10 ENTSCHLIESSUNG Nr. 007 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-007                                                                                   2/9
+5. 10. 2021 21:10                        RESOLUTION Nr. 007 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-007 4/9
-5. 10. 2021 21:10 ENTSCHLIESSUNG Nr. 007 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-007                                                                                   3/9
+5. 10. 2021 21:10                        RESOLUTION Nr. 007 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-007 5/9
-5. 10. 2021 21:10 ENTSCHLIESSUNG Nr. 007 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-007                                                                                   4/9
+5. 10. 2021 21:10                        RESOLUTION Nr. 007 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-007 6/9
-5. 10. 2021 21:10 ENTSCHLIESSUNG Nr. 007 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-007                                                                                   5/9
+5. 10. 2021 21:10                        RESOLUTION Nr. 007 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-007 7/9
-5. 10. 2021 21:10 ENTSCHLIESSUNG Nr. 007 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-007                                                                                   6/9
+5. 10. 2021 21:10                        RESOLUTION Nr. 007 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-007 8/9
-5. 10. 2021 21:10 ENTSCHLIESSUNG Nr. 007 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-007                                                                                   7/9
+5. 10. 2021 21:10                        RESOLUTION Nr. 007 :: Global Treasury Monetary One und Goldbarren-Depot
+
+
+
+
+https://ruskazna.su/en/rezolyuciya-007                                                                                   8/9
+5. 10. 2021 21:10                        RESOLUTION Nr. 007 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
@@ -79,4 +79,4 @@ https://ruskazna.su/en/rezolyuciya-007 8/9
 
 
 
-https://ruskazna.su/en/rezolyuciya-007 9/9
+https://ruskazna.su/en/rezolyuciya-007                                                                                   9/9

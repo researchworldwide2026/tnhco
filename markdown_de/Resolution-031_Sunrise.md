@@ -1,118 +1,86 @@
 # Resolution-031_Sunrise
 
-# Resolution-031_Sunrise
+**Quell-PDF:** `Resolution-031_Sunrise.pdf`
 
-**Source PDF:** `Resolution-031_Sunrise.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 8
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR mittels eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 8
+**OCR:** tesseract deu+eng, Schwellwert-Vorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
-skenovan& pomocou CamScanne
+gescannt mit CamScanner
 
 
-## Section 001
+## Abschnitt 001
 
 URN
 RY
 
-Gysepennoe Mexaynapoanoe Kasnaveicteo AM
+Souveränes Internationales Treasury Monetary One
+LEI: 2534008YC6NRP4BLOF1S; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Sovereign International Treasury Monetary One
-LEI: 2534008YC6NRP4BLOF1S; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
-
-Alata: 18 April 2023
-N° 03 /RES2023
+Datum: 18. April 2023
+Nr. 03 /RES2023
 Kon: @ 0139T DRA
 Koa: ad 786 TAH
 
-Program Sunrise
+Programm Sunrise
 
-Creation, Sufficiency, Development, Abundance and Prosperity
+Schöpfung, Suffizienz, Entwicklung, Fülle und Wohlstand
 
-The procedure for the transition of the Banking Systems of the World
-Countries to Gold Standard
+Das Verfahren für den Übergang der Bankensysteme der Weltländer zum Goldstandard
 
 1.
 
-11 A large, preferably State Bank of the Partner Country (hereinafter referred to as
-the Bank of the Country), selected by the Government or the goveming bodies of
-the Country, writes a letter to the World Sovereign Bank of the Order of Hospitallers
-about their readiness to cooperate with the World Sovereign Bank of the Order of
-Hospitallers.
+1.1 Eine große, vorzugsweise staatliche Bank des Partnerlandes (im Folgenden als die Bank des Landes bezeichnet), ausgewählt von der Regierung oder den Regierungsorganen des Landes, schreibt einen Brief an die Welt-Souveräne Bank des Ordens der Hospitaliter über ihre Bereitschaft zur Zusammenarbeit mit der Welt-Souveränen Bank des Ordens der Hospitaliter.
 
-12 The Government of the Country approves the National Currency and
+1.2 Die Regierung des Landes genehmigt die Nationale Währung und legt ihren festen, konstanten Gehalt in Bezug auf ein Gramm Gold fest.
 
-determines its fixed, constant content in relation to a gram of Gold.
+1.3 Die Bank des Landes eröffnet und aktiviert das NOSTRO-Konto für die Welt-Souveräne Bank des Ordens der Hospitaliter.
 
-1.3 The Bank of the Country opens and activates the NOSTRO Account for the
-World Sovereign Bank of the Order of Hospitallers.
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Treasury Monetary One ist eine strafbare Handlung.
 
-Tloanenka opmusanssix Roxymeton Cyaepenhoro Mexiynaponnoro Kasnaueliersa Mi nanzerge Seh; fain,
-Hakasyembim npecrynneunem / Any forgery of the official documents of the Sovereign InternafforstTretnuby, *,
-Monetary One shall be a crime punishable by law 08
-
-lof4
+1 von 4
 
 
 
-## Section 002
+## Abschnitt 002
 
-skenovan& pomocou CamScanne
+gescannt mit CamScanner
 
 
-## Section 003
+## Abschnitt 003
 
-1.4 Also, if necessary, the Bank of the Country submits an application to the World
-Sovereign Bank of the Order of Hospitallers to open a NOSTRO Account for the
-Bank of the Country in the World Sovereign Bank of the Order of Hospitallers.
+1.4 Auch, falls erforderlich, reicht die Bank des Landes einen Antrag bei der Welt-Souveränen Bank des Ordens der Hospitaliter ein, um ein NOSTRO-Konto für die Bank des Landes bei der Welt-Souveränen Bank des Ordens der Hospitaliter zu eröffnen.
 
-1.5 The World Sovereign Bank of the Order of Hospitallers transfers to the Bank
-of the Country the Banking software (Gold Standard) with a double profile
-accounting system:
+1.5 Die Welt-Souveräne Bank des Ordens der Hospitaliter überträgt der Bank des Landes die Bankensoftware (Goldstandard) mit einem Doppelprofil-Buchhaltungssystem:
 
-1) profile - World Reserve Currency MI (XAU) (Resolution of the Sovereign
-International Treasury Monetary One No. 001 / RES2020 dated 07.04.2020)
-2) profile - New National Gold Currency of the Country M 1 (XAU).
+1) Profil - Weltreservewährung MI (XAU) (Resolution des Souveränen Internationalen Treasury Monetary One Nr. 001 / RES2020 vom 07.04.2020)
+2) Profil - Neue Nationale Goldwährung des Landes M 1 (XAU).
 
-1.6 Bank of the Country receives software from the World Sovereign Bank of the
-Order of Hospitallers and becomes the System Bank Regulator of the entire Banking
-System ofthe Country.
+1.6 Die Bank des Landes erhält die Software von der Welt-Souveränen Bank des Ordens der Hospitaliter und wird zum Systembank-Regulator des gesamten Bankensystems des Landes.
 
 2.
-2.1 The World Sovereign Bank of the Order of Hospitallers sends a letter to the
-Bank of the Country about opening a deposit account in the Bank of the Country
-for the World Sovereign Bank of the Order of Hospitallers.
+2.1 Die Welt-Souveräne Bank des Ordens der Hospitaliter sendet einen Brief an die Bank des Landes über die Eröffnung eines Einlagenkontos bei der Bank des Landes für die Welt-Souveräne Bank des Ordens der Hospitaliter.
 
-2.2 After opening a deposit account for the World Sovereign Bank of the Order
-of Hospitallers in the Bank of the Country, the World Sovereign Bank of the Order
-of Hospitallers issues SKR for System, Balance, Banking Gold (Gold Owner
-Sovereign International Treasury Monetary One) and directs it to its deposit
+2.2 Nach der Eröffnung eines Einlagenkontos für die Welt-Souveräne Bank des Ordens der Hospitaliter bei der Bank des Landes gibt die Welt-Souveräne Bank des Ordens der Hospitaliter SKR für System, Bilanz, Bankgold (Gold Owner Sovereign International Treasury Monetary One) aus und leitet es auf ihr Einlagenkonto bei der Bank des Landes.
 
-account with the Bank of the Country.
+2.3 Nachdem SKR dem Einlagenkonto der Welt-Souveränen Bank des Ordens der Hospitaliter bei der Bank des Landes gutgeschrieben wurde, erteilt die Welt-Souveräne Bank des Ordens der Hospitaliter der Bank des Landes den Auftrag, das Einlagenkonto, auf dem SKR platziert ist, zu sperren, für die Ausgabe der Weltreservewährung MI (XAU) (Resolution des Souveränen Internationalen Treasury Monetary One Nr. 001/RES2020 vom 07.04.2020).
 
-2.3 After SKR is credited to the Deposit account of the World Sovereign Bank of “||
-the Order of Hospitallers in the Bank of the Country, the World Sovereign Bank of “||
-the Order of Hospitallers gives an order to the Bank of the Country to block the E
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Treasury Monetary One ist eine strafbare Handlung.
 
-Tlomtenka obwukanbiibix aokymentos Cysepennoro Mexaynaponnoro Kasuayelictaa Mi gan
-HAKAIYEMEIM NIPECTYTLIERKEM / Any forgery of the official documents of the Sovereign {nteratia
-Monetary One shall be a crime punishable by law ae
-
-2 of 4 re
+2 von 4
 
 
 
-## Section 004
+## Abschnitt 004
 
-skenovan& pomocou CamScanne
+gescannt mit CamScanner
 
 
-## Section 005
+## Abschnitt 005
 
 2.4
 
@@ -120,65 +88,37 @@ skenovan& pomocou CamScanne
 
 2.6
 
-deposit account where SKR is placed, to the Sovereign International Treasury
-Monetary One for the Issuance of the World Reserve Currency MI (XAU)
-(Resolution of the Sovereign International Treasury Monetary One No.
-001/RES2020 dated 07.04.2020).
+Das Souveräne Internationale Treasury Monetary One gibt die Weltreservewährung MI (XAU) aus und schreibt sie dem Konto der Welt-Souveränen Bank des Ordens der Hospitaliter beim Souveränen Internationalen Treasury Monetary One gut (Resolution des Souveränen Internationalen Treasury Monetary One Nr. 001/RES2020 vom 07.04.2020, Anordnung des Souveränen Internationalen Treasury Monetary One Nr. 028/RES2023 vom 18. März 2023).
 
-The Sovereign International Treasury Monetary One issues the World
-Reserve Currency MI (XAU) and credits it to the account of the World Sovereign
-Bank of the Order of Hospitallers in the Sovereign International Treasury Monetary
-One (Resolution of the Sovereign International Treasury Monetary One No.
-001/RES2020 dated 07.04.2020, Order of the Sovereign International Treasury
-Monetary One No. 028/RES2023 dated March 18, 2023).
+Die Welt-Souveräne Bank des Hospitaliterordens überweist die Weltreservewährung auf ihr Länderbankkonto.
 
-The World Sovereign Bank of the Hospitallers Order transfers the World
-Reserve Currency to its Country Bank Account.
+Gemäß einer Vereinbarung zwischen der Regierung des Landes (oder einer autorisierten Organisation des Partnerlandes) mit dem Souveränen Internationalen Treasury Monetary One wird die Weltreservewährung M1 (XAU) in der Bank des Landes gesperrt, um die Emission der Nationalen Goldwährung M1 (XAU), Goldstandard, zu gewährleisten. Die Nationale Goldwährung des Landes operiert weltweit und wird von der Systembank des Landes im Gemeinsamen Souveränen Weltbankensystem RA MI reguliert, unter der universellen Regulierung der Welt-Souveränen Bank des Ordens der Hospitaliter als Hauptregulator des Weltbankensystems (Anordnung des Souveränen Internationalen Treasury Monetary One Nr. 019/RES2022 vom 23.09.2022).
 
-Under an agreement between the Government of the Country (or an
-authorized organization of the Partner Country) with the Sovereign International
-Treasury Monetary One, the World Reserve Currency M1 (XAU) is blocked in the
-Bank of the Country to ensure the Emission of the National Gold Currency M1
-(XAU), Gold Standard. The National Gold Currency of the Country Operates all
-over the World and is regulated by the System Bank of the Country in the Common
-Sovereign World Banking System RA MI, under Universal Regulation of the
-World Sovereign Bank of the Order of Hospitallers as the Chief Regulator of the
-World Banking System (Order of the Sovereign International Treasury Monetary
-One No. 019/RES2022 dated 23.09.2022).
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Treasury Monetary One ist eine strafbare Handlung.
 
-Tlogacaka odmypansasix AOKyMcHToB Cyscpehhoro Mexaynapoanoro Kaswavelicrea Ml spasgita yrondgp
-Haxasyembımt npectynmenuem / Any forgery of the official documents ‚of the Sovereign tmternatigha
-Monetary One shall be a crime punishable by law
-
-Fi
-30f4 *
+3 von 4
 
 
 
-## Section 006
+## Abschnitt 006
 
-skenovan& pomocou CamScanne
+gescannt mit CamScanner
 
 
-## Section 007
+## Abschnitt 007
 
-WORLD PROGRAM SUNRISE
-On Building a Bright, Sovereign Worid Financial System
+WELTPROGRAMM SUNRISE
+Zum Aufbau eines hellen, souveränen Weltfinanzsystems
 RAM
-based on the Systemic, Balance, Banking Gold is the Sovereign World Program for
-the Development of Light Humanity along the Path of Spiritual Development in the
-Divine Law of Creation, /
+basierend auf dem systemischen, bilanziellen Bankgold ist das Souveräne Weltprogramm für die Entwicklung der Lichtmenschheit auf dem Weg der spirituellen Entwicklung im Göttlichen Gesetz der Schöpfung.
 
-Secretary General
-ofthe Sovereign International Treasury Monetary One
+Generalsekretär
+des Souveränen Internationalen Treasury Monetary One
 
-President
-of White Spiritual Boy R. 8. B. Global Corp INC,
+Präsident
+von White Spiritual Boy R. 8. B. Global Corp INC,
 
-Chairman of the Board
-of the World Sovereign Bank of the Order of the Hospitallers
+Vorsitzender des Vorstands
+der Welt-Souveränen Bank des Ordens der Hospitaliter
 
-Tonnenka opmmanubıx norymenron GPgqpelkitra, Mgxaynapontore Kasmaueiersa M1 annaerca yronosno
-
-
-
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Treasury Monetary One ist strafbar.

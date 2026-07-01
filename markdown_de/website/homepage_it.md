@@ -1,5 +1,3 @@
-# homepage_it
-
 # TNHCO Homepage (IT)
 
 **URL:** https://tnhco.org/it/home_it/
@@ -38,7 +36,7 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 				
 				
 				
-									Terra Nova Helvetica è un&#8217;istituzione finanziaria internazionale e uno strumento unificante per tutte le persone &#8211; fisiche e giuridiche &#8211; di tutte le regioni del mondo, indipendentemente da sesso, religione, condizione sociale, opinioni o altri orientamenti. La cooperativa crea le stesse condizioni per ogni socio. Le condizioni per diventare soci di TNHCO sono spiegate nel modulo di richiesta e nel contratto stipulato tra TNHCO e la persona interessata ad aderire alla cooperativa. Tutte le informazioni sono disponibili sul sito web di TNHCO.Il TNHCO è stato istituito per far valere i diritti e gli interessi legali dei cittadini svizzeri, con l&#8217;obiettivo di creare benefici materiali e di altro tipo sul territorio svizzero.Le attività del TNHCO mirano a creare una struttura organizzativa, socio-economica, finanziaria e culturale.								
+									Terra Nova Helvetica ist eine internationale Finanzinstitution und ein vereinheitlichendes Instrument für alle Menschen – natürliche und juristische Personen – aller Regionen der Welt, unabhängig von Geschlecht, Religion, sozialem Status, Meinungen oder anderen Orientierungen. Die Genossenschaft schafft für jedes Mitglied die gleichen Bedingungen. Die Bedingungen für die Mitgliedschaft bei TNHCO werden im Antragsformular und im Vertrag zwischen TNHCO und der an einem Beitritt zur Genossenschaft interessierten Person erläutert. Alle Informationen sind auf der TNHCO-Website verfügbar. TNHCO wurde gegründet, um die Rechte und rechtlichen Interessen der Schweizer Bürger durchzusetzen, mit dem Ziel, materielle und andere Vorteile auf Schweizer Territorium zu schaffen. Die Aktivitäten von TNHCO zielen darauf ab, eine organisatorische, sozioökonomische, finanzielle und kulturelle Struktur zu schaffen.								
 				
 					
 		
@@ -46,7 +44,7 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 			
 						
 				
-									Le porte di TNHCO sono aperte a tutte le persone che vivono in qualsiasi parte del mondo, indipendentemente dalla loro nazionalità, che manifestano il loro interesse a partecipare a TNHCO compilando correttamente una domanda e firmando poi un contratto di adesione alla cooperativa, confermato dalla loro firma sul contratto tra l&#8217;azionista e TNHCO.								
+									Die Türen von TNHCO stehen allen Menschen offen, die in irgendeinem Teil der Welt leben, unabhängig von ihrer Nationalität, die ihr Interesse an einer Teilnahme an TNHCO bekunden, indem sie einen Antrag korrekt ausfüllen und anschließend einen Beitrittsvertrag zur Genossenschaft unterzeichnen, bestätigt durch ihre Unterschrift auf dem Vertrag zwischen dem Aktionär und TNHCO.								
 				
 				
 				
@@ -58,7 +56,7 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 				
 				
 				
-					L'OBIETTIVO PRINCIPALE DELLA COOPERATIVA È QUELLO DI RIUNIRE GLI AZIONISTI SOTTO UN UNICO TETTO CON LO SCOPO DI REALIZZARE GLI OBIETTIVI E I DESIDERI DI CIASCUN AZIONISTA PER IL BENE PROPRIO, DELLA PROPRIA FAMIGLIA, DEL PROPRIO GENERE E DELLA NAZIONE.				
+					DAS HAUPTZIEL DER GENOSSENSCHAFT IST ES, DIE AKTIONÄRE UNTER EINEM DACH ZU VEREINEN, MIT DEM ZWECK, DIE ZIELE UND WÜNSCHE JEDES AKTIONÄRS ZUM WOHLE SEINER SELBST, SEINER FAMILIE, SEINES GESCHLECHTS UND DER NATION ZU VERWIRKLICHEN.				
 				
 				
 				
@@ -70,7 +68,7 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 				
 				
 				
-									TNHCO accetta come azionisti persone fisiche e giuridiche senza intaccare il loro patrimonio, apre conti presso banche appartenenti a TNHCO, offre un sistema informatico altamente qualificato per i servizi e la gestione dei conti, e fornisce rifinanziamenti senza interessi per progetti e programmi di sviluppo socio-economico.								
+									TNHCO akzeptiert natürliche und juristische Personen als Aktionäre, ohne deren Vermögen zu beeinträchtigen, eröffnet Konten bei Banken, die TNHCO gehören, bietet ein hochqualifiziertes Computersystem für Dienstleistungen und Kontoverwaltung und gewährt zinslose Refinanzierungen für sozioökonomische Entwicklungsprojekte und -programme.								
 				
 					
 		
@@ -82,23 +80,11 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 			
 						
 				
-					LA NOSTRA MISSIONE				
+					UNSERE MISSION				
 				
 				
 						
 					
-			
-						
-				
-																														
-				
-				
-				
-					Eliminare le conseguenze della crisi finanziaria globale e il suo impatto sui membri TNHCO				
-				
-					
-		
-				
 			
 						
 				
@@ -106,7 +92,7 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 				
 				
 				
-					Protezione legale, aiuto e supporto per i soci				
+					Beseitigung der Folgen der globalen Finanzkrise und ihrer Auswirkungen auf die TNHCO-Mitglieder				
 				
 					
 		
@@ -118,7 +104,19 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 				
 				
 				
-					Proteggere i diritti e i valori umani				
+					Rechtsschutz, Hilfe und Unterstützung für die Mitglieder				
+				
+					
+		
+				
+			
+						
+				
+																														
+				
+				
+				
+					Schutz der Menschenrechte und -werte				
 				
 					
 		
@@ -134,7 +132,7 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 				
 				
 				
-					Garantire la stabilità dell'economia nazionale e il sostegno e la prosperità dei suoi membri.				
+					Gewährleistung der Stabilität der nationalen Wirtschaft sowie Unterstützung und Wohlstand ihrer Mitglieder.				
 				
 					
 		
@@ -146,7 +144,7 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 				
 				
 				
-					Protezione legale e sostegno alle persone contro le misure che portano al genocidio finanziario, sanitario, sociale e informativo del popolo svizzero.				
+					Rechtsschutz und Unterstützung von Menschen gegen Maßnahmen, die zu einem finanziellen, gesundheitlichen, sozialen und informationellen Völkermord am Schweizer Volk führen.				
 				
 					
 		
@@ -158,20 +156,4 @@ class="post-3882 page type-page status-publish ast-article-single" id="post-3882
 				
 				
 				
-					Aiuto alle persone che vivono in povertà o al limite della povertà				
-				
-					
-		
-					
-		
-					
-		
-					
-		
-				
-		
-	
-	
-	
-	
-			
+					Hilfe für Menschen, die in Armut oder an der Armutsgrenze leben

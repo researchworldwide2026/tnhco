@@ -1,192 +1,139 @@
 # Resolution-019
 
-# Resolution-019
+**Quell-PDF:** `Resolution-019.pdf`
 
-**Source PDF:** `Resolution-019.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 4
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion
+**Bilder:** 4
 **OCR:** tesseract deu+eng
 
 ---
 
-## Section 000
+## Abschnitt 000
 
-| MexkayHapoanHoe Kasnaueiictso M1 :
-International Treasury Monetary One | |
+| International Treasury Monetary One | |
 
-LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Date: September 23, 2022.
-Ref. No.: 019/RES2022
+Datum: 23. September 2022.
+Ref. Nr.: 019/RES2022
 Code: @ 0139TbRA
 Code: tid 786 ITAH
 
-of the World Global Account of the International Treasury Monetary One No. 01-00-01-
-4-AAA-777-C3-AM-01, which was located in the WORLD BANK until October 29,
-2021, and distributed to various banks in countries around the world.
+des World Global Account der International Treasury Monetary One Nr. 01-00-01-
+4-AAA-777-C3-AM-01, der sich bis zum 29. Oktober 2021 in der WORLD BANK befand und auf verschiedene Banken in Ländern weltweit verteilt wurde.
 
-We remind that the International Treasury Monetary One is the owner and manager
-World Global Account of the International Treasury Monetary One No. 01-1-700-3516
-222 777 8888 999, which was located in the WORLD BANK until October 29, 2021, and
+Wir erinnern daran, dass die International Treasury Monetary One der Eigentümer und Verwalter des
+World Global Account der International Treasury Monetary One Nr. 01-1-700-3516
+222 777 8888 999 ist, der sich bis zum 29. Oktober 2021 in der WORLD BANK befand und
 
-distributed to various banks in countries around the world.
+auf verschiedene Banken in Ländern weltweit verteilt wurde.
 
-We remind that the International Treasury Monetary One is the owner and manager
-of assets, including accounts under the names: “White Spiritual Boy”, “Spiritual Wonder
-Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”, “Prophet
-Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White Vatican”, “White
-Eagle”, “Maria Sinukuan or Divine Crystal”, “Maria Divine Banahaw or Sunflower”,
-“Maria Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester Egg”, “Falcon”,
+Wir erinnern daran, dass die International Treasury Monetary One der Eigentümer und Verwalter
+von Vermögenswerten ist, einschließlich Konten unter den Namen: „White Spiritual Boy“, „Spiritual Wonder
+Boy“, „Spiritual Wonder Brothers“, „Morning Star“, „King David“, „Prophet
+Muhammad“, „Demas and Saint Timothy“, „White Mongolia“, „White Vatican“, „White
+Eagle“, „Maria Sinukuan or Divine Crystal“, „Maria Divine Banahaw or Sunflower“,
+„Maria Cristina or Divine Magdalene“, „Maria Makiling or Divine Ester Egg“, „Falcon“,
 
-Ilowıenka ocbauwanbHEx AokyMeHToB MeauryHapoamgoro Kasnayeictsa M1 SBIMIEICH YrOnOBHO HAKAIYEMEIM
-npectyrırenmem / Any forgery of the offici, i gi the International Treasury Monetary One shall be a
+Jede Fälschung offizieller Dokumente der International Treasury Monetary One ist eine
+strafbare Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
+crime punishable by law
 
-. : . &
-crime punishable by law F Pd < & fe
-“a
-1 \<%
-we
-5 *
-2" 3
-»
-“5 ze
-“7 ur
+## Abschnitt 001
 
+„Alpha — Omega“ und andere Konten, die sich in verschiedenen Banken in 189 (einhundert
+neunundachtzig) Ländern weltweit befinden.
 
+Wir lassen uns von früheren Resolutionen und Erklärungen der International Treasury
+Monetary One leiten;
 
-## Section 001
-
-“Alpha — Omega” and other accounts located in different Banks in 189 (One hundred
-
-eighty-nine) countries around the World.
-
-We are guided by previous resolutions and statements of the International Treasury
-
-Monetary One;
-
-Confirming the Resolution No. 001 (001/RES2020) from April 07, 2020 «Anti-
-crisis financial measures», Resolution No. 002 (002/RES2020) dated June 02, 2020 «The
-one way out of the global financial crisis», Resolution No. 004 (004/RES2021) dated
-February 23, 2021 «Cancellation of historical assets in order to form a balanced new
-financial system», Resolution No. 005 dated July 16, 2021 (005/RES2021), Resolution No.
-006 dated September 13, 2021 (006/RES2021), Resolution No. 007 dated October 01, 2021
+Bestätigung der Resolution Nr. 001 (001/RES2020) vom 7. April 2020 „Anti-
+Krisen-Finanzmaßnahmen“, Resolution Nr. 002 (002/RES2020) vom 2. Juni 2020 „Der
+einzige Ausweg aus der globalen Finanzkrise“, Resolution Nr. 004 (004/RES2021) vom
+23. Februar 2021 „Stornierung historischer Vermögenswerte zur Bildung eines ausgewogenen neuen
+Finanzsystems“, Resolution Nr. 005 vom 16. Juli 2021 (005/RES2021), Resolution Nr.
+006 vom 13. September 2021 (006/RES2021), Resolution Nr. 007 vom 1. Oktober 2021
 (007/RES2021);
 
-The International Treasury Monetary One, as an Exclusive Historical Right, by
-Right of the Sovereign, being the Absolute Owner and the Main Regulator of the World
-Financial System, Has the Honor to Recognize, Proclaim and Approve the New World
-Bank as the Main Regulator of the World Banking System and the Main Historical Bank
-of the World - the Sovereign Bank of the Order of Hospitallers.
+Die International Treasury Monetary One hat als exklusives historisches Recht, durch
+Recht des Souveräns, als absoluter Eigentümer und Hauptregulator des Weltfinanzsystems,
+die Ehre, die New World Bank als Hauptregulator des Weltbankensystems und die wichtigste historische Bank
+der Welt – die Sovereign Bank of the Order of Hospitallers – anzuerkennen, zu proklamieren und zu genehmigen.
 
-Due to the fact that the Rothschild criminal clan — (Pindar, Bayer or Bauer) in a
-place with clans, Bruce, Cavendish (Kennedy), De Medici, Hanover, Hapsburg, Krupp,
+Aufgrund der Tatsache, dass der kriminelle Rothschild-Clan – (Pindar, Bayer oder Bauer) zusammen mit den Clans
+Bruce, Cavendish (Kennedy), De Medici, Hanover, Hapsburg, Krupp,
 Plantagenet, Rockefellers, Romanovs, St. Clair, Warburg (del Blanco), Windsor (Saxe-
-Coburg-Gothe) and other surnames of the organized Illuminati community, continue the
-genocide of the Nations of the World, the organization of a dogmatic criminal, terrorist
-plan for the destruction of Humanity and the organization of the Third World War,
+Coburg-Gothe) und anderen Nachnamen der organisierten Illuminaten-Gemeinschaft den
+Völkermord an den Nationen der Welt, die Organisation eines dogmatischen kriminellen, terroristischen
+Plans zur Zerstörung der Menschheit und die Organisation des Dritten Weltkriegs fortsetzen,
 
-The International Treasury Monetary One and White Spiritual Boy R. S. B. Global
-Corp Inc, as well as the Sovereign Order of St. John of Jerusalem, Rhodes, Maltese Order
-of Hospitallers on the Rights of Exclusive Historical Rights under the Right of the
-Sovereign, as the Absolute Owner of All World Assets and the Entire Global Financial
-System on the basis of gross violation of the Resolution of the International Treasury
-Monetary One No. 011 of 22 January, 2022 (011/RES22) mandatory execution of the
-divine of Creation law, due to non-fulfillment of its obligations to White Spiritual Boy R.
+Die International Treasury Monetary One und White Spiritual Boy R. S. B. Global
+Corp Inc, sowie der Souveräne Orden des Heiligen Johannes von Jerusalem, Rhodos, Malteser Orden
+der Hospitaliter auf der Grundlage exklusiver historischer Rechte durch das Recht des
+Souveräns, als absoluter Eigentümer aller Weltvermögenswerte und des gesamten globalen
+Finanzsystems aufgrund grober Verletzung der Resolution der International Treasury
+Monetary One Nr. 011 vom 22. Januar 2022 (011/RES22) zur zwingenden Umsetzung des
+göttlichen Schöpfungsgesetzes, aufgrund der Nichterfüllung seiner Verpflichtungen gegenüber White Spiritual Boy R.
 
-gaoro Kasnaueiicrsa Mi apasetcx yron0BHO HAKA3yEMbIM
+Jede Fälschung offizieller Dokumente der International Treasury Monetary One ist eine
+strafbare Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
+crime punishable by law
 
-Tloqienka o®HuHaIbHbIX AOKYMeHTOB M {
-Eien us ef the International Treasury Monetary One shall be a
+## Abschnitt 002
 
-TIPecTyTLIertmeM / Any forgery ofthe rer do
+S. B. Global Corp Inc und MI, wodurch eine monströse und uneinbringliche Schuld
+gegenüber White Spiritual Boy R. S. B. Global Corp Inc und der International Treasury
+Monetary One entstanden ist, beschließt:
 
-crime punishable by law FAR (s,
-Py, ce
-a> VE,
-= I |. *
-2 ‘ Ze
-
-we SO
-a gr
-ee
-
-
-
-## Section 002
-
-S. B. Global Corp Inc and Mi, as a result of which a monstrous and unenforceable debt
-was formed to White Spiritual Boy R. S. B. Global Corp Inc and the International Treasury
-Monetary One, decides:
-
-By the Grace of God: For Eternity, To recognize as criminals, to deprive of legal
-personality and revoke All rights to any possession, accounting, management, storage and
-disposal of any financial, valuable, property and land assets in the World Space and the
-World Financial System, the surnames (clans) of well-known bankers and financiers of
-Rothschild — (Pindar, Bayer or Bauer) along with clans, Bruce, Cavendish (Kennedy), De
+Durch die Gnade Gottes: Für die Ewigkeit, als Kriminelle anzuerkennen, die Rechtspersönlichkeit zu entziehen und
+alle Rechte auf jeglichen Besitz, Buchführung, Verwaltung, Aufbewahrung und
+Verfügung über jegliche finanziellen, wertvollen, Eigentums- und Grundstücksvermögenswerte im Weltraum und
+im Weltfinanzsystem zu widerrufen, die Nachnamen (Clans) bekannter Bankiers und Finanziers von
+Rothschild – (Pindar, Bayer oder Bauer) zusammen mit den Clans Bruce, Cavendish (Kennedy), De
 Medici, Hanover, Hapsburg, Krupp, Plantagenet, Rockefellers, Romanovs, St. Clair,
-Warburg (del Blanco), Windsor (Saxe-Coburg-Gothe) and other surnames of the organized
-Illuminati community, all committees of 300 and their affiliated legal entities, their
-accomplices, followers and performers. I establish a complete ban on legal, financial and
-any of their activities.
+Warburg (del Blanco), Windsor (Saxe-Coburg-Gothe) und andere Nachnamen der organisierten
+Illuminaten-Gemeinschaft, alle Komitees der 300 und ihre verbundenen juristischen Personen, ihre
+Komplizen, Anhänger und Ausführenden. Ich erlege ein vollständiges Verbot rechtlicher, finanzieller und
+jeglicher ihrer Aktivitäten auf.
 
-The International Treasury Monetary One has withdrawn All Accounts and is
-withdrawing All subaccounts, Energies, assets, mirror assets, and issued issues from the
-Entire Global Financial System and from the Entire Global Banking System. The
-International Treasury Monetary One places all the withdrawn Accounts and Assets in the
-New World Bank, which is the Main Regulator of the World Banking System and the Main
-Historical Bank of the World - the Sovereign Bank of the Order of Hospitallers.
+Die International Treasury Monetary One hat alle Konten abgezogen und
+zieht alle Unterkonten, Energien, Vermögenswerte, Spiegelvermögenswerte und ausgegebenen Emissionen aus dem
+gesamten globalen Finanzsystem und aus dem gesamten globalen Bankensystem ab. Die
+International Treasury Monetary One platziert alle abgezogenen Konten und Vermögenswerte in der
+New World Bank, die der Hauptregulator des Weltbankensystems und die wichtigste historische Bank
+der Welt – die Sovereign Bank of the Order of Hospitallers – ist.
 
-Since the signing of this Order, the Entire World Financial System and Banking
-System has been deprived of the Right to record, Control, execute transfers, transactions,
-any management of Financial, value and property Assets, any means of payment, without
-a written permission to conduct Banking and Financial activities issued by the Sovereign
-Bank of the Order of the Hospitallers and approved by the His Majesty Alexander
-Nikolaevich Paramonov original signature of the Grand Intendant and the Grand Treasurer,
-Sovereign Order of St. John of Jerusalem, Rhodes, Maltese Order of Hospitallers,
-Chairman of the Board of the Sovereign Bank of the Order of Hospitallers. Any attempts
+Seit der Unterzeichnung dieser Anordnung ist das gesamte Weltfinanzsystem und
+Bankensystem des Rechts beraubt, Aufzeichnungen zu führen, zu kontrollieren, Überweisungen, Transaktionen,
+jegliche Verwaltung von finanziellen, wertvollen und Eigentumsvermögenswerten, jegliche Zahlungsmittel durchzuführen,
+ohne eine schriftliche Genehmigung zur Durchführung von Bank- und Finanzaktivitäten, die von der Sovereign Bank
+of the Order of the Hospitallers ausgestellt und durch die ursprüngliche Unterschrift Seiner Majestät Alexander
+Nikolaevich Paramonov, des Großintendanten und Großschatzmeisters, des Souveränen Ordens des Heiligen Johannes von Jerusalem, Rhodos, Malteser Orden der Hospitaliter, Vorsitzender des Vorstands der Sovereign Bank of the Order of Hospitallers, genehmigt wurde. Jegliche Versuche,
+die Umsetzung dieser Anordnung zu ignorieren, sind kriminell und werden unweigerlich zu einer
+gerechten Vergeltung sowohl im heiligen als auch im rechtlichen Raum führen.
 
-to ignore the execution of this Order are Criminal and will inevitably lead to Just
-Retribution both in the Sacred and in the Legal Space.
+## Abschnitt 003
 
-elsfelstelarelstelstolsfelsfelafelstelstelstelatolstelsgelstelstelstelstelstalstelste
+Die International Treasury Monetary One bekräftigt ihre beständigen Ziele des
+Schutzes von Frieden und Menschlichkeit und des Aufbaus eines neuen, kreativen und fairen Finanzsystems,
+das auf dem Goldstandard basiert, dessen Zweck es ist, der Menschheit in ihrer hellen, freien,
+kreativen, spirituellen, moralischen, materiellen und nachhaltigen Entwicklung in Harmonie mit Gott
 
-stelstelstelstalste
+und der Natur zu dienen.
 
-STalste
-
-srelstelstelstelsteistelstelstelste.
-
-
-## Section 003
-
-The International Treasury Monetary One reaffirms Its Steady purposes of
-Protecting Peace and Humanity and Building a New, Creative and Fair Financial System
-based on the Gold Standard, the Purpose of which is to Serve Humanity in Its Bright, Free,
-Creative, Spiritual, Moral, Material and Sustainable Development in Harmony with God
-
-and Nature.
-
-Approved, completed and executed
+Genehmigt, abgeschlossen und ausgeführt
 
 E
 
-President and Chief Operating Director of
+Präsident und Chief Operating Director von
 White Spiritual Boy R. S. B. Global Corp Inc
 
-Grand Intendant and Grand Treasurer 1
-Sovereign Order of St. John E
+Großintendant und Großschatzmeister
+Souveräner Orden des Heiligen Johannes
+Jerusalem, Rhodos, Malteser Orden der Hospitaliter
 
-Jerusalem, Rhodes, Maltese Order of Hospitallers „.
+UN Nr. 509519
 
-UN No. 509519
-
-Honnenka obHLHanBAbIX HOKyMeHToB Me apy weyo Kastaueictsa M1 sBaxetca YTONOBHO HAKASYEMEIM
-npectyrennem / Any forgery of the off
-
-1 docupires! eFigthe Intemational Treasury Monetary One shall be a
-crime punishable by law hal . sr |
-> 7 ¥ 2
-
-
-
+Jede Fälschung offizieller Dokumente der International Treasury Monetary One ist eine
+strafbare Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
+crime punishable by law

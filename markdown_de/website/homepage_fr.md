@@ -1,6 +1,4 @@
-# homepage_fr
-
-# TNHCO Homepage (FR)
+# TNHCO Homepage (DE)
 
 **URL:** https://tnhco.org/fr/home_fr/
 
@@ -38,7 +36,7 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 				
 				
 				
-									Terra Nova Helvetica est une institution financière internationale et un instrument fédérateur pour toutes les personnes &#8211; physiques et morales &#8211; de toutes les régions du monde, indépendamment de leur sexe, religion, statut social, opinions et autres orientations. La coopérative crée les mêmes conditions pour chaque membre. Les conditions dans lesquelles vous pouvez devenir actionnaire de la TNHCO sont expliquées dans le formulaire de demande et dans le contrat entre la TNHCO et la personne intéressée à rejoindre la coopérative. Toutes les informations sont disponibles sur notre site web TNHCO.La TNHCO a été créée pour faire valoir les droits et intérêts légaux des citoyens suisses, dans le but de créer des avantages matériels et autres sur le territoire suisse.Les activités de la TNHCO visent à créer une structure organisationnelle, socio-économique, financière et culturelle.								
+									Terra Nova Helvetica ist ein internationales Finanzinstitut und ein verbindendes Instrument für alle Personen – natürliche und juristische – aus allen Regionen der Welt, unabhängig von Geschlecht, Religion, sozialem Status, Meinungen und anderen Ausrichtungen. Die Genossenschaft schafft für jedes Mitglied die gleichen Bedingungen. Die Bedingungen, unter denen Sie Aktionär der TNHCO werden können, werden im Antragsformular und im Vertrag zwischen der TNHCO und der am Beitritt zur Genossenschaft interessierten Person erläutert. Alle Informationen sind auf unserer Website TNHCO verfügbar. Die TNHCO wurde gegründet, um die rechtlichen Rechte und Interessen der Schweizer Bürger geltend zu machen, mit dem Ziel, materielle und andere Vorteile auf dem Schweizer Hoheitsgebiet zu schaffen. Die Aktivitäten der TNHCO zielen darauf ab, eine organisatorische, sozioökonomische, finanzielle und kulturelle Struktur zu schaffen.								
 				
 					
 		
@@ -46,7 +44,7 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 			
 						
 				
-									Les portes de la TNHCO sont ouvertes à toutes les personnes vivant dans n&rsquo;importe quelle partie du monde, quelle que soit leur nationalité, qui manifestent leur intérêt pour une participation à la TNHCO en remplissant correctement une demande et en signant ensuite un contrat d&rsquo;adhésion à la coopérative, confirmé par leur signature sur le contrat entre l&rsquo;actionnaire et la TNHCO.								
+									Die Türen der TNHCO stehen allen Personen offen, die in irgendeinem Teil der Welt leben, unabhängig von ihrer Nationalität, die ihr Interesse an einer Beteiligung an der TNHCO bekunden, indem sie ordnungsgemäß einen Antrag ausfüllen und anschließend einen Beitrittsvertrag zur Genossenschaft unterzeichnen, bestätigt durch ihre Unterschrift auf dem Vertrag zwischen dem Aktionär und der TNHCO.								
 				
 				
 				
@@ -58,7 +56,7 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 				
 				
 				
-					L'OBJECTIF PRINCIPAL DE LA COOPÉRATIVE EST DE RÉUNIR LES ACTIONNAIRES SOUS UN MÊME TOIT DANS LE BUT DE RÉALISER LES OBJECTIFS ET LES SOUHAITS DE CHAQUE ACTIONNAIRE POUR SON PROPRE BIEN, CELUI DE SA FAMILLE, DE SON GENRE ET DE LA NATION.				
+					DAS HAUPTZIEL DER GENOSSENSCHAFT IST ES, DIE AKTIONÄRE UNTER EINEM DACH ZU VEREINEN, MIT DEM ZIEL, DIE ZIELE UND WÜNSCHE JEDES AKTIONÄRS ZU SEINEM EIGENEN WOHL, DEM SEINER FAMILIE, SEINES GESCHLECHTS UND DER NATION ZU VERWIRKLICHEN.				
 				
 				
 				
@@ -70,7 +68,7 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 				
 				
 				
-									TNHCO accepte les personnes physiques et morales comme actionnaires sans affecter leur patrimoine, ouvre des comptes auprès de banques appartenant à TNHCO, offre un système informatique hautement qualifié pour les services et la gestion des comptes, ainsi que la possibilité de refinancer sans intérêt des projets et des programmes de développement socio-économique.								
+									TNHCO akzeptiert natürliche und juristische Personen als Aktionäre, ohne deren Vermögen zu beeinträchtigen, eröffnet Konten bei Banken, die TNHCO gehören, bietet ein hochqualifiziertes Computersystem für Dienstleistungen und Kontoverwaltung sowie die Möglichkeit der zinslosen Refinanzierung von Projekten und Programmen der sozioökonomischen Entwicklung.								
 				
 					
 		
@@ -82,23 +80,11 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 			
 						
 				
-					NOTRE MISSION				
+					UNSERE MISSION				
 				
 				
 						
 					
-			
-						
-				
-																														
-				
-				
-				
-					Élimination des conséquences de la crise financière mondiale et de son impact sur les membres de la TNHCO				
-				
-					
-		
-				
 			
 						
 				
@@ -106,7 +92,7 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 				
 				
 				
-					Protection juridique, aide et soutien aux membres				
+					Beseitigung der Folgen der globalen Finanzkrise und ihrer Auswirkungen auf die Mitglieder der TNHCO				
 				
 					
 		
@@ -118,7 +104,19 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 				
 				
 				
-					Protection des droits de l'homme et des valeurs humaines				
+					Rechtsschutz, Hilfe und Unterstützung für die Mitglieder				
+				
+					
+		
+				
+			
+						
+				
+																														
+				
+				
+				
+					Schutz der Menschenrechte und menschlicher Werte				
 				
 					
 		
@@ -134,7 +132,7 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 				
 				
 				
-					Assurer la stabilité de l'économie nationale ainsi que le soutien et la prospérité de ses membres				
+					Gewährleistung der Stabilität der nationalen Wirtschaft sowie Unterstützung und Wohlstand ihrer Mitglieder				
 				
 					
 		
@@ -146,7 +144,7 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 				
 				
 				
-					Protection juridique et soutien aux individus contre les mesures conduisant au génocide financier, sanitaire, social et informationnel du peuple suisse.				
+					Rechtsschutz und Unterstützung von Einzelpersonen gegen Maßnahmen, die zu einem finanziellen, gesundheitlichen, sozialen und informationellen Völkermord am Schweizer Volk führen.				
 				
 					
 		
@@ -158,20 +156,4 @@ class="post-3832 page type-page status-publish ast-article-single" id="post-3832
 				
 				
 				
-					Aide aux personnes vivant dans la pauvreté ou à la limite de la pauvreté				
-				
-					
-		
-					
-		
-					
-		
-					
-		
-				
-		
-	
-	
-	
-	
-			
+					Hilfe für Menschen, die in Armut oder an der Armutsgrenze leben

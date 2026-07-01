@@ -1,271 +1,259 @@
 # Resolution-011
 
-# Resolution-011
+**Quell-PDF:** `Resolution-011.pdf`
 
-**Source PDF:** `Resolution-011.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 6
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 6
+**OCR:** tesseract deu+eng, Schwellwert-Vorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 R
 7
 
-Mexaynapoanoe Kasnayertcrso All
-international Treasury Monetary One
+International Treasury Monetary One
 
-LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Date: January 22, 2022.
-Ref. No.: 011/RES2022
+Datum: 22. Januar 2022.
+Ref. Nr.: 011/RES2022
 Code: &4 786 TIAH
 
-RESOLUTION No 011
+RESOLUTION Nr. 011
 
-The International Treasury Monetary One, as a Global
-Regulator, the Owner of all Global and Historical financial assets,
-proclaims the CONE of CREATION (DIVINE CREATION LAWS)
-binding on all subjects of Law in the World. All financial and
-economic activities of all subjects of Law in the World must be
-carried out in accordance with legal international norms within the
-CONE of CREATION (DIVINE CREATION LAWS).
+Die International Treasury Monetary One, als Globaler
+Regulierer, der Eigentümer aller globalen und historischen finanziellen Vermögenswerte,
+verkündet den KEGEL der SCHÖPFUNG (GÖTTLICHE SCHÖPFUNGSGESETZE),
+der für alle Rechtssubjekte der Welt verbindlich ist. Alle finanziellen und
+wirtschaftlichen Aktivitäten aller Rechtssubjekte der Welt müssen in
+Übereinstimmung mit den rechtlichen internationalen Normen innerhalb des
+KEGELS der SCHÖPFUNG (GÖTTLICHE SCHÖPFUNGSGESETZE) durchgeführt werden.
 
-We remind that the International Treasury Monetary One is the owner and manager
-of the World Global Account of the Intemational Treasury Monetary One No. 01-00-01-
+Wir erinnern daran, dass die International Treasury Monetary One der Eigentümer und Verwalter
+des Welt-Global-Kontos der International Treasury Monetary One Nr. 01-00-01-
 
-4-AAA-777-C3-AM-01, which was located in the WORLD BANK until October 29,
+4-AAA-777-C3-AM-01 ist, das sich bis zum 29. Oktober 2021 in der WELTBANK befand,
 
-2021, and distributed to various banks in countries around the world.
+und auf verschiedene Banken in Ländern auf der ganzen Welt verteilt wurde.
 
 Bl
 2,
 
-ID] Toageaxa obmunanuunıx aoxymenron Mexaynapoanoro Kasnauelierna M] anaaetea yroaopio Haxınyembin
-npeerynaenmen * Any forgery of the official documents of the International Treasury Monetary One shall be a
-erime punishable by Taw
+ID] Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine
+strafbare Handlung dar * Any forgery of the official documents of the International Treasury Monetary One shall be a
+crime punishable by law
 
-1 of 6
+1 von 6
 
 Eee eet antectentectententententententententertentententente
 
 
-## Section 001
+## Abschnitt 001
 
-We remind that the International Treasury Monetary One is the owner and manager
-World Global Account of the International Treasury Monetary One No. 01-1-700-3516
-222 777 8888 999, which was located in the WORLD BANK until October 29, 2021, and
+Wir erinnern daran, dass die International Treasury Monetary One der Eigentümer und Verwalter
+des Welt-Global-Kontos der International Treasury Monetary One Nr. 01-1-700-3516
+222 777 8888 999 ist, das sich bis zum 29. Oktober 2021 in der WELTBANK befand, und
 
-distributed to various banks in countries around the world.
+auf verschiedene Banken in Ländern auf der ganzen Welt verteilt wurde.
 
-We remind that the International Treasury Monetary One is the owner and manager
-of assets, including accounts under the names: “White Spiritual Boy”, “Spiritual Wonder
-Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”, “Prophet
-Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White Vatican”, “White
-Eagle”, “Maria Sinukuan or Divine Crystal”, “Maria Divine Banahaw or Sunflower”,
-“Maria Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester Egg”, “Falcon”,
-“Alpha — Omega” and other accounts located in different Banks in 189 (One hundred
+Wir erinnern daran, dass die International Treasury Monetary One der Eigentümer und Verwalter
+von Vermögenswerten ist, einschließlich Konten unter den Namen: „White Spiritual Boy“, „Spiritual Wonder
+Boy“, „Spiritual Wonder Brothers“, „Morning Star“, „King David“, „Prophet
+Muhammad“, „Demas and Saint Timothy“, „White Mongolia“, „White Vatican“, „White
+Eagle“, „Maria Sinukuan or Divine Crystal“, „Maria Divine Banahaw or Sunflower“,
+„Maria Cristina or Divine Magdalene“, „Maria Makiling or Divine Ester Egg“, „Falcon“,
+„Alpha — Omega“ und anderen Konten, die sich in verschiedenen Banken in 189 (einhundert
+neunundachtzig) Ländern auf der ganzen Welt befinden.
 
-eighty-nine) countries around the World.
+Es wird festgestellt, dass die International Treasury Monetary One aufgrund ihrer universellen
+Natur und Legitimität eine einzigartige und Schlüsselorganisation für die Suche nach effektiven Lösungen in
+internationalen Wirtschaftsfragen ist, um den Entwicklungsprozess in der Welt zu beeinflussen, und wir
+bekräftigen, dass die International Treasury Monetary One gut positioniert ist, um an
+verschiedenen Reformprozessen teilzunehmen, die darauf abzielen, das effektive Funktionieren
+des internationalen Finanzsystems und der internationalen Finanzarchitektur zu verbessern und zu stärken,
+wobei wir anerkennen, dass die International Treasury Monetary One und internationale Finanzinstitutionen mit
+komplementären Fähigkeiten ausgestattet sind, weshalb die Koordinierung ihrer Maßnahmen
 
-It is noted that the International Treasury Monetary One, by virtue of its universal
-nature and legitimacy, is a unique and key Organization for finding effective solutions in
-international economic issues to influence the development process in the world, and we
-reaffirm that the International Treasury Monetary One is well-positioned to participate in
-various reform processes aimed at improving and strengthening the effective functioning
-of the international financial system and architecture, while recognizing that the
-International Treasury Monetary One and international financial institutions are endowed
-with complementary capabilities, as a result of which the coordination of their actions is
+entscheidend ist.
 
-crucial.
+Wir erinnern daran, dass in den letzten mehr als zwei Jahren jeder, der versuchte,
+unser gesetzliches Recht auf Eigentum und Verfügung über globale finanzielle Vermögenswerte anzufechten,
+sich vergewissert hat, dass alle Rechte auf Eigentum, Verwaltung und Verfügung über globale finanzielle Vermögenswerte
+auf die International Treasury Monetary One, vertreten durch Seine Majestät Alexander Nikolaevich
 
-We remind that over the past period of more than two years everyone who tried to
-challenge our legal right to own and dispose of Global financial assets, made sure that all
-the Rights to own, manage and dispose of Global Financial Assets were transferred to the
-International Treasury Monetary One represented by His Majesty Alexander Nikolaevich
+Paramonov, unter Einhaltung aller Rechtsnormen und Gesetze unserer Welt übertragen wurden, und auch
 
-Paramonov in compliance with all the rules of Law and laws of Our World, and also were
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine
+strafbare Handlung dar * Any forgery of the official documents of the International Treasury Monetary One shall be a
+crime punishable by law
 
-Toageaxa opuunanbuniy 1oxymenTon Mexxaynapoanoro Katuaseticrna M1 annaetea yroaopio wakaayembiM
-npeeryunennen * Any forgery of the official documents of the International Treasury Monetary One shall be a
-erime punishable by law
-
-2 of 6
+2 von 6
 
 HERAT ARAGAGARARAG GAP AGGAGARAGAGARARARACE
 
 
-## Section 002
+## Abschnitt 002
 
-able to verify the sacred basis of Divine Law as an indisputable fact, witnessing the
+in der Lage waren, die heilige Grundlage des Göttlichen Gesetzes als unbestreitbare Tatsache zu überprüfen und die
 
-miracles of the Great Divine Providence,
+Wunder der Großen Göttlichen Vorsehung zu bezeugen.
 
-In order to implement the World Program to Overcome the Global Financial
-Crisis and prevent the Third World War (the Resolution No. 1 dated 07.04.2020),
-taking into account the violations of International norms of Law, Sovereign Rights, the
-Rule of Law, Resolutions, Declarations, Conventions, Treaties of the United Nations, for
-non-fulfillment of their commitments towards the Owner of the Global Financial System,
-committed by the well-known name of financiers Rothschild, the International Treasury
+Zur Umsetzung des Weltprogramms zur Überwindung der globalen Finanzkrise und zur Verhinderung des Dritten Weltkriegs (die Resolution Nr. 1 vom 07.04.2020),
+unter Berücksichtigung der Verletzungen internationaler Rechtsnormen, souveräner Rechte, der
+Rechtsstaatlichkeit, Resolutionen, Erklärungen, Konventionen, Verträge der Vereinten Nationen, wegen
+Nichterfüllung ihrer Verpflichtungen gegenüber dem Eigentümer des globalen Finanzsystems,
+begangen durch den bekannten Namen der Finanziers Rothschild, trifft die International Treasury
 
-Monetary One makes the following decisions:
-The International Treasury Monetary One
-and White Spiritual Boy R.S.B. Global Corp Inc
-proclaim the termination of all relations with
+Monetary One die folgenden Entscheidungen:
+Die International Treasury Monetary One
+und White Spiritual Boy R.S.B. Global Corp Inc
+verkünden die Beendigung aller Beziehungen mit
 
-the well-known family name of financiers Rothschild:
+dem bekannten Familiennamen der Finanziers Rothschild:
 
-We revoke all rights of accounting, disposal and control over World Accounts and
+Wir entziehen alle Rechte der Buchhaltung, Verfügung und Kontrolle über Weltkonten und
 
-assets (including accounts under the names:
+Vermögenswerte (einschließlich Konten unter den Namen:
 
-“White Spiritual Boy”, “Spiritual Wonder Boy”, “Spiritual Wonder Brothers”, “Morning
-Star”, “King David”, “Prophet Muhammad”, “Demas and Saint Timothy”, “White
-Mongolia”, “White Vatican”, “White Eagle”, “Maria Sinukuan or Divine Crystal”, “Maria
-Banahaw or Divine Sunflower”, “Maria Cristina or Divine Magdalene”, “Maria Makiling
-or Divine Ester Egg”, “Falcon”, “Alpha - Omega” and ither accounts) from public, private-
-public structures and all related private organizations: Rothschild & Sons (The United
-Kingdom of Great Britain), Banque Privee Edmond de Rothschild (Switzerland),
-Rothschild Concordia, Rothschild & Co and others.
+„White Spiritual Boy“, „Spiritual Wonder Boy“, „Spiritual Wonder Brothers“, „Morning
+Star“, „King David“, „Prophet Muhammad“, „Demas and Saint Timothy“, „White
+Mongolia“, „White Vatican“, „White Eagle“, „Maria Sinukuan or Divine Crystal“, „Maria
+Banahaw or Divine Sunflower“, „Maria Cristina or Divine Magdalene“, „Maria Makiling
+or Divine Ester Egg“, „Falcon“, „Alpha - Omega“ und anderen Konten) von öffentlichen, öffentlich-privaten
+Strukturen und allen damit verbundenen privaten Organisationen: Rothschild & Sons (Das Vereinigte Königreich Großbritannien), Banque Privee Edmond de Rothschild (Schweiz),
+Rothschild Concordia, Rothschild & Co und anderen.
 
-Toageaxa opuunanbuniy 1oxymenTon Mexxaynapoanoro Katuaseticrna M] annaetea yroaopio NaKayyeMmbin
-npeeryunennen * Any forgery of the official documents of the International Treasury Monetary One shall be a
-erime punishable by law
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine
+strafbare Handlung dar * Any forgery of the official documents of the International Treasury Monetary One shall be a
+crime punishable by law
 
-3 of 6
+3 von 6
 
 ee
 
 
-## Section 003
+## Abschnitt 003
 
-We recall all assets that had been previously transferred under the management and
-disposal of well-known financiers of the Rothschild family name, placed in central banks,
-national and/or state banks, commercial banks and funds (any financial and other
+Wir rufen alle Vermögenswerte zurück, die zuvor unter die Verwaltung und Verfügung
+der bekannten Finanziers des Familiennamens Rothschild übertragen wurden, die sich in Zentralbanken,
+nationalen und/oder staatlichen Banken, Geschäftsbanken und Fonds (jeglichen Finanz- und anderen
 
-organizations), in all countries around the world.
+Organisationen) in allen Ländern der Welt befinden.
 
-Due to the huge number of financial and stock crimes of well-known financiers of
-the Rothschild family name around the World, and especially financial, stock, and other
-crimes against a Sovereign Country, the Union of Soviet Socialist Republics, and the
-Sovereign Soviet People, the International Treasury Monetary One as the World Financial
-Regulator imposes a BAN on the activities with well-known financiers of the Rothschild
-family name in the World Financial and Stock Systems in any form. Furthermore, all
-subjects of Law, such as sovereigns, individuals, legal entities, state organizations, and
-private-state structures shall be instructed to terminate any financial and economic relations
+Aufgrund der großen Anzahl von Finanz- und Börsenverbrechen der bekannten Finanziers des
+Familiennamens Rothschild auf der ganzen Welt, und insbesondere von Finanz-, Börsen- und anderen
+Verbrechen gegen ein souveränes Land, die Union der Sozialistischen Sowjetrepubliken, und
+das souveräne sowjetische Volk, verhängt die International Treasury Monetary One als Weltfinanzregulierer
+ein VERBOT der Aktivitäten mit den bekannten Finanziers des Familiennamens Rothschild
+in den Weltfinanz- und Börsensystemen in jeglicher Form. Darüber hinaus werden
+alle Rechtssubjekte, wie Souveräne, natürliche Personen, juristische Personen, staatliche Organisationen und
+privat-staatliche Strukturen angewiesen, jegliche finanziellen und wirtschaftlichen Beziehungen
 
-with well-known financiers of the Rothschild family name.
+mit den bekannten Finanziers des Familiennamens Rothschild zu beenden.
 
-We activate the blocking of the access to all system codes as for accounting,
-distribution and control that the Rothschild family name group and all subjects of law
+Wir aktivieren die Sperrung des Zugriffs auf alle Systemcodes für die
+Buchhaltung, Verteilung und Kontrolle, die die Gruppe des Familiennamens Rothschild und alle mit ihnen verbundenen Rechtssubjekte
 
-affiliated with them, such as organizations, banks, companies and others.
+wie Organisationen, Banken, Unternehmen und andere besitzen.
 
-In connection with the transfer of assets to the full ownership, disposal and
-management of the International Treasury Monetary One, observing all the norms of
-International Law, the assets have been entered into the balance sheet of the International
-Treasury Monetary One. In this regard, we order the immediate blocking of all assets
-directly or indirectly under the control and management of well-known financiers of the
+Im Zusammenhang mit der Übertragung von Vermögenswerten in das volle Eigentum, die Verfügung und
+Verwaltung der International Treasury Monetary One unter Einhaltung aller Normen des
+Völkerrechts wurden die Vermögenswerte in die Bilanz der International Treasury Monetary One aufgenommen. In diesem Zusammenhang ordnen wir die sofortige Sperrung aller Vermögenswerte an, die direkt oder indirekt unter der Kontrolle und Verwaltung der bekannten Finanziers des
 
-Rothschild family name.
+Familiennamens Rothschild stehen.
 
-In the case that some legal entities go ahead with any financial and economic
-relations with the members of the Rothschild family name, such legal entities and their
+Für den Fall, dass einige juristische Personen weiterhin finanzielle und wirtschaftliche Beziehungen
+mit den Mitgliedern des Familiennamens Rothschild eingehen, werden solche juristischen Personen und ihre
 
-affiliated structures shall be annexed.
+angeschlossenen Strukturen annektiert.
 
-From the moment of receipt (in any way and in any form) of this notification we
-instruct financial and control organizations, law enforcement organizations to make the
-Tloggenka oHunanbunix AoKyMeHToR Mexxayuapoanoro Kasuayelierra MI annaeTea yroaopno wakaayeMbiMt
+Ab dem Zeitpunkt des Erhalts (auf irgendeine Weise und in irgendeiner Form) dieser Benachrichtigung
+weisen wir Finanz- und Kontrollorganisationen, Strafverfolgungsorganisationen an, die notwendigen
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine
+strafbare Handlung dar * Any forgery of the official documents of the International Treasury Monetary One shall be a
+crime punishable by law
 
-npeeryunennen * Any forgery of the official documents of the International Treasury Monetary One shall be a
-erime punishable by law
-
-4 of 6
+4 von 6
 
 HERAT ARAGAGARARAGIGAPAGAGAGARAGAGARARARACE
 
 
-## Section 004
+## Abschnitt 004
 
-necessary system notifications in the Global Financial System within 48 (forty-eight)
-hours, in order to timely notify all financial, banking, interbank, control and law
+Systembenachrichtigungen im globalen Finanzsystem innerhalb von 48 (achtundvierzig)
+Stunden vorzunehmen, um alle Finanz-, Bank-, Interbank-, Kontroll- und Strafverfolgungsorganisationen
 
-enforcement organizations.
+rechtzeitig zu benachrichtigen.
 
-In connection with the withdrawal of assets, in order to maintain the functioning and
-financing of programs, only one option is possible for the formation of a future financial
-system — which is the activation of cooperation with the International Treasury Monetary
-One with a view to obtaining programs and instructions for conducting further financial
+Im Zusammenhang mit dem Abzug von Vermögenswerten ist zur Aufrechterhaltung des Funktionierens und der
+Finanzierung von Programmen nur eine Option für die Bildung eines zukünftigen Finanzsystems möglich
+— die Aktivierung der Zusammenarbeit mit der International Treasury Monetary One mit dem Ziel, Programme und Anweisungen für die Durchführung weiterer finanzieller
 
-activities.
+Aktivitäten zu erhalten.
 
-We remind that any unauthorized actions with the International Treasury Monetary
-One using the above assets for the purpose of monetization in the financial system shall
-constitute a crime and are the corporate and personal (individual) responsibility of persons,
+Wir erinnern daran, dass jede unbefugte Handlung mit der International Treasury Monetary One
+unter Verwendung der oben genannten Vermögenswerte zum Zwecke der Monetarisierung im Finanzsystem
+eine Straftat darstellt und die unternehmerische und persönliche (individuelle) Verantwortung der Personen,
 
-officials and bank officers who commit these crimes.
+Beamten und Bankangestellten begründet, die diese Straftaten begehen.
 
-We remind that the Sacred Rights of the Custodians of the above assets have been
-revoked, and any actions contrary to the Resolution of the International Treasury Monetary
-One No. 4 (004/RES2021) dated February 23, 2021. “The cancellation of historical assets
-in order to form a new well-balanced financial system” shall have immediate (inescapable)
-sacred and obvious consequences for the Custodians with manifestation in the material
+Wir erinnern daran, dass die Heiligen Rechte der Verwalter der oben genannten Vermögenswerte
+widerrufen wurden, und jede Handlung, die der Resolution der International Treasury Monetary One
+Nr. 4 (004/RES2021) vom 23. Februar 2021 „Die Annullierung historischer Vermögenswerte
+zur Bildung eines neuen ausgewogenen Finanzsystems“ zuwiderläuft, sofortige (unausweichliche)
+heilige und offensichtliche Konsequenzen für die Verwalter mit Manifestation in der materiellen
 
-world,
+Welt haben wird.
 
-We remind that in order to prevent fraud and deception of bona fide subjects of Law,
-it is prescribed to transfer the register of documents for entry into the liquidation
-memorandum for the purpose of accounting, analysis, and evaluation of the integrity of
-Ex-custodians, Ex-holders, and Ex-managers of the right to manage historical assets of the
+Wir erinnern daran, dass zur Verhinderung von Betrug und Täuschung gutgläubiger Rechtssubjekte
+vorgeschrieben ist, das Register der Dokumente zur Aufnahme in das Liquidationsmemorandum
+zum Zwecke der Buchhaltung, Analyse und Bewertung der Integrität von
+Ex-Verwaltern, Ex-Inhabern und Ex-Managern des Rechts zur Verwaltung historischer Vermögenswerte des
 
-Global Financial System,
+globalen Finanzsystems zu übertragen.
 
-The International Treasury Monetary One decides to continue to deal with these
-issues through its specialized unit - the Special Department for Overcoming the Global
+Die International Treasury Monetary One beschließt, sich weiterhin mit diesen
+Fragen durch ihre spezialisierte Einheit zu befassen - die Sonderabteilung zur Überwindung der globalen
 
-Financial Crisis “Anti-Crisis Center”.
+Finanzkrise „Anti-Krisen-Zentrum“.
 
-Toageaxa opuunanbuniy 1oxymenTon Mexxaynapoanoro Katuaseticrna M] annaetea yroaopio NaKayyeMmbin
-npeeryunennen * Any forgery of the official documents of the International Treasury Monetary One shall be a
-erime punishable by law
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine
+strafbare Handlung dar * Any forgery of the official documents of the International Treasury Monetary One shall be a
+crime punishable by law
 
-5 of 6
+5 von 6
 
 kn
 
 Cte ee ee ee ae nee net eeteetontoetseton
 
 
-## Section 005
+## Abschnitt 005
 
-The control and audit of the implementation of this Resolution No. 11 shall be
+Die Kontrolle und Prüfung der Umsetzung dieser Resolution Nr. 11 wird
 
-entrusted to the Executive Committee of the International Treasury Monetary One.
+dem Exekutivkomitee der International Treasury Monetary One übertragen.
 
-Approved, drawn up and executed
+Genehmigt, ausgearbeitet und ausgeführt
 
-Date 22.01.2022
+Datum 22.01.2022
 
-His Majesty
+Seine Majestät
 
 Alexander Nikolaevich Paramonov
-Chief Treasurer of the International Treasury Monetary One,
+Oberster Schatzmeister der International Treasury Monetary One,
 
-President and Chief Operating Officer of
+Präsident und Chief Operating Officer der
 White Spiritual Boy R. S. B. Global Corp Inc,
 
-UN No. 509519
+UN Nr. 509519
 
-Toageaxa opuunanbuniy 1oxymenTon Mexxaynapoanoro Katuaseticrna M] annaetea yroaopio NaKayyeMmbin
-npeeryunennen * Any forgery of the official documents of the International Treasury Monetary One shall be a
-erime punishable by law
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine
+strafbare Handlung dar * Any forgery of the official documents of the International Treasury Monetary One shall be a
+crime punishable by law
 
-6 of 6
+6 von 6
 
 HEAR AR ARAGAGARARAGIGAPAGAGAGARAGAGARARARACE
-
-

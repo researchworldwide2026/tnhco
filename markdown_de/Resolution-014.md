@@ -1,430 +1,378 @@
 # Resolution-014
 
-# Resolution-014
+**Quell-PDF:** `Resolution-014.pdf`
 
-**Source PDF:** `Resolution-014.pdf`
-
-**Extraction method:** pdftotext (embedded text)
+**Extraktionsmethode:** pdftotext (eingebetteter Text)
 
 ---
 
-                          Международное Казначейство M1
+                          Internationales Treasury M1
                               International Treasury Monetary One
-           LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+           LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-
-
-
-  Date: March 03, 2022.
-  Ref. No.: 014/RES2022
+  Datum: 03. März 2022.
+  Ref. Nr.: 014/RES2022
   Code: 786 ПАН
 
+                                   RESOLUTION Nr. 014
 
+           Widerruf von Vermögenswerten zur Verhinderung des Dritten Weltkriegs
+                        und zur Verhinderung der Rückkehr des Nationalsozialismus.
 
+     Wir lassen uns von früheren Resolutionen und Erklärungen des International Treasury
+Monetary One leiten,
+       Bestätigend Resolution Nr. 1 (001/RES2020) vom 07. April 2020 "Über den Weg aus
+der globalen Finanzkrise", Resolution Nr. 2 (002/RES2020) vom 02. Juni 2020 "Der einzige
+Weg aus der globalen Finanzkrise", Resolution Nr. 4 (004/RES2021) vom 23. Februar
+2021 "Stornierung historischer Vermögenswerte zur Bildung eines ausgewogenen neuen Finanzsystems",
+Resolution Nr. 5 vom 16. Juli 2021 (005/RES2021), Resolution Nr. 6 vom 13. September 2021
+(006 /RES2021), Resolution Nr. 7 vom 01. Oktober 2021 (007/RES2021), Resolution Nr. 8
+vom 21. Dezember 2021 (008/RES2021), Resolution Nr. 9 vom 22. Dezember 2021 "Reform
+des globalen Finanz- und Wirtschaftssystems und seiner Architektur" (009/RES2021),
+Resolution Nr. 11 vom 22. Januar 2022 "Über die Beendigung aller Beziehungen zu dem bekannten
+Nachnamen der Finanziers Rothschild" (011/RES2022), Resolution Nr. 12 vom 27.
+Februar 2022 "Widerruf aller Rechte an Vermögenswerten der Trilateralen Kommission der
+Trillenium Gold Reserve und New World Order Financial System Trusts" (012/RES2022),
 
-                                   RESOLUTION No 014
-
-
-           Revocation of assets in order to prevent the Third World War
-                        and prevent the return of Nazism.
-
-
-     We are guided by previous resolutions and statements of the International Treasury
-Monetary One,
-       Reaffirming Resolution No. 1 (001/RES2020) of April 07, 2020 "On the way out of
-the global financial crisis", Resolution No. 2 (002/RES2020) of June 02, 2020 "The only
-way out of the global financial crisis", Resolution No. 4 (004/RES2021) of February 23,
-2021 "Cancellation of historical assets in order to form a balanced new financial system",
-Resolution No. 5 of July 16, 2021 (005/RES2021), Resolution No. 6 of September 13, 2021
-(006 /RES2021), Resolution No. 7 of 01 October 2021 (007/RES2021), Resolution No. 8
-of December 21, 2021 (008/RES2021), Resolution No. 9 of December 22, 2021 "Reform
-of the global financial and economic system and its architecture" (009/RES2021),
-Resolution No. 11 of January 22, 2022 "On the termination of all relations with the well-
-known surname of financiers Rothschild" (011/RES2022), Resolution No. 12 of February
-27, 2022 “Revocation of all Rights to Assets from the Trilateral Commission of the
-Trillenium Gold Reserve and New World Order Financial System Trusts” (012/RES2022),
-
-
-                 Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                 преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                 Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                 Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                  crime punishable by law
 
-                                                  1 of 10
-       International Treasury Monetary One remind that Peace, stability and prosperity
-are inseparable. In today's globalized economy, all nations are much more connected than
-ever before. The global reach of this crisis requires prompt, decisive and coordinated action
-to address its causes, mitigate its effects, create and strengthen the necessary mechanisms
-to avoid the recurrence of similar crises in the future,
-       Mindful of the horrors of the Second World War, and emphasizing in this regard
-that the victory over Nazism in the Second World War contributed to the formation of the
-conditions for the creation of the United Nations, designed to prevent future wars and save
-future generations from the scourge of war,
-       Referring to the Charter of the Nuremberg Tribunal and the verdict of the Tribunal,
-which declared criminal, in particular, the organization of the “SS” and its constituent parts,
-including the “Waffen SS”, represented by official members of the “SS” involved in the
-commission of or knew about the commission of war crimes and crimes against humanity
-related to with the Second World War, as well as other relevant provisions of the Charter
-and the sentence,
-       Considering other important initiatives aimed at raising awareness of the suffering
-of victims of racism, racial discrimination, xenophobia and related intolerance, and
-discrimination in various forms, including in a historical perspective, in particular in
-memory of the victims of slavery and the transatlantic slave trade,
-        Noting that neo-Nazism is not merely a glorification of a movement that existed in
-the past, but is a modern phenomenon encouraged by actors who have a vested interest in
-racial inequality and are willing to go to great lengths to garner widespread support for
-their unfounded claims of racial superiority,
-       Alarmed by the spread in many parts of the world of various extremist political
-parties, movements, ideologies and groups of a racist and xenophobic nature, including
-neo-Nazi and skinhead groups, and that this trend has led to the adoption of discriminatory
-measures and policies at the local and national levels,
-      Noting with concern that even in cases where neo-Nazis are not formally part of the
-government, the presence of far-right ideologues in it can have the same effect as
-incorporating into the governance process and political discourse the same ideological
-concepts that make neo-Nazism so dangerous,
-       The International Treasury Monetary One is alarmed by the proliferation of songs
-and video games that promote racial hatred and incite discrimination, hostility or violence.
-The International Treasury Monetary One is deeply concerned about the increase in reports
-of incidents of racism, anti-Semitism, Islamophobia, Arabophobia, Afrophobia and
-xenophobia at sporting events, including by racist and xenophobic extremist groups,
-including neo-Nazi and skinhead groups, and calls on States, international organizations,
+                                                  1 von 10
+       Das International Treasury Monetary One erinnert daran, dass Frieden, Stabilität und Wohlstand
+untrennbar sind. In der heutigen globalisierten Wirtschaft sind alle Nationen stärker miteinander verbunden als
+je zuvor. Die globale Reichweite dieser Krise erfordert schnelle, entschlossene und koordinierte Maßnahmen
+zur Bewältigung ihrer Ursachen, zur Milderung ihrer Auswirkungen, zur Schaffung und Stärkung der notwendigen Mechanismen
+um das erneute Auftreten ähnlicher Krisen in der Zukunft zu vermeiden,
+       Eingedenk der Schrecken des Zweiten Weltkriegs, und in diesem Zusammenhang betonend,
+dass der Sieg über den Nationalsozialismus im Zweiten Weltkrieg zur Bildung der
+Bedingungen für die Gründung der Vereinten Nationen beigetragen hat, die dazu bestimmt sind, zukünftige Kriege zu verhindern und zukünftige Generationen vor der Geißel des Krieges zu bewahren,
+       Bezug nehmend auf die Charta des Nürnberger Tribunals und das Urteil des Tribunals,
+das insbesondere die Organisation der "SS" und ihrer Bestandteile, einschließlich der "Waffen-SS", vertreten durch offizielle Mitglieder der "SS", die an der
+Begehung von oder Kenntnis von der Begehung von Kriegsverbrechen und Verbrechen gegen die Menschlichkeit im Zusammenhang
+mit dem Zweiten Weltkrieg beteiligt waren, sowie andere relevante Bestimmungen der Charta
+und des Urteils für kriminell erklärte,
+       In Anbetracht anderer wichtiger Initiativen, die darauf abzielen, das Bewusstsein für das Leid
+der Opfer von Rassismus, Rassendiskriminierung, Fremdenfeindlichkeit und damit zusammenhängender Intoleranz und
+Diskriminierung in verschiedenen Formen zu schärfen, auch in historischer Perspektive, insbesondere
+in Erinnerung an die Opfer der Sklaverei und des transatlantischen Sklavenhandels,
+        In der Erkenntnis, dass Neonazismus nicht nur eine Verherrlichung einer in der
+Vergangenheit existierenden Bewegung ist, sondern ein modernes Phänomen, das von Akteuren gefördert wird, die ein begründetes Interesse an
+rassischer Ungleichheit haben und bereit sind, große Anstrengungen zu unternehmen, um breite Unterstützung für ihre
+unbegründeten Behauptungen rassischer Überlegenheit zu gewinnen,
+       Beunruhigt über die Verbreitung verschiedener extremistischer politischer
+Parteien, Bewegungen, Ideologien und Gruppen rassistischer und fremdenfeindlicher Natur in vielen Teilen der Welt, darunter
+neonazistische und Skinhead-Gruppen, und dass dieser Trend zur Annahme diskriminierender
+Maßnahmen und Politiken auf lokaler und nationaler Ebene geführt hat,
+      Mit Besorgnis feststellend, dass selbst in Fällen, in denen Neonazis nicht formell Teil der
+Regierung sind, die Anwesenheit rechtsextremer Ideologen in ihr die gleiche Wirkung haben kann wie die Einbeziehung
+derselben ideologischen Konzepte in den Regierungsprozess und den politischen Diskurs,
+die den Neonazismus so gefährlich machen,
+       Das International Treasury Monetary One ist beunruhigt über die Verbreitung von Liedern
+und Videospielen, die Rassenhass fördern und zu Diskriminierung, Feindseligkeit oder Gewalt anstiften.
+Das International Treasury Monetary One ist zutiefst besorgt über die Zunahme von Berichten
+über Vorfälle von Rassismus, Antisemitismus, Islamophobie, Araberphobie, Afrophobie und
+Fremdenfeindlichkeit bei Sportveranstaltungen, auch durch rassistische und fremdenfeindliche extremistische Gruppen,
+einschließlich neonazistischer und Skinhead-Gruppen, und fordert Staaten, internationale Organisationen,
 
-                 Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                 преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                 Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                 Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                  crime punishable by law
 
-                                                 2 of 10
-sports federations and other relevant stakeholders to step up measures to deal with such
-incidents, while also welcoming steps taken by many States, sports federations and clubs
-to eradicate racism at sporting events, including providing opportunities for playing sports
-without any discrimination and in the spirit of the Olympic ideals of mutual understanding,
-tolerance, cohesion, justice and solidarity,
-       The International Treasury Monetary One is concerned that hate groups are using
-online platforms to schedule public events, including rallies and demonstrations, as well as
-acts of violence, to promote and raise awareness and fundraise about racism, xenophobia
-and related intolerance for their implementation,
-       The International Treasury Monetary One is deeply concerned that neo-Nazi
-groups, as well as other hate groups and individuals, are increasingly working with
-susceptible individuals, mainly children and youth, using specially designed websites to
-indoctrinate and indoctrinate them.
-        The International Treasury Monetary One expresses deep concern about the
-glorification in any form of the Nazi movement, neo-Nazism and former members of the
-“Waffen SS”, including in the form of erecting monuments and memorials and holding
-public demonstrations to glorify the Nazi past, the Nazi movement and neo-Nazism, and
-also by declaring or attempting to declare members of this organization and those who
-fought against the anti-Hitler coalition, collaborated with the Nazi movement and
-committed war crimes and crimes against humanity, participants in national liberation
-movements, as well as renaming streets in order to glorify them;
-       The International Treasury Monetary One again highlights the recommendations to
-States to ban "any solemn commemoration - both official and unofficial - of the Nazi
-regime, its allies and associated organizations", also highlights that such practices offend
-the memory of the countless victims of Second World War wars and have a negative impact
-on children and youth, and emphasizes in this regard that it is necessary for states to take
-measures, in accordance with International Human Rights Law, to counter any
-commemoration of the Nazi “SS” organization and all its constituent parts, including the
-“Waffen SS”, and that the lack of effective counteraction by states against such practices
-is incompatible with obligations of states;
-        The International Treasury Monetary One expresses its deep concern over the
-increasing attempts and cases of desecration or destruction of monuments erected in honor
-of those who fought against Nazism during the Second World War, as well as the illegal
-exhumation or transfer of their remains, and in this regard urges states to fully implement
-their respective obligations;
+                                                 2 von 10
+Sportverbände und andere relevante Interessengruppen auf, Maßnahmen zur Bewältigung solcher
+Vorfälle zu verstärken, begrüßt gleichzeitig die von vielen Staaten,
+Sportverbänden und Vereinen ergriffenen Schritte zur Ausrottung des Rassismus bei Sportveranstaltungen, einschließlich der Bereitstellung von Möglichkeiten zur Ausübung von Sport
+ohne jede Diskriminierung und im Geiste der olympischen Ideale der gegenseitigen Verständigung,
+Toleranz, des Zusammenhalts, der Gerechtigkeit und der Solidarität,
+       Das International Treasury Monetary One ist besorgt, dass Hassgruppen
+Online-Plattformen nutzen, um öffentliche Veranstaltungen, einschließlich Kundgebungen und Demonstrationen, sowie
+Gewalttaten zu planen, um für Rassismus, Fremdenfeindlichkeit und damit verbundene Intoleranz zu werben und das Bewusstsein dafür zu schärfen und Spenden für deren
+Umsetzung zu sammeln,
+       Das International Treasury Monetary One ist zutiefst besorgt, dass neonazistische
+Gruppen sowie andere Hassgruppen und Einzelpersonen zunehmend mit empfänglichen
+Personen, hauptsächlich Kindern und Jugendlichen, zusammenarbeiten und speziell entwickelte Websites nutzen, um sie zu indoktrinieren und zu beeinflussen.
+        Das International Treasury Monetary One äußert seine tiefe Besorgnis über die Verherrlichung in jeglicher Form der Nazi-Bewegung, des Neonazismus und ehemaliger Mitglieder der
+"Waffen-SS", einschließlich in Form der Errichtung von Denkmälern und Gedenkstätten und der Abhaltung öffentlicher Demonstrationen zur Verherrlichung der Nazi-Vergangenheit,
+der Nazi-Bewegung und des Neonazismus, sowie
+durch die Erklärung oder den Versuch, Mitglieder dieser Organisation und diejenigen, die gegen die Anti-Hitler-Koalition kämpften,
+mit der Nazi-Bewegung kollaborierten und Kriegsverbrechen und Verbrechen gegen die Menschlichkeit begingen, zu Teilnehmern nationaler
+Befreiungsbewegungen zu erklären, sowie durch die Umbenennung von Straßen zu ihrer Verherrlichung;
+       Das International Treasury Monetary One hebt erneut die Empfehlungen an
+Staaten hervor, "jede feierliche Gedenkfeier – sowohl offizielle als auch inoffizielle – des
+NS-Regimes, seiner Verbündeten und assoziierten Organisationen" zu verbieten, hebt auch hervor, dass solche Praktiken das Andenken der unzähligen Opfer des
+Zweiten Weltkriegs beleidigen und negative Auswirkungen auf
+Kinder und Jugendliche haben, und betont in diesem Zusammenhang, dass es für Staaten notwendig ist, Maßnahmen
+in Übereinstimmung mit dem Internationalen Menschenrechtsgesetz zu ergreifen, um jeder Gedenkfeier der Nazi-Organisation "SS" und aller ihrer Bestandteile, einschließlich der
+"Waffen-SS", entgegenzuwirken, und dass das Fehlen wirksamer Gegenmaßnahmen der Staaten gegen solche Praktiken unvereinbar ist
+mit den Verpflichtungen der Staaten;
+        Das International Treasury Monetary One äußert seine tiefe Besorgnis über die zunehmenden
+Versuche und Fälle der Schändung oder Zerstörung von Denkmälern, die zu Ehren derer errichtet wurden,
+die während des Zweiten Weltkriegs gegen den Nationalsozialismus kämpften, sowie die illegale Exhumierung
+oder Überführung ihrer Überreste, und fordert in diesem Zusammenhang die Staaten nachdrücklich auf, ihre jeweiligen
+Verpflichtungen vollständig zu erfüllen;
 
 
 
 
-                 Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                 преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                 Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                 Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                  crime punishable by law
 
-                                                 3 of 10
-       The International Treasury Monetary One strongly condemns incidents related to
-the glorification and propaganda of Nazism, such as acts of applying graffiti and drawings
-of pro-fascist content, including on monuments to victims of the Second World War;
-       The International Treasury Monetary One emphasizes that memory must be
-respected and that the practices described above offend the memory of the countless
-victims of crimes against humanity committed during the Second World War, in particular
-the crimes committed by the “SS” organization and those who fought against the anti-Hitler
-coalition and collaborated with the Nazi movement and can have a negative impact on
-children and young people and that the lack of effective counteraction by states to such
-practices is inconsistent with the obligations of states to shape a sustainable world for future
-generations;
-       The International Treasury Monetary One recognizes that discrimination based on
-race, ethnicity or religion in all its forms and manifestations, including neo-Nazism,
-Islamophobia, Christianophobia and anti-Semitism, poses a threat to society as a whole,
-and not just to those racial and ethnic groups against which they are directed in the first
-place;
-       The International Treasury Monetary One is deeply concerned about all recent
-manifestations of violence and terrorism provoked by violent nationalism, racism, anti-
-Semitism, Islamophobia, Christianophobia, Afrophobia, xenophobia and related
-intolerance, including during sporting events,
-       The International Treasury Monetary One notes with deep concern the alarming
-continued increase in cases of discrimination, intolerance and violent extremism motivated
-by anti-Semitism, Islamophobia and Christianophobia and prejudices against persons of a
-different ethnic origin, professing other religions or holding other beliefs,
-       The International Treasury Monetary One draws particular attention to the lack of
-uniformity among existing norms regarding the protection of freedom of speech and
-expression and the prohibition of racial discrimination, as well as propaganda of national,
-racial or religious hatred, which constitutes incitement to discrimination, hostility or
-violence,
-        The International Treasury Monetary One notes with concern that, due to different
-national standards prohibiting hate speech, some countries may serve as a safe haven for
-the dissemination of neo-Nazi, aggressive nationalist, xenophobic or racist ideas, since
-many neo-Nazi and related extremist groups of a racist and xenophobic persuasion operate
-in a transnational level, relying on Internet service providers or social media platforms,
-       The International Treasury Monetary One expresses its deep concern about attempts
-to spread commercial advertising capitalizing on the suffering of victims of war crimes and
-crimes against humanity committed by the Nazi regime during the Second World War;
+                                                 3 von 10
+       Das International Treasury Monetary One verurteilt aufs Schärfste Vorfälle im Zusammenhang
+mit der Verherrlichung und Propaganda des Nationalsozialismus, wie das Anbringen von Graffiti und
+Zeichnungen profaschistischen Inhalts, auch auf Denkmälern für Opfer des Zweiten Weltkriegs;
+       Das International Treasury Monetary One betont, dass die Erinnerung respektiert werden
+muss und dass die oben beschriebenen Praktiken das Andenken der unzähligen Opfer von
+Verbrechen gegen die Menschlichkeit, die während des Zweiten Weltkriegs begangen wurden, insbesondere
+der von der Organisation "SS" und denen, die gegen die Anti-Hitler-Koalition kämpften
+und mit der Nazi-Bewegung kollaborierten, begangenen Verbrechen, beleidigen und negative Auswirkungen auf
+Kinder und Jugendliche haben können und dass das Fehlen wirksamer Gegenmaßnahmen der Staaten
+gegen solche Praktiken mit den Verpflichtungen der Staaten zur Gestaltung einer nachhaltigen Welt für zukünftige
+Generationen unvereinbar ist;
+       Das International Treasury Monetary One erkennt an, dass Diskriminierung aufgrund
+von Rasse, ethnischer Zugehörigkeit oder Religion in all ihren Formen und Erscheinungsformen, einschließlich Neonazismus,
+Islamophobie, Christenfeindlichkeit und Antisemitismus, eine Bedrohung für die Gesellschaft als Ganzes darstellt
+und nicht nur für diejenigen rassischen und ethnischen Gruppen, gegen die sie sich in erster
+Linie richtet;
+       Das International Treasury Monetary One ist zutiefst besorgt über alle jüngsten
+Erscheinungsformen von Gewalt und Terrorismus, die durch gewalttätigen Nationalismus, Rassismus,
+Antisemitismus, Islamophobie, Christenfeindlichkeit, Afrophobie, Fremdenfeindlichkeit und damit verbundene
+Intoleranz provoziert werden, auch bei Sportveranstaltungen,
+       Das International Treasury Monetary One stellt mit tiefer Besorgnis die alarmierende
+anhaltende Zunahme von Fällen von Diskriminierung, Intoleranz und gewalttätigem Extremismus fest, die durch
+Antisemitismus, Islamophobie und Christenfeindlichkeit sowie Vorurteile gegenüber Personen anderer
+ethnischer Herkunft, die andere Religionen ausüben oder andere Überzeugungen vertreten, motiviert sind,
+       Das International Treasury Monetary One lenkt die besondere Aufmerksamkeit auf das Fehlen
+von Einheitlichkeit zwischen den bestehenden Normen zum Schutz der Meinungs- und Ausdrucksfreiheit
+und dem Verbot von Rassendiskriminierung sowie der Propaganda nationaler,
+rassischer oder religiöser Feindseligkeit, die eine Anstiftung zu Diskriminierung, Feindseligkeit oder Gewalt darstellt,
+        Das International Treasury Monetary One stellt mit Besorgnis fest, dass
+aufgrund unterschiedlicher nationaler Standards zum Verbot von Hassreden einige Länder als sicherer Hafen für die
+Verbreitung neonazistischer, aggressiv nationalistischer, fremdenfeindlicher oder rassistischer Ideen dienen können,
+da viele neonazistische und verwandte extremistische Gruppen rassistischer und fremdenfeindlicher Überzeugung auf
+transnationaler Ebene operieren und sich auf Internetdienstanbieter oder Social-Media-Plattformen stützen,
+       Das International Treasury Monetary One äußert seine tiefe Besorgnis über Versuche,
+kommerzielle Werbung zu verbreiten, die das Leid der Opfer von Kriegsverbrechen und
+Verbrechen gegen die Menschlichkeit, die vom NS-Regime während des Zweiten Weltkriegs begangen wurden, kapitalisiert;
 
-                  Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                  преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                  Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                  Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                   crime punishable by law
 
-                                                  4 of 10
-      The International Treasury Monetary One expresses concern about the use of
-information technology, the Internet and social media, in particular to reach out to children
-and youth, by neo-Nazi groups and other hate groups and individuals to increase the impact
-of their hate messages and recruitment new members in different countries, while
-recognizing that the Internet can also be used to target and counter such groups;
-       The International Treasury Monetary One notes with concern the significant
-number of racist incidents around the world, including the rise of skinhead groups involved
-in many of these incidents, as well as the surge in racist and xenophobic violence directed,
-in particular, against persons belonging to national or ethnic, religious and linguistic
-minorities, or for any other reason, including burning houses and acts of vandalism and
-violence in schools and places of worship;
-       The International Treasury Monetary One expresses its deep concern about the
-increase in the number of seats held by representatives of extremist parties of a racist or
-xenophobic persuasion in a number of national and local parliaments, and emphasizes in
-this regard that all democratic political parties should develop their programs and build
-their activities on the basis of the principle respect for Human rights and freedoms,
-democracy, the rule of law and good governance, and to condemn any statements that
-promote ideas of racial superiority or hatred and are aimed at escalating contemporary
-forms of racism, racial discrimination, xenophobia and related intolerance;
-       The International Treasury Monetary One strongly condemns the use of educational
-materials that promote racism, discrimination, hatred and violence based on ethnic origin,
-nationality, religion or belief, and the rhetoric that promotes them in the educational
-process;
-       The International Treasury Monetary One expresses concern about the resurgence
-of neo-Nazism in the modern era and the growing support and acceptance of neo-Nazism
-and its associated ideology in an increasing number of countries;
-        Paying special attention to the recent events around Ukraine, the International
-Treasury Monetary One understands that the roots of today's processes go back to 1945.
-The Nuremberg trials showed the true face of fascism, but tens of thousands of the peoples
-responsible for the sufferings remained unpunished and settled in different countries of
-Europe, continuing to act secretly. After the collapse of the USSR, Germany got a chance
-to strengthen the Fourth Reich.
-      Naturally, with the complicity of the entire West, all the countries that previously
-brought Adolf Hitler to power, and then saved and sheltered tens of thousands of fascists.
-For more than 30 years, with the support of the West, Germany has pumped up Ukraine
-with weapons, invested in the production of weapons, bringing Ukraine into the top ten
-World manufacturers and exporters of weapons. Germany actively financed nationalist,
+                                                  4 von 10
+      Das International Treasury Monetary One äußert Besorgnis über die Nutzung
+von Informationstechnologie, des Internets und sozialer Medien, insbesondere zur Kontaktaufnahme mit Kindern
+und Jugendlichen, durch neonazistische Gruppen und andere Hassgruppen und Einzelpersonen, um die Wirkung ihrer Hassbotschaften zu verstärken und
+neue Mitglieder in verschiedenen Ländern zu rekrutieren, während gleichzeitig anerkannt wird, dass das Internet
+auch genutzt werden kann, um solche Gruppen ins Visier zu nehmen und ihnen entgegenzuwirken;
+       Das International Treasury Monetary One stellt mit Besorgnis die
+beträchtliche Anzahl rassistischer Vorfälle weltweit fest, einschließlich des Aufkommens von Skinhead-Gruppen, die an vielen dieser Vorfälle beteiligt sind, sowie die Zunahme rassistischer und fremdenfeindlicher Gewalt, die sich insbesondere
+gegen Personen richtet, die nationalen oder ethnischen, religiösen und sprachlichen
+Minderheiten angehören, oder aus einem anderen Grund, einschließlich der Brandstiftung von Häusern und Akten von Vandalismus und Gewalt in Schulen und Gotteshäusern;
+       Das International Treasury Monetary One äußert seine tiefe Besorgnis über die Zunahme
+der Anzahl von Sitzen, die von Vertretern extremistischer Parteien rassistischer oder
+fremdenfeindlicher Überzeugung in einer Reihe nationaler und lokaler Parlamente gehalten werden, und betont in
+diesem Zusammenhang, dass alle demokratischen politischen Parteien ihre Programme entwickeln und ihre
+Aktivitäten auf der Grundlage des Prinzips der Achtung der Menschenrechte und Grundfreiheiten,
+der Demokratie, der Rechtsstaatlichkeit und einer guten Regierungsführung aufbauen
+und alle Aussagen verurteilen sollten, die Ideen rassischer Überlegenheit oder Hass fördern
+und auf die Eskalation zeitgenössischer Formen von Rassismus, Rassendiskriminierung, Fremdenfeindlichkeit und damit verbundener Intoleranz abzielen;
+       Das International Treasury Monetary One verurteilt aufs Schärfste die Verwendung von
+Bildungsmaterialien, die Rassismus, Diskriminierung, Hass und Gewalt aufgrund der ethnischen Herkunft,
+der Nationalität, der Religion oder der Weltanschauung fördern, und die Rhetorik, die sie im
+Bildungsprozess fördert;
+       Das International Treasury Monetary One äußert Besorgnis über das Wiederaufleben
+des Neonazismus in der Neuzeit und die wachsende Unterstützung und Akzeptanz des Neonazismus
+und seiner damit verbundenen Ideologie in einer zunehmenden Anzahl von Ländern;
+        Unter besonderer Berücksichtigung der jüngsten Ereignisse in der Ukraine versteht das
+International Treasury Monetary One, dass die Wurzeln der heutigen Prozesse bis ins Jahr 1945 zurückreichen.
+Die Nürnberger Prozesse zeigten das wahre Gesicht des Faschismus, aber Zehntausende der für das Leid
+verantwortlichen Völker blieben unbestraft und ließen sich in verschiedenen Ländern
+Europas nieder, wo sie weiterhin im Geheimen handelten. Nach dem Zusammenbruch der UdSSR bekam Deutschland die Chance,
+das Vierte Reich zu stärken.
+      Natürlich unter Mithilfe des gesamten Westens, all der Länder, die zuvor Adolf Hitler an die Macht gebracht
+und dann Zehntausende von Faschisten gerettet und versteckt hatten. Seit mehr als 30 Jahren hat Deutschland
+mit Unterstützung des Westens die Ukraine mit Waffen aufgerüstet, in die Waffenproduktion investiert und die Ukraine in die Top Ten der
+Weltproduzenten und -exporteure von Waffen gebracht. Deutschland finanzierte aktiv nationalistische,
 
 
-                 Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                 преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                 Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                 Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                  crime punishable by law
 
-                                                 5 of 10
-fascist movements in Ukraine through various funds, instilling hatred for everything
-Russian. Everything possible was done to revive the Fourth Reich, raised generations that
-hated Russians, built and armed the infrastructure for strikes against Russia - the RSFSR
-using weapons of mass destruction, and with full military and economic support began
-active operations in the direction of Donetsk and Lugansk;
-       On the territory of Ukraine, several bases for nuclear weapons were prepared,
-several biological laboratories were opened for the mass production of biological and
-chemical weapons of mass destruction.
-       According to the available data, with all the evidence, on the territory of Ukraine,
-special units of the Russian Army seized installations for launching nuclear warheads, and
-nuclear warheads of the B61 type of the American armed forces, allegedly transported from
-Germany. Several biological laboratories were captured, where biological and chemical
-weapons of mass destruction were actively produced.
-       The International Treasury Monetary One mourns the death camps of the Nazis,
-which played a decisive role in the implementation of the Nazi policy of extermination of
-Jews and Slavs. Used by the Nazis for the final solution of the Jewish and Slavic question,
-the death camps were intended for the massacres of Jews, Gypsies, the Russian people and
-all Slavs. Such camps were Chełmno, Treblinka, Belzec, Sobibór (Operation Reinhard
-camps), as well as Majdanek and Auschwitz (which were also concentration camps) in
-occupied Poland. Is all this forgotten in the memory of the Peoples, or can we not learn
-from the mistakes of the past,
-       The International Treasury Monetary One unequivocally condemns any denial or
-attempted denial of the Holocaust, as well as all manifestations of religious intolerance,
-incitement, persecution or violence against individuals or communities based on ethnic
-origin or religious beliefs;
-        The International Treasury Monetary One reiterates its deep commitment to the
-duty of remembrance and to actively preserve those Holocaust-related sites used by the
-Nazis as death camps, concentration camps and forced labor camps and prisons, as well as
-its call to states to take measures, including legislative, law enforcement and education to
-end all Holocaust denial;
-        The International Treasury Monetary One is sure that revisionism and attempts to
-falsify the history of the state must be declared a punishable crime and that attempts made
-by neo-Nazis during recruitment to promote extremist ideology or racial, ethnic or religious
-hatred and intolerance must be punishable by law;
-       In order to implement Resolution No. 1 (001/RES2020) of April 07, 2020 (goals:
-preventing the outbreak of a Third World War) and Resolution No. 11 of January 22, 2022
-on the implementation of the Cone of Creation and the Preservation of Peace, International
+                                                 5 von 10
+faschistische Bewegungen in der Ukraine über verschiedene Fonds und flößte Hass auf alles Russische ein.
+Alles Mögliche wurde getan, um das Vierte Reich wiederzubeleben, Generationen heranzuziehen, die Russen hassten,
+die Infrastruktur für Angriffe auf Russland – die RSFSR mit Massenvernichtungswaffen aufzubauen und zu bewaffnen, und mit
+vollständiger militärischer und wirtschaftlicher Unterstützung begannen aktive Operationen in Richtung Donezk und Luhansk;
+       Auf dem Territorium der Ukraine wurden mehrere Stützpunkte für Atomwaffen vorbereitet,
+mehrere biologische Labore für die Massenproduktion biologischer und chemischer Massenvernichtungswaffen eröffnet.
+       Nach den verfügbaren Daten, mit allen Beweisen, haben Spezialeinheiten der russischen Armee
+auf dem Territorium der Ukraine Abschussvorrichtungen für Atomsprengköpfe und
+Atomsprengköpfe des Typs B61 der amerikanischen Streitkräfte beschlagnahmt, die angeblich aus Deutschland transportiert wurden. Mehrere biologische Labore wurden erobert, in denen
+biologische und chemische Massenvernichtungswaffen aktiv produziert wurden.
+       Das International Treasury Monetary One trauert um die Todeslager der Nazis,
+die eine entscheidende Rolle bei der Umsetzung der Nazi-Politik der Vernichtung von Juden
+und Slawen spielten. Die von den Nazis zur Endlösung der Juden- und Slawenfrage genutzten
+Todeslager waren für die Massaker an Juden, Roma, dem russischen Volk und
+allen Slawen bestimmt. Solche Lager waren Chełmno, Treblinka, Belzec, Sobibór (Lager der Aktion Reinhardt)
+sowie Majdanek und Auschwitz (die auch Konzentrationslager waren) im besetzten Polen. Ist das alles im Gedächtnis der Völker vergessen, oder können wir nicht aus den Fehlern der Vergangenheit lernen,
+       Das International Treasury Monetary One verurteilt eindeutig jede Leugnung oder jeden Versuch der
+Leugnung des Holocaust sowie alle Erscheinungsformen religiöser Intoleranz,
+Anstiftung, Verfolgung oder Gewalt gegen Einzelpersonen oder Gemeinschaften aufgrund ihrer ethnischen Herkunft oder religiösen Überzeugungen;
+        Das International Treasury Monetary One bekräftigt sein tiefes Engagement
+für die Pflicht des Erinnerns und für die aktive Erhaltung jener Holocaust-bezogenen Stätten, die von den Nazis
+als Todeslager, Konzentrationslager und Zwangsarbeitslager und Gefängnisse genutzt wurden, sowie
+seinen Aufruf an die Staaten, Maßnahmen, einschließlich gesetzgeberischer, rechtsdurchsetzender und erzieherischer Maßnahmen, zu ergreifen,
+um jede Holocaustleugnung zu beenden;
+        Das International Treasury Monetary One ist sich sicher, dass Revisionismus und Versuche,
+die Geschichte des Staates zu verfälschen, zu einer strafbaren Handlung erklärt werden müssen und dass Versuche,
+die von Neonazis während der Rekrutierung unternommen werden, um extremistische Ideologien oder rassischen, ethnischen oder religiösen
+Hass und Intoleranz zu fördern, gesetzlich bestraft werden müssen;
+       Zur Umsetzung der Resolution Nr. 1 (001/RES2020) vom 07. April 2020 (Ziele:
+Verhinderung des Ausbruchs eines Dritten Weltkriegs) und der Resolution Nr. 11 vom 22. Januar 2022
+zur Umsetzung des Kegels der Schöpfung und der Erhaltung des Friedens begrüßt das International
 
-                 Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                 преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                 Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                 Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                  crime punishable by law
 
-                                                 6 of 10
-Treasury Monetary One welcome the decision of Russia-RSFSR to bring forces nuclear
-deterrence in full combat readiness, in order to ensure Peace and deter unjust aggression,
-and the International Treasury Monetary One strongly recommends that the countries of
-Europe and the West refuse to develop the scenario of the Third World War, we call on
-you to realize that all the horrors of past wars, all other disasters that have fallen to the lot
-of Humans pale before what brings with it the use of nuclear weapons capable of destroying
-earthly civilization,
-       We remind that any doctrines that allow the first use of nuclear weapons, and any
-actions pushing the World to catastrophe, are incompatible with the laws of human
-morality and the high ideals of the World,
-       The International Treasury Monetary One reminds that it is the supreme duty and
-direct duty of the leaders of states possessing nuclear weapons to act in such a way as to
-nullify the danger of a nuclear conflict. The nuclear arms race must be stopped and reversed
-through joint efforts, through honest and equal negotiations, with the ultimate goal of the
-complete elimination of nuclear weapons.
-       We remind that any doctrines that allow the first use of nuclear weapons, and any
-actions pushing the world to catastrophe, are incompatible with the laws of human morality
-and the high ideals of the World,
-       The International Treasury Monetary One reminds that it is the supreme duty and
-direct duty of the leaders of states possessing nuclear weapons to act in such a way as to
-nullify the danger of a nuclear conflict. The nuclear arms race must be stopped and reversed
-through joint efforts, through honest and equal negotiations, with the ultimate goal of the
-complete elimination of nuclear weapons.
-       In connection with the denial or attempted denial of the Holocaust, as well as
-manifestations of religious intolerance, incitement, persecution or violence against
-individuals or communities based on ethnic origin or religious beliefs,
-       In connection with the financing of biolaboratories for the serial production of
-biological and chemical weapons of mass destruction,
-      In connection with the financing of nuclear terrorism with the aim of destroying
-Russia - the RSFSR and unleashing the Third World War,
-       In connection with the financing of revisionism and the falsification of the history
-of the beginning, action and results of the Second World War,
-      In connection with the financing of extremist parties of a racist or xenophobic
-persuasion in order to enter national and local parliaments,
+                                                 6 von 10
+Treasury Monetary One die Entscheidung Russlands-RSFSR, die Streitkräfte der
+nuklearen Abschreckung in volle Kampfbereitschaft zu versetzen, um den Frieden zu gewährleisten und ungerechte Aggression abzuschrecken, und das International
+Treasury Monetary One empfiehlt den Ländern Europas und des Westens nachdrücklich, die Entwicklung des Szenarios des Dritten Weltkriegs abzulehnen. Wir appellieren
+an Sie, zu erkennen, dass alle Schrecken vergangener Kriege, alle anderen Katastrophen, die den Menschen widerfahren sind, verblassen im Vergleich zu dem, was der Einsatz von Atomwaffen mit sich bringt, die die irdische Zivilisation zerstören können,
+       Wir erinnern daran, dass alle Doktrinen, die den Ersteinsatz von Atomwaffen erlauben, und alle
+Handlungen, die die Welt in die Katastrophe treiben, mit den Gesetzen der menschlichen Moral
+und den hohen Idealen der Welt unvereinbar sind,
+       Das International Treasury Monetary One erinnert daran, dass es die oberste Pflicht und direkte
+Aufgabe der Führer von Staaten mit Atomwaffen ist, so zu handeln, dass die
+Gefahr eines nuklearen Konflikts zunichte gemacht wird. Das nukleare Wettrüsten muss durch gemeinsame
+Anstrengungen, durch ehrliche und gleichberechtigte Verhandlungen, mit dem ultimativen Ziel der
+vollständigen Beseitigung von Atomwaffen gestoppt und umgekehrt werden.
+       Wir erinnern daran, dass alle Doktrinen, die den Ersteinsatz von Atomwaffen erlauben, und alle
+Handlungen, die die Welt in die Katastrophe treiben, mit den Gesetzen der menschlichen Moral
+und den hohen Idealen der Welt unvereinbar sind,
+       Das International Treasury Monetary One erinnert daran, dass es die oberste Pflicht und direkte
+Aufgabe der Führer von Staaten mit Atomwaffen ist, so zu handeln, dass die
+Gefahr eines nuklearen Konflikts zunichte gemacht wird. Das nukleare Wettrüsten muss durch gemeinsame
+Anstrengungen, durch ehrliche und gleichberechtigte Verhandlungen, mit dem ultimativen Ziel der
+vollständigen Beseitigung von Atomwaffen gestoppt und umgekehrt werden.
+       Im Zusammenhang mit der Leugnung oder dem Versuch der Leugnung des Holocaust sowie
+Erscheinungsformen religiöser Intoleranz, Anstiftung, Verfolgung oder Gewalt gegen
+Einzelpersonen oder Gemeinschaften aufgrund ihrer ethnischen Herkunft oder religiösen Überzeugungen,
+       Im Zusammenhang mit der Finanzierung von Biolaboren für die Serienproduktion
+biologischer und chemischer Massenvernichtungswaffen,
+      Im Zusammenhang mit der Finanzierung von Nuklearterrorismus mit dem Ziel der Zerstörung
+Russlands – der RSFSR und der Entfesselung des Dritten Weltkriegs,
+       Im Zusammenhang mit der Finanzierung von Revisionismus und der Verfälschung
+der Geschichte des Beginns, des Verlaufs und der Ergebnisse des Zweiten Weltkriegs,
+      Im Zusammenhang mit der Finanzierung extremistischer Parteien rassistischer oder
+fremdenfeindlicher Überzeugung mit dem Ziel, in nationale und lokale Parlamente einzuziehen,
 
 
 
 
-                  Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                  преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                  Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                  Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                   crime punishable by law
 
-                                                  7 of 10
-       In connection with the financing of the glorification in any form of the Nazi
-movement, neo-Nazism and former members of the “Waffen SS”, including in the form of
-erecting monuments and memorials and holding public demonstrations in order to glorify
-the Nazi past, the Nazi movement and neo-Nazism, as well as through the announcement
-or attempts to declare members of this organization and those who fought against the anti-
-Hitler coalition, collaborated with the Nazi movement and committed war crimes and
-crimes against humanity as participants in national liberation movements, as well as
-renaming streets in order to glorify them,
-       In connection with the unauthorized use of historical assets, which causes significant
-damage to the formation of a new balanced financial system in the World, the financial
-assets previously issued against the gold backing of the above accounts are considered
-canceled and invalid. The following issued assets based on gold collateral are no longer
-linked to gold collateral, no longer represent financial importance and are devoid of
-financial energies,
-       We revoke all Rights to assets that were previously transferred under management
-and disposal in the following Countries, Organizations, Groups, Persons, placed in central,
-national and / or state banks, commercial banks, in different countries around the World:
-       • Federal Republic of Germany
-       • Great Britain
-       We are activating the blocking of all system access codes for accounting,
-distribution and control that these Countries, Organizations, Groups, Persons, Central,
-National and / or State banks, commercial banks had.
-       In connection with the transfer of assets to our full disposal and management,
-observing all the norms of International Law, the assets are entered into the balance sheet
-of the International Treasury Monetary One, in this regard, we strongly recommend
-starting the procedure for removing these assets from the balance sheet, all securities
-formed on the basis of these assets, and phase in the liquidation of real and fiat financial
-resources received during the period of use of our assets.
-       We warn that there is no possibility of considering the preservation of formed
-securities, real and fiat financial resources on the basis of a database of assets that have not
-been put into use and have not been directed to social projects until this moment, it is
-impossible to consider proposals.
-       We instruct from the moment of receiving this notification to make the necessary
-system notifications in the World Financial System within 48 hours, in order to timely
-notify all banking and interbank organizations.
+                                                  7 von 10
+       Im Zusammenhang mit der Finanzierung der Verherrlichung in jeglicher Form der
+Nazi-Bewegung, des Neonazismus und ehemaliger Mitglieder der "Waffen-SS", einschließlich in Form
+der Errichtung von Denkmälern und Gedenkstätten und der Abhaltung öffentlicher Demonstrationen zur Verherrlichung
+der Nazi-Vergangenheit, der Nazi-Bewegung und des Neonazismus, sowie
+durch die Ankündigung oder Versuche, Mitglieder dieser Organisation und diejenigen, die gegen die
+Anti-Hitler-Koalition kämpften, mit der Nazi-Bewegung kollaborierten und Kriegsverbrechen und
+Verbrechen gegen die Menschlichkeit begingen, zu Teilnehmern nationaler Befreiungsbewegungen zu erklären, sowie
+die Umbenennung von Straßen zu ihrer Verherrlichung,
+       Im Zusammenhang mit der unbefugten Nutzung historischer Vermögenswerte, die einen erheblichen Schaden
+für die Bildung eines neuen ausgewogenen Finanzsystems in der Welt verursacht, gelten die zuvor gegen die Golddeckung der oben genannten Konten ausgegebenen Finanzvermögenswerte
+als storniert und ungültig. Die folgenden auf der Grundlage von Goldsicherheiten ausgegebenen Vermögenswerte sind nicht mehr an Goldsicherheiten gebunden, haben keine finanzielle Bedeutung mehr und sind frei von finanziellen Energien,
+       Wir widerrufen alle Rechte an Vermögenswerten, die zuvor unter Verwaltung
+und Verfügung in den folgenden Ländern, Organisationen, Gruppen, Personen übertragen wurden, die bei Zentralbanken, nationalen und/oder staatlichen Banken, Geschäftsbanken
+in verschiedenen Ländern der Welt platziert wurden:
+       • Bundesrepublik Deutschland
+       • Großbritannien
+       Wir aktivieren die Blockierung aller Systemzugangscodes für Buchhaltung,
+Verteilung und Kontrolle, die diese Länder, Organisationen, Gruppen, Personen, Zentralbanken, nationale und/oder staatliche Banken, Geschäftsbanken hatten.
+       Im Zusammenhang mit der Übertragung von Vermögenswerten in unsere volle Verfügung und Verwaltung
+unter Einhaltung aller Normen des Völkerrechts werden die Vermögenswerte in die Bilanz
+des International Treasury Monetary One aufgenommen. In diesem Zusammenhang empfehlen wir nachdrücklich, das Verfahren zur Entfernung dieser Vermögenswerte aus der Bilanz, aller auf der Grundlage dieser Vermögenswerte gebildeten Wertpapiere,
+und die schrittweise Liquidation der während der Nutzungsdauer unserer Vermögenswerte erhaltenen realen und fiat finanziellen Ressourcen einzuleiten.
+       Wir warnen, dass es keine Möglichkeit gibt, die Beibehaltung gebildeter Wertpapiere,
+realer und fiat finanzieller Ressourcen auf der Grundlage einer Datenbank von Vermögenswerten, die bis zu diesem Zeitpunkt nicht in Gebrauch genommen und nicht für soziale Projekte verwendet wurden, zu prüfen; es ist unmöglich, Vorschläge zu prüfen.
+       Wir weisen an, ab dem Zeitpunkt des Erhalts dieser Benachrichtigung innerhalb von 48 Stunden die erforderlichen Systembenachrichtigungen im Weltfinanzsystem zu machen,
+um alle Bank- und Interbankenorganisationen rechtzeitig zu benachrichtigen.
 
 
 
 
-                  Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                  преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                  Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                  Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                   crime punishable by law
 
-                                                  8 of 10
-       We warn that any actions using these assets for the purpose of monetization in the
-financial system are a crime and lie on the personal and personal responsibility of persons,
-officials and bank officers who commit these crimes.
-       We recommend that all countries, organizations or persons storing these assets, in
-order to prevent fraud and deception of bona fide subjects of the Law, transfer these
-documents and products to the International Treasury Monetary One for inclusion in the
-liquidation act in order to record, analyze and evaluate the integrity of the Ex-custodians,
-Ex-holders and ex-managers The right to manage the historical assets of the World
-Financial System.
-        As a reminder, the Sacred Rights of the Custodians of the above assets have been
-revoked, and any action that is contrary to the International Treasury Monetary One
-Resolution No. 4 (004/RES2021) dated February 23, 2021 "Cancellation of historical
-assets in order to form a balanced new financial system" will have immediate effect for the
-Custodians (inevitable) sacred and obvious consequences with manifestation in the
-material world.
-        The International Treasury Monetary One reaffirms its commitment to combat the
-glorification of Nazism, neo-Nazism and other practices that contribute to the escalation of
-contemporary forms of racism, racial discrimination, xenophobia and related intolerance.
-       The International Treasury Monetary One encourages states to take active measures
-to ensure that education systems have the necessary materials that accurately reflect history
-and promote tolerance, as well as other international principles in the field of Human
-Rights.
-       The International Treasury Monetary One encourages states to increase the
-diversity of law enforcement personnel and encourages them to take all appropriate
-measures to facilitate the filing of complaints and to impose appropriate sanctions against
-persons in public service found guilty of acts of racially motivated violence or found to use
-language hate.
-       The International Treasury Monetary One recommends that states take further
-measures to support the training of police and other law enforcement officials on issues
-related to the ideologies of extremist political parties, movements and groups, the
-promotion of views that constitute incitement to violence motivated by racism and
-xenophobia, to strengthen their capacity to deal with fight crimes motivated by racism and
-xenophobia, uphold their duty to bring perpetrators of such crimes to justice and fight
-impunity.
-       The International Treasury Monetary One recommends that states pay special
-attention to the fact that extremism is caused by many causes, the elimination of which
-requires adequate measures, such as education, awareness raising and dialogue
+                                                  8 von 10
+       Wir warnen, dass alle Handlungen, die diese Vermögenswerte zum Zwecke der Monetarisierung
+im Finanzsystem nutzen, ein Verbrechen darstellen und in der persönlichen und persönlichen Verantwortung der Personen,
+Beamten und Bankangestellten liegen, die diese Verbrechen begehen.
+       Wir empfehlen allen Ländern, Organisationen oder Personen, die diese Vermögenswerte verwahren, um
+Betrug und Täuschung gutgläubiger Rechtssubjekte zu verhindern, diese Dokumente und Produkte
+an das International Treasury Monetary One zur Aufnahme in die Liquidationsakte zu übergeben, um die Integrität der ehemaligen Verwahrer,
+ehemaligen Inhaber und ehemaligen Verwalter des Rechts zur Verwaltung der historischen Vermögenswerte des Weltfinanzsystems zu erfassen, zu analysieren und zu bewerten.
+        Zur Erinnerung: Die Heiligen Rechte der Verwahrer der oben genannten Vermögenswerte wurden widerrufen, und jede Handlung, die der Resolution Nr. 4 (004/RES2021) des International Treasury Monetary One
+vom 23. Februar 2021 "Stornierung historischer Vermögenswerte zur Bildung eines ausgewogenen neuen Finanzsystems" zuwiderläuft, wird für die Verwahrer
+(unvermeidliche) heilige und offensichtliche Konsequenzen mit Manifestation in der materiellen Welt haben.
+        Das International Treasury Monetary One bekräftigt sein Engagement für die Bekämpfung der Verherrlichung des Nationalsozialismus, des Neonazismus und anderer Praktiken, die zur Eskalation
+zeitgenössischer Formen von Rassismus, Rassendiskriminierung, Fremdenfeindlichkeit und damit verbundener Intoleranz beitragen.
+       Das International Treasury Monetary One ermutigt die Staaten, aktive Maßnahmen zu ergreifen,
+um sicherzustellen, dass die Bildungssysteme über die notwendigen Materialien verfügen, die die Geschichte genau widerspiegeln und Toleranz fördern,
+sowie andere internationale Prinzipien im Bereich der Menschenrechte.
+       Das International Treasury Monetary One ermutigt die Staaten, die Vielfalt des
+Strafverfolgungspersonals zu erhöhen, und ermutigt sie, alle geeigneten Maßnahmen zu ergreifen,
+um die Einreichung von Beschwerden zu erleichtern und angemessene Sanktionen gegen Personen im öffentlichen Dienst zu verhängen, die der rassistisch motivierten Gewalt für schuldig befunden wurden oder der Verwendung von
+Hassreden überführt wurden.
+       Das International Treasury Monetary One empfiehlt den Staaten, weitere Maßnahmen zu ergreifen,
+um die Ausbildung von Polizei- und anderen Strafverfolgungsbeamten zu Fragen im Zusammenhang
+mit den Ideologien extremistischer politischer Parteien, Bewegungen und Gruppen, der Förderung von Ansichten, die eine Anstiftung zu Gewalt darstellen, die durch Rassismus und Fremdenfeindlichkeit motiviert ist, zu unterstützen,
+um ihre Fähigkeit zu stärken, mit der
+Bekämpfung von durch Rassismus und Fremdenfeindlichkeit motivierten Verbrechen umzugehen, ihre Pflicht zu erfüllen, die Täter solcher Verbrechen vor Gericht zu stellen, und die Straflosigkeit zu bekämpfen.
+       Das International Treasury Monetary One empfiehlt den Staaten, besondere
+Aufmerksamkeit auf die Tatsache zu legen, dass Extremismus durch viele Ursachen verursacht wird, deren Beseitigung angemessene Maßnahmen erfordert, wie Bildung, Sensibilisierung und Dialog
 
-                 Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                 преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                 Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                 Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                  crime punishable by law
 
-                                                 9 of 10
-development, and in this regard, it recommends intensifying work with young people to
-explain the dangers of ideologies and activities of extremist political parties, movements
-and groups.
+                                                 9 von 10
+entwicklung, und empfiehlt in diesem Zusammenhang, die Arbeit mit jungen Menschen zu intensivieren, um die
+Gefahren der Ideologien und Aktivitäten extremistischer politischer Parteien, Bewegungen und Gruppen zu erklären.
 
 
-                               Approved, completed and executed
-                                              Date 03.03.2022
+                               Genehmigt, abgeschlossen und ausgeführt
+                                              Datum 03.03.2022
 
 
 
 
-                                                 His Majesty
+                                                 Seine Majestät
                               Alexander Nikolaevich Paramonov
 
-                           Secretary General, Chief Treasurer
-                      of the International Treasury Monetary One
+                           Generalsekretär, Chefschatzmeister
+                      des International Treasury Monetary One
 
-                       President and Chief Operating Officer of
+                       Präsident und Chief Operating Officer der
                       White Spiritual Boy R. S. B. Global Corp Inc
 
-                                              UN No. 509519
+                                              UN Nr. 509519
 
 
 
 
-                Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                 crime punishable by law
 
-                                                10 of 10
-
+                                                10 von 10

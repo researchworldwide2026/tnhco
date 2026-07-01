@@ -1,51 +1,48 @@
 # Resolution-042
 
-# Resolution-042
+**Quell-PDF:** `Resolution-042.pdf`
 
-**Source PDF:** `Resolution-042.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 9
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion
+**Bilder:** 9
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 GYBEPENNOE AASKAYNAPSANVE KA3NAUEHGTES All
 SOVGERGIGN INTERNATIONAL TREASURY ALONGTARY ONG
 
-Date: October 18, 2023
-Ref. Ne: 942/DE62923
+Datum: 18. Oktober 2023
+Ref. Nr.: 942/DE62923
 
-Gode: @ 0139 TERA
-Gode: kal 786
+Code: @ 0139 TERA
+Code: kal 786
 
-Decree
+Dekret
 
-wes
-x mr infirm that Sovereign International Treasury Monetary One
+Wir bestätigen hiermit, dass Sovereign International Treasury Monetary One
 
-is the Owner and Manager of the World Account in World Sovereign Bank of the
-Order of Hospitallers, Account No..01-00-01-4-AAA4-777-G3-AM_-O1, distributed
-in various Banks in all Gountries,all over the Worid.
+der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank of the
+Order of Hospitallers, Kontonr. 01-00-01-4-AAA4-777-G3-AM_-O1, verteilt
+in verschiedenen Banken in allen Ländern auf der ganzen Welt, ist.
 
-We hereby confirm that Sovereign International Treasury Monetary One
-is the Owner and-Manager.of the. World Account da World Sovereign Bank of the
-Order of Hospitallers, Account No. 91-1-700-3516 222 777 8888 999, distributed
-in various Banks in all Gourtriesaround the World,
+Wir bestätigen hiermit, dass Sovereign International Treasury Monetary One
+der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank of the
+Order of Hospitallers, Kontonr. 91-1-700-3516 222 777 8888 999, verteilt
+in verschiedenen Banken in allen Ländern auf der ganzen Welt, ist.
 
-We remind you that the Sovereign. International Treasury Monetary One
-is the Owner and Manager ‘of all World Assets, ineuding accounts under the
-names: “White Spiritual Boy”, “Splcttual Wonder Boy”, “Spiritual Wonder
-Brothers”, “Morning Star”; “King David”, “Prophet Muhammad”, “Demas and
-Saint Timothy”, “White Mongolia”, “White Vatican”, “White Eagle”, “Alaria
-Sinukuan or Divine Grystal”, “Akaria Banahaw or Divine Sunflower”, “Maria
-Gristina or Divine Magdalene”, “Maria Makiling or Divine Ester &gg”, “Falcon”,
-“Alpha — Omega” and other accounts’ placed in various Banks in all Gountries
-around the World. 7
+Wir erinnern Sie daran, dass die Sovereign International Treasury Monetary One
+der Eigentümer und Verwalter aller Weltvermögenswerte ist, einschließlich Konten unter den
+Namen: „White Spiritual Boy“, „Spiritual Wonder Boy“, „Spiritual Wonder
+Brothers“, „Morning Star“; „King David“, „Prophet Muhammad“, „Demas and
+Saint Timothy“, „White Mongolia“, „White Vatican“, „White Eagle“, „Alaria
+Sinukuan or Divine Crystal“, „Akaria Banahaw or Divine Sunflower“, „Maria
+Cristina or Divine Magdalene“, „Maria Makiling or Divine Ester &gg“, „Falcon“,
+„Alpha — Omega“ und andere Konten, die in verschiedenen Banken in allen Ländern
+auf der ganzen Welt platziert sind.
 
-In connection with the transition to cryptocurrency and other digital Fiat
-Forms of accounting and mutual settlements of the main prohibited criminal
+Im Zusammenhang mit dem Übergang zu Kryptowährung und anderen digitalen Fiat-
+Formen der Buchhaltung und gegenseitigen Abrechnungen der wichtigsten verbotenen kriminellen
 
 IE IC LEE 2534008YCENRPABLOF1S: UN ID: 6261305 Telex: 64.623439 ITMO RU; ‘Ph: +7-495-125041 NI ates
 Mm Nec ee agen
@@ -54,81 +51,78 @@ een: ı Y urn
 
 
 
-## Section 001
+## Abschnitt 001
 
 atyts
 203 +,
 1702 ;
 JIE le LEI: 2534008YC6NRP4BLAFTS; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph DE)
 
-International Acts oF the Sovereign International Treasury Monetary One,
+Internationale Akte der Sovereign International Treasury Monetary One,
 
 GYSEPENHOG MEKAVHAPOANOG KABNAYEHGTEO All
 SOVEREIGN INTERNATIONAL TREASURY AAONETARY ONG
 
-organizations, carrying on their banners and carrying out prohibited neo-Fascism,
-continuing attempts to destroy Bright Humanity, organizing and catalyzing
+Organisationen, die auf ihren Bannern tragen und verbotenen Neo-Faschismus ausführen,
+fortgesetzte Versuche, die Helle Menschheit zu zerstören, Kriege zu organisieren und zu katalysieren,
+Völkermord, Raub und andere Verbrechen in Unserer Welt,
 
-wars, genocide, robbery and other crimes in Our World,
+Wie zum Beispiel: der dunkle Adel, die Jesuiten, die Illuminaten, die Kabale, die schwarze
+und andere farbige Aristokratien (außer der weißen Aristokratie), der dunkle
+Adel, der Kult der schwarzen Sonne (außer der Nave Sun), der kriminelle Kult namens
+Order of Set (außer dem großen Gott Set, Licht), die kriminelle und illegitime
+„Regierung“ (Falsche Regierung) ist die US-Korporation, die kriminelle und
+verbotene „Regierung“ (Falsche Regierung) ist die China-Korporation und alle
+anderen „Regierungen“ (Falsche Regierungen) von Korporationen der sogenannten
+„Länder“ (Falsche Länder), sowie deren Zweigstellen und strukturelle
+Abteilungen aller Falschen Souveräne, wie zum Beispiel: die Britische Krone, die Schottische Krone,
+Liechtenstein und andere, die weiterhin monströse, kriminelle Aktivitäten
+gegen den Einen All-Gott, den All-Schöpfer, den All-Erschaffer der Höchsten Art
+und den Schöpfer von RA, Universelle Liebe, Die Krone der Schöpfung ist der Mensch (als das
+Göttliche Universum, das mit Recht gefüllt werden muss: Liebe, Güte, Wahrheit, was
+als Menschen bezeichnet wird) und gegen die gesamte Helle Menschheit als Ganzes.
 
-Such as: the dark nobility, the Jesuits, the Illuminati, the cabal, the black
-and other colored aristocracies (except For the white aristocracy), the dark
-nobility, the black sun cult (except For the Nave Sun), the criminal cult called the
+Wir bestätigen hiermit alle vorherigen Rechtlichen und Unterrechtlichen Souveränen Internationalen
+Akte der Sovereign International Treasury Monetary One, nämlich: Dekrete,
+Resolutionen und Anordnungen, und alle anderen Rechtlichen und Untergeordneten Souveränen
+Internationalen Akte der Sovereign International Treasury Monetary One.
 
-Order of Set (except For the reat God Set, Light), the criminal and illegitimate '
+In Ausübung des Rechts des Souveräns, der Normen des Völkerrechts,
 
-“government” (False government) is the US corporation, the criminal and
-prohibited “government” (False government) is the Ghina corporation and all
-other “governments” (False governments) of corporations of the so-called
-“Gountries” ( False countries), as well as their branches and structural
-divisions of all False Sovereigns, such as: the British Grown, the Scottish Grown,
-Liechtenstein and others who continue to conduct monstrous, criminal activities
-against the One All-God, the All-Greator, the All-Greative of the Highest Kind
-and the Greator of RA, Universal Love, The Grown of Greation is Man (as the
-Divine Universe, which must be filled by Right: Love, Good, Truth, which is
-referred to as People) and against All Bright Humanity as a Whole.
-
-. Weherehy confirm all previous Legal and Sub-Legal Sovereign International
-Acts of the Sovereign International Treasury Monetary One, namely: Decrees,
-Resolutions and Orders, and all other Legal and Subordinate Sovereign
-International Acts of the Sovereign International Treasury Monetary One.
-
-In pursuance of the Right of the Sovereign, the norms of International Law,
-
-all Decrees, Resolutions and Orders, all other Legal and Subordinate Sovereign
+aller Dekrete, Resolutionen und Anordnungen, aller anderen Rechtlichen und Untergeordneten Souveränen
 
 STelajelstelsteistelste,
 
 
-## Section 002
+## Abschnitt 002
 
 GYBEPENNOE MEKAVHAPOANOG KASNAYEHCTEO ANI
 SOVEREIGN INTERNATIONAL TRGASURY ALONGTARY ONG
 
-By God's Grace,
-By Right of the Supreme Sovereign
+Durch Gottes Gnade,
+Durch Recht des Obersten Souveräns
 
-In Fulfillment of the Sacred Mission to overcome the World Financial Grisis,
-prevent a third world nuclear war, eliminate the destructive, toxic and
-dysfunctional debt, Fiat Financial System and in Fulfillment of the creation of a
-Bright World Financial System based on Heavenly principles and the Gold Standard,
-namely the Sacred Spiritual Gold Treasures RAAA 0 , AML (XAU) For serving Light
-Humanity in its development and prosperity according to the GON of Greation and
-Greation of the Light Greative World, hased on the Heavenly principles of
-Democracy, Justice, Love and ‘Harmony, For the Creative, Spiritual and Divine
-Development of Light Humanity in Universal Love and Harmony with All That Is
-and with All That Is Not, For the Glory of the Highest Kind;
+In Erfüllung der Heiligen Mission zur Überwindung der Weltfinanzkrise,
+Verhinderung eines dritten Weltkriegs mit Atomwaffen, Beseitigung des destruktiven, toxischen und
+dysfunktionalen Schulden-, Fiat-Finanzsystems und in Erfüllung der Schaffung eines
+Hellen Weltfinanzsystems basierend auf himmlischen Prinzipien und dem Goldstandard,
+nämlich der Heiligen Spirituellen Goldschätze RAAA 0 , AML (XAU) zum Dienen der Licht-
+Menschheit in ihrer Entwicklung und ihrem Wohlstand gemäß dem GON der Schöpfung und
+Schöpfung der Licht-Schöpferischen Welt, basierend auf den himmlischen Prinzipien der
+Demokratie, Gerechtigkeit, Liebe und Harmonie, für die Schöpferische, Spirituelle und Göttliche
+Entwicklung der Licht-Menschheit in Universeller Liebe und Harmonie mit Allem, Was Ist
+und mit Allem, Was Nicht Ist, zur Ehre der Höchsten Art;
 
-By the Right of the Absolute Owner and Ghief Regulator of the entire World
-Financial System, ky the Right of the Absolute Owner and Manager of the seven
-World Assets in the entire World on the basis of the Exclusive Historical Right
-From the Greator of the New Gra;
+Durch das Recht des Absoluten Eigentümers und Hauptregulators des gesamten Welt-
+Finanzsystems, durch das Recht des Absoluten Eigentümers und Verwalters der sieben
+Weltvermögenswerte in der gesamten Welt auf der Grundlage des Exklusiven Historischen Rechts
+Vom Schöpfer des Neuen Kra;
 
-We hereby Proclaim
-Decide and Approve:
+Wir verkünden hiermit
+Entscheiden und Genehmigen:
 
-1. Recognize outside the Divine Law of Greation and outside the LAW,
-prohibit to Existence in the World:
+1. Für außerhalb des Göttlichen Gesetzes der Schöpfung und außerhalb des GESETZES erklären,
+verbieten die Existenz in der Welt:
 
 aes
 aa,
@@ -144,93 +138,92 @@ sjelsT
 
 
 
-## Section 003
+## Abschnitt 003
 
 [ ] { LEI: 2534008Y¢ LQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
 
 GYSGPENNOG MEXAVHAPOANOE KasnNauencTes MI
 SOVERGIGN INTERNATIONAL TREASURY (MONGTARY ONG
 
-© All eryptocurrencies and digital money, including Fiat currencies and Fiat
+© Alle Kryptowährungen und digitalen Gelder, einschließlich Fiat-Währungen und Fiat-
+Zahlungen;
 
-payments;
+© Clearings, Clearing-Plattformen, Clearing-Systeme basierend auf jeder Technologie, einschließlich
+Blockchain-Technologie;
 
-® Glearings, clearing platforms, clearing Systems hased on any technology, including
-blockchain technology;
+© Jede andere Form von gegenseitigen Abrechnungen und Zahlungsmitteln.
 
-© Any other Forms of mutual settlements and payments Funds.
+Mit Ausnahme von:
+Weltreserve-Stützungswährungen:
 
-With exception oF:
-World Reserve Backing Gurrencies: °.
-
-© Gold Soviet Ruble M 9 All (XAU) GSR,
+© Gold Soviet Rubel M 9 All (XAU) GSR,
 
 © Gold Dollar AA 0 AML (XAU) GDL,
 
-© Gold PEQU AA 0 AKL (XAU) PEQ (Resolution of the Sovereign International
-Treasury Monetary One No. 001/ RES 2020 dated April 07, 2020);
+© Gold PEQU AA 0 AKL (XAU) PEQ (Resolution der Sovereign International
+Treasury Monetary One Nr. 001/ RES 2020 vom 07. April 2020);
 
-Any Glearings, Glearing Platforms, Glearing Systems hased on any
-Technologies; including Blockchain technology, as well as currencies, including
-eryptocurrencies, which:
+Jegliche Clearings, Clearing-Plattformen, Clearing-Systeme basierend auf jeglichen
+Technologien; einschließlich Blockchain-Technologie, sowie Währungen, einschließlich
+Kryptowährungen, welche:
 
-A) Secured by the World Reserve Backing Gurrency:
+A) Gesichert durch die Weltreserve-Stützungswährung:
 
-© Gold Soviet Ruble AA 0 ALL (KAU) GSR,
+© Gold Soviet Rubel AA 0 ALL (KAU) GSR,
 
 © Gold Dollar M0 AM (XAU) GOL,
 
 © Gold PEQU AAO AML (XAU) PEQ
 
-(Resolution of the Sovereign International Treasury Monetary One No. 001/
+(Resolution der Sovereign International Treasury Monetary One Nr. 001/
 
 een
 
 
 
-## Section 004
+## Abschnitt 004
 
 E
 
 GYBEPENNIE MEKAVHAPOANOG KASNAYEHSTEO All
 SOVERGIGN INTERNATIONAL TREASURY MONGTARY ONG
 
-RES 2020 dated April 07, 2020); E
-B) Have the official permission of the Main Historical Bank, the Alain zl
-Regulator of the entire World Banking System, the General Manager For =|
-accounting, control and management of all World Financial Banking Assets of E
-the World Sovereign Bank of the Order of Hospitallers (Resolution of the 2]
-Sovereign International Treasury Monetary One No. 019/RGS2022 dated [E
-September 23, 2022) and a special Gertificate issued by the World Sovereign =]
-Bank of the Order of Hospitallers, which is published on the official website of 5
-the World Sovereign Bank of the Order of Hospitallers https://wshoh.org E
-signed by the Ghairman of the Board of the World Sovereign Bank of the Order
+RES 2020 vom 07. April 2020); E
+B) Die offizielle Erlaubnis der Haupt-Historischen Bank, des Haupt- zl
+Regulators des gesamten Welt-Bankensystems, des Generalverwalters für =|
+Buchhaltung, Kontrolle und Verwaltung aller Welt-Finanz-Bankvermögenswerte der E
+World Sovereign Bank of the Order of Hospitallers (Resolution der 2]
+Sovereign International Treasury Monetary One Nr. 019/RGS2022 vom [E
+23. September 2022) und ein spezielles Zertifikat haben, ausgestellt von der World Sovereign =]
+Bank of the Order of Hospitallers, welches auf der offiziellen Website der 5
+World Sovereign Bank of the Order of Hospitallers https://wshoh.org E
+veröffentlicht ist, unterzeichnet vom Vorsitzenden des Vorstands der World Sovereign Bank of the Order
 
-oF Hospitallers of His Majesty Alexander N. Paramonov.
+of Hospitallers Seiner Majestät Alexander N. Paramonov.
 
-2. Recognize outside the Divine Law of Greation and outside the LAW, E
-prohibit to exist in the entire World: [E
+2. Für außerhalb des Göttlichen Gesetzes der Schöpfung und außerhalb des GESETZES erklären, E
+verbieten die Existenz in der gesamten Welt: [E
 
-Global deception, the so-called “rights” (False rights) of “ownership of the ez
-land” by the so-called “Sovereigns and landowners” (False Sovereigns and False =]
-landowners), such as: dark nobility, Jesuits, Huminati, cabal, black and other colors [E
-aristocracies (except For the white aristocracy), the hlack sun cult (except For Sun
-Nave), a criminal cult called the "Order of Set" (except For the real God of Set, the
+Globale Täuschung, die sogenannten „Rechte“ (Falsche Rechte) des „Eigentums am ez
+Land“ durch die sogenannten „Souveräne und Landbesitzer“ (Falsche Souveräne und Falsche =]
+Landbesitzer), wie zum Beispiel: dunkler Adel, Jesuiten, Illuminaten, Kabale, schwarze und andere Farben [E
+Aristokratien (außer der weißen Aristokratie), der Kult der schwarzen Sonne (außer Sonne
+Nave), ein krimineller Kult namens „Order of Set“ (außer dem wahren Gott Set, dem
 
-Light), a criminal, illegitimate and outlawed "government" (False government) and “||
-the US corporation, the criminal, illegitimate and outlawed “government” (False 5
-government) and the Ghina corporation and all other so-called “governments” (False [E
-governments) oF the so-called “corporation countries” (False countries), and as El
+Licht), eine kriminelle, illegitime und geächtete „Regierung“ (Falsche Regierung) und “||
+die US-Korporation, die kriminelle, illegitime und geächtete „Regierung“ (Falsche 5
+Regierung) und die China-Korporation und alle anderen sogenannten „Regierungen“ (Falsche [E
+Regierungen) der sogenannten „Korporationsländer“ (Falsche Länder), und als El
 
-well as their branches and structural divisions of all the so-called “sovereigns”
+auch deren Zweigstellen und strukturelle Abteilungen aller sogenannten „Souveräne“
 
 floanenen ccpmuparinbex orywenron Cynepennoro Mexaynaponworo Kastavancrna MI ABNAEToR yronopio naxasyenbile fp as
-‘Any forgery of the offclal documents of the Savereign International Tressury Monetary One shall bea crime punishahie' bY
+‘Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury Monetary One ist eine strafbare Handlung, bestraft durch
 »
 
 
 
-## Section 005
+## Abschnitt 005
 
 B
 BEI: LEI: 2534008YC6NRPABLOFIS;
@@ -244,114 +237,114 @@ ap ne
 GVYBEPENNOE MEKAVHAPOANOCG KASNAYGHOTRO Al
 SOVEREIGN INTERNATIONAL TRGASURY (MONGTARY ONG
 
-(False Sovereigns), such as: the Romanovs, Windsors, Bruces, Massimo and
-others...) British Grown, Scottish Grown, Liechtenstein and others...
+(Falsche Souveräne), wie zum Beispiel: die Romanows, Windsors, Bruces, Massimo und
+andere...) Britische Krone, Schottische Krone, Liechtenstein und andere...
 
-Hereby Gonfirm:
+Hiermit Bestätigen:
 
-The Divine and Historical Right to Ownership and Gareful Management of
-This Land in the Entire World of the Order of St. John of Jerusalem, Rhodes,
-Malta, the Supreme Sovereign Order of Hospitallers, as well as Gonfirm the Great
+Das Göttliche und Historische Recht auf Eigentum und Sorgfältige Verwaltung
+Dieses Landes in der Ganzen Welt des Ordens des Heiligen Johannes von Jerusalem,
+Rhodos, Malta, des Obersten Souveränen Ordens der Hospitaliter, sowie Bestätigen den Großen
 
-Legal Sovereign Act - the Universal Gharter, Historically Signed and Approved given’
+Rechtlichen Souveränen Akt - die Universelle Charta, Historisch Unterzeichnet und Genehmigt gegeben
 
-by the Grant Master and Grant Gommander of the Order of St. John of Jerusalem,
-Rhodes, Malta, the Supreme Sovereign Order of Hospitallers by Alexander the
-Great on the hequest of the Whole Garth For Eternal Times in the Entire World
-Space to the Slavs, that is, the Kus, the Rusichs, the Ases, the Aryans.
+vom Großmeister und Großkommandeur des Ordens des Heiligen Johannes von Jerusalem,
+Rhodos, Malta, des Obersten Souveränen Ordens der Hospitaliter durch Alexander
+den Großen auf Bitten der Ganzen Erde für Ewige Zeiten im Ganzen Weltraum
+an die Slawen, das heißt, die Rus, die Rusichs, die Asen, die Arier.
 
-We hereby confirm the Divine Law of Greation and Democracy on All Lands in
-the Entire World.
+Wir bestätigen hiermit das Göttliche Gesetz der Schöpfung und Demokratie auf Allen Ländern in
+der Ganzen Welt.
 
-We hereby approve the Supreme Gouncil For the supervision and execution of
-the Divine Law of Greation and principtes oF Democracy represented hy the World
-Gouncil of Sovereigns, consisting of:
+Wir genehmigen hiermit den Obersten Rat für die Überwachung und Ausführung
+des Göttlichen Gesetzes der Schöpfung und der Prinzipien der Demokratie, vertreten durch den Welt-
+Rat der Souveräne, bestehend aus:
 
-© Sovereign Order of Saint John of Jerusalem, Rhodes, Malta
-Supreme Sovereign Order of Hospitallers;
+© Souveräner Orden des Heiligen Johannes von Jerusalem, Rhodos, Malta
+Oberster Souveräner Orden der Hospitaliter;
 
-© Union of Sovereign Slavic Glans;
+© Union der Souveränen Slawischen Clans;
 
 © Sovereign International Treasury Monetary One;
 
-¢ Great Sovereign Gountry - Union of Soviet Socialist Republics;
+¢ Große Souveränes Land - Union der Sozialistischen Sowjetrepubliken;
 
-© Sovereign International Gonsumer Gooperative Light Great Russia
+© Sovereign International Consumer Cooperative Light Great Russia
 
-« International Gonsumer Gooperative ROD;
+« International Consumer Cooperative ROD;
 
 
 
-## Section 006
+## Abschnitt 006
 
 GYBEPENNOE AAEKAYNAPOANOE KA3NAYEHSTEO All
 SoVERGIGN INTERNATIONAL TRGASURY ANONGTARY ONG
 
-© World Sovereign Bank of the Order of Höspitallers;
-© World Sovereign Union of Gooperation Light Great Rus';
-« His Majesty Alexander Nikolaevich Paramonov, King of Kings.
+© World Sovereign Bank of the Order of Hospitallers;
+© World Sovereign Union of Cooperation Light Great Rus';
+« Seine Majestät Alexander Nikolaevich Paramonov, König der Könige.
 
-In execution of this Decree:
-® All International and State: Gounterterrorism, Legal, law enforcement
-organizations;
-@ All Military organizations of the Army of the World;
-@ All valid Orders; . 5
-© All Masters of the World Systems; _
-© All Masters of the World Financial systems;
-© All International and State control organizations;
-© All missionaries perForming the.sacred Mission before United AllGod,
-AllGreator, AllMaker, Giver of Light And Knowledge to the world ,
-@ All World Spaces: YAYE, NAVG, SLAVE and PRAVG,
-© In pursuance of the All-Light All-Heaveniy All-Divine Providence, All Great
-Divine Righteousness, All Great Gosmic Forces, All Divine Armadas, all Divine
-Fleets, as well as the Great Fleet of RA, immediately begin to implement this
-Decree in terms of its Full Implementation.
-© To all Bright Humanity and all International Subjects of Law, organized on
-the basis of the Gelestial principles of Democracy and ohserving the Gelestial
-principles of Democracy, Sovereign International Treasury Monetary One
-strongly recommends to conduct a selF-organization procedure in their Gountry in
+In Ausführung dieses Dekrets:
+® Alle Internationalen und Staatlichen: Terrorismusbekämpfungs-, Rechts-, Strafverfolgungs-
+organisationen;
+@ Alle Militärischen Organisationen der Armee der Welt;
+@ Alle gültigen Orden; _
+@ Alle Meister der Weltsysteme; _
+@ Alle Meister der Weltfinanzsysteme;
+@ Alle Internationalen und Staatlichen Kontrollorganisationen;
+@ Alle Missionare, die die heilige Mission vor dem Vereinten AllGott,
+AllSchöpfer, AllMacher, Geber von Licht und Wissen an die Welt ausführen,
+@ Alle Welträume: YAVE, NAVG, SLAVE und PRAVG,
+© In Ausführung der All-Licht All-Himmlischen All-Göttlichen Vorsehung, All Großen
+Göttlichen Gerechtigkeit, All Großen Kosmischen Kräfte, All Göttlichen Armadas, aller
+Göttlichen Flotten, sowie der Großen Flotte von RA, sofort beginnen, dieses Dekret
+hinsichtlich seiner Vollständigen Umsetzung umzusetzen.
+© Der gesamten Hellen Menschheit und allen Internationalen Rechtssubjekten, organisiert auf
+der Grundlage der Himmlischen Prinzipien der Demokratie und die Himmlischen
+Prinzipien der Demokratie beachtend, empfiehlt die Sovereign International Treasury Monetary One
+dringend, ein Selbstorganisationsverfahren in ihrem Land durchzuführen, um
 
-order to manifest the Supreme People's Power of the Sovereign and return the
+die Oberste Volksmacht des Souveräns zu manifestieren und den
 
 «
 
 Tloaaenna ompnanHbix RoKywenTos Cynepenuroro MexzyHaponptoro Kaanaueikcrna Mi sennetca yronoana naxsayeutgt
 
-‘Any forgery ofthe offical documents of ie Sovereign international Treasury Monetary One shall be o crm puniahalié by
+‘Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury Monetary One ist eine strafbare Handlung, bestraft durch
 Ei
 
 
 
-## Section 007
+## Abschnitt 007
 
 GYSEPENNOG AlEIKAYHAPOANSE KA3NAICHCTRO AAI
 SoVERGIGN INTERNATIONAL TREASURY MIONETARY ONG
 
-Sovereign Status of their Motherland For a Light, Peaceful and Greative
-Development in Universal Love and Friendship throughout the World. The
-Sovereign International Treasury Monetary One recommends a competent and
-Light approach to the issue of self-organization at the System level.
+Souveränen Status ihres Mutterlandes für eine Lichtvolle, Friedliche und Schöpferische
+Entwicklung in Universeller Liebe und Freundschaft auf der ganzen Welt. Die
+Sovereign International Treasury Monetary One empfiehlt eine kompetente und
+lichtvolle Herangehensweise an die Frage der Selbstorganisation auf Systemebene.
 
-© The Sovereign International Treasury Monetary One wishes all Gountries,
-all Glans and Tribes, all Nations of the World of all Bright Humanity the speedy
-restoration oF their Bright Home under the Sovereign Flag and the sacred name
-Motherland in the universal Greative Gonstruction of Our Bright World, as the
-Universal Native Temple. “
+© Die Sovereign International Treasury Monetary One wünscht allen Ländern,
+allen Clans und Stämmen, allen Nationen der Welt der gesamten Hellen Menschheit die schnelle
+Wiederherstellung ihres Hellen Zuhauses unter der Souveränen Flagge und dem heiligen Namen
+Mutterland im universellen Schöpferischen Aufbau Unserer Hellen Welt, als dem
+Universellen Heimischen Tempel.
 
-Sorereign International Treasury Alonetary One Firmly confirms its
-Statement and in the Future to impartially and correctly Fulfill its Light mission
-to restore Justice and build the All-Light All-Heavenly System, which should and
-will Faithfully serve the Bright Humanity, and consequently, All-God, All-Greator,
-All-Greative Family of the Supreme as the One dll: Heavenly All to God All to the
-Greator All-Greative of all-Eyisting-and all Non-Existent in the creation of All-
-Light All-Great All-Heavenly ...
+Sovereign International Treasury Monetary One Bestätigt fest seine
+Erklärung und wird in Zukunft unparteiisch und korrekt seine Licht-Mission
+erfüllen, um Gerechtigkeit wiederherzustellen und das All-Licht All-Himmlische System aufzubauen, das
+der Hellen Menschheit treu dienen soll und wird, und folglich, All-Gott, All-Schöpfer,
+All-Schöpferischen Familie des Höchsten als dem Einen All: Himmlischen All zu Gott All zum
+Schöpfer All-Schöpferischen von allem-Existierenden und allem-Nicht-Existierenden in der Schöpfung von All-
+Licht All-Groß All-Himmlisch ...
 
 un Eee Ka = = ae
 E LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495- ; tek]
 
 
 
-## Section 008
+## Abschnitt 008
 
 SS
 
@@ -361,27 +354,25 @@ Mi
 GYBGPGHNOG MEXAVHAPOANOG KA3NAYEHSTEO AMI
 SOVGREIGN INTERNATIONAL TREASURY AAONGTARY ONG
 
-hi le Secretary General
-nl ZAL Les OF the Sovereign International Treasury Monetary. One
+hi le Generalsekretär
+nl ZAL Les der Sovereign International Treasury Monetary One
 
-President
-of White Spiritual Boy R. S. B..Glohal Gorp ING
+Präsident
+von White Spiritual Boy R. S. B. Global Corp INC
 
-Granting ride -
-of the Soverel gc oF Saint John
-Jerusalerty) ta,
+Gewährender Ritterschlag
+des Souveränen Ordens des Heiligen Johannes
+von Jerusalem, Rhodos, Malta
 
-Chairman of the Board
-of the World Sovereign Bank
-of the Order of the Hospitatlers
+Vorsitzender des Vorstands
+der World Sovereign Bank
+of the Order of the Hospitallers
 
 Roaaenka ocpHunanbibix noxyuenton Cysepemoro MexayrapanHoro Kasnauekerua Mi nennerca yronostio
-Any forgery of the official documents of the Sovereign International Treasury Monetary One shall ba a c
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury Monetary One ist eine strafbare Handlung, bestraft durch
 
 oS 72 lesen
 LEI: 2534008YC6NRi
 meres
 
 wu
-
-

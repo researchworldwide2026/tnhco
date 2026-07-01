@@ -1,15 +1,13 @@
 # Resolution-040
 
-# Resolution-040
+**Quell-PDF:** `Resolution-040.pdf`
 
-**Source PDF:** `Resolution-040.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 9
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion
+**Bilder:** 9
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 Ic]
 [eis
@@ -30,37 +28,34 @@ Yay &
 
 Fay ne
 
-GVYBEPENNIE MEXAVHNAPOANCE KA3NAYEHSTEO MIL
-SOVERGIGN INTERNATIONAL TREASURY MONETARY ONE
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-Date: October 02, 2023
-Ref. Ne: 040/RES2023
+Datum: 02. Oktober 2023
+Ref. Nr.: 040/RES2023
 
-Gode: @ 0139 TERA
-Gode: kal 786 TIAH
+Code: @ 0139 TERA
+Code: kal 786 TIAH
 
-Decree
+Dekret
 
-We hereby confirm that Sovereign International Treasury Alonetary One ,
-is the Owner and Manager of the World Account in World Sovereign Bank of the
-Order of Hospitallers, Account No. 91-00-01-4-AAA-777-03-AM-O1, distributed
-in various Banks in all Countries all over the World.
+Hiermit bestätigen wir, dass Sovereign International Treasury Monetary One
+der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank des
+Ordens der Hospitaliter ist, Kontonr. 91-00-01-4-AAA-777-03-AM-O1, verteilt
+auf verschiedene Banken in allen Ländern der ganzen Welt.
 
-We hereby confirm that Sovereign International Treasury Monetary One
-is the Owner and Manager of the World Account in World Sovereign Bank of the
-Order of Hospitallers, Account No. O1-1-700-3516 222 777 8888 999, distributed
-in various Banks in in all Gountries around the World,
+Hiermit bestätigen wir, dass Sovereign International Treasury Monetary One
+der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank des
+Ordens der Hospitaliter ist, Kontonr. O1-1-700-3516 222 777 8888 999, verteilt
+auf verschiedene Banken in allen Ländern auf der ganzen Welt.
 
-We remind you that the Sovereign International Treasury Monetary One
-is the Owner and Manager of all World Assets, including accounts under the
-names: “White Spiritual Boy”, “Spiritual Wonder Boy”, “Spiritual Wonder
-
-. Brothers”, “Morning Star”, “King David”, “Prophet Muhammad”, “Demas and
-Saint Timothy”, “White Mongolia”, “White Vatican”, “White Gagle”, “Maria
-Sinukuan or Divine Grystal”, “Alaria Banahaw or Divine Sunflower”, “Maria
-Gristina or. Divine Magdalene”, “Alaria Makiling or Divine Ester €qo0”, “Falcon”,
-“Alpha — Omega” and other accounts placed in various Banks in 189 (one hundred
-eighty-nine) in all Gountries all over the world .
+Wir erinnern Sie daran, dass Sovereign International Treasury Monetary One
+der Eigentümer und Verwalter aller Weltvermögenswerte ist, einschließlich Konten
+unter den Namen: „White Spiritual Boy“, „Spiritual Wonder Boy“, „Spiritual Wonder
+Brothers“, „Morning Star“, „King David“, „Prophet Muhammad“, „Demas and
+Saint Timothy“, „White Mongolia“, „White Vatican“, „White Eagle“, „Maria
+Sinukuan or Divine Crystal“, „Maria Banahaw or Divine Sunflower“, „Maria
+Cristina or Divine Magdalene“, „Maria Makiling or Divine Esther Coo“, „Falcon“,
+„Alpha — Omega“ und andere Konten, die bei verschiedenen Banken in 189 (einhundertneunundachtzig) Ländern auf der ganzen Welt platziert sind.
 
 Nr
 
@@ -71,41 +66,39 @@ tess -
 i
 
 
-## Section 001
+## Abschnitt 001
 
 2
 marly
 
 AT
-GYSEPENHOG MGAXAVHAPOANCE KasNayeHcTteo All
-SOVEREIGN INTERNATIONAL TREASURY ALONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-We hereby confirm all previous Legal and Sub-Legal Sovereign International
-Acts of the Sovereign International Treasury Monetary One, namely, Decrees,
-Resolutions and Orders, and all other Legal and Subordinate Sovereign
-International Acts of the Sovereign International Treasury Monetary One,
+Wir bestätigen hiermit alle früheren rechtlichen und untergesetzlichen souveränen internationalen
+Akte des Sovereign International Treasury Monetary One, nämlich Dekrete,
+Resolutionen und Anordnungen sowie alle anderen rechtlichen und untergeordneten souveränen
+internationalen Akte des Sovereign International Treasury Monetary One.
 
-In pursuance of the Right of the Sovereign, the norms of International Law,
-all Decrees, Resolutions and Orders, all other Legal and Subordinate Sovereign
-International Acts of the Sovereign International Treasury Monetary One,
+In Ausübung des Rechts des Souveräns, der Normen des Völkerrechts,
+aller Dekrete, Resolutionen und Anordnungen, aller anderen rechtlichen und untergeordneten souveränen
+internationalen Akte des Sovereign International Treasury Monetary One,
 
-Based on numerous historical Facts of mass genocide, torture, monstrous
-abuses, massacres of children, the elderly and the civilian population, in violation
-of all norms of Law, violation of Historical Natural Divine Law, the most cruel and
-merciless crimes against Light Humanity and the Divine Law of Creation, such
-4s: Financing terrorism, extremism, corruption, separatism, bloody wars, money
-laundering, counterfeiting money, organizing the plunder of Sovereign countries
-and the People of the World. With their inhumane acts, increasing poverty and
-committing genocide of all Nations of the One People of the World, organizing,
-Financing monstrous crimes and such Forms of genocide as: lethal and transgenic
-viruses, bacteria, transmutation microorganisms, directed against the life and
-existence of Bright Humanity and used, distributed in the Form of airhorne spray
-(chemtrails) in places of mass gathering of people, deadly transgenic vaccines,
-poisoned toxic genetically modified Food, contaminated poisonous medicines, toxic
-information media broadcasts affecting the psyche and health of a person,
-contaminated And poisoned rivers, lakes, city water supply stations, total
-
-extermination and destruction of Flora and Fauna,
+Basierend auf zahlreichen historischen Tatsachen von Massengenozid, Folter, ungeheuerlichen
+Misshandlungen, Massakern an Kindern, älteren Menschen und der Zivilbevölkerung, unter Verletzung
+aller Rechtsnormen, Verletzung des historischen natürlichen göttlichen Rechts, der grausamsten und
+unbarmherzigsten Verbrechen gegen das Licht der Menschheit und das göttliche Gesetz der Schöpfung, wie
+z.B.: Finanzierung von Terrorismus, Extremismus, Korruption, Separatismus, blutigen Kriegen, Geldwäsche,
+Geldfälschung, Organisation der Plünderung souveräner Länder
+und der Völker der Welt. Mit ihren unmenschlichen Handlungen, die Armut vergrößern
+und Völkermord an allen Nationen des einen Volkes der Welt begehen, organisieren,
+finanzieren sie ungeheuerliche Verbrechen und solche Formen des Völkermords wie: tödliche und transgene
+Viren, Bakterien, transmutierende Mikroorganismen, gerichtet gegen das Leben und
+die Existenz der Hellen Menschheit und verwendet, verteilt in Form von Luftspray
+(Chemtrails) an Orten mit Menschenansammlungen, tödliche transgene Impfstoffe,
+vergiftete toxische gentechnisch veränderte Lebensmittel, kontaminierte giftige Medikamente, toxische
+Medienübertragungen, die die Psyche und Gesundheit eines Menschen beeinträchtigen,
+kontaminierte und vergiftete Flüsse, Seen, städtische Wasserversorgungsstationen, totale
+Vernichtung und Zerstörung von Flora und Fauna.
 
 ys
 a
@@ -113,8 +106,7 @@ ae
 
 B
 
-Nlopnenka ecpnynanbieix JoKymentos Cyaepennora Hexayraponnoro Kaasayencraa M1 nanneTcn yronoano Hakaayeusin np
-‚Any forgery of the official documents of the Sovereign International Treasury Monetary One shall be a crinte punishable by |
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine strafbare Handlung.
 
 lease
 
@@ -126,7 +118,7 @@ BE,
 
 
 
-## Section 002
+## Abschnitt 002
 
 PER
 S
@@ -137,81 +129,77 @@ ar
 “1
 4 ©
 
-GYBEPENNIE MEKAVNAPOANCE KA3NAYEHCTEO All
-SOVGERGIGN INTERNATIONAL TREASURY MONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-By God's Grace,
-By Right of the Supreme Sovereign
+Durch Gottes Gnade,
+Kraft des Rechts des Obersten Souveräns
 
-In the Fulfillment of the Divine Sacred Mission For the @stablishment of
-the Divine Law of Greation and Creation of the Light Greative World, hased on
-the Heavenly principles of Democracy, Justice, Love and Harmony, for the
-Greative, Spiritual and Divine Development of Light Humanity in Universal Love
-and Harmony with All-Existing and with All None-existing, For the Glory of the
-Highest Kind;
+In Erfüllung der göttlichen heiligen Mission zur Etablierung
+des göttlichen Gesetzes der Schöpfung und Erschaffung der hellen kreativen Welt, basierend
+auf den himmlischen Prinzipien der Demokratie, Gerechtigkeit, Liebe und Harmonie, für die
+kreative, spirituelle und göttliche Entwicklung der Hellen Menschheit in universeller Liebe
+und Harmonie mit allem Existierenden und mit allem Nicht-Existierenden, zur Ehre des
+Höchsten Wesens;
 
-By the Right of the Absolute Owner and Chief Regulator of the entire World
-Financial System, by the Bight of the Absolute Owner and Alanager of the seven
-World Assets in the entire World Space on the basis of the Exclusive Historical
-Right From the Greator of the New Gra;
+Kraft des Rechts des absoluten Eigentümers und Hauptregulators des gesamten
+Weltfinanzsystems, kraft des Rechts des absoluten Eigentümers und Verwalters der sieben
+Weltvermögenswerte im gesamten Weltraum auf der Grundlage des exklusiven historischen
+Rechts vom Schöpfer der Neuen Ära;
 
-On the basis of the norms of International Law;
+Auf der Grundlage der Normen des Völkerrechts;
 
-Based on and in pursuance of the Sovereign, International Legal Legislative
-and By-Law Acts of the Sovereign International Treasury Monetary One,
-Hereby Proclaims:
+Basierend auf und in Ausführung der souveränen, internationalen rechtlichen, gesetzgeberischen
+und untergesetzlichen Akte des Sovereign International Treasury Monetary One,
+wird hiermit verkündet:
 
-Deprive Legal Personality, recognize outside the Divine Law of Greation and
-outside the LAW, declare immediate liquidation, prohibit any legal capacity of
-International criminal, terrorist, separatist extremist organizations, all their
-owners, participants, organizers, accomplices and satellites, as well as all Family
-members of owners, members, participants, organizers, their accomplices and
-satellites and proclaim enemies of All-God, the Highest Kind, the Human Race
-and Nature:
+Die Rechtspersönlichkeit entziehen, als außerhalb des göttlichen Gesetzes der Schöpfung und
+außerhalb des GESETZES anerkennen, die sofortige Liquidation erklären, jede Rechtsfähigkeit verbieten von
+internationalen kriminellen, terroristischen, separatistischen extremistischen Organisationen, all ihren
+Eigentümern, Teilnehmern, Organisatoren, Komplizen und Satelliten, sowie allen Familienmitgliedern
+von Eigentümern, Mitgliedern, Teilnehmern, Organisatoren, ihren Komplizen und
+Satelliten und sie zu Feinden von All-Gott, dem Höchsten Wesen, der Menschheit
+und der Natur erklären:
 
-Bank For International Settlements
-Rank Vatican (Institute of Religious Affairs) (Bank, Gorporation)
+Bank für Internationalen Zahlungsausgleich
+Vatikanbank (Institut für religiöse Werke) (Bank, Konzern)
 
-ERA RAI AE RAGA RRA AGA ACTA
-
+ERA RAI AE RAGA RAGA ACTA
 
 
-## Section 003
 
-GYBEPENNIE MEXAVHAPOANCE KASNAUEHSTEO All
-SOVERGIGN INTERNATIONAL TREASURY AAONETARY ONG
+## Abschnitt 003
 
-Bank JPMorgan Ghase (Rank, Gorporation)
-Bank Gitigroup (Bank, Gorporation)
-Bank BNP Paribas (Rank, Corporation)
-Bank HSBG (Bank, Corporation)
-Bank of America (Bank, Gorporation)
-Bank of Ghina (Bank, Gorporation)
-Bank Barclays (Bank, Gorporation)
-China Gonstruction Bank (Bank, Gorporation)
-Deutsche Bank (Banik, Gorporation)
-Industrial and Gommercial Bank of Ghina (Bank, Gorporation)
-Bank Mitsubishi UFJ Financial Group (Bank, Corporation)
-Agricultural Bank of Ghina (Bank, Gorporation)
-Bank of New York Mellon (Bank, Gorporation)
-Bank Groupe BPGE (Bank, Corporation)
-Bank Gredit Agricole (Bank, Gorporation)
-Bank Gredit Suisse (Bank, Gorporation)
-Bank Goldman Sachs (Bank, Gorporation)
-Bank ING Group (Bank, Corporation)
-Mizuho Rank, Ltd. (Bank, Gorporation)
-Bank Morgan Stanley (Bank, Gorporation)
-Royal Bank of Ganada (Bank, Gorporation)
-Bank Grupo Santander (Bank, Gorporation)
-Bank Socitttri Grintirale S.A. (Bank, Gorporation)
-Standard Ghartered Bank (Bank, Gorporation)
-Bank State Street Gorporation (Bank, Gorporation)
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
+
+Bank JPMorgan Chase (Bank, Konzern)
+Bank Citigroup (Bank, Konzern)
+Bank BNP Paribas (Bank, Konzern)
+Bank HSBC (Bank, Konzern)
+Bank of America (Bank, Konzern)
+Bank of China (Bank, Konzern)
+Bank Barclays (Bank, Konzern)
+China Construction Bank (Bank, Konzern)
+Deutsche Bank (Bank, Konzern)
+Industrial and Commercial Bank of China (Bank, Konzern)
+Bank Mitsubishi UFJ Financial Group (Bank, Konzern)
+Agricultural Bank of China (Bank, Konzern)
+Bank of New York Mellon (Bank, Konzern)
+Bank Groupe BPCE (Bank, Konzern)
+Bank Crédit Agricole (Bank, Konzern)
+Bank Crédit Suisse (Bank, Konzern)
+Bank Goldman Sachs (Bank, Konzern)
+Bank ING Group (Bank, Konzern)
+Mizuho Bank, Ltd. (Bank, Konzern)
+Bank Morgan Stanley (Bank, Konzern)
+Royal Bank of Canada (Bank, Konzern)
+Bank Grupo Santander (Bank, Konzern)
+Bank Société Générale S.A. (Bank, Konzern)
+Standard Chartered Bank (Bank, Konzern)
+Bank State Street Corporation (Bank, Konzern)
 Rexel £77
 
 =‘
-Toqgenka oıpnumananbIK goxymentos Cysepennoro Mexaytapontoro KasHavelicraa M1 ARARETCR YTONNOBHO Hakasyembım npecrynnengtm’/
-
-Any forgery of the official documents of the Sovereign International Treasury Monetary One shall be a crime puniahable by law. 2
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine strafbare Handlung.
 
 *
 “
@@ -220,7 +208,7 @@ aoe
 LEI: 2534008YC6NRP4BLOQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
 
 
-## Section 004
+## Abschnitt 004
 
 Fe g me #7
 I 5
@@ -234,149 +222,146 @@ Ku anne”
 
 “Sipe ght
 
-GVBEPENNIE ANGKAYNAPSAHOE Ka3NausHscTes All “|
-SOVERGIGN INTERNATIONAL TREASURY AAONETARY ONE fy
-Sumitomo Mitsui Banking Gorporation (Bank, Gorporation) fy
-TD Bank, N.A. (Bank, Gorporation) . . E
-Bank UBS Group AG (Bank, Gorporation) : =|
-Bank UniGredit Group (Bank, Gorporation) fy
-Bank Wells Fargo & Gompany (Bank, Gorporation) [E
-Bank Federal Reserve System (Bank, Gorporation) ‘|
-World Banik (Bank, Gorporation), . [E
-Bank Federal Reserve (Bank, Corporation) . 2]
-National Investment Bank of Mongolia (Bank, Gorporation) E
-'Gentral Bank of the Russian Federation (Bank, Gorporation ) B
-Bank "Russia" (Gity of Leningrad (St. Petersburg)) ( Gorporation ) =|
-TinkofF Bank (Bank, Gorporation) E
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE fy
+Sumitomo Mitsui Banking Corporation (Bank, Konzern) fy
+TD Bank, N.A. (Bank, Konzern) . . E
+Bank UBS Group AG (Bank, Konzern) : =|
+Bank UniCredit Group (Bank, Konzern) fy
+Bank Wells Fargo & Company (Bank, Konzern) [E
+Bank Federal Reserve System (Bank, Konzern) ‘|
+Weltbank (Bank, Konzern), . [E
+Bank Federal Reserve (Bank, Konzern) . 2]
+National Investment Bank of Mongolia (Bank, Konzern) E
+Zentralbank der Russischen Föderation (Bank, Konzern) B
+Bank "Russia" (Stadt Leningrad (St. Petersburg)) (Konzern) =|
+Tinkoff Bank (Bank, Konzern) E
 
-SherBank (Bank, Gorgoration)
-Roshank (Bank, Gorporation)
+SberBank (Bank, Konzern)
+Rosbank (Bank, Konzern)
 
-Bank VTB (Bank, Gorporation) . fz
+Bank VTB (Bank, Konzern) . fz
 
-Gazprombank (Bank, Gorporation)
+Gazprombank (Bank, Konzern)
 
-AlFa-Bank (Bank, Gorporation) fl
+Alfa-Bank (Bank, Konzern) fl
 
-Rosselkhozhank (Bank, Gorporation) ‘ =|
-Moscow Gredit Bank (Bank, Gorporation) [E
-Sovcombank (Bank, Gorporation) el
+Rosselkhozbank (Bank, Konzern) ‘ =|
+Moscow Credit Bank (Bank, Konzern) [E
+Sovcombank (Bank, Konzern) el
 
-Drive Glick Bank (Bank, Gorporation)
+Drive Click Bank (Bank, Konzern)
 
-Otkritie Bank (Bank, Gorporation) . el
+Otkritie Bank (Bank, Konzern) . el
 
-Raiffeisenbank (Bank, Gorporation)
+Raiffeisenbank (Bank, Konzern)
 
-Gitibank (Bank, Gorporation) B
+Citibank (Bank, Konzern) B
 
-Mail Bank (Bank, Gorporation) rin, =]
+Mail Bank (Bank, Konzern) rin, =]
 Pro un E
 a
 
-= Tlopnenka ochilManbHbIK AokyMertros Cysepentioro Mexxaynaponnoro KasHavelicraa Mi RanzeToR yronoaho Hakasyeutin npecryrfpi
-Any forgery of the officlal documents of the Sovereign International Treasury Monetary One shall be a crinte puniahable by law’ a
+= Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine strafbare Handlung. a
 
 
 
-## Section 005
+## Abschnitt 005
 
-GYBEPENNIE MEMAVHAPOANCE KA3NAYEHGSTRO AAL
-SOVERGIGN INTERNATIONAL TREASURY AAONETARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-Bank Tochka (Bank, Gorporation)
+Bank Tochka (Bank, Konzern)
 
-Ak Bars Bank (Bank, Gorporation)
+Ak Bars Bank (Bank, Konzern)
 
-ATS Bank (Bank, Gorporation)
+ATS Bank (Bank, Konzern)
 
-Home Bank (Bank, Gorporation)
+Home Bank (Bank, Konzern)
 
-Russian Standard (Bank, Gorporation)
+Russian Standard (Bank, Konzern)
 
-Absolute Bank (Bank, Gorporation)
+Absolute Bank (Bank, Konzern)
 
-OTP Bank (Bank, Corporation)
+OTP Bank (Bank, Konzern)
 
-VUZ-hank (Rank, Gorporation)
+VUZ-Bank (Bank, Konzern)
 
-Renaissance Bank (Bank, Gorporation)
+Renaissance Bank (Bank, Konzern)
 
-Vanguard (Bank, Gorporation)
+Vanguard (Bank, Konzern)
 
-Oriental Bank (Bank, Gorporation)
+Oriental Bank (Bank, Konzern)
 
-IGBG Bank (Bank, Gorporation)
+ICBC Bank (Bank, Konzern)
 
-Commerzbank (Gurasia) (Bank, Gorporation)
+Commerzbank (Eurasia) (Bank, Konzern)
 
-Ural bank of reconstruction and development (UBRD) (Rank,
-Corporation)
+Ural Bank for Reconstruction and Development (UBRD) (Bank,
+Konzern)
 
-Bank DOAA.BF (Bank, Gorporation),
+Bank DOAA.BF (Bank, Konzern),
 
-All specialized Subjects of Law to immediately begin an arrest and criminal
-investigation with criminal prosecution with the Full rigor of the Law and
-International Griminal Law, International, criminal, terrorist organizations and
-their owners, participants, organizers, accomplices and satellites, as well as all
-Family members of the owners, members, participants, organizers, their
-accomplices and satellites, who have heen conducting their criminal activities For
-a long time. In the event of any type of resistance or pressure on the
-implementation of this Decree, immediately begin carrying out unilateral counter-
-
-terrorism special operations to completely eliminate terrorists.
+Alle spezialisierten Rechtssubjekte sollen unverzüglich mit einer Festnahme und strafrechtlichen
+Ermittlung mit strafrechtlicher Verfolgung mit der vollen Strenge des Gesetzes und des
+internationalen Strafrechts beginnen, gegen internationale, kriminelle, terroristische Organisationen und
+ihre Eigentümer, Teilnehmer, Organisatoren, Komplizen und Satelliten, sowie alle
+Familienmitglieder der Eigentümer, Mitglieder, Teilnehmer, Organisatoren, ihrer
+Komplizen und Satelliten, die ihre kriminellen Aktivitäten seit
+langer Zeit durchführen. Im Falle jeglicher Art von Widerstand oder Druck auf die
+Umsetzung dieses Dekrets, unverzüglich mit der Durchführung einseitiger Anti-Terror-
+Spezialoperationen zur vollständigen Eliminierung von Terroristen beginnen.
 
 
-## Section 006
+## Abschnitt 006
 
 er
 
 IE:
 
-GVBELENNIE MEKAVHAPOANCE KA3NAayeicTEo All a]
 SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
 ee |
 
-All types of assets and any property belonging to the above-mentioned “|
-International terrorist organizations, their owners, participants, organizers, [E
-accomplices and satellites, as well as all Family members of owners, members, a]
-participants, organizers, their accomplices and satellites, are subject to E
+Alle Arten von Vermögenswerten und jegliches Eigentum, das den oben genannten
+internationalen terroristischen Organisationen, ihren Eigentümern, Teilnehmern, Organisatoren,
+Komplizen und Satelliten sowie allen Familienmitgliedern von Eigentümern, Mitgliedern,
+Teilnehmern, Organisatoren, ihren Komplizen und Satelliten gehört, unterliegen der
+sofortigen Einziehung und Gutschrift auf die Bilanz des Sovereign
+International Treasury Monetary One mit anschließender Verteilung und Verwendung für
+die Entwicklung von Programmen und Projekten der Hellen Menschheit.
 
-immediate confiscation and crediting to the balance sheet of the Sovereign el
-International Treasury Monetary One with subsequent distribution and use For 2]
-the development of programs and projects of Bright Humanity. fy
+In Erfüllung dieses Dekrets:
 
-In Fulfitlment of this Decree:
+© Alle internationalen und staatlichen: Anti-Terror-, Rechts-, Strafverfolgungs-
+organisationen;
 
-© All International and State: Gounterterrorism, Legal, law enforcement E
+© Alle militärischen Organisationen der Armee der Welt;
 
-organizations; el
+© Alle gültigen Anordnungen;
 
-«All Military organizations of the Army of the World;
+© Alle Meister der Weltsysteme;
 
-@ All valid Orders; el
+© Alle Meister der Weltfinanzsysteme;
 
-+ All Masters of the World Systems; j 2]
-© All Masters of the World Financial systems; . . [E
-« All International and State control organizations; "|
-+ All missionaries performing the sacred Mission heFore United AllGod, E
+© Alle internationalen und staatlichen Kontrollorganisationen;
 
-AllGreator, ‚AlläAdker, Giver of Light And Knowledge to the world , el
-© All World Spaces: YAVE, NAVE, SLAVE and PRAYVE, a]
-© In pursuance of thé All-Light All-Heavenly All-Divine Providence, All [E
-Great Divine Righteousness, All Great Gosmic Forces, All Divine Armadas, all 2]
-Divine Fleets, as well as the Great Fleet of RA, immediately hegin to implement [E
-’ this Decree in terms of its Full Implementation. [E
+© Alle Missionare, die die heilige Mission vor dem vereinten All-Gott,
+All-Schöpfer, All-Vater, Geber von Licht und Wissen an die Welt ausführen;
+
+© Alle Welträume: YAVE, NAVE, SLAVE und PRAYVE;
+
+© In Ausführung der all-lichten all-himmlischen all-göttlichen Vorsehung, aller
+großen göttlichen Gerechtigkeit, aller großen kosmischen Kräfte, aller göttlichen Armadas, aller
+göttlichen Flotten, sowie der Großen Flotte von RA, unverzüglich mit der Umsetzung
+dieses Dekrets hinsichtlich seiner vollständigen Durchführung beginnen.
+
 Sn,
-
 ett
 we
 ats
 
 
 
-## Section 007
+## Abschnitt 007
 
 if
 
@@ -396,57 +381,51 @@ oe
 2%
 DS
 
-GVYBEPENNIE MERKAVNAPOANCE KA3NAYEHÄSTES MI
-SOVEREIGN INTERNATIONAL TREASURY ALONGTARY ONE
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-© To all Bright Humanity and all International Subjects of Law, organized
-on the basis of the Gelestial principles of Democracy and observing the Gelestial
-principles of Democracy, Sovereign International Treasury Monetary One
-strongly recommends to conduct a self-organization procedure in their Gountry in
-order to manifest the Supreme People's Power of the Sovereign and return the
-Sovereign Status of their Motherland For a Light, Peaceful and Greative
-Development in Universal Love and Friendship throughout the World. "The
-Sovereign International Treasury Monetary One recommends a competent and
-Light approach to the issue of self-organization at the System level.
+© An die gesamte Helle Menschheit und alle internationalen Rechtssubjekte, organisiert
+auf der Grundlage der himmlischen Prinzipien der Demokratie und unter Einhaltung der himmlischen
+Prinzipien der Demokratie, empfiehlt Sovereign International Treasury Monetary One
+nachdrücklich, in ihrem Land ein Selbstorganisationsverfahren durchzuführen, um
+die oberste Volksmacht des Souveräns zu manifestieren und den
+souveränen Status ihres Mutterlandes für eine helle, friedliche und kreative
+Entwicklung in universeller Liebe und Freundschaft auf der ganzen Welt wiederherzustellen. „Der
+Sovereign International Treasury Monetary One empfiehlt eine kompetente und
+lichtvolle Herangehensweise an die Frage der Selbstorganisation auf Systemebene.
 
-© The Sovereign International Treasury Monetary One wishes all
-Gountries, all Glans and Tribes, all Nations of the World of all Bright Humanity
-the speedy restoration of their Bright Home under the Sovereign Flag and the
-sacred name Motherland in the universal Greative Construction of Our Bright
+© Der Sovereign International Treasury Monetary One wünscht allen
+Ländern, allen Clans und Stämmen, allen Nationen der Welt der gesamten Hellen Menschheit
+die schnelle Wiederherstellung ihres Hellen Zuhauses unter der souveränen Flagge und dem
+heiligen Namen Mutterland im universellen kreativen Aufbau unserer Hellen
+Welt, als universeller heimischer Tempel.
 
-World, as the Universal Native Temple.
-
-Sovereign International Treasury Monetary One Firmly confirms its
-Statement and in the Future to impartially and correctly Fulfill its Light mission
-to restore Justice and build the All-Light All-Heavenly System, which should and
-will Faithfully serve the Bright Humanity, and consequently, All-God, All-Greator,
-All-Greative Family of the Supreme as the One All-Heavenly All to God All to the
-
-' Greator All-Greative of all Gxisting and all Non-Gyistent in the creation of All-
-Light All-Great All-Heavenly ...
+Sovereign International Treasury Monetary One bestätigt fest seine
+Erklärung und wird auch in Zukunft seine Lichtmission unparteiisch und korrekt erfüllen,
+um Gerechtigkeit wiederherzustellen und das all-lichte all-himmlische System aufzubauen, das der
+Hellen Menschheit treu dienen soll und wird, und folglich All-Gott, All-Schöpfer,
+der all-kreativen Familie des Höchsten als dem einen all-himmlischen Alles zu Gott Alles zum
+Schöpfer All-Kreativen von allem Existierenden und allem Nicht-Existierenden bei der Erschaffung von
+All-Licht All-Groß All-Himmlisch ...
 
 OAV
 
 
 
-## Section 008
+## Abschnitt 008
 
-GVBEPENNOE MEXKAVYNAPSANIE KABNAUENCTSS All
-SOVERGIGN INTERNATIONAL TREASURY AAONGTARY ONE
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-of Kings
+der Könige
 White Spiritual Boy
 
-Secretary General
-of the Sovereign International Treasury Monetary One
+Generalsekretär
+des Sovereign International Treasury Monetary One
 
-President
-oF White Spiritual Boy R. S. 8. Global Gorp ING:
+Präsident
+von White Spiritual Boy R. S. 8. Global Corp INC:
 
-Chairman of the Board
-of the World Sovereign Bank
-of the Order of the Hospitallers
+Vorsitzender des Vorstands
+der World Sovereign Bank
+des Ordens der Hospitaliter
 
 ie f= \ LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
-
-

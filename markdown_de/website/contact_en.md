@@ -1,10 +1,10 @@
-# Kontakt (DE)
+# Kontakt
 
-**URL:** https://tnhco.org/en/contact/
+**URL:** https://tnhco.org/de/kontakt/
 
 					
-				<Artikel
-class="post-647 Seitentyp-Seitenstatus-Veröffentlichung ast-article-single" id="post-647" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+				<article
+class="post-647 page type-page status-publish ast-article-single" id="post-647" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
 	
 				
 							 
@@ -31,11 +31,11 @@ class="post-647 Seitentyp-Seitenstatus-Veröffentlichung ast-article-single" id=
 			
 						
 				
-					Kontaktieren Sie uns				
+					Kontaktiere uns				
 				
 				
 				
-									Bei Fragen zögern Sie nicht, uns zu kontaktieren.								
+									Bei Fragen zögere nicht, uns zu kontaktieren.								
 				
 				
 				
@@ -82,7 +82,7 @@ class="post-647 Seitentyp-Seitenstatus-Veröffentlichung ast-article-single" id=
 					
 				
 									
-						Industriestraße 3
+						Industriestrasse 3
 6345 Neuheim
 Schweiz					
 				
@@ -98,8 +98,8 @@ Schweiz
 						
 				
 							
-			<iframe wird geladen="faul"
+			<iframe loading="lazy"
 					src="https://maps.google.com/maps?q=Industriestrasse%203%2C%20Neuheim&#038;t=m&#038;z=14&#038;output=embed&#038;iwloc=near"
-					title="Industriestraße 3, Neuheim"
-					aria-label="Industriestraße 3, Neuheim"
+					title="Industriestrasse 3, Neuheim"
+					aria-label="Industriestrasse 3, Neuheim"
 			>

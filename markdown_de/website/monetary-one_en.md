@@ -1,8 +1,6 @@
-# monetary-one_en
+# Monetary One (DE)
 
-# Monetary One (EN)
-
-**URL:** https://tnhco.org/en/monetary-one/
+**URL:** https://tnhco.org/de/monetary-one/
 
 					
 				<article
@@ -38,7 +36,7 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 				
 				
 				
-									UN registration number: 978007								
+									UN-Registrierungsnummer: 978007								
 				
 				
 						
@@ -55,95 +53,11 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 						
 									
 						
-							FINANCIAL REPORTING						
+							FINANZBERICHTERSTATTUNG						
 					
 				
 									
-						Sovereign International Treasury Monetary 1 (hereinafter referred to in the text as "Treasury M1"), hereinafter referred to as "Institute" acts as a globally oriented Treasury and Gold Brick Depository.
-					
-				
-			
-			
-		
-						
-				
-					
-		
-				
-			
-						
-				
-							
-						
-				
-								
-			
-			
-						
-									
-						
-							CASH AND PAYMENTS						
-					
-				
-									
-						The institute, which is recognized by the United Nations and granted sovereign status, acts as a financial institution for the exclusive members of the International Consumer Cooperatives Light Great Rus “ICC LGR”.					
-				
-			
-			
-		
-						
-				
-					
-		
-				
-			
-						
-				
-							
-						
-				
-								
-			
-			
-						
-									
-						
-							BANKING						
-					
-				
-									
-						These members contribute their own funds/assets (assets) as a share in the cooperative and the Institute fulfills and performs all functions of the Treasury in managing, controlling and auditing these deposits.
-					
-				
-			
-			
-		
-						
-				
-					
-		
-					
-		
-				
-						
-					
-			
-						
-				
-							
-						
-				
-								
-			
-			
-						
-									
-						
-							FORECASTS AND LIQUIDITY						
-					
-				
-									
-						All these functions and subsequent rights and obligations comply with international laws regarding the structure and tasks of the Treasuries (state treasuries) and the statutes of the Institute.
+						Sovereign International Treasury Monetary 1 (im Folgenden als "Treasury M1" bezeichnet), nachstehend "Institut" genannt, fungiert als global ausgerichtetes Treasury und Goldbarren-Depot.
 					
 				
 			
@@ -166,12 +80,11 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 						
 									
 						
-							INVESTMENTS						
+							BARZAHLUNGEN UND ZAHLUNGEN						
 					
 				
 									
-						The institute is monitored, supervised and audited in cooperation with world financial institutions and United Nations bodies.
-					
+						Das Institut, das von den Vereinten Nationen anerkannt ist und den Status eines souveränen Staates erhalten hat, fungiert als Finanzinstitut für die exklusiven Mitglieder der International Consumer Cooperatives Light Great Rus "ICC LGR".					
 				
 			
 			
@@ -193,11 +106,11 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 						
 									
 						
-							DEBT AND CREDIT						
+							BANKWESEN						
 					
 				
 									
-						All management activities and services are carried out at a professional level and with the aim of supporting the international commercial and humanitarian projects and programs of the members.
+						Diese Mitglieder bringen ihre eigenen Mittel/Vermögenswerte (Assets) als Anteil an der Genossenschaft ein, und das Institut erfüllt und führt alle Funktionen des Treasury bei der Verwaltung, Kontrolle und Prüfung dieser Einlagen aus.
 					
 				
 			
@@ -224,11 +137,11 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 						
 									
 						
-							HEDGING (RISK COVERING)						
+							PROGNOSEN UND LIQUIDITÄT						
 					
 				
 									
-						The self-developed control system, which is fine-tuned and operates within a high-tech information, reporting and verification system, ensures transparency and controllability in real time.
+						Alle diese Funktionen sowie die daraus resultierenden Rechte und Pflichten entsprechen den internationalen Gesetzen bezüglich der Struktur und Aufgaben der Treasuries (Staatsschatzkammern) und der Satzung des Instituts.
 					
 				
 			
@@ -251,11 +164,96 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 						
 									
 						
-							RISK MANAGEMENT AND COMPLIANCE WITH LEGAL REGULATIONS						
+							INVESTITIONEN						
 					
 				
 									
-						The features of the management system include (in addition to the ability to monitor cash flows and liquidity, payments, calculate exchange rate fluctuations, etc.), support member/project requirements in relation to loans, debts, investments and collateral.
+						Das Institut wird in Zusammenarbeit mit Weltfinanzinstitutionen und Organen der Vereinten Nationen überwacht, beaufsichtigt und geprüft.
+					
+				
+			
+			
+		
+						
+				
+					
+		
+				
+			
+						
+				
+							
+						
+				
+								
+			
+			
+						
+									
+						
+							SCHULDEN UND KREDITE						
+					
+				
+									
+						Alle Managementaktivitäten und Dienstleistungen werden auf professionellem Niveau und mit dem Ziel durchgeführt, die internationalen kommerziellen und humanitären Projekte und Programme der Mitglieder zu unterstützen.
+					
+				
+			
+			
+		
+						
+				
+					
+		
+					
+		
+				
+						
+					
+			
+						
+				
+							
+						
+				
+								
+			
+			
+						
+									
+						
+							HEDGING (RISIKOABSICHERUNG)						
+					
+				
+									
+						Das selbstentwickelte Kontrollsystem, das feinjustiert ist und innerhalb eines hochtechnologischen Informations-, Berichts- und Verifikationssystems arbeitet, gewährleistet Transparenz und Kontrollierbarkeit in Echtzeit.
+					
+				
+			
+			
+		
+						
+				
+					
+		
+				
+			
+						
+				
+							
+						
+				
+								
+			
+			
+						
+									
+						
+							RISIKOMANAGEMENT UND EINHALTUNG GESETZLICHER VORSCHRIFTEN						
+					
+				
+									
+						Die Merkmale des Managementsystems umfassen (zusätzlich zur Fähigkeit, Cashflows und Liquidität, Zahlungen zu überwachen, Wechselkursschwankungen zu berechnen usw.) die Unterstützung von Mitglieds-/Projektanforderungen in Bezug auf Kredite, Schulden, Investitionen und Sicherheiten.
 					
 				
 			
@@ -282,7 +280,7 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 					
 				
 									
-						TNHCO is part of the international financial institution Sovereign International Treasury Monetary One, registered in the United Nations Organization ID: 978007. International Treasury M1, as the main holder and manager of the world's gold reserves.
+						TNHCO ist Teil des internationalen Finanzinstituts Sovereign International Treasury Monetary One, registriert unter der Organisation der Vereinten Nationen ID: 978007. International Treasury M1, als Hauptinhaber und Verwalter der weltweiten Goldreserven.
 					
 				
 			
@@ -324,7 +322,7 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 				
 				
 				
-									The Sovereign International Treasury M1 (hereinafter referred to as &#8220;M1 Treasury&#8221;) is a global Treasury and Gold Bullion Depository. It is an exclusive financial institution for exclusive members of the Sovereign International Consumer Cooperative Light Great Russia (hereinafter referred to as &#8220;SICC LGR&#8221;) with state powers, on the basis of which it performs the functions of the State Treasury of the USSR.Of particular and exemplary importance is attached to the institution&#8217;s perfect ability to convert deposited assets into underlying asset-backed securities and gold-backed treasury bills. This conversion makes it possible to &#8220;dismember&#8221; huge values and adapt them to flexible and tradable collaterals for Project Financing, in terms of their nominal value and validity. Listing by any authority, stock exchange, or any listing system is not contemplated or permitted.This limitation is an important part of proactive risk management to avoid unpredictable situations and unnecessary risk of loss for members. Since deposits in the form of gold, which are secured by individual instruments (documents), will not be subject to purchase and the authority to bind them is granted to the treasury, the monetization of collateral is independent of any actions of the government and is therefore not subject to any restrictions.								
+									Das Sovereign International Treasury M1 (im Folgenden als "M1 Treasury" bezeichnet) ist ein globales Treasury und Goldbarren-Depot. Es ist ein exklusives Finanzinstitut für exklusive Mitglieder der Sovereign International Consumer Cooperative Light Great Russia (im Folgenden als "SICC LGR" bezeichnet) mit staatlichen Befugnissen, auf deren Grundlage es die Funktionen des Staatstreasury der UdSSR ausführt.Besondere und beispielhafte Bedeutung wird der perfekten Fähigkeit des Instituts beigemessen, eingezahlte Vermögenswerte in zugrunde liegende asset-backed securities und goldgedeckte Treasury Bills umzuwandeln. Diese Umwandlung ermöglicht es, riesige Werte zu "zerlegen" und sie an flexible und handelbare Sicherheiten für die Projektfinanzierung anzupassen, hinsichtlich ihres Nennwerts und ihrer Gültigkeit. Eine Notierung durch eine Behörde, Börse oder ein Notierungssystem ist nicht vorgesehen oder erlaubt.Diese Einschränkung ist ein wichtiger Teil des proaktiven Risikomanagements, um unvorhersehbare Situationen und unnötiges Verlustrisiko für die Mitglieder zu vermeiden. Da Einlagen in Form von Gold, die durch individuelle Instrumente (Dokumente) gesichert sind, nicht dem Kauf unterliegen und die Befugnis, sie zu binden, dem Treasury übertragen wird, ist die Monetarisierung von Sicherheiten unabhängig von jeglichen Regierungshandlungen und unterliegt daher keinen Einschränkungen.								
 				
 					
 		
@@ -332,24 +330,12 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 			
 						
 				
-									Gold-backed Treasury Bills, Bills and Bonds are of great importance as active and high-volume contributions/deposits for the smooth transition from the current financial fiat system back to the Gold Standard. Because the conventional fiat system can no longer guarantee economic development and stability, Gold, which is traditionally considered safe and reliable, is on the shopping list of every central bank, in order to secure the currencies of individual countries.The Institute is a recognized member of the program to stabilize the current world economy and prevent the occurrence of constant fluctuations in currencies, rates and exchange rates.As the second pillar of economic management stability at the level of international, national and local economy, the institute supports members and provides members with online banking services such as an integrated payment card system, blockchain technology for contracting and payments, and cryptocurrency trading, as well as multi-currency exchange services, etc. So that&#8217;s the promise of performance: the statutes and policies of the treasury and its project financing and management system to support the growth of the world economy! In particular, all technologies that face the current and structural problems of environmental pollution, health, food safety, overpopulation, climate change, and equitable distribution of income and wealth.  								
+									Goldgedeckte Treasury Bills, Wechsel und Anleihen sind von großer Bedeutung als aktive und umfangreiche Beiträge/Einlagen für den reibungslosen Übergang vom aktuellen finanziellen Fiat-System zurück zum Goldstandard. Da das konventionelle Fiat-System wirtschaftliche Entwicklung und Stabilität nicht mehr garantieren kann, steht Gold, das traditionell als sicher und zuverlässig gilt, auf der Einkaufsliste jeder Zentralbank, um die Währungen einzelner Länder zu sichern.Das Institut ist anerkanntes Mitglied des Programms zur Stabilisierung der aktuellen Weltwirtschaft und zur Verhinderung des Auftretens ständiger Schwankungen von Währungen, Kursen und Wechselkursen.Als zweite Säule der Stabilität des Wirtschaftsmanagements auf der Ebene der internationalen, nationalen und lokalen Wirtschaft unterstützt das Institut die Mitglieder und stellt den Mitgliedern Online-Banking-Dienstleistungen zur Verfügung, wie ein integriertes Zahlungskartensystem, Blockchain-Technologie für Verträge und Zahlungen sowie Kryptowährungshandel und Multidevisen-Wechseldienstleistungen usw. Das ist also das Leistungsversprechen: die Satzung und Richtlinien des Treasury und seines Projektfinanzierungs- und Managementsystems zur Unterstützung des Wachstums der Weltwirtschaft! Insbesondere alle Technologien, die sich den aktuellen und strukturellen Problemen der Umweltverschmutzung, Gesundheit, Lebensmittelsicherheit, Überbevölkerung, des Klimawandels und der gerechten Verteilung von Einkommen und Vermögen stellen.  								
 				
 					
 		
 					
 		
-					
-		
-					
-		
-				
-						
-					
-			
-						
-				
-									One of the main functions with which the M1 Treasury is currently entrusted is to participate in the reform of the World Financial and Banking System, which has already begun and which is carried out within the framework of the BASIL III and BASIL IV agreements.								
-				
 					
 		
 					
@@ -359,12 +345,24 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 					
 			
 						
+				
+									Eine der Hauptfunktionen, mit denen das M1 Treasury derzeit betraut ist, ist die Teilnahme an der Reform des Weltfinanz- und Bankensystems, die bereits begonnen hat und im Rahmen der BASEL III- und BASEL IV-Vereinbarungen durchgeführt wird.								
+				
+					
+		
+					
+		
+				
+						
+					
+			
+						
 						
 					
 			
 						
 				
-									As a Gold Bullion Treasury and Depository, the M1 Treasury was established as a vehicle to enable the operation of SICC LGR&#8217;s many international projects and programs along with the provision of financial services and support to those SICC LGR members with more specific banking requirements.The M1 Тreasury uses most of the basic principles of the economic system, using a gold-backed financial system that is designed to complement the current economic system while preventing the economic chaos that has arisen from the world&#8217;s isolated economies and their inability to deal with the high levels of fluctuations that are a common phenomenon in economic markets. In addition to the fact that the M1 Treasury serves primarily as the World Treasury and Gold Bullion Depository, it also fulfills many other functions. The M1 Тreasury offers a large number of services, including commercial investments, grants and funding of humanitarian projects, and of course, a whole range of different banking services.								
+									Als Goldbarren-Treasury und -Depot wurde das M1 Treasury als Vehikel gegründet, um den Betrieb der vielen internationalen Projekte und Programme der SICC LGR zusammen mit der Bereitstellung von Finanzdienstleistungen und Unterstützung für diejenigen SICC LGR-Mitglieder mit spezifischeren Bankanforderungen zu ermöglichen.Das M1 Treasury verwendet die meisten Grundprinzipien des Wirtschaftssystems und nutzt ein goldgedecktes Finanzsystem, das darauf ausgelegt ist, das aktuelle Wirtschaftssystem zu ergänzen und gleichzeitig das wirtschaftliche Chaos zu verhindern, das aus den isolierten Volkswirtschaften der Welt und ihrer Unfähigkeit, mit den hohen Schwankungsniveaus umzugehen, die ein häufiges Phänomen auf den Wirtschaftsmärkten sind, entstanden ist. Zusätzlich zu der Tatsache, dass das M1 Treasury in erster Linie als Welt-Treasury und Goldbarren-Depot dient, erfüllt es auch viele andere Funktionen. Das M1 Treasury bietet eine große Anzahl von Dienstleistungen an, darunter kommerzielle Investitionen, Zuschüsse und Finanzierung humanitärer Projekte und natürlich eine ganze Reihe verschiedener Bankdienstleistungen.								
 				
 					
 		
@@ -372,20 +370,4 @@ class="post-239 page type-page status-publish ast-article-single" id="post-239" 
 			
 						
 				
-									The M1 Treasury is able to securely store valuable assets (assets) and issue Deposit Receipts, which are often used in international trade and commercial activities. The M1 Тreasury has acquired the functions of the administrator of Special bank accounts, the basis of which is a sovereign guarantee in the form of a guarantee in the form of Valuable commodities (Gold, Platinum, Emeralds, Diamonds, Various Gems and Precious Stones, US Federal Reserve Banknotes. M1 Treasury is responsible for managing the hedging accounts of the World Financial System.The M1 Тreasury is a member of the program to stabilize the current economic crisis and prevent the recurrence of fluctuations in currencies, values and exchange rates so that international national and local economies are stabilized and allow people to have better viable means of creating wealth and ultimately for people to of the world had a greater degree of social and economic freedom. 								
-				
-					
-		
-					
-		
-					
-		
-					
-		
-				
-		
-	
-	
-	
-	
-			
+									Das M1 Treasury ist in der Lage, wertvolle Vermögenswerte (Assets) sicher zu verwahren und Einlagenzertifikate (Deposit Receipts) auszustellen, die häufig im internationalen Handel und bei kommerziellen Aktivitäten verwendet werden. Das M1 Treasury hat die Funktionen des Verwalters von Sonderkonten (Special bank accounts) übernommen, deren Grundlage eine souveräne Garantie in Form einer Sicherheit in Form von wertvollen Rohstoffen (Gold, Platin, Smaragde, Diamanten, verschiedene Edelsteine und Edelsteine, US-Notenbanknoten) ist. Das M1 Treasury ist für die Verwaltung der Hedging-Konten des Weltfinanzsystems verantwortlich.Das M1 Treasury ist Mitglied des Programms zur Stabilisierung der aktuellen Wirtschaftskrise und zur Verhinderung des Wiederauftretens von Schwankungen bei Währungen, Werten und Wechselkursen, damit internationale, nationale und lokale Volkswirtschaften stabilisiert werden und den Menschen bessere lebensfähige Mittel zur Vermögensbildung ermöglichen und letztendlich die Menschen der Welt ein größeres Maß an sozialer und wirtschaftlicher Freiheit haben.

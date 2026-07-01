@@ -1,320 +1,183 @@
 # Resolution-023
 
-# Resolution-023
+**Quell-PDF:** `Resolution-023.pdf`
 
-**Source PDF:** `Resolution-023.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 6
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 6
+**OCR:** tesseract deu+eng, Schwellwertvorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 MexgyHapogHoe KasHayemcrBo M1
 International Treasury Monetary One
 
-LEI: 2534008YC6NRP4BLQFIS; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YC6NRP4BLQFIS; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Date December 03, 2022
-Ref. Ne: 023/RES2022
+Datum 03. Dezember 2022
+Ref. Nr.: 023/RES2022
 Code: @ 0139TbRA
 Code: il 786 IIAH
 
-RESOLUTION Ne 023
+RESOLUTION Nr. 023
 
-ress our Respect to you’and have the Honor to state the following,
-“ +
+Wir bekunden unseren Respekt vor Ihnen und haben die Ehre, Folgendes mitzuteilen:
 
-International Treasury Monetary One is the owner and the manager of the World
-Account with WORLD BANK, Account No. 01-00-01-4-AAA-777-C3-AM-01,
+International Treasury Monetary One ist der Eigentümer und Verwalter des
+Weltkontos bei der WORLD BANK, Kontonr. 01-00-01-4-AAA-777-C3-AM-01,
 
-distributed among various banks in countries around the World,
+verteilt auf verschiedene Banken in Ländern auf der ganzen Welt.
 
-* r.
-As a reminder, International Treasury„Monetary One is the owner and manager of
-the World Account in WORLD BANK Account No. 01-1-700-3516 222 777 8888 999,
+Zur Erinnerung: International Treasury Monetary One ist der Eigentümer und Verwalter des
+Weltkontos bei der WORLD BANK, Kontonr. 01-1-700-3516 222 777 8888 999,
 
-distributed among various banks in countries around the World,
+verteilt auf verschiedene Banken in Ländern auf der ganzen Welt.
 
-As a reminder, International Treasury Monetary One is the owner and manager of
-assets, including accounts under the names: “White Spiritual Boy”, “Spiritual Wonder
-Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”, “Prophet
-Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White Vatican”, “White
-Eagle”, “Maria Sinukuan or Divine Crystal” “Maria Banahaw or Divine Sunflower”,
-“Maria Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester Ege”, “Falcon”,
-“Alpha-Omega” and other accounts placed with various Banks in 189 (One hundred and
+Zur Erinnerung: International Treasury Monetary One ist der Eigentümer und Verwalter von
+Vermögenswerten, einschließlich Konten unter den Namen: "White Spiritual Boy", "Spiritual Wonder
+Boy", "Spiritual Wonder Brothers", "Morning Star", "King David", "Prophet
+Muhammad", "Demas and Saint Timothy", "White Mongolia", "White Vatican", "White
+Eagle", "Maria Sinukuan or Divine Crystal", "Maria Banahaw or Divine Sunflower",
+"Maria Cristina or Divine Magdalene", "Maria Makiling or Divine Ester Ege", "Falcon",
+"Alpha-Omega" und anderen Konten, die bei verschiedenen Banken in 189 (einhundert
+neunundachtzig) Ländern auf der ganzen Welt geführt werden.
 
-eighty nine) countries around the World,
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar.
 
-Honnenxa ofpmmancunix goxymenron Mennynäplöfiidre,,Kantauchersa MI spaxeres yromosHo naxasyemsıa
-npectynaennem / Any forgery of the o| ‘décuments’ of the Intemational Treasury Monetary One shall be a
-crime punishable by law
+## Abschnitt 001
 
+Wir lassen uns von früheren Resolutionen und Erklärungen der International
+Treasury Monetary One leiten,
 
-
-## Section 001
-
-ee]
-
-J nmel teeeercil M
-
-We are guided by previous resolutions and statements of the International
-
-Treasury Monetary One,
-
-Reaffirming Resolution Ne001 (001/RES2020) dated April 07, 2020 “On
-overcoming the global financial crisis”, Resolution N2002 (002/RES2020) dated June 02,
-2020 “The only way out of the global financial crisis”, Resolution No003 dated 01
-October 2020 (003/RES2020), Ordinance Ne004 (004/RES2021) of February 23, 2021
-“Cancellation of Historical Assets to Form a Balanced New Financial System”,
-Ordinance N2005 of July 16, 2021 (005/RES2021), Ordinance Ne006 of 13 September
-2021 (006/RES2021), Ordinance No007 of 01 October 2021 (007/RES2021), Ordinance
-N2008 of 21 December 2021 (008/RES2021), Ordinance Ne009 of 24 December 2021 (
-009/RES2021), Notice Ne010 of 13 January 2022 (010/RES2022), Ordinance No011 of 22
-January 2022 (011/RES2022), Ordinance Ne012 of 27 February 2022 (012/RES2022),
-Ordinance. Ne013 of March 01 (013/RES2022), Ordinance Ne014 of March 03, 2022
-(014/RES 2022), Ordinance Ne015 of 13 March 2022 (015/RES2022), Ordinance Ne016
-of 16 March 2022 (016/RES2022), Ordinance N2017 of 13 May 2022 (017/RES2022),
-Ordinance Ne018 of 22 July 2022 (018/RES2022), Ordinance Ne019 of September 23,
-2022 (019/RES2022), Ordinance NoQ20 of October 05, 2022 (020/RES2022), Ordinance
-N2021 of October 25, 2022 (021/RES2022J, Ordinance Ne022 of November 30, 2022
+unter Bekräftigung der Resolution Nr. 001 (001/RES2020) vom 07. April 2020 "Zur
+Überwindung der globalen Finanzkrise", Resolution Nr. 002 (002/RES2020) vom 02. Juni
+2020 "Der einzige Ausweg aus der globalen Finanzkrise", Resolution Nr. 003 vom 01.
+Oktober 2020 (003/RES2020), Verordnung Nr. 004 (004/RES2021) vom 23. Februar 2021
+"Streichung historischer Vermögenswerte zur Bildung eines ausgewogenen neuen Finanzsystems",
+Verordnung Nr. 005 vom 16. Juli 2021 (005/RES2021), Verordnung Nr. 006 vom 13.
+September 2021 (006/RES2021), Verordnung Nr. 007 vom 01. Oktober 2021 (007/RES2021), Verordnung
+Nr. 008 vom 21. Dezember 2021 (008/RES2021), Verordnung Nr. 009 vom 24. Dezember 2021 (
+009/RES2021), Bekanntmachung Nr. 010 vom 13. Januar 2022 (010/RES2022), Verordnung Nr. 011 vom 22.
+Januar 2022 (011/RES2022), Verordnung Nr. 012 vom 27. Februar 2022 (012/RES2022),
+Verordnung Nr. 013 vom 01. März (013/RES2022), Verordnung Nr. 014 vom 03. März 2022
+(014/RES2022), Verordnung Nr. 015 vom 13. März 2022 (015/RES2022), Verordnung Nr. 016
+vom 16. März 2022 (016/RES2022), Verordnung Nr. 017 vom 13. Mai 2022 (017/RES2022),
+Verordnung Nr. 018 vom 22. Juli 2022 (018/RES2022), Verordnung Nr. 019 vom 23. September
+2022 (019/RES2022), Verordnung Nr. 020 vom 05. Oktober 2022 (020/RES2022), Verordnung
+Nr. 021 vom 25. Oktober 2022 (021/RES2022), Verordnung Nr. 022 vom 30. November 2022
 (022/RES2022).
 
-The International Treasury Monetary One, conducting a World Mission to
-Overcome the Global Financial Crisis and to prevent the Third World War, approved
-Resolution Ne 001 (001/RES2020) dated April 07, 2020 and Ordinance Ne 011 dated
-January 22, 2022 (011/RES2022) on the implementation of the Divine Laws of Creation .
+Die International Treasury Monetary One, die eine Weltmission zur
+Überwindung der globalen Finanzkrise und zur Verhinderung des Dritten Weltkriegs durchführt, hat
+die Resolution Nr. 001 (001/RES2020) vom 07. April 2020 und die Verordnung Nr. 011 vom
+22. Januar 2022 (011/RES2022) zur Umsetzung der Göttlichen Gesetze der Schöpfung genehmigt.
 
-Over the past time to the present day, the special services of the International
-Treasury Monetary One, jointly with other International and country law enforcement,
-counter-terrorism services and international financial control organizations, have been
+In der vergangenen Zeit bis zum heutigen Tag haben die Sonderdienste der International
+Treasury Monetary One, gemeinsam mit anderen internationalen und nationalen Strafverfolgungs-,
+Terrorbekämpfungsdiensten und internationalen Finanzkontrollorganisationen,
+ständig internationale Finanzverbrechen der Veruntreuung und illegalen Nutzung von
 
-constantly detecting financial international crimes of embezzlement and illegal usage of
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar.
 
-Tlonnensa odnunansnaıs aoxymertos Mexcaynaponfore: Kastanelicres MI sanneren yrononno WakaayembiM
-npecrynaennem / Any forgery of the official, Bocimehts"6f- the Intemational Treasury Monetary One shall be a
-crime punishable by law ; ees
+## Abschnitt 002
 
-uy
+Dollar, die in Paletten gelagert sind und der International Treasury Monetary One gehören, in großem
+Umfang in verschiedenen Ländern der Welt, wie Vietnam, China, Kambodscha, den
+USA, Afghanistan, im europäischen Raum und im Gebiet der Union der Sozialistischen
+Sowjetrepubliken, aufgedeckt.
 
-€
-#
+Die kriminelle terroristische Gemeinschaft der Illuminaten, gemeinsam mit der kriminellen Loge,
+angeführt von Michael Rockefeller, genannt "Abayton" (die den Prozess des globalen
+Verbrechens gegen Gott und die Menschheit steuert, um den Völkermord an den Menschen in fast
+allen Ländern der Welt durchzuführen, indem sie chemische, bakteriologische, virale Massenvernichtungswaffen
+entwickelt und einsetzt, die auf verschiedene Weise in großen und mittelgroßen Städten in
+fast allen Ländern der Welt verteilt werden).
 
-=
+Diese wahnsinnigen und perversen Terroristen und Kriegsverbrecher sind erfüllt von Hass auf die
+Menschheit und alle Lebewesen, das heißt auf das Leben, und folglich Hass auf den
+Allmächtigen. Es gibt keine Rechtfertigung in der Welt und im Universum für diese abscheulichen
+Verbrechen und die Kriminellen, die sie begehen.
 
-51
+Die zuvor beschriebene kriminelle Gemeinschaft, gemeinsam mit den kriminellen
+Komplizen (kriminellen Beamten und "Werwölfen in Uniform"), die das unantastbare
+Eigentum der International Treasury Monetary One stehlen, das für den Ausweg
+aus der globalen Krise und die sozioökonomische Entwicklung aller Nationen als ein einziges
+Volk der Welt in allen Ländern gemäß den Göttlichen Gesetzen der Schöpfung vorbereitet wurde, die zuvor
+genannten Kriegsverbrecher, internationalen Terroristen und korrupten Beamten werden
+ausgesandt, um monströse Pläne zur Zerstörung der Menschheit und der Natur durchzuführen.
 
-da:
+Die zuvor erwähnten, verrückten und geistlosen Dogmen (Dogmen, die es nicht gibt),
+Menschentöter und Mörder, schüren weiterhin militärische Konflikte, Kriege,
+die Vernichtung von Menschen auf der ganzen Erde, unter Verwendung des gestohlenen und daher kriminellen
+Fiat-Dollars.
 
-elsfelsfelste
+## Abschnitt 003
 
-[sfelspelstelogelatelsgelsfei
+In Fortsetzung der Finanzierung des Völkermords an den Menschen in fast allen Ländern der
+Welt wandeln die zuvor erwähnten schmutzigen Schurken andere Zahlungsmittel unter Verwendung des
+gestohlenen und illegitimen Fiat-Dollars um.
 
-gi
+Angesichts der aktuellen Situation, in der korrupte und kriminalisierte Beamte
+und "Werwölfe in Uniform" in vielen Ländern, in denen sich die Lagerstätten der International
+Treasury Monetary One befinden, die Agonie der Plünderung fortsetzen, öffentliche Gelder veruntreuen,
+der Heiligen Weltmission auf viele Arten nachgehen und viele
+Verwalter (Lagerhalter) zu Verbrechen anstiften.
 
-:
+Aufgrund des Endes des Spiels der Götter und der Transformation der Welt
+von RA und Mutter Erde RUS in einen Licht- und Himmelszustand, um
+Gottes Vorsehung durch Göttliche Vorsehung zu erfüllen, durch das Recht des Souveräns, durch das
+Recht des erblichen Eigentums an allen Vermögenswerten der Welt, durch das Recht des
+Chefregulators des Weltfinanzsystems, in Unterstützung der internationalen
+Empfehlungen des Internationalen Basler Ausschusses für Bankenaufsicht, des
+Basel-3-Standards, in Umsetzung der hohen heiligen Pflicht der International
+Treasury Monetary One gegenüber der ganzen Welt,
 
-E
-2]
-BI
+WIR ENTSCHEIDEN:
+1) Den Fiat-US-Dollar im Finanzkreislauf des Weltfinanzsystems
+und in der ganzen Welt als leeres kriminelles Dokument zu verbieten, das seine
+Finanzkraft und jede Energie verloren hat.
+2) An alle Meister des Weltfinanzsystems,
+   * An alle internationalen und nationalen Strafverfolgungsorganisationen,
+   * An alle internationalen und nationalen Terrorismusbekämpfungsorganisationen,
 
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar.
 
+## Abschnitt 004
 
-## Section 002
+* An alle öffentlichen und privaten Militärorganisationen,
+* An alle internationalen und nationalen Kontroll- und Überwachungsorganisationen,
 
-dollars stored in pallets which belong to the International Treasury Monetary One on a
-large scale, in various countries of the World, such as Vietnam, China, Cambodia, the
-USA, Afghanistan, in the European territory and in the territory of the Union of Soviet
-Socialist Republics.
+Sofort damit zu beginnen, alle Codes, alle Konten, elektronischen und Bargeldtransaktionen
+des durch diese Verordnung verbotenen Fiat-US-Dollars in der ganzen Welt zu blockieren, mit anschließender
+Liquidierung der durch diese Verordnung verbotenen Fiat-US-Dollar-Papierbanknoten, sowie der Blockierung
+und Löschung aller Konten des durch diese Verordnung verbotenen US-Fiat-Dollars im gesamten
+Weltfinanzsystem und im gesamten Weltraum.
 
-The criminal terrorist community of the Illuminati, jointly with the criminal lodge,
-led by Michael Rockefeller, called “Abayton” (which manages the process of the Global
-Crime against God and Humanity, to conduct the Genocide of the People in almost all
-Countries of the World, developing and using chemical, bacteriological, viral weapons of
-mass destruction, distributed in various ways in large-sized and medium-sized cities in
+Eine globale Überwachung mit anschließender Entsorgung des durch diese
+Resolution in jeder seiner Formen verbotenen US-Fiat-Dollars durchzuführen.
 
-almost all countries of the world).
-
-These insane and perverted terrorists and war criminals are filled with hatred for
-Humanity and all living creatures, that is, -for Life, and consequently, hatred for the
-Almighty. There is no justification.in the World and the Universe for these heinous
-
-crimes and the criminals who conduct them.
-
-The previously-described criminal * community, jointly with the criminal
-accomplices (criminal officials and “ “werewolves in epaulets”), stealing the untouchable
-property of the International Tr reasury Monetary One, which was prepared for the Way
-out of the global crisis and the socio-economic development of all nations as a single
-People of the World in all Countries according to the Divine Laws of Creation,
-previously mentioned war criminals, international terrorists and corrupt officials are sent
-
-to conduct monstrous plans to destroy Humanity and Nature.
-
-The previously mentioned, crazy and mindless dogmas (dogmas which do not
-exist), people’s killers and murderers, continue to incite military conflicts, wars,
-extermination of People all over the earth, using the stolen, and therefore criminal, fiat
-dollar.
-
-
-
-## Section 003
-
-|
-
-panos) nen
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-Continuing to finance the Genocide of the People, in almost all Countries of the
-World, the previously-mentioned filthy villains convert other means of payment using the
-
-stolen and illegitimate fiat dollar.
-
-Understanding the current situation, in which corrupt and criminalized officials
-and “werewolves in epaulets” in many countries where the storages of the International
-Treasury Monetary One are located, continue the agony of plundering, committing
-embezzlement of public funds, of the Holy World Mission in many ways inciting many
-
-custodians (storekeepers) to commit crimes.
-
-Due the end of the Game of the Gods and the Transformation of the World of
-RA and Mother Earth RUS into a Light and Celestial state, in order to fulfill God's
-Providence by Divine Providence, by the Right of the Sovereign, by the Right of
-Hereditary Ownership of all the Assets of the World, by the Right of the Chief
-Regulator of the World Financial ‘System, supporting the international
-recommendations of the International Basel Committee on Banking Supervision, the
-Basel 3 standard, in implementation of the High Sacred Duty of the International
-Treasury Monetary One to the Whole World,
-
-* ca
-
-WE DECIDE:
-2
-1) To prohibit the fiat US dollar in financial circulation in the World Financial
-
-System and throughout the World as an empty criminal document that has lost
-
-its financial power and any energy.
-
-2) » To all Masters of the World Financial System,
-+ To all International and Country Law Enforcement Organizations,
-
-* To all International and country counter-terrorism Organizations,
-
-Tloageaxa opauuanbanix zokymenzos Mexaynaponkotß \Kastateticraa MI apasetca yronosno wakasyemsim
-mpestynnenten / Any forgery of the official documents of the’ Intemational Treasury Monetary One shall be a
-crime punishable by law
-
-106 “
-
-
-
-## Section 004
-
-= Bam Senne) Seen Br
-it
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-* To all public and private Military Organizations,
-
-* To all International and country control and monitoring organizations,
-
-Immediately start blocking all codes, all accounts, electronic and cash transactions
-of the fiat US dollar prohibited by this Regulation throughout the world, with further
-liquidation of fiat US dollar paper bills prohibited by this Regulation, as well as blocking
-and erasing all accounts of the US fiat dollar prohibited by this Regulation throughout the
-World Financial System and throughout the World space.
-
-To conduct Global monitoring with the subsequent disposal of the US fiat dollar
-prohibited by this Resolution in any of its forms.
-
-A
-
-All Countries of the World and financial institutions are strongly recommended to
-enter the World SunRise Program for the transition to the gold standard, developed and
-implemented by the International Treasury Monetary One in the World space. The
-official inquiries from all public subjects of the Law,of Our World have to be sent to the
-e-mail of the International j Treasury Monetary One (e-mail address:
-
+Allen Ländern der Welt und Finanzinstitutionen wird nachdrücklich empfohlen, dem
+World SunRise-Programm für den Übergang zum Goldstandard beizutreten, das von der
+International Treasury Monetary One entwickelt und im Weltraum umgesetzt wird. Offizielle
+Anfragen aller öffentlichen Rechtssubjekte unserer Welt sind an die
+E-Mail-Adresse der International Treasury Monetary One zu senden (E-Mail-Adresse:
 SunRise@monetaryone.org).
 
-The International Treasury Monetary One reaffirms its assurance that in the
-future it will confidently and firmly continue its Service to Humanity, protection of
-People, restoration of Justice, preservation of Peace and Creation of a Light
-Financial System in the service of the Social and Economic Development of the
-Human World in the Divine Laws of Creation, in Love and Harmony with the
-Almighty All-God and Nature...
+Die International Treasury Monetary One bekräftigt ihre Zusicherung, dass sie
+in Zukunft zuversichtlich und fest ihren Dienst an der Menschheit, den Schutz der
+Menschen, die Wiederherstellung der Gerechtigkeit, die Bewahrung des Friedens und die Schaffung eines Licht-
+Finanzsystems im Dienst der sozialen und wirtschaftlichen Entwicklung der
+menschlichen Welt in den Göttlichen Gesetzen der Schöpfung, in Liebe und Harmonie mit dem
+Allmächtigen All-Gott und der Natur fortsetzen wird...
 
-Tionnenka odmuansuuız aoxymentos Mexmywap
-npectynmenues 7 Any forgery of the official dach
-crime punishable by law
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar.
 
-foro Kasnaueliorna M1 spaxetca yronoBHo HAKASycMbIM
-OF the Intemational Treasury Monetary One shall be a
+## Abschnitt 005
 
-a
+von White Spiritual Boy R. S. B. Global Corp Inc
 
-rl
+Großintendant des Souveränen Ordens des Heiligen Johannes
+Jerusalem, Rhodos, Malta,
 
-elbTels
-
-2
-
-BEBE
-
-E
-
-=]
-
-is
-
-[srzlstelsfe
-
-elspelsrelstels
-
-fsroloralstelsge!
-
-
-
-## Section 005
-
-of White Spiritual Boy R. S. B. Global Corp Inc
-
-Grand Intendant ofthe Sovereign Order of Saint John
-Jerusalem, Rhodes, Malta,
-
-Tlonnenka opnmanınsıx noxymeitron Mexayaapdısoro Kasnaueiterna MI ABnaeTcK yronomio Hakasycmoite
-npectynaenuem / Any forgery of the official docurhents of the Intemational Treasury Monetary One shall be a
-crime punishable by law
-
-60f 6
-
-
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar.

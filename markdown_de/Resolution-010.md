@@ -1,92 +1,74 @@
 # Resolution-010
 
-# Resolution-010
+**Quell-PDF:** `Resolution-010.pdf`
 
-**Source PDF:** `Resolution-010.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 2
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 2
+**OCR:** tesseract deu+eng, Schwellwert-Vorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 Ro
 7
 
-Mexaynapoanoe Kasnayertcrso ALL
-international Treasury Monetary One
+International Treasury Monetary One
+ALL
 
-LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel.: +7-495-1258418
 
-Date: January 13, 2022.
-Ref. No.: 010/RES2022
-Code:TbRA td 786 TITAH
+Datum: 13. Januar 2022.
+Ref. Nr.: 010/RES2022
+Code: TbRA td 786 TITAH
 
-NOTIFICATION No. 010
+MITTEILUNG Nr. 010
 
-As the Chief Treasurer of the International Treasury Monetary One I would like to express
-my respect and gratitude for the decision to honor me with the status of the King of Kings, the
-highest status among Sovereigns. ] express my sincere appreciation and gratitude to all those
-who listened to their hearts and voted for me, and I express my acknowledgment to all those who
-did not vote and abstained. I sincerely express gratitude to the Custodians for the gifts yielded
-and maps of the warehouses with the Treasury of the Creator RA, especially appreciate the
-Custodians of Scandinavia for their gifts, sincerely bless the Sovereigns for their gifts in returning
-the Sacred Attributes and keys of the Creator RA. I thank the Leaders of the States, members of
-the Royal Families who sent congratulatory messages, expressed assurances, and I want to assure
-those who wrote farewell, I confirm my solidarity and promise to honorably fulfill my duty to
-the Peoples of the World for World Peace.
+Als Chief Treasurer der International Treasury Monetary One möchte ich meinen
+Respekt und meine Dankbarkeit für die Entscheidung ausdrücken, mir den Status des King of Kings, den
+höchsten Status unter den Souveränen, zu verleihen. Ich spreche meine aufrichtige Wertschätzung und Dankbarkeit gegenüber all jenen aus, die auf ihr Herz gehört und für mich gestimmt haben, und ich bedanke mich bei all jenen, die nicht gestimmt haben und sich enthalten haben. Ich danke aufrichtig den Custodians für die erbrachten Gaben und die Karten der Lagerhäuser mit dem Schatz des Schöpfers RA, schätze besonders die
+Custodians of Scandinavia für ihre Gaben, segne aufrichtig die Souveräne für ihre Gaben bei der Rückgabe
+der Heiligen Attribute und Schlüssel des Schöpfers RA. Ich danke den Führern der Staaten, den Mitgliedern
+der Königsfamilien, die Glückwunschbotschaften gesendet und Zusicherungen ausgesprochen haben, und ich möchte diejenigen, die Abschiedsbotschaften geschrieben haben, versichern, dass ich meine Solidarität bestätige und verspreche, meine Pflicht gegenüber den Völkern der Welt für den Weltfrieden ehrenhaft zu erfüllen.
 
-I wish to assure everyone that I will honorably bear this Title, and I will make every effort
-to build a New World in the Cone of Creation, where Human life will truly be the highest Value,
-and Human Rights will become the basis of the rule of Law, a world where there will be no
-poverty, wars, inequalities, discrimination. I expect support and help from all People on Earth
-who want to make this World a better place for themselves and future generations to live.
+Ich möchte alle versichern, dass ich diesen Titel ehrenhaft tragen werde und alle Anstrengungen unternehmen werde, um eine Neue Welt im Kegel der Schöpfung aufzubauen, in der das menschliche Leben wirklich der höchste Wert sein wird und die Menschenrechte zur Grundlage der Rechtsstaatlichkeit werden, eine Welt, in der es keine Armut, Kriege, Ungleichheiten oder Diskriminierung geben wird. Ich erwarte Unterstützung und Hilfe von allen Menschen auf der Erde, die diese Welt zu einem besseren Ort für sich selbst und zukünftige Generationen machen wollen.
 
-Tloagenka obmımaaums aoxyMeuron Mexayuaponnoro Karmaueiiera MI sensetea yromopno uaKayeMbin
-npectyriennem Any forgery of the official documents of the Intemational Treasury Monetary One shall be a erime
-punishable by law
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One ist eine Straftat, die gesetzlich bestraft wird
 
-1 of 2
+1 von 2
 
 TIGA GA ale GaGa Ga Goel GalardGe
 
 fr
 
 
-## Section 001
+## Abschnitt 001
 
 &
 
-I declare that the doors of the King of Kings are open to everyone who adheres to our
-Noble Goals, honors universal Values and comes to form synergy for the realization of Common
-Light Goals!
+Ich erkläre, dass die Türen des King of Kings für jeden offen stehen, der sich unseren
+Edlen Zielen anschließt, universelle Werte ehrt und kommt, um Synergien für die Verwirklichung gemeinsamer Lichtziele zu bilden!
 
-Light in Light with Light and to Light...
-Approved, drawn up and executed
+Licht im Licht mit Licht und zum Licht...
+Genehmigt, ausgearbeitet und ausgeführt
 SA 13.01.2022
 
-His Majesty
+Seine Majestät
 
 King of Kings
 
 Alexander Nikolaevich Paramonov
-Chief Treasurer of the International Treasury Monetary One,
+Chief Treasurer der International Treasury Monetary One,
 
-President and Chief Operating Officer of
-White Spiritual] Boy R.S.B. Global Corp Inc,
+Präsident und Chief Operating Officer der
+White Spiritual Boy R.S.B. Global Corp Inc,
 
-UN No. 509519
+UN Nr. 509519
 
-Tloagenka obmımaaums aoxyMeuron Mexayuaponnoro Karmaueiiera MI sensetea yromopno uaKayeMbin
-npectyriennem Any forgery of the official documents of the Intemational Treasury Monetary One shall be a erime
-punishable by law
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One ist eine Straftat, die gesetzlich bestraft wird
 
-2 of 2
+2 von 2
 
 TIGA GA ale GaGa Ga Goel GalardGe
 
 fr
-
-

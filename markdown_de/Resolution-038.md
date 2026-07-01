@@ -1,59 +1,56 @@
 # Resolution-038
 
-# Resolution-038
+**Quell-PDF:** `Resolution-038.pdf`
 
-**Source PDF:** `Resolution-038.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 2
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion
+**Bilder:** 2
 **OCR:** tesseract deu+eng
 
 ---
 
-## Section 000
+## Abschnitt 000
 
-GVBEPENNOE AASSKAVNAPSANSE KA3NAUEHGTEO MI
-SOVERGIGN INTERNATIONAL TREASURY MONETARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONG
 
-Date: August 26, 2023
-Ref. Ne: 038/RES2023
+Datum: 26. August 2023
+Ref. Nr.: 038/RES2023
 
-Gode: @ 0139 TERA
-Gode: kid 786 TAH
+Code: @ 0139 TERA
+Code: kid 786 TAH
 
-Decree
-By the Right of the Sovereign
+Dekret
+Durch das Recht des Souveräns
 
-International law
-We hereby confirm and approve
+Völkerrecht
+Wir bestätigen und genehmigen hiermit
 
-Main articles From the International Law on Share, Gonsumer,
-Gooperative Societies and Unions:
+Hauptartikel aus dem Völkerrecht über Aktien-, Verbraucher-,
+Genossenschaften und Vereinigungen:
 
-1. Mutual, Consumer, Gooperative Societies and Unions are not subject to any
-regulation From outside and are Self-Regulated hy the Right of the Sovereign
-according to the Divine Law of Greation based on the norms of International Law on
-Mutual Consumer, Gooperative Societies and Unions.
+1. Gegenseitige, Verbraucher-, Genossenschaften und Vereinigungen unterliegen keiner
+Regulierung von außen und sind selbstreguliert durch das Recht des Souveräns
+gemäß dem göttlichen Gesetz der Schöpfung basierend auf den Normen des Völkerrechts über
+gegenseitige Verbraucher-, Genossenschaften und Vereinigungen.
 
-2. Any account of a Unit Gonsumer Gooperative Society or Union opened with any
-Financial institution in the World has the status of a Sovereign Treasury Account.
+2. Jedes Konto einer Einheits-Verbrauchergenossenschaft oder Vereinigung, das bei einem
+Finanzinstitut der Welt eröffnet wird, hat den Status eines Souveränen Schatzamtskontos.
 
-3. Any Share, Gonsumer, Cooperative Societies and Unions have the right to have
-their own Treasury and their own Financial, accounting and settlement Financial
-Genters, neither controlled by the Regulator From outside.
+3. Jede Aktien-, Verbraucher-, Genossenschaften und Vereinigungen haben das Recht, ihre
+eigene Schatzkammer und ihre eigenen Finanz-, Buchhaltungs- und Abwicklungsfinanzzentren
+zu haben, die weder von der Regulierungsbehörde von außen kontrolliert werden.
 
-4. The main article of the International Law on Share, Gonsumer, Gooperative
-Societies and Unions:
+4. Der Hauptartikel des Völkerrechts über Aktien-, Verbraucher-, Genossenschaften
+und Vereinigungen:
 
-State authorities and local self-government bodies do not have the right to
-interfere in the Financial, economic and other activities of Share, Gonsumer,
-Gooperative Societies and Unions.
+Staatliche Behörden und lokale Selbstverwaltungsorgane haben nicht das Recht, sich
+in die finanziellen, wirtschaftlichen und anderen Aktivitäten von Aktien-, Verbraucher-,
+Genossenschaften und Vereinigungen einzumischen.
 
 OM
 
-LEI: 2534008YC6NRP48LQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YC6NRP48LQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-byl
+von
 
 Alta
 
@@ -79,31 +76,26 @@ bye
 
 *
 
+## Abschnitt 001
 
-
-## Section 001
-
-GYBEPENNIE MEXKAYNAPOANSE KASNAYEHCTRO MI
-SOVSREIGN INTERNATIONAL TREASURY ALONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONG
 
 a White Spiritual Boy
 ZA S
-ne Secretary General .
-of the Sovereign International Treasury Monetary One
+ne Generalsekretär
+der Sovereign International Treasury Monetary One
 Y Y
 
-President
->, oF White Spiritual B Global Gorp ING
-1 0 ite Spiritual EN lobal Gorp
+Präsident
+>, oF White Spiritual B Global Corp ING
+1 0 ite Spiritual EN lobal Corp
 
 FIR
 
-Ghairman of the Board
-of the World Sovereign Bank
-of the Order of the Hospitallers
+Vorsitzender des Vorstands
+der World Sovereign Bank
+des Ordens der Hospitaliter
 
 =
 
-LER 2534008YC6NRP4BLOFIS; UN ID: 626139; Telex: 64 623439 ITMO RU: Ph: +7-495-1258418
-
-
+LEI 2534008YC6NRP4BLOFIS; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418

@@ -1,6 +1,4 @@
-# documents_it
-
-# Documenti (IT)
+# Dokumente (DE)
 
 **URL:** https://tnhco.org/it/documents_it/
 
@@ -22,7 +20,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
 			
 						
 				
-					DOCUMENTI				
+					DOKUMENTE				
 				
 					
 		
@@ -34,11 +32,11 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
 			
 						
 				
-					ARCHIVIO PUBBLICO				
+					ÖFFENTLICHES ARCHIV				
 				
 				
 				
-									Archivio pubblico dei documenti di Terra Nova Helvetica								
+									Öffentliches Archiv der Dokumente von Terra Nova Helvetica								
 				
 				
 				
@@ -171,7 +169,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                 elementor-widget elementor-widget-heading" data-element_type="widget"
                      data-widget_type="heading.default">  <h2 class="elementor-heading-title 
                         elementor-size-default">
-                            Risoluzioni    <div class="elementor-element elementor-element-6670e3d wpr-data-table-type-custom
+                            Resolutionen    <div class="elementor-element elementor-element-6670e3d wpr-data-table-type-custom
                 wpr-table-align-items-left elementor-widget elementor-widget-wpr-data-table"
                      data-element_type="widget" data-widget_type="wpr-data-table.default">  <div 
                         class="wpr-table-container ">
@@ -188,7 +186,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">1 giu 2020
+                                                        class="wpr-table-text">1. Juni 2020
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -196,7 +194,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">2 giu 2020
+                                                        class="wpr-table-text">2. Juni 2020
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -204,7 +202,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">1 ott 2020
+                                                        class="wpr-table-text">1. Okt. 2020
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -212,7 +210,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">23 feb 2021
+                                                        class="wpr-table-text">23. Feb. 2021
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -220,7 +218,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">16 lug 2021
+                                                        class="wpr-table-text">16. Juli 2021
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -228,7 +226,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">13 set 2021
+                                                        class="wpr-table-text">13. Sep. 2021
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -236,7 +234,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">1 ott 2021
+                                                        class="wpr-table-text">1. Okt. 2021
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -244,7 +242,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">21 dic 2021
+                                                        class="wpr-table-text">21. Dez. 2021
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -252,7 +250,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">24 dic 2021
+                                                        class="wpr-table-text">24. Dez. 2021
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -260,7 +258,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">13 gen 2022
+                                                        class="wpr-table-text">13. Jan. 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -268,7 +266,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">22 gen 2022
+                                                        class="wpr-table-text">22. Jan. 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -276,7 +274,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">27 feb 2022
+                                                        class="wpr-table-text">27. Feb. 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -284,7 +282,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">1 mar 2022
+                                                        class="wpr-table-text">1. März 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -292,7 +290,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">3 mar 2022
+                                                        class="wpr-table-text">3. März 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -300,7 +298,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">13 mar 2022
+                                                        class="wpr-table-text">13. März 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -308,7 +306,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">30 mar 2022
+                                                        class="wpr-table-text">30. März 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -316,7 +314,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">13 mag 2022
+                                                        class="wpr-table-text">13. Mai 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -324,7 +322,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">22 lug 2022
+                                                        class="wpr-table-text">22. Juli 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -332,7 +330,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">23 set 2022
+                                                        class="wpr-table-text">23. Sep. 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -340,7 +338,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">5 ott 2022
+                                                        class="wpr-table-text">5. Okt. 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -348,7 +346,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">25 ott 2022
+                                                        class="wpr-table-text">25. Okt. 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -356,7 +354,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">30 nov 2022
+                                                        class="wpr-table-text">30. Nov. 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -364,7 +362,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">3 dic 2022
+                                                        class="wpr-table-text">3. Dez. 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -372,7 +370,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">27 dic 2022
+                                                        class="wpr-table-text">27. Dez. 2022
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -380,7 +378,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">13 gen 2023
+                                                        class="wpr-table-text">13. Jan. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -388,7 +386,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">26 gen 2023
+                                                        class="wpr-table-text">26. Jan. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -396,7 +394,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">27 gen 2023
+                                                        class="wpr-table-text">27. Jan. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -404,7 +402,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">18 mar 2023
+                                                        class="wpr-table-text">18. März 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -412,7 +410,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">21 mar 2023
+                                                        class="wpr-table-text">21. März 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -420,7 +418,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">30 mar 2023
+                                                        class="wpr-table-text">30. März 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -428,7 +426,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">18 apr 2023
+                                                        class="wpr-table-text">18. Apr. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -436,7 +434,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">19 mag 2023
+                                                        class="wpr-table-text">19. Mai 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -444,7 +442,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">2 giu 2023
+                                                        class="wpr-table-text">2. Juni 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -452,7 +450,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">2 giu 2023
+                                                        class="wpr-table-text">2. Juni 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -460,7 +458,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">29 giu 2023
+                                                        class="wpr-table-text">29. Juni 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -468,7 +466,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">3 ago 2023
+                                                        class="wpr-table-text">3. Aug. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -476,7 +474,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">11 ago 2023
+                                                        class="wpr-table-text">11. Aug. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -484,7 +482,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">26 ago 2023
+                                                        class="wpr-table-text">26. Aug. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -492,7 +490,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">31 ago 2023
+                                                        class="wpr-table-text">31. Aug. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -500,7 +498,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">2 ott 2023
+                                                        class="wpr-table-text">2. Okt. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -508,7 +506,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">5 ott 2023
+                                                        class="wpr-table-text">5. Okt. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -516,7 +514,7 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">9 ott 2023
+                                                        class="wpr-table-text">9. Okt. 2023
                                                                                                    <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span class="wpr-table-text 
@@ -524,20 +522,4 @@ class="post-3861 page type-page status-publish ast-article-single" id="post-3861
                                                         <div 
                                                 class="wpr-td-content-wrapper ">
                                                      <span 
-                                                        class="wpr-table-text">18 ott 2023
-                                                                       
-        
-     
-						
-				
-					
-		
-					
-		
-				
-		
-	
-	
-	
-	
-			
+                                                        class="wpr-table-text">18. Okt. 2023

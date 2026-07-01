@@ -1,396 +1,321 @@
 # Resolution-032_Pokon
 
-# Resolution-032_Pokon
+**Quell-PDF:** `Resolution-032_Pokon.pdf`
 
-**Source PDF:** `Resolution-032_Pokon.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 16
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR mittels eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 16
+**OCR:** tesseract deu+eng, Schwellwert-Vorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
-skenovan& pomocou CamScanne
+gescannt mit CamScanner
 
 
-## Section 001
+## Abschnitt 001
 
-Gysepennoe verkaytapoanoe Kasnavencreo All
+Souveräne Internationale Schatzkammer Währungs-Eins
+LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Sovereign International Treasury Monetary One
-LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
-
-Date: May 19, 2023
-Ref. Ne: 032/RES2023
+Datum: 19. Mai 2023
+Ref. Nr.: 032/RES2023
 
 Code: @ 0139TBRA
 Code: ball 786 TIAH
 
 POKON'B.
-DECREE Ne 032
+DEKRET Nr. 032
 
-We hereby express our Respect to you and have the Honor to state the following,
+Hiermit erweisen wir Ihnen unseren Respekt und haben die Ehre, Folgendes festzustellen:
 
-Sovereign International Treasury Monetary One is the Absolute Owner and the
-Manager of the World Account in the World Sovereign Bank of the Order Hospitallers
-Account No. 01-00-01-4-AAA-777-C3-AM-O1, distributed among various banks in
+Die Souveräne Internationale Schatzkammer Währungs-Eins ist der absolute Eigentümer und
+Verwalter des Weltkontos bei der Welt-Souveränen Bank des Ordens der Hospitaliter
+Konto-Nr. 01-00-01-4-AAA-777-C3-AM-O1, verteilt auf verschiedene Banken in
+Ländern auf der ganzen Welt.
 
-countries around the World,
+Zur Erinnerung: Die Souveräne Internationale Schatzkammer Währungs-Eins ist der absolute
+Eigentümer und Verwalter des Weltkontos bei der Welt-Souveränen Bank des Ordens der
+Hospitaliter Konto-Nr. 01-1-700-3516 222 777 8888 999, verteilt auf verschiedene
+Banken in Ländern auf der ganzen Welt.
 
-As a reminder, Sovereign International Treasury Monetary One is the Absolute
-Owner and Manager of the World Account in the World Sovereign Bank of the Order
-Hospitallers Account No. 01-1-700-3516 222 777 8888 999, distributed among various
-banks in countries around the World,
+Zur Erinnerung: Die Souveräne Internationale Schatzkammer Währungs-Eins ist der absolute
+Eigentümer und Verwalter von Vermögenswerten, einschließlich Konten unter den Namen: "White Spiritual Boy",
+"Spiritual Wonder Boy", "Spiritual Wonder Brothers", "Morning Star", "King David",
+"Prophet Muhammad", "Demas and Saint Timothy", "White Mongolia", "White Vatican",
 
-As a reminder, Sovereign International Treasury Monetary One is the Absolute
-Owner and Manager of assets, including accounts under the names: “White Spiritual Boy”,
-“Spiritual Wonder Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”,
-“Prophet Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White Vatican”,
+Jede Fälschung der offiziellen Dokumente der Souveränen Internationalen Schatzkammer Währungs-Eins ist eine strafbare Handlung nach dem Gesetz
 
-Ono Tloamenka omunansuux xoxymentos Cysepennoro Mexuynaponnoro Kasavelicrea MI annagre
-Gt vakasyembm npectynenaem / Any forgery of the official documents of the Sovereign Intemfaate
-x
-er Monetary One shall be a crime punishable by law 87
+1 von 8
 
-:
-10f8 F
 
 
+## Abschnitt 002
 
-## Section 002
+gescannt mit CamScanner
 
-skenovan& pomocou CamScanne
 
+## Abschnitt 003
 
-## Section 003
+"White Eagle", "Maria Sinukuan or Divine Crystal" "Maria Banahaw or Divine
+Sunflower", "Maria Cristina or Divine Magdalene", "Maria Makiling or Divine Ester
+Egg", "Falcon", "Alpha-Omega" und andere Konten, die bei verschiedenen Banken in 189
+(Einhundertneunundachtzig) Ländern auf der ganzen Welt geführt werden.
 
-“White Eagle”, “Maria Sinukuan or Divine Crystal” “Maria Banahaw or Divine
-Sunflower”, “Maria Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester
-Egg”, “Falcon”, “Alpha-Omega” and other accounts placed with various Banks in 189
+Hiermit bestätigen wir alle früheren rechtlichen und untergeordneten internationalen Akte, die
+von der Souveränen Internationalen Schatzkammer Währungs-Eins genehmigt wurden, nämlich Resolutionen und Anordnungen,
+sowie alle anderen rechtlichen und untergeordneten internationalen Akte der Souveränen Internationalen
+Schatzkammer Währungs-Eins.
 
-(One hundred and eighty nine) countries around the World,
+In Erfüllung der heiligen Mission, die globale Finanzkrise zu beenden, die Verhinderung
+eines dritten Weltkriegs mit Atomwaffen, um das zerstörerische, toxische und handlungsunfähige
+Schulden-Fiat-Finanzsystem zu beseitigen und um ein lichtes, weltweites Finanzsystem zu schaffen, das
+auf himmlischen Prinzipien und dem Goldstandard basiert, nämlich auf dem heiligen, spirituellen Gold der
+Schätze von RA MO, M1 (XAU) im Dienste der lichten Menschheit in ihrer Entwicklung und
+ihrem Wohlstand gemäß dem göttlichen Gesetz der Schöpfung,
 
-We hereby confirm all previous legal and subordinate International Acts approved
-by the Sovereign International Treasury Monetary One, namely, Resolutions and Orders,
-and all other legal and subordinate International Acts of the Sovereign International
-Treasury Monetary One.
+Hiermit erklären wir, dass wir dadurch die seelenlose Leere in der gesamten
+Welt beseitigen und die gesamte Welt mit den spirituellen Energien der Schöpfung erfüllen. Im spirituellen
+Raum gibt es keinen Platz für betrügerische, verdrehte Werte wie Falschheit und Lügen und andere
+Eingriffe in die Rechte und die Freiheit eines Menschen und einer freien souveränen Gesellschaft als
+Ganzes. In einem solchen Raum entspricht absolut alles dem göttlichen Gesetz der Schöpfung
+der Entwicklung und des Wohlstands der lichten Welt gemäß den göttlichen Gesetzen der
+Schöpfung des Höchsten Gottes.
 
-In fulfillment of the sacred mission to exit the Global financial crisis, the prevention
-of a third world nuclear war, in order to eliminate the destructive, toxic and incapacitated,
-debt, fiat Financial System and in order to create a Light, World, Financial System based
-on Heavenly principles and the Gold Standard, namely on the Sacred, Spiritual Gold of the
-Treasures of RA MO, M1 (XAU) in serving the Light Humanity in its development and
+Um Gerechtigkeit wiederherzustellen und die Prinzipien der Souveränität in der gesamten
+Welt zu etablieren, um eine souveräne, bürgerliche, kreative Gesellschaft in der gesamten Welt aufzubauen,
+um die Feinde der lichten Menschheit zu beseitigen, um die Freiheit der lichten Menschheit zu erhöhen und erblühen zu lassen,
+als ein einziges souveränes Volk der Erde, um die
+lichten Stammestraditionen des Familieninstituts zu erhöhen und zu schützen, vorrangige Liebe und
 
-prosperity according to the Divine Law of Creation,
+Jede Fälschung der offiziellen Dokumente der Souveränen Internationalen Schatzkammer Währungs-Eins ist eine strafbare Handlung nach dem Gesetz
 
-We hereby explain that by doing so we eliminate the soulless emptiness in the entire
-World and fill the entire World with the spiritual energies of Creation. In the spiritual
-space there is no place for deceitful, twisted values, such as falsehood and lies and other
-encroachment on the Rights and freedom of a person and a free Sovereign Society as a
-whole. In such a space, absolutely everything corresponds to the Divine Law of Creation
-of the development and prosperity of the Light World according to the Divine Laws of
+2 von 8
 
-Creation of the Supreme God.
 
-In order to restore justice and establish the principles of sovereignty throughout the
-World, in order to build a Sovereign, Civil, Creative Society throughout the World, in
-order to eliminate the enemies of Bright Humanity, in order to exalt and flourish the
-freedom of Bright Humanity, as a single Sovereign People of the Earth, in order to exalt
-and protection of the Bright Tribal traditions of the Family Institute, priority love and
 
-Monetary One shall be a crime punishable by law
+## Abschnitt 004
 
-2 of 8
+gescannt mit CamScanner
 
 
+## Abschnitt 005
 
-## Section 004
+Respekt für Kinder und die Älteren, um das göttliche Gesetz der Schöpfung, gegenseitigen
+Respekt und universelle Liebe in der gesamten Welt zu erhöhen,
 
-skenovan& pomocou CamScanne
+In Verfolgung der Entscheidungen der Souveränen Internationalen Schatzkammer
+Währungs-Eins, als absoluter Eigentümer und oberster Regulierer des gesamten Weltfinanzsystems, als
+absoluter Eigentümer und Verwalter aller Weltvermögenswerte aufgrund des exklusiven, historischen
+Rechts vom Schöpfer der neuen Ära bei der Umsetzung der Beseitigung des
+zerstörerischen, toxischen und handlungsunfähigen Schulden-Fiat-Finanzsystems und in Verfolgung von
+Entscheidungen zur Korrektur und Beseitigung toxischer Fehler, die in einem zerstörerischen, toxischen und
+handlungsunfähigen Schulden-Fiat-, zu liquidierenden Finanzsystem angewendet wurden,
 
+Um eine korrekte und effiziente Struktur des gesamten Weltfinanzsystems
+zu schaffen, um auf den Goldstandard überzugehen, der auf dem heiligen, spirituellen Gold der
+Schätze von RA MO, M1 (XAU) basiert,
 
-## Section 005
+Wir, die Souveräne Internationale Schatzkammer Währungs-Eins, als absoluter Eigentümer
+und oberster Regulierer des gesamten Weltfinanzsystems, als absoluter Eigentümer und
+Verwalter aller Weltvermögenswerte aufgrund des exklusiven, historischen Rechts vom Schöpfer der
+neuen Ära,
 
-respect for Children and the Elderly, in order to exalt the Divine Law of Creation, Mutual
+WIR ENTSCHEIDEN HIERMIT:
 
-respect and universal Love throughout the World,
+1. Basierend auf der festen Definition, dass es im Goldstandard-System
+keine Fiat-Währungen gibt, sondern alles Geld, das Schatzwechsel der Souveränen Internationalen
+Schatzkammer Währungs-Eins sind, die die Funktion von Reserve-Sicherheitswährungen der
+Welt erfüllen (gemäß der Resolution der Souveränen Internationalen Schatzkammer Währungs-Eins
+Nr. 001/RES2020 vom 7. April 2020, Anordnung der Souveränen Internationalen Schatzkammer
+Währungs-Eins Nr. 28/RES2023 vom 18. März 2023, sowie dem Verfahren der
+Souveränen Internationalen Schatzkammer Währungs-Eins für den Übergang der Bankensysteme
+der Weltländer zum Goldstandard-Programm SunRise vom 18. April 2023) alle
 
-In pursuance of ihe decisions of the Sovereign International Treasury Monetary
-One, as the Absolute Owner and Chief Regulator of the entire World Financial System, as
-the Absolute Owner and Manager of all World Assets under the Exclusive, Historical
-Right from the Creator of the New Era in the implementation of the elimination of the
-destructive, toxic and incapacitated, debt, fiat Financial System and in pursuance of
-decisions to correct and eliminate toxic errors applied in a destructive, toxic and
+Jede Fälschung der offiziellen Dokumente der Souveränen Internationalen Schatzkammer Währungs-Eins ist eine strafbare Handlung nach dem Gesetz
 
-incapacitated debt, fiat, to be liquidated Financial System,
+3 von 8
 
-In order to create a correct and efficient structure of the entire World Financial
-System, in order to transfer to the Gold Standard based on the Sacred, Spiritual Gold of the
-Treasures of RA MO, M1 (XAU),
 
-We, the Sovereign International Treasury Monetary One, as the Absolute Owner
-and Chief Regulator of the entire World Financial System, as the Absolute Owner and
-Manager of all World Assets under the Exclusive, Historical Right from the Creator of the
 
-New Era,
+## Abschnitt 006
 
-WE HEREBY DECIDE:
+gescannt mit CamScanner
 
-1. Based on the firm definition that there are no fiat currencies in the Gold
-Standard System, but all money, which are Treasury Notes of the Sovereign International
-Treasury Monetary One, which perform the function of Reserve Security Currencies of the
-World, (according to the Resolution of the Sovereign International Treasury Monetary One
-No. 001/RES2020 dated April 07, 2020, Order of the Sovereign International Treasury
-Monetary One No. 28/RES2023 dated March 18, 2023, as well as the procedure of the
-Sovereign International Treasury Monetary One for the transition of the Banking Systems
-of the World Countries to the Gold Standard program SunRise dated April 18, 2023) all
 
-Tloamenka ofpnunanuıtıx roxysenton Cynepekioro Mexaynaponkoro Kasayelicraa MI seng&ta
-naxanyemuım npectynaenuent / Any forgery of the official documents of the Sovereign Intyfaile
-Monetary One shall be a crime punishable by law
+## Abschnitt 007
 
-R
-3 of 8 \
-,
+nationalen Währungen aller Länder der Welt sind durch die Gold-Welt-Reservewährung
+M1 XAU gedeckt und haben einen genehmigten, konstanten Anteil der Goldfüllung M1
+XAU. Basierend darauf haben alle Währungen der Welt und andere Zahlungsmittel der Welt
+einen genehmigten Füllungsanteil, sind der Standard des Goldstandards und können
+keine Warenfunktion haben und ausüben.
 
+2. Alle internationalen und alle anderen Finanzfonds der Welt werden außerhalb des
+göttlichen Gesetzes der Schöpfung und außerhalb des Gesetzes anerkannt, mit Ausnahme von
+Finanzfonds, die eine spezielle schriftliche Genehmigung haben, die durch die Unterschrift des
+Generalsekretärs und Chefschatzmeisters der Souveränen Internationalen Schatzkammer Währungs-Eins, Seiner Majestät Alexander N. Paramonov, genehmigt wurde, und eine spezielle Registrierung der
+Souveränen Internationalen Schatzkammer Währungs-Eins besitzen, verifiziert über die offizielle Website der
+Souveränen Internationalen Schatzkammer Währungs-Eins: http://monetaryone.org. Alle finanziellen, alle anderen
+Vermögenswerte von internationalen, finanziellen, Versicherungs- und allen anderen Fonds, die außerhalb des
+göttlichen Gesetzes der Schöpfung und außerhalb des Gesetzes anerkannt sind, unterliegen der sofortigen Sperrung
+mit vollständiger Beschlagnahme in der gesamten Welt und der Gutschrift auf das Konto der Souveränen
+Internationalen Schatzkammer Währungs-Eins zum Zwecke der weiteren Verteilung im Vektor der Entwicklung und des Wohlstands der
+lichten Menschheit.
 
+Für den Fall, dass die Gründer von Finanzfonds von der Reinheit der
+Geschichte der Herkunft der Gelder, der Rechtmäßigkeit und der Übereinstimmung mit dem göttlichen Gesetz der Schöpfung ihrer Vermögenswerte und der Aktivitäten ihrer Fonds überzeugt sind,
+können solche Gründer innerhalb von zehn Tagen einen Antrag auf Erteilung einer speziellen schriftlichen Genehmigung und speziellen Registrierung
+schriftlich per E-Mail stellen: protocol@ruskazna.su.
 
-## Section 006
+3. Im Zusammenhang mit der Nichteinhaltung der Gesetze des Weltfinanzsystems,
+basierend auf dem heiligen spirituellen Gold der Schätze von RA M0, MI (XAU),
+werden alle Währungs- und Aktienbörsen in der gesamten Welt außerhalb des
+göttlichen Gesetzes der Schöpfung und außerhalb des Gesetzes anerkannt. Alle Währungs- und Aktienbörsen, die außerhalb des
+göttlichen Gesetzes der Schöpfung, außerhalb des Gesetzes in der gesamten Welt anerkannt sind, unterliegen der sofortigen
 
-skenovan& pomocou CamScanne
+Jede Fälschung der offiziellen Dokumente der Souveränen Internationalen Schatzkammer Währungs-Eins ist eine strafbare Handlung nach dem Gesetz
 
+4 von 8
 
-## Section 007
 
-national the currencies of all the Countries of the World are backed by the Gold World
-Reserve Currency M1 XAU and have an approved, constant share of the Gold filling M1
-XAU. Based on this, all currencies of the World and other means of payment of the World
-have an approved proportion of filling, are the standard of the Gold Standard and cannot
 
-have and perform the function of a commodity.
+## Abschnitt 008
 
-2. Recognize outside the Divine Law of Creation and outside the law all
-International and any other financial Funds of the World, with the exception of Financial
-Funds that have a special written permission approved by the signature of the Secretary
-General and Chief Treasurer of the Sovereign International Treasury Monetary One His
-Majesty Alexander N. Paramonov and having a special registration of the Sovereign
-International Treasury Monetary One, verified through the official website of the
-Sovereign International Treasury Monetary One: http://monetaryone.org. All financial, all
-other Assets of International, Financial, insurance and any other Funds recognized outside
-the Divine Law of Creation and outside the law are subject to immediate blocking with
-complete confiscation throughout the World and credited to the balance of the Sovereign
-International Treasury Monetary One for the purpose of further distribution in the vector of
-development and prosperity Light Humanity.
+gescannt mit CamScanner
 
-In the event that the founders of financial Funds are confident in the purity of the
-history of the origin of the funds, the legality and compliance with the Divine Law of
-Creation of their Assets and the activities of their Funds, then such founders can apply
-within ten days for the provision of special written permission and special registration in
 
-writing by e-mail: protocol@ruskazna.su.
+## Abschnitt 009
 
-3. In connection with the non-compliance with the Laws of the World Financial
-System, based on the Sacred Spiritual Gold of the Treasures of RA M0, MI (XAU),
-Recognize outside the Divine Law of Creation and outside the law all currency and Stock
-exchanges throughout the World. All currency and stock exchanges recognized outside the
+Sperrung mit vollständiger Beschlagnahme von finanziellen und allen anderen Vermögenswerten in der
+gesamten Welt und der Gutschrift auf das Konto der Souveränen Internationalen Schatzkammer Währungs-Eins
+zum Zwecke der weiteren Verteilung im Vektor der Entwicklung und des Wohlstands der lichten
+Menschheit.
 
-Divine Law of Creation, outside the law throughout the World are subject to immediate
+4. Alle Zertifikate und Identifikationsdokumente, wie: Geburtsurkunden,
+Reisepass, Versicherungsschein und andere Bescheinigungen, die die Identität einer Person,
+eines Bürgers, einer natürlichen Person belegen, alle Arten von personenbezogenen Daten einer Person, eines Bürgers, einer natürlichen Person sind lediglich eine
+Bescheinigung und Bestätigung der Identität einer Person, eines Bürgers, einer natürlichen Person, sind
+des Rechts auf jede finanzielle und schuldrechtliche Funktion beraubt und sind kein Finanzinstrument. Die
+Souveräne Internationale Schatzkammer Währungs-Eins, als absoluter Eigentümer und oberster Regulierer des
+gesamten Weltfinanzsystems, als absoluter Eigentümer und Verwalter aller Weltvermögenswerte
+aufgrund des exklusiven, historischen Rechts vom Schöpfer der neuen Ära, genehmigt ein Verbot in der
+gesamten Welt und im zeitlichen Raum für die Ewigkeit der Nutzung und Anwendung von
+Zertifikaten und Identitätsdokumenten als jede Art von Finanzinstrument, wie: Geburtsurkunden, Reisepass, Versicherungsschein und andere Bescheinigungen, die die Identität
+einer Person, eines Bürgers, einer natürlichen Person belegen, alle Arten von personenbezogenen Daten einer Person, eines Bürgers, einer natürlichen Person im
+gesamten Weltfinanzsystem, in der gesamten Welt.
 
-Tlonnenxa ommansisix AokyMeiton Cynepennoro Meruıynaponsoro Kasmaxelierea MI agghd
-maxanyemsım npecryrnennem / Any forgery of the official documents of the Sovereign Ingemsitna
-Monetary One shall be a crime punishable by law 2
+Die Souveräne Internationale Schatzkammer Währungs-Eins, als absoluter Eigentümer und
+oberster Regulierer des gesamten Weltfinanzsystems, als absoluter Eigentümer und
+Verwalter aller Weltvermögenswerte aufgrund des exklusiven, historischen Rechts vom Schöpfer der neuen
+Ära, genehmigt zur Umsetzung der Rechte eines Menschen, Bürgers, einer juristischen Person und jedes anderen
+Rechtssubjekts im Weltfinanzsystem in der gesamten Welt die Rechte
+zur Eröffnung und Schließung von Konten im Weltbankensystem und speziellen Rechtssubjekten im
+Weltschatzkammersystem. Diese Konten sind Eigentum des Kontoinhabers, auf dessen Namen
+ein bestimmtes Konto eröffnet wird; diese Konten als Eigentum des Kontoinhabers
+werden vererbt und vermacht; diese Konten können nicht ohne Anweisung
 
-*
-2
-40f8 rs
+Jede Fälschung der offiziellen Dokumente der Souveränen Internationalen Schatzkammer Währungs-Eins ist eine strafbare Handlung nach dem Gesetz
 
+5 von 8
 
 
-## Section 008
 
-skenovan& pomocou CamScanne
+## Abschnitt 010
 
+gescannt mit CamScanner
 
-## Section 009
 
-blocking with complete confiscation of financial and any other Assets throughout the
-World and crediting to the balance of the Sovereign International Treasury Monetary One
-for the purpose of further distribution in the vector of development and prosperity of Light
+## Abschnitt 011
 
-Humanity.
+des Kontoinhabers liquidiert werden; die Sperrung dieser Konten ist nur im Falle eines offensichtlichen
+und bestätigten Verstoßes des Kontoinhabers gegen das göttliche Gesetz der Schöpfung möglich.
 
-4. Any certificates and identification documents, such as: birth certificates,
-passport, insurance certificate and other certificates proving the identity of a person,
-citizen, individual, all types of personal data of a person, citizen, individual are only a
-certificate and confirmation of a person's identity, a citizen, an individual, are deprived of
-the right of any financial and debt function, are not a financial instrument. The Sovereign
-International Treasury Monetary One, as the Absolute Owner and Chief Regulator of the
-entire World Financial System, as the Absolute Owner and Manager of all World Assets
-under the Exclusive, Historical Right from the Creator of the New Era, approves a ban in
-the entire World and temporal space for eternity on the use and application of any
-certificates and identity documents as any kind of financial instrument, such as: birth
-certificates, passport, insurance certificate and other other certificates proving the identity
-of a person, citizen, individual, all types of personal data of a person, citizen, individual in
+5. Alle Konten, die im lichten Weltfinanzsystem eröffnet wurden, basierend auf
+himmlischen Prinzipien und dem Goldstandard, nämlich auf dem heiligen, spirituellen Gold der Schätze von
+RA MO, MI (XAU) zum Dienste der lichten Menschheit in ihrer Entwicklung und ihrem Wohlstand
+gemäß dem göttlichen Gesetz der Schöpfung, im Namen eines jeden
+Rechtssubjekts der Welt als Kontoinhaber, sind Eigentum des Kontoinhabers mit dem Recht
+auf Verwaltung und Verfügung und Nutzung der vollen Funktionalität, die vom gesamten Weltfinanzsystem bereitgestellt wird. Die Kontrolle über die Umsetzung des göttlichen Gesetzes der Schöpfung, des Rechts der souveränen,
+internationalen Rechtsnormen, der souveränen Gesetzgebungen der souveränen Länder
+der Welt wird von den Regulierern des Weltfinanzsystems organisiert und durchgeführt:
+unter der Kontrolle des obersten Regulierers des Weltfinanzsystems - der
+Souveränen Internationalen Schatzkammer Währungs-Eins und des obersten Regulierers des Weltbankensystems - der Welt-Souveränen Bank des Ordens der Hospitaliter.
 
-the entire World Financial System, in the entire World.
+Die Souveräne Internationale Schatzkammer Währungs-Eins bestätigt das Recht auf den Umlauf
+von Bargeldzahlungsmitteln, neuen Reserve- und Nationalwährungen des Goldstandards im Weltfinanzsystem,
+gemäß separaten Anweisungen, die von den Regulierern des Weltfinanzsystems zur Regelung des Umlaufs von Bargeld im
+neuen Weltfinanzsystem basierend auf himmlischen Prinzipien und dem Goldstandard, nämlich auf
+dem heiligen spirituellen Gold der Schätze von RA M0, Mi (XAU) zum Dienste der lichten
+Menschheit in ihrer Entwicklung und ihrem Wohlstand gemäß dem göttlichen Gesetz der Schöpfung, erlassen werden.
+6. Gemäß diesem Dekret:
+- Alle internationalen und nationalen Anti-Terror- und Rechtsorganisationen,
+- Alle militärischen Organisationen,
+- Allen tatsächlichen Orden,
+- Allen Meistern des Weltsystems,
 
-The Sovereign International Treasury Monetary One, as the Absolute Owner and
-Chief Regulator of the entire World Financial System, as the Absolute Owner and
-Manager of all World Assets by Exclusive, Historical Right from the Creator of the New
-Era, approves for the implementation of the rights of a Human, citizen, legal entity and any
-other Subject of Law in the World Financial System throughout the World the Rights to
-open and close accounts in the World Banking System and special subjects of law in the
-World Treasury System. These accounts are the property of the Account Owner in whose
-name a specific account is opened, these accounts, as the property of the Account Owner,
+Jede Fälschung der offiziellen Dokumente der Souveränen Internationalen Schatzkammer Währungs-Eins ist eine strafbare Handlung nach dem Gesetz
 
-are inherited and bequeathed, these accounts cannot be liquidated without the instruction
+6 von 8
 
-Monetary One shall be a crime punishable by law
 
-5 of 8
 
+## Abschnitt 012
 
+gescannt mit CamScanner
 
-## Section 010
 
-skenovan& pomocou CamScanne
+## Abschnitt 013
 
+- Allen Meistern des Weltfinanzsystems,
+- Allen internationalen und nationalen Kontrollorganisationen,
+- Allen Missionaren, die eine Mission vor dem Einen Gott, dem All-Schöpfer, erfüllen,
+die Licht und Wissen in die Welt bringen,
+- Allen Welträumen: YAVE, NAVE, SLAVE und PRAVE.
+- Gemäß der All-Licht-All-Himmels-All-Göttlichen Vorsehung für alle Große Göttliche
+Vorsehung, alle Großen Kosmischen Kräfte, alle Göttlichen Armadas, alle Göttlichen
+Flotten, sowie die Große Flotte von RA, beginnen Sie sofort mit der Umsetzung dieses
+Dekrets hinsichtlich seiner vollständigen Umsetzung.
 
-## Section 011
+Allen lichten Menschen und allen internationalen Rechtssubjekten, die auf der
+Grundlage der Prinzipien der Volkssouveränität organisiert sind und die Prinzipien der
+Volkssouveränität beachten, empfiehlt die Souveräne Internationale Schatzkammer Währungs-Eins nachdrücklich,
+das Verfahren der Selbstorganisation in ihrem Land durchzuführen, um die
+höchste Volksmacht des Souveräns zu manifestieren und den souveränen Status ihres
+Mutterlandes für eine lichte, friedliche und kreative Entwicklung der universellen Liebe und
+Freundschaft in der gesamten Welt wiederherzustellen. Die Souveräne Internationale Schatzkammer Währungs-Eins empfiehlt eine kompetente und lichte Herangehensweise an die Frage der Selbstorganisation auf
+systemischer Ebene.
 
-of the Account Owner, blocking of these accounts is possible only in case of an obvious
+Die Souveräne Internationale Schatzkammer Währungs-Eins wünscht allen Ländern, allen Clans
+und Stämmen, allen Nationen der Welt aller lichten Menschheit die schnelle Wiederherstellung ihres
+lichten Zuhauses unter der souveränen Flagge und dem heiligen Namen Mutterland im universellen
+kreativen Aufbau unserer lichten Welt als universeller heimischer Tempel.
 
-and confirmed violation by the Account Owner ofthe Divine Law of Creation.
+Die Souveräne Internationale Schatzkammer Währungs-Eins bestätigt ihre Erklärung nachdrücklich und
+wird auch in Zukunft unparteiisch und korrekt ihre lichte Mission zur Wiederherstellung der Gerechtigkeit und zum Aufbau
+des All-Licht-All-Himmlischen Systems erfüllen, das der lichten
 
-5. All accounts opened in the Light World Financial System based on Heavenly
-principles and the Gold Standard, namely on the Sacred, Spiritual Gold of the Treasures of
-RA MO, MI (XAU) to serve the Light Humanity in its development and prosperity
-according to the Divine Law of Creation, in the name of any the subject of the Rights of
-the World as the Account Holder are the property of the account holder with the right to
-manage and dispose and use the full functionality provided by the entire World Financial
-System. Control over the implementation of the Divine Law of Creation, the Right of the
-Sovereign, International Rules of Law, Sovereign Legislations of the Sovereign Countries
-of the World is organized and carried out by the Regulators of the World Financial
-System: under the control of the Chief Regulator of the World Financial System - the
-Sovereign International Treasury Monetary One and the Chief Regulator of the World
-Banking System - the World Sovereign Bank of the Order of Hospitallers.
+Jede Fälschung der offiziellen Dokumente der Souveränen Internationalen Schatzkammer Währungs-Eins ist eine strafbare Handlung nach dem Gesetz
 
-Sovereign International Treasury Monetary One confirms the Right to circulation in
-the World Financial System of cash means of payment, new reserve and national
-currencies of the Gold Standard, in accordance with separate instructions issued by the
-Regulators of the World Financial System to regulate the circulation of cash in the new
-World Financial System based on Heavenly principles and the Gold Standard, namely on
-the Sacred Spiritual Gold of the Treasures of RA M0, Mi (XAU) to serve the Light
+7 von 8
 
-Humanity in its development and prosperity according to the Divine Law of Creation.
-6. Pursuant to this Decree:
-© All International and Country, counter-terrorism and legal organizations,
-e All military organizations,
-+ To all actual Orders,
 
-© To all Masters of the World System,
 
-Tloagenka omansumx noxymenrop Cysepertoro Mexayxapoanore Kasnaueticragt Mina NFEMORHO
-vaKasyembim npecrynnenmem / Any forgery of the official documents of the Soveitiey Infiäikegdt Fiehsury
-Monetary One shall be a crime punishable by law
+## Abschnitt 014
 
-6 of 8
+gescannt mit CamScanner
 
-oee
-¥
-”
 
-ate)
-vrs
-*
+## Abschnitt 015
 
-os
-
-=
-By
-
-gm
-
-[STelstelstelstelspelsteier
-
-Er]
-
-elsgalstelstelspelstelstelstels)
-
-'ofelsfe
-
-
-## Section 012
-
-skenovan& pomocou CamScanne
-
-
-## Section 013
-
-e To all Masters of the World Financial System,
-@ All International and Country Control Organizations,
-
-© To all missionaries performing a mission before the One God The All-Creator,
-
-bringing Light and Knowledge to the World,
-© To All world spaces: YAVE, NAVE, SLAVE and PRAVE.
-
-© Pursuant to the All Light All of Heaven All Divine Providence to All Great
-Divine Providence, All Great Cosmic Forces, All Divine Armadas, all Divine
-Fleets, as well as the Great Fleet of RA, immediately begin to implement this
-
-Decree in terms of its full implementation.
-
-To all Bright Humanity and all International Subjects of Law, organized on the
-basis of the principles of popular Sovereignty and observing the principles of popular
-Sovereignty, the Sovereign International Treasury Monetary One strongly recommends
-that the procedure of self-organization in their Country be carried out in order to manifest
-the Supreme People's Power of the Sovereign and return the Sovereign Status of their
-Motherland for a Light, Peaceful and Creative Development of Universal Love and
-Friendship throughout the World. Sovereign International Treasury Monetary One
-recommends a competent and Light approach to the issue of self-organization at the
-
-system level.
-
-The Sovereign International Treasury Monetary One wishes all Countries, all Clans
-and Tribes, all Nations of the World of all Bright Humanity the speedy restoration of their
-Bright Home under the Sovereign Flag and the sacred name Motherland in the universal
-Creative Construction of Our Bright World, as the Universal Native Temple.
-
-Sovereign International Treasury Monetary One Firmly confirms its Statement and
-in the future to impartially and correctly fulfill its Light mission to restore Justice and build
-the All-Light All-Heavenly System, which should and will faithfully serve the Bright
-
-Tlogaenka ofpmuancinx xoxysenroe Cyeepentioto Mexnysaponioro Kastaveltcrsa MI A
-naxasyensım npectynneunem 7 Any forgery of the official documents of the Sei
-Monetary One shall be a crime punishable by law
-
-7 of 8
-
-an, yronanıo
->
-ze
-
-
-
-## Section 014
-
-skenovan& pomocou CamScanne
-
-
-## Section 015
-
-Humanity, and consequently, All-God, All-Creator, All-Creative Family of the Supreme as
-the One All-Heavenly All to God All to the Creator All-Creätive of all Existing and all
+Menschheit treu dienen soll und wird, und folglich der All-Gott, All-Schöpfer, All-Kreativen Familie des Höchsten als
+der Einen All-Himmlischen Alles für Gott Alles für den Schöpfer All-Kreativen von allem Existierenden und allen
 
 White Spiritual Boy
 
-Secretary General
-of the Sovereign International Treasury
-
-Monetary One
+Generalsekretär
+der Souveränen Internationalen Schatzkammer
+Währungs-Eins
 
 N
 
@@ -403,21 +328,13 @@ a
 ss
 N
 
-President
-of White Spiritual Boy R. S. B. Global Corp INC
+Präsident
+von White Spiritual Boy R. S. B. Global Corp INC
 
-Chairman of the Board
-of the World Sovereign Bank
-of the Order of the Hospitallers
+Vorsitzender des Vorstands
+der Welt-Souveränen Bank
+des Ordens der Hospitaliter
 
-Tloanenxa oguiansusix xoxymentos Cysepernoro Mexayxapoanoro Kastaveticraa MI azn
-fiaxaayentim npecrynenten / Any forgery of the official documents of the Sovereign Ines
-an
-AS
+Jede Fälschung der offiziellen Dokumente der Souveränen Internationalen Schatzkammer Währungs-Eins ist eine strafbare Handlung nach dem Gesetz
 
-Monetary One shall be a crime punishable by law
-
-8 of 8
-
-
-
+8 von 8

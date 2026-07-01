@@ -1,16 +1,14 @@
 # Resolution-035
 
-# Resolution-035
+**Quell-PDF:** `Resolution-035.pdf`
 
-**Source PDF:** `Resolution-035.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 5
+**Extraktionsmethode:** OCR via eingebettete Bildextraktion
+**Bilder:** 5
 **OCR:** tesseract deu+eng
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 28
 
@@ -20,39 +18,35 @@ godt . dy, £!
 N
 b
 
-GYREPEHNOE AAGIKAYNAPOANVE KA3NAJEHGTEO M1
-SOVERGIGN INTERNATIONAL TREASURY ANONETARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-Date: June 29, 2023
-Ref. Ne: 035/RES2023
-Gode: 0139T DRA
+Datum: 29. Juni 2023
+Ref. Nr.: 035/RES2023
+Code: 0139T DRA
 
-Sovereign International Treasury Monetary o one! is The Owner and the Manager of the
-World Account in the World sovereign Bator the Order Hospitallers Account No. O1-
-99-91- 4-AAA-777- 63- AM-91, distidbuted. among, hirious banks in countries around the
+Sovereign International Treasury Monetary One ist der Eigentümer und Verwalter des
+World Account in der World Sovereign Bank of the Order Hospitallers, Kontonummer O1-
+99-91-4-AAA-777-63-AM-91, verteilt auf verschiedene Banken in Ländern auf der ganzen
+Welt.
 
-As a reminder, Sovereign International Tréapury Monetary One is the Owner and
+Zur Erinnerung: Sovereign International Treasury Monetary One ist der Eigentümer und
+Verwalter des World Account in der World Sovereign Bank of the Order Hospitallers,
+Kontonummer 01-1-700-3516 227° 777 8838999, verteilt auf verschiedene Banken in
+Ländern auf der ganzen Welt.
 
-Manager of the World Account i in. ithe World Sovegeign Bank of the Order Hospitallers
-Account No. 01-1-700- 3516 227° 777 8838999, distributed among various hanks in
+Zur Erinnerung: Sovereign International Treasury Monetary One ist der absolute
+Eigentümer und Verwalter von Vermögenswerten, einschließlich Konten unter den Namen:
+"White Spiritual", "Spiritual Wonder Boy", "Spiritual Wonder Brothers", "Morning Star",
+"King David", "Prophet Muhammad", "Demas and Saint Timothy", "White Mongolia",
+"White Vatican", "White Eagle", "Maria Sinukuan or Divine Crystal", "Maria Banahaw
+or Divine Sunflower", "Maria Cristina or Divine Magdalene", "Maria Makiling
+or Divine Ester & Co", "Falcon", "Alpha-Omega" und anderen Konten, die in allen
+Ländern der Welt platziert sind.
 
-countries around the World,
+Wir bestätigen hiermit alle früheren rechtlichen und untergeordneten internationalen Akte, die von
+der Sovereign International Treasury Monetary One genehmigt wurden, nämlich Resolutionen und Anordnungen,
 
-As areminder, Sovereign International Treasury Monetary One is the Absolute
-Owner and Manager of assets, including accounts urider the names: “White Spiritual
-y”, “Spiritual Wonder Boy”, “spiritual Wonder Brothers”, “Morning Star”, “King
-David”, “Prophet Aluhammad”, “Demas and -Saint Timothy”, “White Mongolia”,
-“White Vatican”, “White Eagle”, “Maria Sinukuan or Divine Grystal” “Maria
-Banahaw or Divine Sunflower”, “Maria Gristina or Divine Magdalene”, “Maria Makiling
-or Divine Ester &g0”, “Falcon”, “Alpha-Omega”and other accounts placed in all
-
-countries of the world,
-
-We hereby confirm all previous legal and subordinate International Acts approved hy
-
-the Sovereign International Treasury Monetary One, namely, Resolutions and § ‚ders,
-
-[ LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-125 ea
+[ LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-125
 
 ‘ A . 4 sel
 yet ay
@@ -60,58 +54,51 @@ Sud, In. iz Bu
 DQG. ME 7
 R 7
 
-
-
-## Section 001
+## Abschnitt 001
 
 |
-GVYBEPENNOE AlEKAYNAPOANOE KA3NÄYEHETEO All |
-SOVERGIGN INTERNATIONAL TREASURY ANONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-and all other legal and subordinate International Acts of the Sovereign International
-
+und alle anderen rechtlichen und untergeordneten internationalen Akte der Sovereign International
 Treasury Monetary One.
 
-In Fulfillment of the sacred mission to exit the Global Financial crisis, the prevention
-of a third world nuclear war, in order to eliminate the destructive, toxic and
-incapacitated, debt, Fiat Financial System and in order to create a Light, World,
-Financial System based on Heavenly principles and the Gold Standard, namely on the
-Sacred, Spiritual Gold of the Treasures of RA-ANO, AKI (XAU) in serving the Light
-Humanity in its development and prosperity according to the Divine Law of Greation,
-By the Right of the Sovereign, , ”
-By the Bight of the Absolute Owner and Ghief Regulator of the entire World Financial
-System, by the Right of the Absolute Sinner‘ and Manager o oF all World Assets hy the
-Exclusive, Historical Right From the Greater of the New Era, Sovereign International
+In Erfüllung der heiligen Mission, die globale Finanzkrise zu beenden, die Verhinderung
+eines dritten Weltkriegs, um das destruktive, toxische und handlungsunfähige
+Schulden-Fiat-Finanzsystem zu beseitigen und um ein Licht-Welt-Finanzsystem zu schaffen,
+das auf himmlischen Prinzipien und dem Goldstandard basiert, nämlich auf dem
+heiligen, spirituellen Gold der Schätze von RA-ANO, AKI (XAU), im Dienste der Licht-
+Menschheit in ihrer Entwicklung und ihrem Wohlstand gemäß dem Göttlichen Gesetz der Schöpfung,
+Kraft des Rechts des Souveräns, ,
+Kraft des Rechts des absoluten Eigentümers und Chefregulators des gesamten Weltfinanzsystems,
+Kraft des Rechts des absoluten Souveräns und Verwalters aller Weltvermögenswerte durch das
+exklusive, historische Recht aus dem Schöpfer der Neuen Ära, Sovereign International
 
 ry
 
 Treasury Monetary One - Br : oo"; _
 
-Hereby proclaims: eR
+Verkündet hiermit: eR
 
 tow,
 
-Deprive of Legal Personality, recognize sutside the Divine Law of Greation and outside
-the Law, impose a ban, consider extremism information ‘and terrorism information,
-subject to criminal liability and capital punishment to the Fullest extent of The Divine
-Law of Greation and the Law all Subjects and sub-Subjects of the Law and subject to
-complete Disembodiment all Beings, Essences, Dimensions that carried out, carry out
-and intend to carry out in the World Media
+Der Rechtspersönlichkeit berauben, außerhalb des Göttlichen Gesetzes der Schöpfung und außerhalb
+des Gesetzes anerkennen, ein Verbot verhängen, als Extremismusinformation und Terrorismusinformation
+betrachten, strafrechtlicher Verantwortlichkeit und Todesstrafe im vollen Umfang des Göttlichen Gesetzes
+der Schöpfung und des Gesetzes unterwerfen und der vollständigen Entkörperung unterwerfen alle Subjekte und Sub-Subjekte des Gesetzes sowie alle Wesen, Essenzen, Dimensionen, die durchgeführt haben, durchführen
+und beabsichtigen, im Weltmedienraum
 
-space and Mass Media as an integral part of the entire World Space:
+und in den Massenmedien als integralem Bestandteil des gesamten Weltraums durchzuführen:
 
-Any manifestations of a Form of violence and propaganda of perversions and
+Jegliche Manifestationen einer Form von Gewalt und Propaganda von Perversionen und
+Perversionen der Menschheit, nämlich: Lesbianismus, Homosexualität, Bisexualismus,
 
-perversions of Humanity, namely: Leshianism, Homosexuality, BSisexpalism,
+LE 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-12
 
-LE 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-12
+## Abschnitt 002
 
+e Gemäß der All-Licht-All-Himmlischen-All-Göttlichen-Vorsehung für die All-Große
 
-## Section 002
-
-e Pursuant to the All Light All of Heaven All Divine Providence to All Great
-
-[ | [ LEI: 2534008YC6NRPABLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1
+[ | [ LEI: 2534008YC6NRPABLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1
 
 €,
 
@@ -134,46 +121,41 @@ un enst® ®
 ‘si, . <
 
 AMI
-GVBEPENNIE MEMAVNAPOANOE KASNAUEHGTRO Mt
-SOVGRGIGN INTERNATIONAL TREASURY (MONETARY ONE
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-Transgender (LEBT), pedophilia bestiality, cannibalism, sex change, Human
-trafficking, Human organs trafficking;
+Transgender (LGBT), Pädophilie, Sodomie, Kannibalismus, Geschlechtsumwandlung, Menschenhandel,
+Handel mit menschlichen Organen;
 
-Any manifested Forms of propaganda of perversion and violence against Alan and
-Humanity, animals, Nature and other vices directed against the Light Human Race,
+Jegliche manifestierte Formen von Propaganda der Perversion und Gewalt gegen den Menschen und
+die Menschheit, Tiere, die Natur und andere Laster, die gegen das Licht-Menschengeschlecht,
+die generische Moral und die Natur gerichtet sind;
 
-Generic Morality and Nature;
+In den Medien jegliche manifestierte Formen von Lügen, Verleumdung, Falschheit und anderen destruktiven
+Informationen, die gegen das Licht-Menschengeschlecht, die Natur und das Göttliche Gesetz der
+Schöpfung im gesamten Weltmedienraum als integralem Bestandteil des gesamten Weltraums gerichtet sind.
 
-In the media, any manifested Forms of Lies, slander, Falsehood, and other destructive
-information directed against the Light Human Race, Nature and the Divine Law of
-Greation in all World Media Space as an inkegral part of the entire World Space.
+In Erfüllung dieses Dekrets: ke
 
-In Fulfillment of this Decree: ke
+e Alle internationalen und staatlichen, souveränen und rechtlichen, Strafverfolgungs-
+organisationen, re eae
 
-e All International and State, couitgrtervorign and. legal, law enforcement
+e Alle militärischen Organisationen,
 
-. organizations, re eae
+e An alle tatsächlichen Orden, . .
+e An alle Meister des Weltsystems, 5
 
-e All military organizations,
+© An alle Meister des Weltfinanzsystems,
 
-e To all actual Orders, . .
-e Toall Masters of the World System, 5
+e Alle internationalen und nationalen Kontrollorganisationen,
 
-© To all Masters of the World Financial System,
+e An alle Missionare, die eine Mission vor dem Einen Gott, dem All-Schöpfer, erfüllen,
+die Licht und Wissen in die Welt bringen,
 
-e All International and Gountry Gontrol Organizations,
-
-e To all missionaries performing a mission hefore the One God The All-Greator,
-bringing Light and Knowledge to the World,
-
-e To All world spaces: YAVE, NAVE, SLAVE and PRAVE.
+e An alle Welträume: YAVE, NAVE, SLAVE und PRAVE.
 
 Bee te
 
-
-
-## Section 003
+## Abschnitt 003
 
 ~~ “Te
 a In 84, “
@@ -192,53 +174,44 @@ Y j S
 ey, os
 "MI
 
-GVYBEPENNSE MEXKAVHAPOANOCE KA3BNAUENnCTRO All
-SOVERGIGN INTERNATIONAL TREASURY MMONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-Divine Providence, All Great Cosmic Forces, All Divine Armadas, all Divine Fleets, as
-well as the Great Fleet of RA, immediately begin to implement this Decree in Terms
+Göttliche Vorsehung, alle großen kosmischen Kräfte, alle göttlichen Armadas, alle göttlichen Flotten, sowie
+die Große Flotte von RA, beginnen sofort mit der Umsetzung dieses Dekrets in Bezug auf
+seine vollständige Umsetzung.
 
-of its Full implementation.
+An die gesamte helle Menschheit und alle internationalen Rechtssubjekte, die auf der Grundlage
+der Prinzipien der Volkssouveränität organisiert sind und die Prinzipien der Volkssouveränität
+beachten, empfiehlt die Sovereign International Treasury Monetary One nachdrücklich,
+das Verfahren der Selbstorganisation in ihrem Land durchzuführen, um
+die oberste Volksmacht des Souveräns zu manifestieren und den souveränen Status ihres Mutterlandes für eine
+lichte, friedliche und schöpferische Entwicklung
+der universellen Liebe und Freundschaft in der ganzen Welt zurückzugeben. Sovereign International
+Treasury Monetary One empfiehlt: eine kompetente und weise Herangehensweise an die Frage der
 
-To all Bright Humanity and all International Subjects of Law, organized on The basis
-oF the principles of popular Sovereignty and observing the principles of popular
-Sovereignty, the Sovereign International Treasury Monetary One strongly
-recommends that the procedure of self-organization in their Gountry be carried out in
-order to manifest the Supreme People's Power of the Sovereign and return the
-Sovereign Status of their Motherland Fork Light, Peaceful and Greative Development
-oF Universal Love and Friendship. throughout: The World. Sovereign International
+Die Sovereign International Treasury Monetary One wünscht allen Ländern, allen Clans
+und Stämmen, allen Nationen der Welt der gesamten hellen Menschheit die baldige Wiederherstellung
+ihres lichten Zuhauses unter der souveränen Flagge und dem heiligen Namen Mutterland im
+universellen schöpferischen Aufbau der Sonne. Helle Welt, als universeller heimischer Tempel.
 
-Treasury Monetary One recommends: a ‚eompetent and: Habt approach to The issue of
-
-The Sovereign International Teeasury Monetary Site wishes all Gountries, all Glans
-
-and Tribes, all Nations of the World.oF all [Bright Humanity the speedy restoration of
-their Bright Home under the Sovereign. Flag and the sacred name Motherland in the
-universal Greative Construction of Sur. Bright World, as the Universal Native
-Temple.
-
-Sovereign International Treasury Monetary One Firmly confirms its Statement and
-in the Future to impartially and correctly Fulfill its Light mission to restore Justice
-and build the All-Light All-Heavenly System, which should and will FaithFully serve the
-Bright Humanity, and consequently, All-God, All-Greator, All-Greative Family of the
-Supreme as the One All-Heavenly All to God All to the Greator All-Greative of all
-Gxisting and all Non-Existent in the creation of All-Light All-Great All-Heavenly ...
+Sovereign International Treasury Monetary One bestätigt fest seine Erklärung und
+wird in Zukunft unparteiisch und korrekt seine Licht-Mission erfüllen, um Gerechtigkeit wiederherzustellen
+und das All-Licht-All-Himmlische System aufzubauen, das der hellen Menschheit treu dienen soll und wird,
+und folglich All-Gott, All-Schöpfer, All-Schöpferische Familie des
+Höchsten als dem Einen All-Himmlischen All-Gott All-Schöpfer All-Schöpferischen von allem
+Existierenden und allem Nicht-Existierenden in der Schöpfung von All-Licht-All-Groß-All-Himmlisch ...
 
 OAV.
 
-| self-organization at the system level. a
+| Selbstorganisation auf Systemebene. a
 
 ee ee.
 
-[ II LER 2S34008YCSNRPABLAFIS; ‘UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495- 1250010)
+[ II LER 2S34008YCSNRPABLAFIS; ‘UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1250010)
 
+## Abschnitt 004
 
-## Section 004
-
-‘Ka3gnauencres M1
-
-GYBEPENNSE MEKAVNHAPOANCE
-SOVGRGIGN INTERNATIONAL TREASURY, AAONETARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
 = ro. lt,
 
@@ -252,17 +225,17 @@ De fof TheKindof Kifigs _
 
 | 9% 101-JHS-01 E77 FE En 7
 
-WN ge OS ©... 3, White Spjpftual. Bey.
-3 Secretary General :
-of the Sovereign International Treasury Monetary One
+WN ge OS ©... 3, White Spiritual. Boy.
+3 Generalsekretär
+der Sovereign International Treasury Monetary One
 
 . my “ . Bu B IE. Bu
-Boy: 5. B. Global Gorp ING
+Boy: 5. B. Global Corp ING
 
-of White Spiritual
+von White Spiritual
 
-Ghairman of the Board
-of the World Sovereign Bank
+Vorsitzender des Vorstands
+der World Sovereign Bank
 of the Order of the Hospitallers
 
 7 peer
@@ -275,7 +248,7 @@ E
 
 ween”
 
-Ph: +7-495
+Tel: +7-495
 
 Sie,
 
@@ -292,6 +265,3 @@ eax
 as,
 
 ur
-
-
-

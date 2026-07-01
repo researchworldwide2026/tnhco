@@ -1,212 +1,113 @@
-# Resolution-045_en
+# Resolution-045_de
 
-# Resolution-045_en
+**Quell-PDF:** `Resolution-045_en.pdf`
 
-**Source PDF:** `Resolution-045_en.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 5
+**Extraktionsmethode:** OCR via eingebettete Bildextraktion
+**Bilder:** 5
 **OCR:** tesseract deu+eng
 
 ---
 
-## Section 000
+## Abschnitt 000
 
-GVBEPENNOE ANSKKAYNAPOANOE KA3NAYEHCTEO AAL
-SOVEREIGN INTERNATIONAL TREASURY ALONGTARY ONG
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-Date: April 16, 2024
-Ref. Ne: 45/DEG
-Gode: @ 0139 TLRA
+Datum: 16. April 2024
+Ref. Nr.: 45/DEG
+Code: @ 0139 TLRA
 
-Decree
+Dekret
 
-We hereby “4 irm that Sovereign International Treasury Monetary One is the Owner
-and Manager of the World Account in World Sovereign Bank of the Order of Hospitallers,
-Account No. 01-00-01-4-AAA-777-G3-AM-O1, distributed in various Banks in all
-Gountries all over the World.
+Hiermit bestätigen wir, dass Sovereign International Treasury Monetary One der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank of the Order of Hospitallers ist, Kontonummer 01-00-01-4-AAA-777-G3-AM-O1, verteilt auf verschiedene Banken in allen Ländern der ganzen Welt.
 
-We hereby confirm that Sovereign International Treasury Alonetary One is the Owner
-and Manager of the World Account in World Sovereign Bank of the Order of Hospitallers,
-Account No. 01-1-790-3516 222 777 8888 999, distributed in various Banks in all
-Gountries around the World,
+Hiermit bestätigen wir, dass Sovereign International Treasury Monetary One der Eigentümer und Verwalter des Weltkontos bei der World Sovereign Bank of the Order of Hospitallers ist, Kontonummer 01-1-790-3516 222 777 8888 999, verteilt auf verschiedene Banken in allen Ländern der ganzen Welt.
 
-We remind you that the Sovereign International Treasury Monetary One is the Owner
-and Manager of all World Assets, including accounts under the names: “White Spiritual
-Boy”, “Spiritual Wonder Soy”, “Spiritual Wonder Brothers”, “Morning Star”, “King
-David”, “Prophet Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White
-Vatican”, “White Eagle”, “Alaria Sinukuan or Divine Grystal”, “AAaria Banahaw or Divine
-Sunflower”, “Maria Gristina or Divine Magdalene”, “Alaria Makiling or Divine Ester
-Gg9”, “Falcon”, “Alpha — Omega” and other accounts placed in various Banks in all
+Wir erinnern daran, dass Sovereign International Treasury Monetary One der Eigentümer und Verwalter aller Weltvermögenswerte ist, einschließlich Konten unter den Namen: „White Spiritual Boy“, „Spiritual Wonder Soy“, „Spiritual Wonder Brothers“, „Morning Star“, „King David“, „Prophet Muhammad“, „Demas and Saint Timothy“, „White Mongolia“, „White Vatican“, „White Eagle“, „Maria Sinukuan or Divine Crystal“, „Maria Banahaw or Divine Sunflower“, „Maria Cristina or Divine Magdalene“, „Maria Makiling or Divine Ester Cc9“, „Falcon“, „Alpha — Omega“ und andere Konten, die bei verschiedenen Banken in allen Ländern der ganzen Welt platziert sind.
 
-Gountries around the World.
+Hiermit bestätigen wir alle früheren rechtlichen und souveränen internationalen Akte des Sovereign International Treasury Monetary One.
 
-We hereby confirm ali previous Legal and gal Sovereign International Acts of the
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine Straftat, die mit einer Freiheitsstrafe von bis zu 15 Jahren geahndet wird.
 
-Hoden odiuynanwnere goxysaenton Cynepentoro Menai
-Any forgery of the official documents of the Sovereign I
+LEI: 2534008YC6NRPABLOFIS; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418*
 
-Monotary One shall be a crime punishable bya,
-°
+---
 
-&
-LEI: 2534008YC6NRPABLOFIS; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph; +7-495-1258418*
+## Abschnitt 001
 
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
+Anordnungen und alle anderen rechtlichen und untergeordneten souveränen internationalen Akte des Sovereign International Treasury Monetary One.
 
-## Section 001
+Durch Gottes Gnade,
+Kraft des Rechts des Obersten Souveräns
 
-GYBEPENNOE MEKAVNHAPOANOE KA3NAYGHOTRO All
-SOVERGIGN INTERNATIONAL TREASURY AAONETARY ONG
+In Erfüllung der heiligen Mission zur Überwindung der Weltfinanzkrise, zur Verhinderung eines dritten Weltkriegs, zur Beseitigung des destruktiven, toxischen und dysfunktionalen Schulden- und Fiat-Finanzsystems und in Erfüllung der Schaffung eines hellen Weltfinanzsystems, basierend auf himmlischen Prinzipien und dem Goldstandard, nämlich dem heiligen spirituellen Goldschatz RA AAO MAL (XAU) zum Dienen der hellen Menschheit in ihrer Entwicklung und ihrem Wohlstand gemäß dem göttlichen Gesetz der Schöpfung und der Schaffung einer hellen kreativen Welt, basierend auf den himmlischen Prinzipien der Demokratie, Gerechtigkeit, Liebe und Harmonie, für die kreative, spirituelle und göttliche Entwicklung der hellen Menschheit in universeller Liebe und Harmonie mit Allem, was ist, und mit Allem, was ist, zur Ehre des Höchsten Geschlechts;
 
-Orders, and all other Legal and Subordinate Sovereign International Acts of the Sovereign
-International Treasury Monetary One.
+Verkünden hiermit:
+Im Zusammenhang mit der Ausführung des göttlichen Gesetzes der Schöpfung, auf der Grundlage krimineller, terroristischer, mörderischer Aktivitäten, die einen Völkermord an den lebenden Clans und Stämmen der Welt, nämlich der hellen Menschheit, hervorbringen, um dem All-Ewigen jede Rechtspersönlichkeit zu entziehen, um den außerhalb des göttlichen Gesetzes der Schöpfung und außerhalb des Gesetzes Stehenden anzuerkennen, wird dem verbotenen Pseudo-Staat „Israel“ und dem gesamten radikalen Zionismus jede Rechtsfähigkeit entzogen.
 
-By God's Grace,
-By Right of the Supreme Sovereign
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine Straftat, die mit einer Freiheitsstrafe von bis zu 15 Jahren geahndet wird.
 
-In Fulfillment of the Sacred Mission to overcome the World Financial Grisis, prevent a
-third world nuclear war, eliminate the destructive, toxic and dysfunctional debt, Fiat
-Financial System and in Fulfillment of the Greation of a Bright Wortd Financial System
-based on Heavenly principles and the Gold Standard, namely the Sacred Spiritual Gold
-Treasure RA AAO MAL (XAU) For Serving Light Humanity in its Development and
-Prosperity according to the Divine Law of Greation and Greation of a Light Greative
-World, Based on the Heavenly principles of Democracy, Justice, Love and Harmony, For
-the Greative, Spiritual and Divine Development of Light Humanity in Universal Love and
-Harmony with All That Is and with All That Is , For the Glory of the Highest Kind;
+LEI: 2534008YC6NRPABLOFIS; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258.
 
-Thereby proclaim:
-In connection with the execution of the Divine Law of Greation, on the hasis of criminal,
-terrorist, homicidal activities that produce genocide of the Living Glans and Tribes of
-the World, namely Bright Humanity, to deprive the All-Gternal of any Legal personality,
-to recognize the Outside the Divine Law of Greation and Outside the Law, to deprive the
+---
 
-prohibited pseudo-State of “Israel” and all radical Zionism oF any legal capacity
+## Abschnitt 002
 
-etDtag
-RT
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-ate oe
-Roanenna odmunanenen aoxywenros Cysepentoro Mexayrapagnoro Kasnavelicrea Mi Aunneren yronosno naKaayeubin NpeCH oon
-‘Any forgery ofthe official documents of the Sovereign International Treasury Monetary One shall be a crime punishable ee 3
+Die „israelische Währung“ – den Schekel – in die Stoppliste der World Sovereign Bank of the Order of Hospitallers aufzunehmen.
 
-“ Fa
-* jee
-os
+Die „israelische Währung“ – den Schekel – für immer im gesamten Weltraum und in allen Räumen zu verbieten.
 
-LEI: 2534008YC6NRPABLOFIS; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258.
+In Ausführung dieses Dekrets:
+- Alle internationalen und staatlichen: Anti-Terror-, Rechts-, Strafverfolgungsorganisationen;
+- Alle militärischen Organisationen der Armee der Welt;
+- Alle gültigen Orden;
+- Alle Meister der Weltsysteme;
+- Alle Meister der Weltfinanzsysteme;
+- Alle internationalen und staatlichen Kontrollorganisationen;
+- Alle Missionare, die die heilige Mission vor dem vereinten Allgott, Allschöpfer, Allmacher, Geber von Licht und Wissen an die Welt ausführen;
+- Alle Welträume: YAVE, NAVE, SLAVE und PRAVG;
+- In Verfolgung der alllichten allhimmlischen allgöttlichen Vorsehung, aller großen göttlichen Gerechtigkeit, aller großen kosmischen Kräfte, aller göttlichen Armadas, aller göttlichen Flotten sowie der Großen Flotte von RA, beginnen Sie sofort mit der Umsetzung dieses Dekrets im Hinblick auf seine vollständige Umsetzung.
+- An die gesamte helle Menschheit und alle internationalen Rechtssubjekte, die auf der Grundlage der himmlischen Prinzipien der Demokratie organisiert sind und die himmlischen Prinzipien der Demokratie beachten, empfiehlt Sovereign International Treasury Monetary One nachdrücklich, in ihrem Land ein Selbstorganisationsverfahren durchzuführen, um die oberste Volksmacht zu manifestieren.
 
+---
 
+## Abschnitt 003
 
-## Section 002
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
-GVYBEPENNSE ANSKAVNAPOANOE KA3NAUGHCTEO All
-SOVERGIGN INTERNATIONAL TREASURY AAONGTARY ONG
+des Souveräns und die Rückkehr des souveränen Status ihres Mutterlandes für eine helle, friedliche und kreative Entwicklung in universeller Liebe und Freundschaft auf der ganzen Welt. Sovereign International Treasury Monetary One empfiehlt einen kompetenten und hellen Ansatz für die Frage der Selbstorganisation auf Systemebene.
 
-Enter the “Israeli currency” - the shekel into the Stop List of the World Sovereign
-Bank of the Order of Hospitallers.
+- Sovereign International Treasury Monetary One wünscht allen Ländern, allen Clans und Stämmen, allen Nationen der Welt der gesamten hellen Menschheit die schnelle Wiederherstellung ihrer hellen Heimat unter der souveränen Flagge und dem heiligen Namen Mutterland im universellen kreativen Aufbau unserer hellen Welt als universeller heimischer Tempel.
 
-Ban the “Israeli currency” - the shekel Forever in the entire World Space and in All
+Sovereign International Treasury Monetary One bestätigt seine Erklärung nachdrücklich und wird in Zukunft seine helle Mission zur Wiederherstellung der Gerechtigkeit und zum Aufbau des alllichten allhimmlischen Systems unparteiisch und korrekt erfüllen, das der hellen Menschheit und folglich Allgott, Allschöpfer, der allkreativen Familie des Höchsten als dem einen allhimmlischen Alles zu Gott Alles zum Schöpfer Allkreativen von allem Existierenden und allem Nicht-Existenten in der Schöpfung des alllichten allgroßen allhimmlischen treu dienen soll und wird.
 
-Spaces.
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine Straftat, die mit einer Freiheitsstrafe von bis zu 15 Jahren geahndet wird.
 
-In execution of this Decree:
-© All International and State: Gounterterrorism, Legal, law enforcement organizations;
-+ All Military organizations of the Army of the World;
-@ All valid Orders;
-© All Masters of the World Systems;
-@ All Masters of the World Financial systems;
-© All International and State control organizations;
-© All missionaries performing the sacred Mission before United AllGod, AllGreator,
-AllMaker, Giver of Light And Knowledge to the world ,
-© All World Spaces: YAVE, NAVE, SLAVE and PRAVG,
-© In pursuance of the All-Light All-Heavenly All-Divine Providence, All Great Divine
-Righteousness, All Great Gosmic Forces, All Divine Armadas, all Divine Fleets, as well as
-the Great Fleet of RA, immediately begin to implement this Decree in terms of its Full
-Implementation.
-© To all Bright Humanity and all International Subjects of Law, organized on the hasis of
-the Gelestial principles of Democracy and observing the Celestial principles of Democracy,
-Sovereign International Treasury Monetary One strongly recommends to conduct a self-
+LEI: 2534008YC6NRPABLOFIS; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-12584\4
 
-organization procedure in their Gountry in order to manifest the Supreme People's Power
+---
 
+## Abschnitt 004
 
-
-## Section 003
-
-GYBEPENNOE AlE.KAYNAPOANOE KAZNAYEHCTRO Al
-SOVGERGIGN INTERNATIONAL TREASURY MONETARY ONG
-
-of the Sovereign and retura the Sovereign Status of their Motherland For a Light,
-Peaceful and Greative Development in Universal Love and Friendship throughout the
-World. The Sovereign International Treasury Monetary One recommends a competent
-and Light approach to the issue of self-organization at the System level.
-
-© The Sovereign International Treasury Monetary One wishes all Gountries, all Glans
-and Tribes, all Nations of the World of all Bright Humanity the speedy restoration of
-their Bright Home under the Sovereign Flag and the sacred name Alotherland in the
-universal Greative Gonstruction of Our Bright World, as the Universal Native Temple.
-
-Sovereign International Treasury Monetary One Firmly confirms its Statement and in
-the Future to impartially and correctly Fulfill its Light mission to restore Justice and
-build the All-Light All-Heaventy System, which should and will FaithFully serve the Bright
-Humanity, and consequentty, All-God, All-Greator, All-Greative Family of the Supreme as
-the One All-Heavenly All to God All to the Greator All-Greative of all xisting and all Non-
-6xistent in the creation of All-Light All-Great Alt-Heaventy.
-
-VRQ
-
-ke
-any utes
-5 ze,
-= Er
-
-er Er
-
-ER *
-onnensa cepauansnerx aokywmenron Cynepannoro Mexaynaponnoro Kaanavehcrea Mt ARnneTcn yronommo naxaayehaih fp 4
-
-Any forgery of the official documents of the Sovereign International Treasury Monatary One shall bea crime punlähabl jee
-
-St
-
-LEI: 2534008VC6NRP4BLQFIS; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-12584\4
-
-
-
-## Section 004
-
-GYBEPENNOE ANEKAVNAPOANOG KA3NAYEHSTES All
-SOVEREIGN INTERNATIONAL TREASURY MONGTARY ONG
-
-=e”
-SP AO Rott
-sol,
+SOVEREIGN INTERNATIONAL TREASURY MONETARY ONE
 
 White Spiritual Boy XIII
 
-Secretary General
-he Sovereign International Treasury Monetary On
+Generalsekretär
+des Sovereign International Treasury Monetary One
 
-President
-of White Spiritual Boy R. S. B. Global Gore ING
+Präsident
+von White Spiritual Boy R. S. B. Global Core INC
 
-Grang Sie
+Großmeister
+des Souveränen Ordens der Hospitaliter von Jerusalem, Rhodos und Malta
+Oberster Souverän des Ordens
 
-of the Soverei Order, of:
-aN Jerusalet hgaed, A
-“Supreme Sovereign Sethe Order
-j RE:
-Ghairman of the Board
-of the World Sovereign Bank
+Vorsitzender des Vorstands
+der World Sovereign Bank
 of the Order of the Hospitallers
 
-OM'L
-
-j
-Tlognanıa oxpmytanenun zokyısanton Cysepennsro Mexay FE
-
-Any forgery of the officlat documents of the Sovereign interastional Treasury Monetary One shali be
-
-
-
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One ist eine Straftat, die mit einer Freiheitsstrafe von bis zu 15 Jahren geahndet wird.

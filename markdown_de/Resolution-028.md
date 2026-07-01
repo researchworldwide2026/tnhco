@@ -1,241 +1,184 @@
 # Resolution-028
 
-# Resolution-028
+**Quell-PDF:** `Resolution-028.pdf`
 
-**Source PDF:** `Resolution-028.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 5
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 5
+**OCR:** tesseract deu+eng, Schwellwert-Vorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
-GyBepennoe Mexaynapoanoe Kasnaveiicteo AAl
+Souveränes Internationales Treasury Monetary One
 
-Sovereign International Treasury Monetary One
-LEI: 2534008YCENRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YCENRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Date: March 18, 2023
-Ref. Ne: 028/RES2023
+Datum: 18. März 2023
+Ref. Nr.: 028/RES2023
 Code: @ 0139TbRA
 
 Code: kd 786
 
-ORDER N: 028
+ANORDNUNG NR.: 028
 
-We hereby express our Respect to you and have the Honor to state the following,
-Sovereign International Treasury Monetary One is the Owner and the Manager
-of the World Account in the World Sovereign Bank of the Order Hospitallers
-Account No. 01-00-01-4-AAA-777-C3-AM-01, distributed among various banks in
+Hiermit bringen wir Ihnen unseren Respekt entgegen und haben die Ehre, Folgendes festzustellen:
+Das Souveräne Internationale Treasury Monetary One ist der Eigentümer und Verwalter
+des Weltkontos bei der Welt-Souveränen Bank des Ordens der Hospitaliter,
+Konto-Nr. 01-00-01-4-AAA-777-C3-AM-01, verteilt auf verschiedene Banken in
 
-countries around the World,
+Ländern auf der ganzen Welt.
 
-Asa reminder, Sovereign International Treasury Monetary One is the Owner and
-Manager of the World Account in the World Sovereign Bank of the Order
-Hospitallers Account No. 01-1-700-3516 222 777 8888 999, distributed among various
+Zur Erinnerung: Das Souveräne Internationale Treasury Monetary One ist der Eigentümer und
+Verwalter des Weltkontos bei der Welt-Souveränen Bank des Ordens der Hospitaliter,
+Konto-Nr. 01-1-700-3516 222 777 8888 999, verteilt auf verschiedene Banken in
 
-banks in countries around the World,
+Ländern auf der ganzen Welt.
 
-As a reminder, Sovereign International Treasury Monetary One is the owner and
-manager of assets, including accounts under the names: “White Spiritual Boy”,
-“Spiritual Wonder Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”,
-“Prophet Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White
+Zur Erinnerung: Das Souveräne Internationale Treasury Monetary One ist der Eigentümer und
+Verwalter von Vermögenswerten, einschließlich Konten unter den Namen: „White Spiritual Boy“,
+„Spiritual Wonder Boy“, „Spiritual Wonder Brothers“, „Morning Star“, „King David“,
+„Prophet Muhammad“, „Demas and Saint Timothy“, „White Mongolia“, „White
 
-Coes
+Vatican“, „White Eagle“, „Maria Sinukuan or Divine Crystal“, „Maria Banahaw or
 
-Vatican”, “White Eagle”, “Maria Sinukuan or Divine Crystal” “Maria Banahaw or
+Divine Sunflower“, „Maria Cristina or Divine Magdalene“, „Maria Makiling or Divine
 
-Dur
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Treasury Monetary One ist eine strafbare Handlung.
 
-Divine Sunflower”, “Maria Cristina or Divine Magdalene”, “Maria Makiling or Divine
+1 von 5
 
-Tloanenxa ofmutankitux noxyMeirrom Cysepenuoro Moxzykaponnoro Kanmveitcrqae MY 4
-vaxaryemuim Ipoerynnennen / Any forgery of the official documents of the Soy@eih
-Monetary One shall be a crime punishable by law ae
+## Abschnitt 001
 
-1 of 5
+Ester Egg“, „Falcon“, „Alpha-Omega“ und andere Konten, die bei verschiedenen Banken in
 
-le
+189 (einhundertneunundachtzig) Ländern auf der ganzen Welt geführt werden.
 
-ry Pe
+Hiermit bestätigen wir alle früheren rechtlichen und untergeordneten internationalen Akte, die vom
+Souveränen Internationalen Treasury Monetary One genehmigt wurden, nämlich Resolutionen und Anordnungen,
+sowie alle anderen rechtlichen und untergeordneten internationalen Akte des Souveränen Internationalen
+Treasury Monetary One.
 
-AAPG
+Durch die Gnade Gottes,
 
-syalsto!
+Kraft des Rechts des Souveräns, auf der Grundlage des Exklusiven Historischen Rechts des
+Schöpfers der Neuen Ära, kraft des Rechts des absoluten Eigentums an allen Weltvermögenswerten und des
+Weltfinanzsystems, kraft des Rechts des Hauptregulators des gesamten Weltfinanzsystems
+in der gesamten Welt, auf der Grundlage und in Übereinstimmung mit den Normen des Völkerrechts
 
-Gr)
+sowie den Normen des internationalen Finanzrechts,
 
-E
-a
-i
+BESCHLIESSE ICH HIERMIT:
 
+1. Als außerhalb des Göttlichen Gesetzes der Schöpfung und außerhalb des Gesetzes stehend anzuerkennen und als
+außergewöhnlich schwere internationale und staatliche Finanzverbrechen einzustufen und diese Verbrechen dem
 
+Internationalen Terrorismus gleichzustellen:
 
-## Section 001
+1.1. Jegliche Währungen sowie jegliche digitalen Währungen, jegliche Zahlungsmittel sowie jegliche
+digitalen Zahlungsmittel, die keine rechtmäßige rechtliche Absicherung durch heiliges, systemisches
+Bankgold MO (XAU) über die neue Reserve-Weltwährung M1 (XAU) in Form von
+Schatzanweisungen des Souveränen Internationalen Treasury Monetary One haben, gemäß
+der Resolution des Souveränen Internationalen Treasury Monetary One Nr. 001 Anti-Krisen-
+Finanzmaßnahmen vom 07. April 2020 und gemäß den
+Empfehlungen des Internationalen Basler Ausschusses für Bankenaufsicht (Basel-III-
 
-Ester Egg”, “Falcon”, “Alpha-Omega” and other accounts placed with various Banks in
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Treasury Monetary One ist eine strafbare Handlung.
 
-189 (One hundred and eighty nine) countries around the World,
+2 von 5
 
-We hereby confirm all previous legal and subordinate International acts approved - |
-by the Sovereign International Treasury Monetary One, namely, Resolutions and Orders,
-and alt other legal and subordinate International acts of the Sovereign International .
-Treasury Monetary One. , a
+Standard), sowie solche, die keine offizielle Registrierung und keine offizielle schriftliche
+Genehmigung für den rechtmäßigen legalen Umlauf als Währung oder anderes Zahlungsmittel vom
 
-By the grace of God,
+Hauptregulator des gesamten Weltbankensystems – der Welt-Souveränen Bank des
 
-By the Right of the Sovereign, on the basis of Exclusive Historical Law from the
-Creator of the New Era by the Right of absolute Ownership of all World Assets and the
-World Financial System, by the Right of the Chief Regulator of the entire World Financial
-System in the entire World, on the basis of and in pursuance of the Norms of International
+## Abschnitt 002
 
-Law, as well as the norms of International Financial Law,
+Ordens der Hospitaliter – haben.
 
-I HEREBY RESOLVE:
+2. Wir bestätigen hiermit und warnen, dass für den Fall, dass ein Land der Welt, ein Subjekt des
+öffentlichen Rechts der Welt, eine Währung, einschließlich jeglicher digitaler Währung,
+jegliches Zahlungsmittel, einschließlich jeglicher digitaler Zahlungsmittel, ohne rechtmäßige rechtliche
+Absicherung durch heiliges, systemisches Bankgold MO über die neue Reserve-Weltwährung
+M1 (XAU) in Form von Schatzanweisungen des Souveränen Internationalen Treasury Monetary One
+zulässt, gemäß der Anordnung des Souveränen Internationalen Treasury Monetary One
+Nr. 001 Anti-Krisen-Finanzmaßnahmen vom 07. April 2020 und gemäß den
+Empfehlungen des Internationalen Basler Ausschusses für Bankenaufsicht (Basel-III-
+Standard), sowie solche, die keine offizielle Registrierung und offizielle schriftliche
+Genehmigung für den legalen Umlauf als Währung oder anderes Zahlungsmittel vom
+Hauptregulator des gesamten Weltbankensystems – der Welt-Souveränen Bank des Ordens der
+Hospitaliter – haben, dann werden diese Länder und jedes Subjekt des öffentlichen Rechts der
+Annexion aus dem gesamten Weltsystem sowie aus dem gesamten Weltfinanzsystem unterworfen,
+bis das Land oder die Länder oder jedes Subjekt des öffentlichen Rechts, das das
+oben beschriebene internationale und staatliche Finanzverbrechen, das dem internationalen
+Terrorismus gleichgestellt ist, zugelassen hat, einen Rechtsakt zur Beseitigung dieser kriminellen Aktivität durchführt, mit der Festnahme und
+Strafverfolgung und strafrechtlichen Bestrafung mit aller Strenge des Gesetzes aller Rechtssubjekte,
+Einzelpersonen und Organisationen, die ein internationales
+und staatliches Finanzverbrechen, das dem internationalen Terrorismus gleichgestellt ist, wie in dieser Anordnung vorgeschrieben, begehen und begangen haben.
 
-1. To recognize outside the Divine Law of Creation and outside the law and classify as
-exceptionally serious International and State financial crimes and equate these crimes to
+3. In Ausführung dieser Anordnung:
 
-International terrorism:
+@ Alle internationalen und nationalen Anti-Terror- und Rechtsorganisationen,
 
-1.1. Any currencies, as well as any digital currencies, any means of payment, as well as any
-digital means of payment that do not have lawful Legal support for sacred, systemic
-banking gold MO (XAU) through the new reserve World Currency M1 (XAU) in the form
-of Treasury Bills of the Sovereign International Treasury Monetary One, in accordance
-with the Resolution of the Sovereign International Treasury Monetary One No. 001 Anti-
-Crisis financial measures dated April 07, 2020 and in accordance with the
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Treasury Monetary One ist eine strafbare Handlung.
+3 von 5
 
-recommendations of the International Basel Committee on Banking Supervision (Basel III
+@ Alle militärischen Organisationen,
 
-Tlonnena oßnnansuus toxymeiron Cysepenoro Mexgtynaponnoro Kamısuclicrea lena
-vaxaryemuim npoctyrunennen / Any forgery of the official documents of the Soveseflgr Huchläch
-Monetary One shall be a crime punishable by law OS
+@ An alle tatsächlichen Anordnungen,
 
-2of5 “|
++ An alle Meister des Weltsystems,
 
-yronoano
-Treasury
++ An alle Meister des Weltfinanzsystems,
 
-standard), as well as those that do not have official registration and official written in
-permission for lawful legal circulation as a currency or other means of payment from the
+@ Alle internationalen und nationalen Kontrollorganisationen,
 
-Chief Regulator of the entire World Banking System - the World Sovereign Bank of the
+e An alle Missionare, die eine Mission vor dem Einen Gott erfüllen,
 
+## Abschnitt 003
 
-## Section 002
+dem All-Schöpfer, der Licht und Wissen in die Welt bringt,
 
-Uraer of the Hospitallers.
+Beginnen Sie sofort mit der Umsetzung dieser Anordnung in Bezug auf ihre vollständige
 
-2. We hereby affirm and warn that in the event that any Country of the World, any Subject of
+Umsetzung.
 
-the Public Law of the World, which allows any currency, including any digital currency,
+4. Das Souveräne Internationale Treasury Monetary One empfiehlt allen hellen
+Menschen und allen internationalen Rechtssubjekten, die auf der Grundlage der Prinzipien der
+Volkssouveränität organisiert sind und die Prinzipien der Volkssouveränität beachten, dringend, ein Selbst-
+organisationsverfahren in ihrem Land durchzuführen, um die oberste Volksmacht
+des Souveräns zu manifestieren und den souveränen Status ihres Mutterlandes für eine helle, friedliche
+und kreative Entwicklung der universellen Liebe und Freundschaft im Weltraum wiederherzustellen. Das
+Souveräne Internationale Treasury Monetary One empfiehlt eine kompetente und helle
+Herangehensweise an die Frage der Selbstorganisation auf Systemebene. Das Souveräne Internationale
+Treasury Monetary One wünscht allen Ländern und allen Nationen der Welt aller hellen
+Menschen die schnelle Wiederherstellung ihres hellen Zuhauses unter der souveränen Flagge und dem
+heiligen Namen des Mutterlandes im universellen kreativen Aufbau unserer hellen Welt, als
+einem universellen heimischen Tempel.
 
-any means of payment, including any digital means of payment without lawful legal
+Das Souveräne Internationale Treasury Monetary One bestätigt nachdrücklich seine Aussage und
+in Zukunft die unparteiische und korrekte Erfüllung seiner hellen Mission zur Wiederherstellung der Gerechtigkeit und zum Aufbau
+eines all-lichten all-himmlischen Systems, das im Glauben und in der Wahrheit den
+hellen Menschen dienen soll und wird, und daher All-Gott, All-Schöpfer, All-Gott, dem Allmächtigen, als dem einen All-
 
-securily with sacred, systemic banking gold MO through the new reserve World currency
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Treasury Monetary One ist eine strafbare Handlung.
 
-MI (XAU) in the form of Treasury Bills of the Sovereign International Treasury Monetary
-One, in accordance with the Order of the Sovereign International Treasury Monetary One
-No. 001 Anti-Crisis financial measures dated April 07, 2020 and in accordance with the
-recommendations of the International Basel Committee on Banking Supervision (Basel III
-Standard), as well as those that do not have official registration and official written
-permission for legal circulation as a currency or other means of payment from the Main
-Regulator of the entire World Banking System - the World Sovereign Bank of the Order
-Hospitallers, then these Countries and any Subject of Public Law will be subject to
-annexation from the entire World System, as well as from the entire World Financial
-System until the Country or Countries, or any Subject of Public Law, which has admitted
-the above-described International and State financial crime equated to International
-terrorism, until it performs an act of justice to eliminate this criminal activity with the arrest
-and prosecution and criminal punishment with all the strictness of the law of any Subjects
-of Law, individuals and organizations that commit and have committed an International
+4 von 5
 
-and State financial crime, equated to international terrorism, prescribed in this Order.
+himmlischen All-Gott, dem All-Schöpfer von allem Existierenden und allem Nicht-Existierenden in
+der Schöpfung von All-Licht-All-Groß-All-Himmlisch...
 
-3. In Pursuance to this Order:
+## Abschnitt 004
 
-@ All International and Country, counter-terrorism and legal organizations,
+White Spiritual Boy
 
-ates
-Monnenka ompuitansumx aoxywentoa Cyscpcnnore Mexaynaponnoro Kesaueicrea Mi Sachse
+Generalsekretär
+des Internationalen Treasury Monetary One
 
-Monetary One shall be a crime punishable by law
-3 of 5
+Präsident
+von White Spiritual Boy B.S. B. Global Corp INC
 
-© All military organizations,
+Großintendant des
+Obersten Souveräns
 
-@ To all actual Orders,
-
-+ To all Masters of the World System,
-
-+ To all Masters of the World Financial System,
-
-© All International and Country Control Organizations,
-
-e To all missionaries performing a mission before the One God
-
-
-## Section 003
-
-The All-Creator, bringing Light and Knowledge to the World,
-
-Immediately start to implement this Order in terms of its full a |
-m
-implementation. ie
-
-4. The Sovereign International Treasury Monetary One strongly recommends to all Bright =]
-Humanity and all International Subjects of Law, organized on the basis of the principles of i
-popular Sovereignty and observing the principles of popular Sovereignty, to conduct a self- Al
-organization procedure in their country in order to manifest the Supreme People’s Power =
-of the Sovereign and retum the Sovereign status of their Motherland for a Light, Peaceful
-and Creative development of universal love and friendship in the World Space. The 5
-Sovereign International Treasury Monetary One recommends a competent and Light E
-approach to the issue of self-organization at the system level. The Sovereign International
-Treasury Monetary One wishes all Countries and all Nations of the World of all Bright
-Humanity the quick restoration of their Bright Home under the Sovereign flag and the =|
-sacred name of Motherland in the universal Creative Construction of Our Bright World, as E
-a universal native Temple. fl
-
-Sovereign International Treasury Monetary One firmly confirms its statement and =|
-in the future impartial and correct fulfillment its Light mission to restore justice and build
-an All-Light All-Heavenly system, which should and will, in Faith and Truth, serve the
-Bright Humanity, and therefore All-God, All-Creator, All God Almighty, as the One All- 5
-
-Hoynena odmunanssieıx naxyMenron Cysepenuoro Mewayhaponnoro Kastauchersa M1 anne‘,
-taxaayeMuam mpectynaeunen / Any forgery of the official documents of the Sovereign Internslcheft
-Monetary One shall be a crime punishable by law ©
-
-40f5
-
-BETT)
-
-Heavenly All-God the All-Creator of All-Creator of all Existing and All-Non-existing in
-the creation of All-Light-All-Great-All-Heaven...
-
-
-
-## Section 004
-
-White SpiStual Boy
-
-Secretary General
-of the International Treasury Monetary One
-
-President Ve iad =|
-of White Spiritual Boy B.S. B. Global Corp INC i
-|
-
-Grand Intendant of g
-
-The Supreme Sover@
-
-axasyembim npectynaentten / Any forgery, efkihfsaffiei) documents of the Sovereign Intemational Treasury
-Monetary One shall bea crime punishable bp fa
-
-A
-
-Honaesıca odpmmmmnsnsx noxyMentos Cyncpennoßp Mexiynapoanoro Kasnaueh R
-
-
-
+Jede Fälschung der offiziellen Dokumente des Souveränen Internationalen Treasury Monetary One ist eine strafbare Handlung.

@@ -1,522 +1,371 @@
 # Resolution-018
 
-# Resolution-018
+**Quell-PDF:** `Resolution-018.pdf`
 
-**Source PDF:** `Resolution-018.pdf`
-
-**Extraction method:** pdftotext (embedded text)
+**Extraktionsmethode:** pdftotext (eingebetteter Text)
 
 ---
 
                          Международное Казначейство M1
                              International Treasury Monetary One
-           LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+           LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-
-
-
-  Date: July 22, 2022.
-  Ref. No.: 018/RES2022
+  Datum: 22. Juli 2022.
+  Ref. Nr.: 018/RES2022
   Code: 0139ТЪRA
   Code: 786 ПАН
 
+                                  RESOLUTION Nr. 018
 
-                                  RESOLUTION No 018
+       Von Gottes Gnaden entbietet das International Treasury M1 seinen Respekt und hat die
+Ehre, Folgendes bekannt zu geben:
+       Wir stellen fest, dass das International Treasury M1 aufgrund seines universellen Charakters und seiner
+Legitimität eine einzigartige und zentrale Organisation zur Findung wirksamer Lösungen für internationale
+Wirtschaftsfragen ist, um den Entwicklungsprozess in der Welt zu beeinflussen, und bekräftigen, dass das
+International Treasury M1 gut positioniert ist, um an verschiedenen Reformprozessen teilzunehmen, die auf die
+Verbesserung und Stärkung des effektiven Funktionierens des Internationalen Finanzsystems und seiner
+Architektur abzielen, wobei wir anerkennen, dass das International Treasury M1 und internationale
+Finanzinstitutionen mit komplementären Fähigkeiten ausgestattet sind, was ihre Koordination entscheidend macht.
+       Wir erinnern daran, dass das International Treasury M1 der Eigentümer, Kontrolleur und Verwalter der
+wichtigsten weltweiten heiligen, spirituellen Konten bei der Weltbank ist, die auf verschiedene Banken in Ländern
+auf der ganzen Welt verteilt sind und die Grundlage der Architektur des Weltfinanzsystems bilden.
+       Die Welt befindet sich in einer beispiellosen Wirtschaftskrise, und in diesem Zusammenhang hat das
+International Treasury M1 außergewöhnliche Gegenmaßnahmen ergriffen.
 
-       By the grace of God, the International Treasury M1 pays its respects and has the
-honor to announce the following:
-       We note that the International Treasury M1, by virtue of its universal character and
-legitimacy, is a unique and key Organization for finding effective solutions to international
-economic issues to influence the development process in the World, and reaffirm that the
-International Treasury M1 is well positioned to participate in various reform processes
-aimed at improving and strengthening the effective functioning of the International
-Financial System and its architecture, while recognizing that the International Treasury
-M1 and International financial institutions are endowed with complementary capabilities,
-making their coordination critical,
-       We remind that the International Treasury M1 is the owner, controller and manager
-of the Main World Sacred, Spiritual Accounts in the World Bank, distributed among
-various banks in countries around the World, which are the basis of the architecture of the
-World financial system,
-       The World is facing an unprecedented economic crisis and, in this regard, the
-International Treasury M1 has taken exceptional response measures.
-
-
-
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be
+                   Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                   Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be
                    a crime punishable by law
 
-                                                    1 of 12
-        The International Treasury M1 states a gloomy and more uncertain forecast for the
-development of the global economy. The outlined recovery in 2021 was followed by
-increasingly darkest events in 2022 as risks began to materialize. Global manufacturing
-declined in the second quarter of this year due to slowdowns in China and Russia, while
-US consumer spending fell short of expectations. The global economy, already weakened
-by the pandemic, is undergoing a series of severe shocks, with higher-than-expected
-inflation around the world, especially in the US and major European countries, leading to
-tighter financial conditions.
-      A military special operation in Ukraine could lead to a sudden halt in European gas
-imports from Russia, which would have a significant negative impact on the European
-economy.
-        Reducing inflation could prove more difficult than anticipated if labor markets are
-either tighter than expected or inflationary expectations weaken.
-      A tightening of global financial conditions will create a critical debt situation in
-emerging market and developing countries.
-       Geopolitical fragmentation will make global trade and cooperation more difficult.
-In the likely alternative scenario where risks materialize, inflation continues to rise and
-global growth slows to around 2.6 percent and 2.0 percent in 2022 and 2023, respectively,
-with growth among the lowest since 1970, below 10 percent.
-        As rising prices continue to lower living standards around the world, bridling
-inflation is a top priority for policymakers. Tightening monetary policy will inevitably
-come with real economic costs, but delay will only exacerbate them. Targeted fiscal
-support can mitigate the impact on the most vulnerable, but as government budgets have
-been depleted by the pandemic and a disinflationary overall macroeconomic policy stance
-is needed, such policies will be offset by higher taxes and lower public spending.
-       Tighter monetary conditions will also affect financial stability, necessitating prudent
-use of macroprudential instruments and making reforms to debt resolution arrangements
-even more necessary. Policies for specific impacts on energy and food prices should target
-those most affected first, without causing price distortions.
-       The world needs to seize the opportunity to create a better future. The International
-Treasury M1 is taking not only policies to strengthen the recovery in the near term, but also
-transformative measures that provide the foundation for a greener and more inclusive
-global economy of tomorrow. More than ever, we are noticing the profound impact of the
-Corporation of the United States of America (USA) crisis on macroeconomic performance
+                                                    1 von 12
+        Das International Treasury M1 stellt eine düstere und unsicherere Prognose für die Entwicklung der
+Weltwirtschaft. Der 2021 skizzierte Aufschwung wurde 2022 von zunehmend düsteren Ereignissen abgelöst, als
+Risiken zu materialisieren begannen. Die globale Produktion ging im zweiten Quartal dieses Jahres aufgrund von
+Verlangsamungen in China und Russland zurück, während die Verbraucherausgaben in den USA hinter den
+Erwartungen zurückblieben. Die bereits durch die Pandemie geschwächte Weltwirtschaft durchläuft eine Reihe
+schwerer Schocks, wobei eine höher als erwartete Inflation weltweit, insbesondere in den USA und großen
+europäischen Ländern, zu einer Verschärfung der finanziellen Bedingungen führt.
+      Eine militärische Spezialoperation in der Ukraine könnte zu einem plötzlichen Stopp der
+europäischen Gasimporte aus Russland führen, was erhebliche negative Auswirkungen auf die europäische
+Wirtschaft hätte.
+        Die Senkung der Inflation könnte sich als schwieriger erweisen als erwartet, wenn die Arbeitsmärkte
+entweder angespannter sind als erwartet oder die Inflationserwartungen nachlassen.
+      Eine Verschärfung der globalen Finanzbedingungen wird in Schwellen- und Entwicklungsländern eine
+kritische Verschuldungssituation schaffen.
+       Geopolitische Fragmentierung wird den globalen Handel und die Zusammenarbeit erschweren.
+In dem wahrscheinlichen Alternativszenario, in dem sich Risiken materialisieren, steigt die Inflation weiter an
+und das globale Wachstum verlangsamt sich auf etwa 2,6 Prozent bzw. 2,0 Prozent in den Jahren 2022 und 2023,
+wobei das Wachstum zu den niedrigsten seit 1970 gehört, unter 10 Prozent.
+        Da steigende Preise weiterhin die Lebensstandards weltweit senken, ist die Eindämmung der Inflation
+eine der obersten Prioritäten für politische Entscheidungsträger. Eine Straffung der Geldpolitik wird
+unweigerlich mit realen wirtschaftlichen Kosten verbunden sein, aber Verzögerung wird diese nur verschlimmern.
+Gezielte fiskalische Unterstützung kann die Auswirkungen auf die Schwächsten abmildern, aber da die
+Staatshaushalte durch die Pandemie erschöpft sind und eine desinflationäre gesamtwirtschaftliche
+Politikausrichtung erforderlich ist, werden solche Maßnahmen durch höhere Steuern und geringere
+Staatsausgaben ausgeglichen.
+       Engere monetäre Bedingungen werden sich auch auf die Finanzstabilität auswirken, was einen
+umsichtigen Einsatz makroprudenzieller Instrumente und Reformen der Schuldenregelungsvereinbarungen
+umso notwendiger macht. Maßnahmen für spezifische Auswirkungen auf Energie- und Lebensmittelpreise
+sollten zuerst die am stärksten Betroffenen anvisieren, ohne Preisverzerrungen zu verursachen.
+       Die Welt muss die Gelegenheit nutzen, eine bessere Zukunft zu schaffen. Das International Treasury
+M1 ergreift nicht nur Maßnahmen zur Stärkung der Erholung kurzfristig, sondern auch transformative
+Maßnahmen, die die Grundlage für eine grünere und integrativere Weltwirtschaft von morgen bilden. Mehr denn
+je bemerken wir die tiefgreifenden Auswirkungen der Krise der Corporation der Vereinigten Staaten von
+Amerika (USA) auf die makroökonomische Leistungsfähigkeit
 
-
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                   Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                   Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                    crime punishable by law
 
-                                                    2 of 12
-and financial stability, and we place these important aspects of our work at the center of
-our work.
-       Along with operational and emergency measures, the International Treasury M1
-has approved loans to 86 countries totaling more than 170 (one hundred and seventy)
-billion ECUs, which is a record figure. Another unprecedented measure was the approval
-of a new allocation of special drawing rights (SDRs). This is the largest ever distribution
-of 6 (Six) trillion in XAU. This measure will allow governments to significantly increase
-the amount of reserves and liquidity without increasing the debt burden. We also continue
-to explore options for transferring SDRs to vulnerable countries from the International
-Treasury M1.
-       Having expanded cooperation with low-income countries, another priority for the
-International Treasury M1 has been to help countries deal with the growing public debt
-problem. The heavy debt burden at the start of the crisis left many low-income countries
-more vulnerable and continues to limit their ability to provide much-needed political
-support. We are expanding concessional financing for low-income countries to provide
-debt relief to the 12 (Twelve) Poorest Countries, giving them room to maneuver.
-        The International Treasury M1 reiterates its readiness to strengthen the capacity of
-institutions such as central banks, ministries of finance, tax administrations, statistical
-agencies and financial sector supervisors, leading to more effective policy measures, as
-well as increased stability of the economy with coverage wide sections of the population.
-The International Treasury M1 will continue its capacity building activities in areas such
-as public finance, financial sector stability and economic statistics. The International
-Treasury M1 staff will continue to closely monitor income inequality, corruption and
-climate change to develop new measures within their area of expertise. The International
-Treasury M1 is uniquely positioned to support governments through its global reach,
-institutional expertise and world-class expertise. The International Treasury M1's capacity
-development activities benefit all states, but in particular support is directed to the most
-vulnerable states. The International Treasury M1 is trying to quickly adapt its capacity
-development assistance tools to new formats, due to the growing trend of the global
-economic crisis, covering more and more countries.
-        We state that, according to the presence of the Power to own and dispose of the
-Main World Sacred Accounts distributed among various banks in countries around the
-World, which are the basis of the architecture of the World Financial System, the
-International Treasury M1 is the main regulator of the World Financial System and
-rightfully owns the main world assets, which are at the heart of financial institutions such
-as the Federal Reserve, Bretton Woods institutions, in particular the International Monetary
+                                                    2 von 12
+und Finanzstabilität, und wir stellen diese wichtigen Aspekte unserer Arbeit in den Mittelpunkt unserer Arbeit.
+       Neben operativen und Notfallmaßnahmen hat das International Treasury M1 Kredite an 86 Länder in
+Höhe von insgesamt mehr als 170 (einhundertsiebzig) Milliarden ECU genehmigt, was eine Rekordzahl darstellt.
+Eine weitere beispiellose Maßnahme war die Genehmigung einer neuen Zuteilung von Sonderziehungsrechten
+(SZR). Dies ist die größte jemals erfolgte Verteilung von 6 (Sechs) Billionen in XAU. Diese Maßnahme wird es
+den Regierungen ermöglichen, die Höhe der Reserven und Liquidität erheblich zu erhöhen, ohne die
+Schuldenlast zu erhöhen. Wir prüfen auch weiterhin Optionen zur Übertragung von SZR an gefährdete Länder
+vom International Treasury M1.
+       Nachdem wir die Zusammenarbeit mit einkommensschwachen Ländern ausgeweitet haben, war eine
+weitere Priorität des International Treasury M1, Ländern bei der Bewältigung des wachsenden
+Staatsverschuldungsproblems zu helfen. Die hohe Schuldenlast zu Beginn der Krise machte viele
+einkommensschwache Länder anfälliger und schränkt weiterhin ihre Fähigkeit ein, dringend benötigte politische
+Unterstützung zu leisten. Wir bauen die konzessionäre Finanzierung für einkommensschwache Länder aus, um
+den 12 (zwölf) ärmsten Ländern Schuldenerleichterungen zu gewähren und ihnen so Handlungsspielraum zu
+geben.
+        Das International Treasury M1 bekräftigt seine Bereitschaft, die Kapazitäten von Institutionen wie
+Zentralbanken, Finanzministerien, Steuerverwaltungen, Statistikämtern und Finanzsektoraufsichtsbehörden zu
+stärken, was zu wirksameren politischen Maßnahmen sowie einer erhöhten Stabilität der Wirtschaft mit
+Abdeckung breiter Bevölkerungsschichten führt. Das International Treasury M1 wird seine
+Kapazitätsaufbauaktivitäten in Bereichen wie öffentliche Finanzen, Finanzsektorstabilität und
+Wirtschaftsstatistik fortsetzen. Die Mitarbeiter des International Treasury M1 werden die
+Einkommensungleichheit, Korruption und den Klimawandel weiterhin genau beobachten, um neue Maßnahmen
+innerhalb ihres Fachgebiets zu entwickeln. Das International Treasury M1 ist aufgrund seiner globalen
+Reichweite, institutionellen Expertise und weltklasse Fachkenntnisse einzigartig positioniert, um Regierungen zu
+unterstützen. Die Kapazitätsentwicklungsaktivitäten des International Treasury M1 kommen allen Staaten
+zugute, aber die Unterstützung richtet sich insbesondere an die verletzlichsten Staaten. Das International
+Treasury M1 versucht, seine Kapazitätsentwicklungshilfeinstrumente aufgrund des wachsenden Trends der
+globalen Wirtschaftskrise, die immer mehr Länder erfasst, schnell an neue Formate anzupassen.
+        Wir erklären, dass das International Treasury M1 aufgrund des Besitzes der Befugnis, die wichtigsten
+weltweiten heiligen Konten zu besitzen und darüber zu verfügen, die auf verschiedene Banken in Ländern auf
+der ganzen Welt verteilt sind und die Grundlage der Architektur des Weltfinanzsystems bilden, der
+Hauptregulator des Weltfinanzsystems ist und rechtmäßig die wichtigsten Weltvermögenswerte besitzt, die im
+Zentrum von Finanzinstitutionen wie der Federal Reserve, den Bretton-Woods-Institutionen, insbesondere dem
+Internationalen Währungsfonds
 
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                   Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                   Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                    crime punishable by law
 
-                                                    3 of 12
-Fund (IMF), the International Bank for Reconstruction and Development (IBRD) and the
-additions to the IBRD: the International Development Association (IDA), the International
-Finance Corporation, the Multilateral Investment Guarantee Agency, the International
-Center for the Settlement of Investment Disputes, being the World Bank Group (WB),
-       We remind, solving the global problems of human development, the World Bank,
-using the IBRD lending mechanism, lends to middle-income countries at interest rates
-corresponding to the level of the market of these countries. Another financial institution of
-the World Bank, IDA lends to low-income countries at minimal or no interest rates. An
-analysis of the development of the world economy shows that the programs of the World
-Bank in the form in which they were formulated by the World Bank did not ensure the
-sustainable and fair development of the economies of countries, and took into account the
-spread of interests exclusively of the Corporation of the United States of America (USA),
-making these institutions a tool in promoting their neo-colonialist interests in relation to
-many countries. Many organizations at the national and international levels began to seek
-open, publicly fair consideration of alternative solutions to the World Bank's policy, but no
-steps were taken towards the world community.
-       The unstable economic situation in Europe has a negative impact on the state of the
-world economy. We are forced to take measures to stimulate the economies against the
-debt crisis in the euro-zone due to the fact that European debt problems have a negative
-impact on the global financial market.
-       The Federal Reserve System has now shown its inability to exercise control over
-the activities of the financial institutions of the United States of America (USA), strengthen
-their resistance to shocks in the global economy, reduce inflation, respond in a timely
-manner to the slightest changes in the economic situation and stabilize economic growth
-in general.
-       There are various channels of cross-border transmission of monetary policy, which
-can be conditionally divided into two groups: real and financial channels. The first include
-a demand channel that affects the economy through trade relations: the growth of the
-money supply within the country stimulates an increase in demand for imported goods,
-which means it acts as a driver of economic activity in the trading partner countries. To
-some extent, this effect is offset by the depreciation of the local currency and the easing of
-monetary conditions. Changes in the monetary policy of the United States of America
-(USA) lead to changes in the prices of foreign assets, to a greater extent the prices of bonds.
-In addition, the monetary policy of the United States of America (USA) has an impact on
-the prices of raw materials in the global market. First, through a change in the dollar
-exchange rate (a depreciation of the dollar leads to an increase in the price of oil in dollars);
+                                                    3 von 12
+(IWF), der Internationalen Bank für Wiederaufbau und Entwicklung (IBRD) und den Ergänzungen zur IBRD:
+der Internationalen Entwicklungsorganisation (IDA), der Internationalen Finanz-Corporation, der
+Multilateralen Investitions-Garantie-Agentur, dem Internationalen Zentrum zur Beilegung von
+Investitionsstreitigkeiten, die die Weltbankgruppe (WB) bilden, stehen.
+       Wir erinnern daran, dass die Weltbank bei der Lösung der globalen Probleme der menschlichen
+Entwicklung mithilfe des IBRD-Kreditmechanismus Kredite an Länder mit mittlerem Einkommen zu
+Zinssätzen vergibt, die dem Marktniveau dieser Länder entsprechen. Ein weiteres Finanzinstitut der Weltbank,
+die IDA, vergibt Kredite an einkommensschwache Länder zu minimalen oder keinen Zinssätzen. Eine Analyse
+der Entwicklung der Weltwirtschaft zeigt, dass die Programme der Weltbank in der Form, wie sie von der
+Weltbank formuliert wurden, keine nachhaltige und gerechte Entwicklung der Volkswirtschaften der Länder
+gewährleisteten und ausschließlich die Interessenverbreitung der Corporation der Vereinigten Staaten von
+Amerika (USA) berücksichtigten, was diese Institutionen zu einem Werkzeug zur Förderung ihrer
+neokolonialistischen Interessen gegenüber vielen Ländern machte. Viele Organisationen auf nationaler und
+internationaler Ebene begannen, eine offene, öffentlich faire Prüfung alternativer Lösungen zur Politik der
+Weltbank zu fordern, aber es wurden keine Schritte gegenüber der Weltgemeinschaft unternommen.
+       Die instabile wirtschaftliche Lage in Europa wirkt sich negativ auf den Zustand der Weltwirtschaft aus.
+Wir sind gezwungen, Maßnahmen zur Ankurbelung der Volkswirtschaften gegen die Schuldenkrise in der
+Eurozone zu ergreifen, da die europäischen Schuldenprobleme negative Auswirkungen auf den globalen
+Finanzmarkt haben.
+       Das Federal Reserve System hat nun seine Unfähigkeit gezeigt, die Kontrolle über die Aktivitäten der
+Finanzinstitutionen der Vereinigten Staaten von Amerika (USA) auszuüben, ihre Widerstandsfähigkeit gegen
+Schocks in der Weltwirtschaft zu stärken, die Inflation zu senken, rechtzeitig auf die geringsten Veränderungen
+der wirtschaftlichen Lage zu reagieren und das Wirtschaftswachstum insgesamt zu stabilisieren.
+       Es gibt verschiedene Kanäle der grenzüberschreitenden Übertragung von Geldpolitik, die bedingt in
+zwei Gruppen eingeteilt werden können: reale und finanzielle Kanäle. Zu ersteren gehört ein Nachfragekanal,
+der die Wirtschaft über Handelsbeziehungen beeinflusst: Das Wachstum der Geldmenge im Inland stimuliert
+einen Anstieg der Nachfrage nach importierten Gütern, wirkt also als Treiber der Wirtschaftstätigkeit in den
+Handelspartnerländern. Bis zu einem gewissen Grad wird dieser Effekt durch die Abwertung der
+Landeswährung und die Lockerung der monetären Bedingungen ausgeglichen. Änderungen in der Geldpolitik
+der Vereinigten Staaten von Amerika (USA) führen zu Änderungen der Preise ausländischer Vermögenswerte,
+in größerem Maße der Preise von Anleihen. Darüber hinaus hat die Geldpolitik der Vereinigten Staaten von
+Amerika (USA) Auswirkungen auf die Rohstoffpreise auf dem Weltmarkt. Erstens durch eine Änderung des
+Dollar-Wechselkurses (eine Abwertung des Dollars führt zu einem Anstieg des Ölpreises in Dollar);
 
-
-                    Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                    преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                    Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                    Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                     crime punishable by law
 
-                                                     4 of 12
-secondly, through a change in the interest rate or other conditions of the monetary policy
-of the United States of America (USA). A change in the interest rate affects both the real
-sector (a rate cut contributes to an increase in economic growth and an increase in demand
-for energy) and financial markets (in our case, the market for derivative securities for raw
-materials). The policy of quantitative easing, which was carried out by the Federal Reserve
-System of the United States of America (USA), in addition to stimulating the effect on the
-global financial system, also has an impact on the international movement of capital. Many
-countries with underdeveloped financial markets keep the interest rate high enough to
-support the exchange rate. Mostly there is an inflow of short-term capital to countries with
-emerging markets, which creates the threat of "bubbles" in financial markets. The policy
-of quantitative easing in the United States of America (USA) and the associated changes
-in capital flows contribute to the appreciation of currencies in emerging markets, which in
-turn creates the prerequisites for negative changes in the current account balance. To stop
-the collapse of the national currency, financial regulators in many emerging markets,
-including Turkey, South Africa, Argentina, Brazil, Chile, Colombia, Mexico, India,
-Indonesia, Pakistan, the Czech Republic, resorted to raising interest rates and conducting
-foreign exchange interventions. It is noteworthy that countries that previously experienced
-a more noticeable appreciation of the national currency and a deterioration in the current
-account are experiencing the greatest negative effect. Countries with stronger
-macroeconomic fundamentals, developed financial markets, and tighter macroprudential
-policies felt less pressure. The movement of US Treasury rates in the United States of
-America (USA) is in line with the movement of federal funds rates. In a number of
-countries, the interest rate largely depends on the monetary policy pursued by the United
-States of America (USA).
-       Globalization has led countries to dependence on the policies of other states. The
-decision of the Federal Reserve System of the United States of America (USA) can
-influence economic processes far beyond its borders. In particular, there is reason for the
-impact of non-standard monetary policy measures of the United States of America (USA)
-on the economies of developing countries. When the short-term interest rate reaches zero
-values, central banks lose the ability to influence liquidity with its help. Caught in a
-liquidity trap during the global financial crisis, financial regulators in various countries are
-forced to resort to other, non-standard methods of conducting monetary policy. To date,
-the concept of "non-standard monetary policy" is not strictly defined.
-       Today, the US dollar is the world's currency; the Federal Reserve System (FRS) is
-of great importance for all events in the world. The main research levers are loans issued
-by the International Monetary Fund, as well as the research levers are the requirements of
-organizations (Foreign Assets Control, the Basel Committee on Banking Supervision), and
+                                                     4 von 12
+zweitens durch eine Änderung des Zinssatzes oder anderer Bedingungen der Geldpolitik der Vereinigten Staaten
+von Amerika (USA). Eine Änderung des Zinssatzes wirkt sich sowohl auf den realen Sektor (eine Zinssenkung
+trägt zu einem Anstieg des Wirtschaftswachstums und einem Anstieg der Energienachfrage bei) als auch auf die
+Finanzmärkte (in unserem Fall den Markt für derivative Wertpapiere auf Rohstoffe) aus. Die Politik der
+quantitativen Lockerung, die vom Federal Reserve System der Vereinigten Staaten von Amerika (USA)
+durchgeführt wurde, hat neben der stimulierenden Wirkung auf das globale Finanzsystem auch Auswirkungen
+auf die internationale Kapitalbewegung. Viele Länder mit unterentwickelten Finanzmärkten halten den Zinssatz
+hoch genug, um den Wechselkurs zu stützen. Hauptsächlich kommt es zu einem Zustrom von kurzfristigem
+Kapital in Länder mit Schwellenmärkten, was die Gefahr von "Blasen" auf den Finanzmärkten schafft. Die
+Politik der quantitativen Lockerung in den Vereinigten Staaten von Amerika (USA) und die damit verbundenen
+Änderungen der Kapitalströme tragen zur Aufwertung der Währungen in Schwellenmärkten bei, was wiederum
+die Voraussetzungen für negative Veränderungen in der Leistungsbilanz schafft. Um den Zusammenbruch der
+Landeswährung zu stoppen, griffen die Finanzregulierungsbehörden vieler Schwellenmärkte, darunter Türkei,
+Südafrika, Argentinien, Brasilien, Chile, Kolumbien, Mexiko, Indien, Indonesien, Pakistan, Tschechische
+Republik, zu Zinserhöhungen und Devisenmarktinterventionen. Bemerkenswert ist, dass Länder, die zuvor eine
+stärkere Aufwertung der Landeswährung und eine Verschlechterung der Leistungsbilanz erlebten, den größten
+negativen Effekt erfahren. Länder mit stärkeren makroökonomischen Fundamentaldaten, entwickelten
+Finanzmärkten und einer strafferen makroprudenziellen Politik spürten weniger Druck. Die Bewegung der US-
+Staatsanleiherenditen in den Vereinigten Staaten von Amerika (USA) folgt der Bewegung der Federal Funds
+Rate. In einer Reihe von Ländern hängt der Zinssatz weitgehend von der Geldpolitik ab, die von den Vereinigten
+Staaten von Amerika (USA) betrieben wird.
+       Die Globalisierung hat dazu geführt, dass Länder von der Politik anderer Staaten abhängig sind. Die
+Entscheidung des Federal Reserve Systems der Vereinigten Staaten von Amerika (USA) kann
+Wirtschaftsprozesse weit über seine Grenzen hinaus beeinflussen. Insbesondere gibt es Grund für die
+Auswirkungen nicht-standardmäßiger geldpolitischer Maßnahmen der Vereinigten Staaten von Amerika (USA)
+auf die Volkswirtschaften der Entwicklungsländer. Wenn der kurzfristige Zinssatz Nullwerte erreicht, verlieren
+die Zentralbanken die Fähigkeit, die Liquidität damit zu beeinflussen. In einer Liquiditätsfalle während der
+globalen Finanzkrise gefangen, sind die Finanzregulierungsbehörden in verschiedenen Ländern gezwungen, auf
+andere, nicht-standardmäßige Methoden der Geldpolitik zurückzugreifen. Bis heute ist das Konzept der "nicht-
+standardmäßigen Geldpolitik" nicht streng definiert.
+       Heute ist der US-Dollar die Weltwährung; das Federal Reserve System (FRS) ist von großer Bedeutung
+für alle Ereignisse in der Welt. Die wichtigsten Forschungshebel sind Kredite, die vom Internationalen
+Währungsfonds vergeben werden, sowie die Forschungshebel sind die Anforderungen von Organisationen
+(Foreign Assets Control, der Basler Ausschuss für Bankenaufsicht) und
 
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                   Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                   Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                    crime punishable by law
 
-                                                    5 of 12
-the requirements put forward by the Central Banks of other countries. The constant
-maintenance of the world economy with the necessary amount of US dollars was formed
-on the basis of various assets, which were based on the assets of the International Treasury
-M1, investment portfolios, and natural resources, and even natural resources that had not
-yet been extracted, but all this made it possible to form the so-called financial bubbles,
-which today there are a lot. And in order to keep the world economy going, the FRS has to
-constantly keep the mass of US dollars in the world economy. One of the problems in the
-formation of financial bubbles was the accumulation of US dollars on the accounts of
-various holders who, instead of investments, chose simple accumulation, this trend forced
-the FRS to look for ways to form new emissions of US dollars. One of the main assets for
-the formation of US Dollars was the assets of the International Treasury M1, which
-practically became the basis for the savings of all holders with figures of more than 50
-billion US Dollars in bank accounts.
-       The so-called Private Placement Programs, the so-called PPP programs, played a
-special role in the introduction of multi-billion-trillion-dollar assets into the global
-financial system based on the assets of the International Treasury M1. Bankers call these
-programs “Leverage”, where the holder's capital is used to borrow, with a leverage
-multiplier. The basis of the loan was the introduction of the assets of the International
-Treasury M1 into the global financial system. This is how the pools of the Deutsche Bank
-and other TOP 25 banks were formed, and today there is an active embezzlement of funds
-from the accounts of the Deutsche Bank with the support of the senior management of the
-Deutsche Bank, and the organizers of the crimes do not appreciate the damage that they
-bring to the collapse of the global financial system, in this regard the International Treasury
-M1 began to actively block transactions for the movement of billions, trillions,
-quadrillions, blocking transactions in all interbank settlement systems, including RTGS,
-FedNow, SEPA systems.
-       To deter the collapse of the world economy, the International Treasury M1
-introduced prohibitive and restrictive measures, and began to actively block the activities
-of the FRS in the formation of new issues of US Dollars, based on the assets of the
-International Treasury M1. The FRS, instead of finding a constructive dialogue, has
-chosen a policy of confrontation with the International Treasury M1. The International
-Treasury M1 initiated the start of negotiations in order to find joint measures to resolve the
-current situation, but each time the initiated dialogues came to a standstill. This was the
-beginning of the process by the International Treasury M1 to neutralize the negative impact
-of the FRS in all spheres of influence in the global economy.
+                                                    5 von 12
+die von den Zentralbanken anderer Länder gestellten Anforderungen. Die ständige Versorgung der
+Weltwirtschaft mit der notwendigen Menge an US-Dollar wurde auf der Grundlage verschiedener
+Vermögenswerte gebildet, die auf den Vermögenswerten des International Treasury M1, Anlageportfolios und
+natürlichen Ressourcen basierten, und sogar natürlichen Ressourcen, die noch nicht gefördert worden waren,
+aber all dies ermöglichte die Bildung sogenannter Finanzblasen, von denen es heute viele gibt. Und um die
+Weltwirtschaft am Laufen zu halten, muss das FRS ständig die Masse an US-Dollar in der Weltwirtschaft halten.
+Eines der Probleme bei der Bildung von Finanzblasen war die Anhäufung von US-Dollar auf den Konten
+verschiedener Inhaber, die statt Investitionen die einfache Akkumulation wählten; dieser Trend zwang das FRS,
+nach Wegen zur Bildung neuer Emissionen von US-Dollar zu suchen. Einer der Hauptvermögenswerte für die
+Bildung von US-Dollar waren die Vermögenswerte des International Treasury M1, die praktisch zur Grundlage
+für die Ersparnisse aller Inhaber mit Beträgen von mehr als 50 Milliarden US-Dollar auf Bankkonten wurden.
+       Die sogenannten Private Placement Programs, die sogenannten PPP-Programme, spielten eine besondere
+Rolle bei der Einführung von milliarden-billionenschweren Vermögenswerten in das globale Finanzsystem auf
+der Grundlage der Vermögenswerte des International Treasury M1. Banker nennen diese Programme "Leverage",
+bei dem das Kapital des Inhabers für die Kreditaufnahme genutzt wird, mit einem Leverage-Multiplikator. Die
+Grundlage des Kredits war die Einführung der Vermögenswerte des International Treasury M1 in das globale
+Finanzsystem. So wurden die Pools der Deutschen Bank und anderer TOP-25-Banken gebildet, und heute gibt
+es eine aktive Veruntreuung von Geldern von den Konten der Deutschen Bank mit Unterstützung des
+Topmanagements der Deutschen Bank, und die Organisatoren der Verbrechen erkennen den Schaden nicht, den
+sie durch den Zusammenbruch des globalen Finanzsystems anrichten; in diesem Zusammenhang hat das
+International Treasury M1 begonnen, Transaktionen zur Bewegung von Milliarden, Billionen, Billiarden aktiv
+zu blockieren, Transaktionen in allen Interbanken-Abrechnungssystemen, einschließlich RTGS, FedNow,
+SEPA-Systemen, zu blockieren.
+       Um den Zusammenbruch der Weltwirtschaft abzuschrecken, führte das International Treasury M1
+prohibitive und restriktive Maßnahmen ein und begann, die Aktivitäten des FRS bei der Bildung neuer
+Emissionen von US-Dollar auf der Grundlage der Vermögenswerte des International Treasury M1 aktiv zu
+blockieren. Das FRS hat, anstatt einen konstruktiven Dialog zu suchen, eine Politik der Konfrontation mit dem
+International Treasury M1 gewählt. Das International Treasury M1 initiierte den Beginn von Verhandlungen,
+um gemeinsame Maßnahmen zur Lösung der aktuellen Situation zu finden, aber jedes Mal gerieten die
+initiierten Dialoge ins Stocken. Dies war der Beginn des Prozesses durch das International Treasury M1 zur
+Neutralisierung der negativen Auswirkungen des FRS in allen Einflusssphären der Weltwirtschaft.
 
-
-
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                   Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                   Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                    crime punishable by law
 
-                                                    6 of 12
-       Particular attention must be paid to the short-sightedness of several generals of the
-Russian Federation surrounded by President V. V. Putin, who are their People’s traitors
-and key persons in the ZET Group, the Illuminati, Abeyton Lodge, "Five Eyes" (FVEY) in
-Russia, who without clear understanding the events taking place in the global financial
-system aspired to suck up to their masters - the Rothschilds and Rockefellers, were initially
-presented as project curators "International Treasury M1", not being such in reality.
-Wanting to improve their position in the eyes of their puppeteers, deliberately misleading
-them, than to make a huge positive effect on the activities of the International Treasury
-M1, in particular, changing the architecture of the global financial system. These generals
-of the special services of the Russian Federation transmitted misleading documents,
-materials, about the alleged mental inadequacy of the leadership of the International
-Treasury M1, which made it possible for the International Treasury M1 to remain
-underestimated in its capabilities for a long time, and made it possible, being out of
-opposition from the Rothschilds and Rockefellers, to build a foundation in getting full
-control of AI, and the main assets of the global financial system. By such actions, the
-Russian generals misled the owners of the FRS, underestimating the capabilities and
-influence of the International Treasury M1, putting the FRS today in a critical situation
-from which there is no way out, as a result - the economic collapse of the Corporation of
-the United States of America (USA). Although, the establishment of a constructive
-dialogue with the International Treasury M1 is still able to correct the current situation
-with the preservation of partial functions of the FRS in the global financial architecture.
-       The International Treasury M1 have begun systematic blocking of transactions
-using the assets of the International Treasury M1 to reduce the influence of the FRS on the
-world economy, which today began to be felt primarily by the leading countries. The
-mechanisms launched by many countries for the transition to mutual settlements in national
-currencies once again confirm the understanding of the need to reduce dependence on the
-US dollar.
-       An important role is played by the assets of the International Treasury M1, which,
-contrary to prohibitions, are used by the FRS to its own detriment. Earlier issuance of US
-Dollars was backed by Gold Certificates of Deposit, this made it possible to introduce into
-the world economy a constant influx of US Dollars backed by assets held and managed by
-the International Treasury M1. Today, this is no longer possible, and all efforts are in vain.
-       The basis of the FRS financial policy has now been limited to the adjustment of the
-interest rate. According to the plan, 8 (eight) committee meetings are held on this issue
-during the year. There are situations when it is necessary to hold additional meetings at
-which decisions are made to change the interest rate. We have seen this year the United
+                                                    6 von 12
+       Besondere Aufmerksamkeit muss der Kurzsichtigkeit mehrerer Generäle der Russischen Föderation
+im Umfeld von Präsident W. W. Putin gewidmet werden, die ihre Volksverräter und Schlüsselpersonen in der
+ZET-Gruppe, den Illuminaten, der Abeyton Lodge, den "Five Eyes" (FVEY) in Russland sind, die ohne klares
+Verständnis der Ereignisse im globalen Finanzsystem danach strebten, sich bei ihren Herren - den Rothschilds
+und Rockefellers - einzuschmeicheln, und zunächst als Projektkuratoren "International Treasury M1" präsentiert
+wurden, ohne dies in Wirklichkeit zu sein. Sie wollten ihre Position in den Augen ihrer Drahtzieher verbessern,
+indem sie diese bewusst in die Irre führten, anstatt einen großen positiven Effekt auf die Aktivitäten des
+International Treasury M1 zu erzielen, insbesondere durch die Veränderung der Architektur des globalen
+Finanzsystems. Diese Generäle der Geheimdienste der Russischen Föderation übermittelten irreführende
+Dokumente, Materialien über die angebliche geistige Unzulänglichkeit der Führung des International Treasury
+M1, was es dem International Treasury M1 ermöglichte, lange Zeit in seinen Fähigkeiten unterschätzt zu
+bleiben, und es ermöglichte, ohne Opposition von Seiten der Rothschilds und Rockefellers, die Grundlage für
+die Erlangung der vollständigen Kontrolle über KI und die Hauptvermögenswerte des globalen Finanzsystems
+zu schaffen. Durch solche Handlungen täuschten die russischen Generäle die Eigentümer des FRS, indem sie
+die Fähigkeiten und den Einfluss des International Treasury M1 unterschätzten und das FRS heute in eine
+kritische Situation brachten, aus der es keinen Ausweg gibt, mit der Folge - dem wirtschaftlichen Zusammenbruch
+der Corporation der Vereinigten Staaten von Amerika (USA). Obwohl die Aufnahme eines konstruktiven
+Dialogs mit dem International Treasury M1 die aktuelle Situation noch korrigieren könnte, unter Beibehaltung
+teilweiser Funktionen des FRS in der globalen Finanzarchitektur.
+       Das International Treasury M1 hat mit der systematischen Blockierung von Transaktionen unter
+Verwendung der Vermögenswerte des International Treasury M1 begonnen, um den Einfluss des FRS auf die
+Weltwirtschaft zu verringern, was heute in erster Linie von den führenden Ländern gespürt wird. Die von vielen
+Ländern gestarteten Mechanismen für den Übergang zu gegenseitigen Verrechnungen in nationalen Währungen
+bestätigen einmal mehr das Verständnis für die Notwendigkeit, die Abhängigkeit vom US-Dollar zu verringern.
+       Eine wichtige Rolle spielen die Vermögenswerte des International Treasury M1, die entgegen Verboten
+vom FRS zu seinem eigenen Nachteil verwendet werden. Früher war die Ausgabe von US-Dollar durch Gold-
+Zertifikate gedeckt, dies ermöglichte die Einführung eines ständigen Zustroms von US-Dollar, gedeckt durch
+Vermögenswerte, die vom International Treasury M1 gehalten und verwaltet werden, in die Weltwirtschaft.
+Heute ist dies nicht mehr möglich, und alle Bemühungen sind vergeblich.
+       Die Grundlage der Finanzpolitik des FRS ist nun auf die Anpassung des Zinssatzes beschränkt. Laut
+Plan werden zu diesem Thema 8 (acht) Ausschusssitzungen im Jahr abgehalten. Es gibt Situationen, in denen
+zusätzliche Sitzungen abgehalten werden müssen, in denen Entscheidungen zur Änderung des Zinssatzes
+getroffen werden. Wir haben in diesem Jahr den
 
-
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                   Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                   Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                    crime punishable by law
 
-                                                    7 of 12
-States Department of Treasury (USA) Chief Executive in a vain attempt to increase the
-United States of America (USA) National Debt Limit when the United States (USA)
-Congress, after much deliberation, made the decision to increase the limit with difficulty,
-showing the whole world Congress incompetence, lack of understanding of what is
-happening in the economy, and, frankly, treacherous actions towards his American People.
-       The change in the interest rate of the FRS entails a certain reaction of large investors
-and businessmen around the world. As a result, the FRS has a direct impact on the economy
-in the world. Especially this year, the impact on the global economy is negative. It should
-be noted that everything is interconnected in the financial world, therefore, the FRS has a
-direct impact on the FOREX market as a whole. All over the world, investors and large
-businessmen buy and sell currencies of various states to make their profit. During the
-meeting of the Federal Reserve Committee on the interest rate, all participants in the global
-financial market are closely following this event, as a change in this value will entail a
-whole series of economic changes.
-       As a reminder, the Federal Reserve System is a privately held joint stock company
-in the United States of America (USA) that acts as the country's central bank. It consists of
-twelve reserve banks scattered throughout the country. The main task of the organization
-is to regulate the American economy by issuing money supply into circulation and
-changing the interest rate. The US dollar is a world currency, and all currencies are usually
-counted through it, as a result, a change in the interest rate will definitely lead to a sharp
-movement in the price of the currency pair. Investors, businessmen and traders around the
-world are following the meeting of the Federal Reserve Committee very closely, if a
-decision is made to change the interest rate, this will affect the value of not only all world
-currencies, but also other assets around the world.
-       International portfolio managers are beginning to be less optimistic about the future
-of the global economy. This was facilitated by the FRS comments on monetary policy.
-Under such conditions, managers increased the share of cash in portfolios, reducing
-investments in shares of companies in developing countries.
-       The dependence of the European economy on the policy of the FRS has become
-more significant recently, during the beginning of the economic crisis, formed by the
-pandemic. The European debt crisis, or sovereign debt crisis in a number of European
-countries, is a debt crisis that in 2010 first engulfed the peripheral countries of the European
-Union, and then spread to almost the entire euro zone.
-       For some eurozone countries, it has become difficult or impossible to refinance
-public debt without the help of intermediaries. The eurozone has an inflexible monetary
-policy, since all members of the eurozone are required to adhere to a single monetary
+                                                    7 von 12
+Chief Executive des US-Finanzministeriums (USA) in einem vergeblichen Versuch gesehen, die
+Schuldenobergrenze der Vereinigten Staaten von Amerika (USA) zu erhöhen, als der Kongress der Vereinigten
+Staaten (USA) nach langem Überlegen die Entscheidung zur Erhöhung der Obergrenze nur mit Mühe traf und
+der ganzen Welt die Inkompetenz des Kongresses, das mangelnde Verständnis für das, was in der Wirtschaft
+geschieht, und ehrlich gesagt verräterische Handlungen gegenüber seinem amerikanischen Volk zeigte.
+       Die Änderung des Zinssatzes des FRS zieht eine bestimmte Reaktion großer Investoren und
+Geschäftsleute auf der ganzen Welt nach sich. Infolgedessen hat das FRS einen direkten Einfluss auf die
+Wirtschaft in der Welt. Besonders in diesem Jahr sind die Auswirkungen auf die Weltwirtschaft negativ. Es ist
+zu beachten, dass in der Finanzwelt alles miteinander verbunden ist, daher hat das FRS einen direkten Einfluss
+auf den FOREX-Markt als Ganzes. Auf der ganzen Welt kaufen und verkaufen Investoren und große
+Geschäftsleute Währungen verschiedener Staaten, um ihren Gewinn zu erzielen. Während der Sitzung des
+Federal Reserve Committee zum Zinssatz verfolgen alle Teilnehmer des globalen Finanzmarktes dieses Ereignis
+genau, da eine Änderung dieses Wertes eine ganze Reihe wirtschaftlicher Veränderungen nach sich ziehen wird.
+       Zur Erinnerung: Das Federal Reserve System ist eine privat gehaltene Aktiengesellschaft in den
+Vereinigten Staaten von Amerika (USA), die als Zentralbank des Landes fungiert. Es besteht aus zwölf
+Reservebanken, die über das ganze Land verteilt sind. Die Hauptaufgabe der Organisation ist die Regulierung
+der amerikanischen Wirtschaft durch die Ausgabe von Geldmenge in den Umlauf und die Änderung des
+Zinssatzes. Der US-Dollar ist eine Weltwährung, und alle Währungen werden normalerweise durch ihn
+gerechnet, was zur Folge hat, dass eine Änderung des Zinssatzes definitiv zu einer starken Bewegung des
+Preises des Währungspaares führen wird. Investoren, Geschäftsleute und Händler auf der ganzen Welt
+verfolgen die Sitzung des Federal Reserve Committee sehr genau; wenn eine Entscheidung zur Änderung des
+Zinssatzes getroffen wird, wird dies den Wert nicht nur aller Weltwährungen, sondern auch anderer
+Vermögenswerte auf der ganzen Welt beeinflussen.
+       Internationale Portfoliomanager beginnen, weniger optimistisch über die Zukunft der Weltwirtschaft zu
+sein. Dazu trugen die Kommentare des FRS zur Geldpolitik bei. Unter solchen Bedingungen erhöhten die
+Manager den Anteil an Bargeld in den Portfolios und reduzierten die Investitionen in Aktien von Unternehmen
+in Entwicklungsländern.
+       Die Abhängigkeit der europäischen Wirtschaft von der Politik des FRS ist in letzter Zeit, zu Beginn der
+durch die Pandemie verursachten Wirtschaftskrise, bedeutender geworden. Die europäische Schuldenkrise oder
+Staatsschuldenkrise in einer Reihe europäischer Länder ist eine Schuldenkrise, die 2010 zunächst die
+Peripherieländer der Europäischen Union erfasste und sich dann auf fast die gesamte Eurozone ausbreitete.
+       Für einige Länder der Eurozone wurde es schwierig oder unmöglich, Staatschulden ohne die Hilfe von
+Intermediären zu refinanzieren. Die Eurozone hat eine unflexible Geldpolitik, da alle Mitglieder der Eurozone
+verpflichtet sind, sich an eine einheitliche Geldpolitik zu halten,
 
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                   Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                   Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                    crime punishable by law
 
-                                                    8 of 12
-policy, individual countries can no longer issue national currencies in order to make
-payments on obligations to creditors or reduce the risk of default.
-       The International Treasury M1 welcomes the European countries that are actively
-involved in a productive dialogue in search of solutions to the debt crisis. We would like
-to assure you that the International Treasury M1 adheres to all previously issued
-Resolutions, and is determined to provide the necessary assistance in finding constructive
-ways to solve complex problems of overcoming the debt crisis, for a systematic transition
-to economic growth in the European countries that applied. The International Treasury M1
-confirms its readiness to provide the necessary amount of assets secured by banking gold
-to finance projects and form sustainable economic development.
-        The International Treasury M1 has expressed its rejection of any form of
-discrimination and support for fascism by many European countries, in this regard, the
-increased actions of European politicians in Russophobia and efforts to transfer the special
-operation of the Russian Federation in a large-scale war with NATO countries, with the
-United States of America (USA) are of concern. We once again warn against such rash
-steps that will inevitably lead to the destruction of Europe and the United States of America
-Corporation (USA). We call for tolerance and prudence in decision-making in order to
-prevent a repetition of the destruction of humanity, as it has happened before. Thanks to
-the census of history, today many do not even know that a large-scale nuclear war was not
-so long ago, leaving the ruins of a past civilization to us as a legacy. But we, who are in
-management of the International Treasury M1, remember these times well, and the periods
-of the beginning of the construction of a new civilization. Today's politicians who carry
-out the negative scenarios of their puppeteers, promoting the ideas of totalitarianism and
-the superiority of some over others, do not know or do not remember the bitterness of
-losses and the consequences of the war.
-      According to the new architecture of the World Financial System, the relationship,
-work and regulation of all treasuries of the World is carried out by the International
-Treasury Department of the International Treasury M1,
-       Taking into account the effect of Resolution № 017 of May 13, 2022
-(017/RES2022), the declared default of the Corporation of the United States of America
-(USA) and all its subjects and sub-entities of law, the announcement of the launch of the
-liquidation process of the Federal Reserve System, to eliminate the negative consequences
-of the Jamaican currency system, the annulment of the peg of the currencies of other
-countries to the dollar that has become world reserve currencies United States of America
-(USA), EURO, to end neo-colonialism by the United States of America (USA) Corporation
-with the support of London City, the International Treasury M1, decides:
+                                                    8 von 12
+einzelne Länder können keine nationalen Währungen mehr ausgeben, um Zahlungen auf Verpflichtungen
+gegenüber Gläubigern zu leisten oder das Ausfallrisiko zu verringern.
+       Das International Treasury M1 begrüßt die europäischen Länder, die sich aktiv an einem produktiven
+Dialog zur Suche nach Lösungen für die Schuldenkrise beteiligen. Wir möchten versichern, dass das
+International Treasury M1 alle zuvor veröffentlichten Resolutionen einhält und entschlossen ist, die notwendige
+Hilfe bei der Suche nach konstruktiven Wegen zur Lösung komplexer Probleme der Überwindung der
+Schuldenkrise zu leisten, für einen systematischen Übergang zu Wirtschaftswachstum in den antragstellenden
+europäischen Ländern. Das International Treasury M1 bestätigt seine Bereitschaft, die erforderliche Menge an
+Vermögenswerten, besichert durch Bankgold, zur Finanzierung von Projekten und zur Bildung einer
+nachhaltigen wirtschaftlichen Entwicklung bereitzustellen.
+        Das International Treasury M1 hat seine Ablehnung jeder Form von Diskriminierung und
+Unterstützung des Faschismus durch viele europäische Länder zum Ausdruck gebracht; in diesem
+Zusammenhang geben die verstärkten Aktionen europäischer Politiker in Bezug auf Russophobie und
+Bemühungen, die Spezialoperation der Russischen Föderation in einen groß angelegten Krieg mit NATO-
+Ländern, mit den Vereinigten Staaten von Amerika (USA) zu verwandeln, Anlass zur Sorge. Wir warnen
+erneut vor solchen unüberlegten Schritten, die unweigerlich zur Zerstörung Europas und der Corporation der
+Vereinigten Staaten von Amerika (USA) führen werden. Wir rufen zu Toleranz und Umsicht bei
+Entscheidungen auf, um eine Wiederholung der Zerstörung der Menschheit zu verhindern, wie es bereits
+geschehen ist. Dank der Volkszählung der Geschichte wissen viele heute nicht einmal, dass ein groß angelegter
+Atomkrieg vor nicht allzu langer Zeit stattfand und uns die Ruinen einer vergangenen Zivilisation als Erbe
+hinterließ. Aber wir, die wir in der Leitung des International Treasury M1 sind, erinnern uns gut an diese Zeiten
+und an die Perioden des Beginns des Aufbaus einer neuen Zivilisation. Die heutigen Politiker, die die negativen
+Szenarien ihrer Drahtzieher umsetzen und die Ideen des Totalitarismus und der Überlegenheit einiger über
+andere fördern, kennen oder erinnern sich nicht an die Bitterkeit der Verluste und die Folgen des Krieges.
+      Gemäß der neuen Architektur des Weltfinanzsystems werden die Beziehungen, die Arbeit und die
+Regulierung aller Schatzämter der Welt von der International Treasury Department des International Treasury
+M1 durchgeführt.
+       Unter Berücksichtigung der Wirkung der Resolution Nr. 017 vom 13. Mai 2022 (017/RES2022), des
+erklärten Zahlungsausfalls der Corporation der Vereinigten Staaten von Amerika (USA) und aller ihrer
+Rechtssubjekte und -untereinheiten, der Ankündigung des Starts des Liquidationsprozesses des Federal Reserve
+Systems, zur Beseitigung der negativen Folgen des jamaikanischen Währungssystems, der Annullierung der
+Bindung der Währungen anderer Länder an den Dollar, der zu Weltreservewährungen gewordenen Währungen
+der Vereinigten Staaten von Amerika (USA), EURO, zur Beendigung des Neokolonialismus durch die
+Corporation der Vereinigten Staaten von Amerika (USA) mit Unterstützung der Londoner City, beschließt das
+International Treasury M1:
 
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
+                   Die Fälschung offizieller Dokumente des International Treasury Monetary One ist eine strafbare
+                   Handlung / Any forgery of the official documents of the International Treasury Monetary One shall be a
                    crime punishable by law
 
-                                                    9 of 12
-       To cancel the Rights and opportunities of the Board of Governors of the Federal
-Reserve System to form any measures, decisions, resolutions, domestic and international
-policies, based on the use of the assets of the World Financial System, administered by the
-International Treasury M1, in particular the Basic World Sacred, Spiritual Accounts in the
-World Bank, distributed among various banks in countries around the world, which are the
-basis of the architecture of the global financial system and grounded in a database of assets
-and accounts and other assets and funds.
-       To cancel the Rights of the Board of Governors of the Federal Reserve System, in
-the formation of measures, decisions, resolutions, international financial policy, the
-removal of such powers and Rights from persons in the Board of Governors of the Federal
-Reserve System on 19.07.2022: Mr. Jerome H. Powell, Chair; Ms. Michelle W. Bowman;
-Ms. Lael Brainard, Vice Chair; Ms. Lisa D Cook Mr. Philip N. Jefferson; Mr. Christopher
-J. Waller and others, holding positions, and following the regulations of the internal policy
-of rotation and subsequent appointed persons, are deprived of the right to make decisions,
-measures, resolutions, international financial policy, which may have a negative impact on
-the architecture of the World financial system, based on the use of the assets of the World
-financial system, administered by the International Treasury M1.
-        Given the lack of centralized decision making between the FRS and the FRS Banks,
-this revocation also applies to FRS Banks whose executives are members of the FRS Board
-of Governors - 01-Boston; 02-New York; 03-Philadelphia; 04-Cleveland; 05 Richmond;
-06-Atlanta; 07-Chicago; 08-St. Louis; 09-Minneapolis; 10-Kansas City; 11-Dallas; 12-San
-Francisco.
-        Taking into account the aggressiveness of the neo-colonial activities of the FRS
-units, the United States Department of the Treasury (USA) in particular the control of
-foreign assets, the International Treasury M1 notifies the deprivation of the status of world
-controllers, and in this regard activates the blocking in the international financial systems
-of the Access Rights to Freeze and Block Assets. In case of violations and fixation of
-violations by our specialists, the International Treasury M1 will take retaliatory measures,
-with the possible complete suspension of the work of the FRS, the United States
-Department of the Treasury (USA) in the field of interbank settlement systems, such
-systems as FedWire, FedNow, Chip, ABA, US Swift. Persons holding positions in
-Departments under the Division of International Finance, and following the internal
-rotation regulations and subsequent appointees, are deprived of the Right1 to make
-decisions that may have a negative impact on the architecture of the World Financial
-System, based on the use of the global financial system assets, administered by the
-International Treasury M1.
-
-
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
-                   crime punishable by law
-
-                                                    10 of 12
-       Deprivation of the Right to take measures, decisions, resolutions, international
-financial policy that may have a negative impact on the architecture of the World Financial
-System, based on the use of the global financial system assets, administered by the
-International Treasury M1, also applies to the United States Department of the Treasury
-(USA).
-       Deprivation of the Rights to take measures, decisions, resolutions, international
-financial policy, which may have a negative impact on the architecture of the World
-Financial System, based on the use of the global financial system assets, administered by
-the International Treasury M1, also applies to the World Bank Group (WB), including the
-International Bank for Reconstruction and Development (IBRD) and addition to the IBRD:
-International Development Association (IDA), International Finance Corporation,
-Multilateral Investment Guarantee Agency, International Center for Settlement of
-Investment Disputes.
-        We emphasize that the Deprivation of the Rights to make decisions that may have a
-negative impact on the architecture of the World Financial System implies the termination
-of the financial and economic policy, based on the use of the global financial system assets,
-administered by the International Treasury M1, pursued to promote and strengthen the
-neo-colonialism of the Corporation of the United States of America (USA) throughout the
-World, which in its actions takes into account only its own interests, to the detriment of the
-interests of other Peoples and Countries, creating artificially created economic crises in
-countries, wars, poverty, famine, genocide in countries where they do not adhere to the
-proposed course of the Corporation of the United States of America (USA).
-       The above institutions are the main financial and monetary policy of the Corporation
-of the United States of America (USA), the main Bretton Woods system, and the Jamaican
-monetary system that followed it. Such a policy should be reviewed, because there is no
-place for such a policy in the future world and there will not be, in this regard, the
-International Treasury M1 offers today still working mechanisms for overcoming the
-current global financial crisis, including also the use of still working mechanisms for the
-Corporation of the United States of America (USA). During the subsequent stages of the
-global financial crisis unfolding, in the context of the unfolding crisis within the United
-States of America (USA), the measures proposed today by the International Treasury M1
-will be revised tomorrow based on new realities, challenges and the number of countries
-involved in the unfolding global economic crisis.
-       The International Treasury M1 decides to continue dealing with these issues to its
-specialized divisions - the Special Department for overcoming the global financial crisis
-"Anti-Crisis Center".
-
-
-                   Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                   преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
-                   crime punishable by law
-
-                                                    11 of 12
-      Control and audit of the implementation of this Resolution is entrusted to the
-Executive Committee of the International Treasury M1.
-
-
-                                      Approved, completed and executed
-                                                     Date 22.07.2022
-
-
-
-
-                                                        His Majesty
-                                                         Alexander
-
-                                 Secretary General, Chief Treasurer
-                            of the International Treasury Monetary One
-
-                             President and Chief Operating Officer of
-                            White Spiritual Boy R. S. B. Global Corp Inc
-
-                                                     UN No. 509519
-
-
-
-
-         1.
-            Deprivation of Rights means the annulment of the powers to form any international policy, any actions
-based on the assets of the World Financial System, which entails the deprivation of energies (including sacred ones)
-in the earthly world, in this regard, all actions of the Deprived of Rights are initially doomed to failure, since are in
-conflict with the decisions of the International Treasury M1.
-
-
-
-
-                         Подделка официальных документов Международного Казначейства М1 является уголовно наказуемым
-                         преступлением / Any forgery of the official documents of the International Treasury Monetary One shall be a
-                         crime punishable by law
-
-                                                          12 of 12
-
+                                                    9 von 12
+       Die Rechte und Möglichkeiten des Board of Governors des Federal Reserve Systems zur Bildung von
+Maßnahmen, Entscheidungen, Resolutionen, Innen- und Außenpolitik auf der Grundlage der Nutzung der
+Vermögenswerte des Weltfinanzsystems, die vom International Treasury M1 verwaltet werden, insbesondere
+der grundlegenden weltweiten heiligen, spirituellen Konten bei der Weltbank, die auf verschiedene Banken in
+Ländern auf der ganzen Welt verteilt sind und die Grundlage der Architektur des globalen Finanzsystems bilden
+und in einer Datenbank von Vermögenswerten und Konten und anderen Vermögenswerten und Mitteln
+verankert sind, aufzuheben.
+       Die Rechte des Board of Governors des Federal Reserve Systems bei der Bildung von Maßnahmen,
+Entscheidungen, Resolutionen, internationaler Finanzpolitik aufzuheben, wobei solche Befugnisse und Rechte
+von Personen im Board of Governors des Federal Reserve Systems am 19.07.2022 entzogen werden: Herrn
+Jerome H. Powell, Vorsitzender; Frau Michelle W. Bowman; Frau Lael Brainard, stellvertretende Vorsitzende;
+Frau Lisa D. Cook; Herrn Philip N. Jefferson; Herrn Christopher J. Waller und anderen, die Positionen
+innehaben, und gemäß den Vorschriften der internen Rotationspolitik und nachfolgend ernannten Personen wird
+das Recht entzogen, Entscheidungen, Maßnahmen, Resolutionen, internationale Finanzpolitik zu treffen, die
+negative Auswirkungen auf die Architektur des Weltfinanzsystems haben könnten, basierend auf der Nutzung
+der Vermögenswerte des Weltfinanzsystems, die vom International Treasury M1 verw

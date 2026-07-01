@@ -1,67 +1,59 @@
 # Resolution-021
 
-# Resolution-021
+**Quell-PDF:** `Resolution-021.pdf`
 
-**Source PDF:** `Resolution-021.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 6
+**Extraktionsmethode:** OCR via eingebettete Bildextraktion
+**Bilder:** 6
 **OCR:** tesseract deu+eng
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 Ira
 band
 
-MemxayHapoaHoe Ka3sHayenctso M1
+International Treasury Monetary One
 International Treasury Monetary One
 
-LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Date: October 25, 2022
-Ex. No.: 021/RES2022
+Datum: 25. Oktober 2022
+Ausf.-Nr.: 021/RES2022
 Code: @ 0139TBRA |
 Code: fi 786 TIAH
 
 ie
 eu ae %- aI
 
-ORDER No. 021
-We hereby confirm that the International Treasury Monetary One is the owner and
-manager of the World Global Account of ‘thg Internatignal Treasury Monetary One No.
-01-00-01-4-AAA-777-C3-AM-01, which«was. located in the WORLD BANK until
-
-October 29, 2021, and distributed to various banks in countries around the world.
+ANORDNUNG Nr. 021
+Hiermit bestätigen wir, dass die International Treasury Monetary One der Eigentümer und
+Verwalter des World Global Account der International Treasury Monetary One Nr.
+01-00-01-4-AAA-777-C3-AM-01 ist, der sich bis zum
+29. Oktober 2021 bei der WORLD BANK befand und auf verschiedene Banken in Ländern auf der ganzen Welt verteilt wurde.
 
 *
 
-We remind that the International Treasury Monetary One is the owner and manager
-World Global Account of the International Treasury Monetary One No. 01-1-700-3516
-222 777 8888 999, which was located in the WORLD BANK until October 29, 2021, and
-distributed to various banks in countries around the world. ©
+Wir erinnern daran, dass die International Treasury Monetary One der Eigentümer und Verwalter
+des World Global Account der International Treasury Monetary One Nr. 01-1-700-3516
+222 777 8888 999 ist, der sich bis zum 29. Oktober 2021 bei der WORLD BANK befand und
+auf verschiedene Banken in Ländern auf der ganzen Welt verteilt wurde. ©
 
-We remind that the International Treasury Monetary One is the owner and manager
-of assets, including accounts under the names: “White Spiritual Boy”, “Spiritual Wonder
-Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”, “Prophet
-‘ Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White Vatican”, “White
-Eagle”, “Maria Sinukuan or Divine Crystal”, “Maria Divine Banahaw or Sunflower”,
-“Maria Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester Egg”, “Falcon”,
-“Alpha — Omega” and other accounts located in different Banks in 189 (One hundred
-eighty-nine) countries around the World.
+Wir erinnern daran, dass die International Treasury Monetary One der Eigentümer und Verwalter
+von Vermögenswerten ist, einschließlich Konten unter den Namen: „White Spiritual Boy“, „Spiritual Wonder
+Boy“, „Spiritual Wonder Brothers“, „Morning Star“, „King David“, „Prophet
+Muhammad“, „Demas and Saint Timothy“, „White Mongolia“, „White Vatican“, „White
+Eagle“, „Maria Sinukuan or Divine Crystal“, „Maria Divine Banahaw or Sunflower“,
+„Maria Cristina or Divine Magdalene“, „Maria Makiling or Divine Ester Egg“, „Falcon“,
+„Alpha — Omega“ und andere Konten, die sich bei verschiedenen Banken in 189 (Einhundertneunundachtzig) Ländern auf der ganzen Welt befinden.
 
-Tlonnenka ObHUHANBHBEIX NOKYMEHTOB Mexkaynaponngip,
-npectynnennem / Any forgery of the official documtnts ko
-crime punishable by law ave
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar, die gesetzlich geahndet wird / Any forgery of the official documents of the International Treasury Monetary One shall be a crime punishable by law
 
-asHayelictsa MI aBaaeTCA YTONOBHO HakasyemMbIM
-he Intemational Treasury Monetary One shall be a
 &
 
 
 
-## Section 001
+## Abschnitt 001
 
 Li
 
@@ -69,27 +61,11 @@ diye
 
 EIE
 
-We are guided by previous resolutions and statements ofthe International Treasury
-Monetary One;
+Wir lassen uns von früheren Resolutionen und Erklärungen der International Treasury Monetary One leiten;
 
 =]
 
-Confirming the Resolution No. 001 (001/RES2020) from April 07, 2020 «Anti-crisis
-financial measures»; Resolution No. 002 (002/RES2020) dated June 02, 2020 «The one
-way out of the global financial crisis»; Resolution No. 003 (003/RES2020) dated October
-01, 2020; Resolution No. 004 (004/RES2021) dated February 23, 2021 «Cancellation of
-historical assets in order to form a balanced new financial system»; Resolution No. 005
-(005/RES2021) dated July 16, 2021; Resolution No. 006 (006/RES2021) dated September
-13, 2021; Resolution No. 007 (007/RES2021) dated October 01, 2021; Resolution No. 008
-(008/RES2021) of December 21, 2021; Resolution No. 009 (009/RES2021) of December
-22, 2021; Notification No. 010 (010/RES2022) of January 13, 2022; Resolution No. 011
-(011/RES2022) of January 22, 2022; Resolution No. 012 (012/RES2022) of February 27,
-2022; Resolution No. 013 (013/RES2022) of March 01, 2022; Resolution No. 014
-(014/RES2022) of March 03, 2022; Resolution No. 015 (015/RES2022) of March 13, 2022;
-Resolution No. 016 (016/RES2022) of March 16, 2022; Resolution No. 017
-(017/RES2022) of May 13, 2022; Resolution No. 018 (018/RES2022) of July 22, 2022;
-Order No. 019 (019/RES2022) of September23, 2022; Order No. 020 (020/RES2022) of
-October 05, 2022.  @ od
+Bestätigung der Resolution Nr. 001 (001/RES2020) vom 07. April 2020 «Antikrisen-Finanzmaßnahmen»; Resolution Nr. 002 (002/RES2020) vom 02. Juni 2020 «Der einzige Ausweg aus der globalen Finanzkrise»; Resolution Nr. 003 (003/RES2020) vom 01. Oktober 2020; Resolution Nr. 004 (004/RES2021) vom 23. Februar 2021 «Streichung historischer Vermögenswerte zur Bildung eines ausgewogenen neuen Finanzsystems»; Resolution Nr. 005 (005/RES2021) vom 16. Juli 2021; Resolution Nr. 006 (006/RES2021) vom 13. September 2021; Resolution Nr. 007 (007/RES2021) vom 01. Oktober 2021; Resolution Nr. 008 (008/RES2021) vom 21. Dezember 2021; Resolution Nr. 009 (009/RES2021) vom 22. Dezember 2021; Bekanntmachung Nr. 010 (010/RES2022) vom 13. Januar 2022; Resolution Nr. 011 (011/RES2022) vom 22. Januar 2022; Resolution Nr. 012 (012/RES2022) vom 27. Februar 2022; Resolution Nr. 013 (013/RES2022) vom 01. März 2022; Resolution Nr. 014 (014/RES2022) vom 03. März 2022; Resolution Nr. 015 (015/RES2022) vom 13. März 2022; Resolution Nr. 016 (016/RES2022) vom 16. März 2022; Resolution Nr. 017 (017/RES2022) vom 13. Mai 2022; Resolution Nr. 018 (018/RES2022) vom 22. Juli 2022; Anordnung Nr. 019 (019/RES2022) vom 23. September 2022; Anordnung Nr. 020 (020/RES2022) vom 05. Oktober 2022.  @ od
 
 Coheed f Eade
 
@@ -97,170 +73,69 @@ EI)
 
 es yesyeLs)
 
-We hereby confirm that the Military:People's Council of the USSR is the Successor
-of the Legislative, Judicial and Exécutive Power of the Uhion of Soviet Socialist Republics
-(Resolution of the First Congress of Citizens of the USSR Nel dated December 30, 1991, E
-Mandate of Trust of the First Congress of Citizens of the USSR Ne 1/1 dated December 30,
+Hiermit bestätigen wir, dass der Militär-Volksrat der UdSSR der Rechtsnachfolger der Legislativ-, Judikativ- und Exekutivgewalt der Union der Sozialistischen Sowjetrepubliken ist (Resolution des Ersten Bürgerkongresses der UdSSR Nr. 1 vom 30. Dezember 1991, E Treuhandmandat des Ersten Bürgerkongresses der UdSSR Nr. 1/1 vom 30. Dezember 1991, Resolution des Ersten Bürgerkongresses der UdSSR an die Vereinten Nationen und E an die Internationale Gemeinschaft aller Länder der Welt Nr. 1/2 vom 30. Dezember 1991, Resolution des Ersten Bürgerkongresses der UdSSR Nr. 1/3 vom 30. Dezember 1991, achthundertvierundsiebzig Delegierte, darunter aus den Republiken der UdSSR, E nahmen am Ersten Bürgerkongress der UdSSR teil: aus der RSFSR dreihundertachtundsechzig Delegierte, aus der Ukrainischen SSR einhundertsechsundachtzig Delegierte, [E aus der Weißrussischen SSR vierundneunzig Delegierte, aus der Kasachischen SSR vierundfünfzig „|| Delegierte, aus der Armenischen SSR einunddreißig Delegierte, aus der Moldauischen SSR dreißig E Delegierte, aus der Usbekischen SSR vierundzwanzig Delegierte, aus der Tadschikischen SSR sechzehn „|| Delegierte, aus der Kirgisischen SSR vierzehn Delegierte, aus der Aserbaidschanischen SSR zwölf E Delegierte, aus der Lettischen SSR zehn Delegierte, aus der Georgischen SSR neun Delegierte, die S| Turkmenische SSR acht Delegierte, aus der Estnischen SSR sechs Delegierte. Von den Delegierten, die E beim Ersten Bürgerkongress der UdSSR anwesend waren, arbeiteten und stimmten =] einstimmig: dreihundertsechsundachtzig Abgeordnete des Obersten Sowjets der UdSSR; :
 
-1991 , Resolution of the First Congress of Citizens of the USSR to the United Nations and E
-to the International Community of All Countries ofthe World Ne 1/2 dated December 30,
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar, die gesetzlich geahndet wird / Any forgery of the official documents of the International Treasury Monetary One shall be a crime punishable by law
 
-1991, Resolution of the First Congress of Citizens of the USSR Ne 1/3 dated December 30,
-
-1991, eight hundred and seventy-four delegates including from the Republics of the USSR- E
-participated in the First Congress of Citizens of the USSR: from the RSFSR three hundred =
-and sixty-eight delegates, from the Ukrainian SSR one hundred and eighty-six delegates, [E
-from the Byelorussian SSR ninety-four delegates, from the Kazakh SSR fifty-four “||
-delegates, from the Armenian SSR thirty-one delegates, from the Moldavian SSR thirty E
-delegates, from the Uzbek SSR twenty-four delegates, from the Tajik SSR sixteen “||
-delegates, from the Kirghiz SSR fourteen delegates, from the Azerbaijan SSR twelve E
-delegates, from the Latvian SSR ten delegates, from the Georgian SSR nine delegates, the S|
-Turkmen SSR eight delegates, from the Estonian SSR six delegates. Of the delegates who E
-were present at the First Congress of Citizens ofthe USSR the following worked and voted =]
-unanimously: three hundred and eighty-six Deputies of the Supreme Soviet of the USSR; :
-
-npectynieHHem / Any forgery of the official docymhens- oF
-crime punishable by law N
-
-2of 6
+2 von 6
 
 
 
-## Section 002
+## Abschnitt 002
 
 : oo agers
 aor ch Set Tae a | j
 \ a. toe fy ext Pom
 
-USSR; one hundred and forty-nine deputies of regional, city and district formations; fifty-
+UdSSR; einhundertneunundvierzig Abgeordnete regionaler, städtischer und bezirklicher Formationen; siebenundfünfzig Abgeordnete von Siedlungs- und ländlichen Sowjets der UdSSR, sieben Delegierte aus Machtstrukturen der UdSSR). ]
+Hiermit bestätigen wir, dass gemäß der Resolution des Präsidiums des Militär-Volksrates der UdSSR: Staatsdekret der UdSSR Nr. 81-6 vom 07. Oktober 2018 ] über die Wiederherstellung der Tätigkeit der Schatzkammer der Union der Sozialistischen Sowjetrepubliken, die International Treasury Monetary One die Funktion der Schatzkammer der Union der Sozialistischen Sowjetrepubliken ausübt. Der Posten des Schatzmeisters der Union der Sozialistischen Sowjetrepubliken wurde dem Generalsekretär und Chefschatzmeister der International Treasury Monetary One, Seiner Majestät Alexander Nikolajewitsch Paramonow, anvertraut. ]
+Hiermit bestätigen wir, dass gemäß der Resolution des Präsidiums des Militär-Volksrates der UdSSR Nr. 11/11/11 vom 18. Oktober 2013 und der Anordnung des Präsidiums des Militär-Volksrates der UdSSR Nr. 11 vom 25. Oktober 2013, der Fonds für soziale und wirtschaftliche Entwicklung der Regionen „Schatzkammer des Schöpfers von RA“, geleitet vom Direktor, Seiner Majestät Alexander Nikolajewitsch Paramonow, im Status des Obersten Organisations- und Exekutiv-Staatsorgans der Union der Sozialistischen Sowjetrepubliken im monetären, finanziellen, sozioökonomischen und kulturellen Bereich der Union der Sozialistischen Sowjetrepubliken genehmigt wurde. ° . “
 
-seven Deputies of settlement and rural Soviets of the USSR, seven Delegates from power E
-
-structures of the USSR). ]
-We hereby confirm that according to the Resolution of the Presidium ofthe Military [E
-
-two hundred and sixty-four Deputies of the Supreme Soviets of the Union Republics of the E
-
-People's Council of the USSR: State Decree of the USSR Ne 81-6 dated October 07, 2018 ]
-about the restoration of the activities of the Treasury of the Union of Soviet Socialist
-Republics, the International Treasury Monetary One performs the function of the Treasury ]
-
-Socialist Republics has been entrusted to the Secretary General and Chief Treasurer of the
-International Treasury Monetary One, His Majesty Alexander Nikolaevich Paramonov. ]
-We hereby confirm that according to the Resolution of the Presidium of the Military E
-People's Council of the USSR Nel1/11/11 dated October 18, 2013 and the Order of the =|
-Presidium of the Military People's Council of the USSR Ne11 dated October 25, 2013, the E
-Fund of social and economic development of regions “Treasury of the Creator of RA”, a
-
-of the Union of Soviet Socialist Republics. The post of Treasurer of the Union of Soviet _ E
-
-headed by the Director, His Majesty Alexander Nikolayevich Paramonov, was approved in
-the Status of the Supreme Organizational and Executive State Body of the Union of Soviet =|
-Socialist Republics in the monetary, financial, socio-economic and cultural spheres of the E
-Union of Soviet Socialist Republics. ° . “
-
-We reaffirm that the decision of the’C, ngress of People's Deputies of the Union of
-
-Soviet Socialist Republics of March 14, 1990.No. 1360-I (Law of the Union of Soviet ‘||
-Socialist Republics of March 14, 1990 No. 1360-I "On the establishment of the post of [E
-President of the Union of Soviet Socialist Republics and excluded Articles No. 6 «On the. ]
-Leadership Role ofthe Central Committee ofthe Communist Party» from the Constitution E
-
-of the Union of Soviet Socialist Republics, Amendments and Additions to the Constitution “||
-(Basic Law) of the Union of Soviet Socialist Republics") is illegitimate and illegal as the
-Congress of People's Deputies The Union of Soviet Socialist Republics was first opened in ]
-
-May 25, 1989 in the city of Moscow and is the Highest legislative Organ of the Union of E
-Soviet Socialist Republics, but within the framework of the Constitution of the Union of
-
-Soviet Socialist Republics of October 07, 1977, without the right to make amendments and ]
-additions to the Constitution of the Union of Soviet Socialist Republics of October 07, E
-
-1977. e|
-On the basis of Exclusive Historical Law, the Right of the Sovereign, by the
-
-Right of the Owner of All World Assets from the Creator of the New Era and by the
-
-Right of the Main Regulator of the World Financial System, We confirm that on the
-
-basis of the Right of the Sovereign of the Union of Soviet Socialist Republics, on the E
-
-basis of International Law, the Sovereign Country of the Union of Soviet Socialist
-Tloagenka obHIManbHBIX NOKYMEHTOB MexzyHapogHonp ae qughcrpa MI aBnaeTca yronoBHO Haka3yeMbIM |
-npectynnennem / Any forgery of the official documerits of
-crime punishable by law en
-ex
-3 of 6°)
+Wir bekräftigen, dass die Entscheidung des Kongresses der Volksdeputierten der Union der Sozialistischen Sowjetrepubliken vom 14. März 1990 Nr. 1360-I (Gesetz der Union der Sozialistischen Sowjetrepubliken vom 14. März 1990 Nr. 1360-I „Über die Einführung des Amtes des Präsidenten der Union der Sozialistischen Sowjetrepubliken und Ausschluss von Artikel Nr. 6 «Über die führende Rolle des Zentralkomitees der Kommunistischen Partei» aus der Verfassung der Union der Sozialistischen Sowjetrepubliken, Änderungen und Ergänzungen der Verfassung (Grundgesetz) der Union der Sozialistischen Sowjetrepubliken") illegitim und illegal ist, da der Kongress der Volksdeputierten der Union der Sozialistischen Sowjetrepubliken erstmals am 25. Mai 1989 in der Stadt Moskau eröffnet wurde und das höchste gesetzgebende Organ der Union der Sozialistischen Sowjetrepubliken ist, jedoch im Rahmen der Verfassung der Union der Sozialistischen Sowjetrepubliken vom 07. Oktober 1977, ohne das Recht, Änderungen und Ergänzungen der Verfassung der Union der Sozialistischen Sowjetrepubliken vom 07. Oktober 1977 vorzunehmen. e|
+Auf der Grundlage des Ausschließlichen Historischen Rechts, des Rechts des Souveräns, durch das Recht des Eigentümers aller Weltvermögenswerte vom Schöpfer der Neuen Ära und durch das Recht des Hauptregulators des Weltfinanzsystems, bestätigen Wir, dass auf der Grundlage des Rechts des Souveräns der Union der Sozialistischen Sowjetrepubliken, auf der Grundlage des Völkerrechts, das Souveräne Land der Union der Sozialistischen Sowjetrepubliken
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar, die gesetzlich geahndet wird / Any forgery of the official documents of the International Treasury Monetary One shall be a crime punishable by law
+3 von 6°)
 * n
 *
 *
 
 
 
-## Section 003
+## Abschnitt 003
 
 Lad
 
 Sa 2 Li -
 
-Republics is the Sovereign and acting Subject of International Law together with
-Sovereign Citizens Of The Union Of Soviet Socialist Republics,
+Republiken der Souveräne und handelnde Völkerrechtssubjekt zusammen mit den Souveränen Bürgern der Union der Sozialistischen Sowjetrepubliken ist.
 
 Srör
 
-We hereby inform that during the investigation with the help of the State Security
-Committee of the Union of Soviet Socialist Republics, as well as International Law
-Enforcement and Counter-Terrorism Organizations, only in one of the many episodes it
-became clear that in the 1980s and 1990s criminal officials of the highest leadership level
-of the Union of Soviet Socialist Republics and the Secretary General of the Central
-Committee of the Communist Party of the Soviet Union Gorbachev M.S., and later, the
-illegitimate President Mikhail Gorbachev, together with the President ofthe Russian Soviet
-Federative Socialist Republic Yeltsin Boris (suspended for illegal actions from the post of
-President of Russia (CONSTITUTIONAL COURT OF the RUSSIAN FEDERATION
-CONCLUSION No. Z-2 of September 21, 1993), acting on a criminal plan to rob a
-Sovereign Country, Sovereign People, Sovereign Citizens of the Union Of the Soviet
-Socialist Republics, organized embezzlement and theft of assets of the Union of Soviet
-Socialist Republics. The stolen assets from the Sovereign were transferred in various
-criminal ways to the various organizations and individual person.
+Hiermit teilen wir mit, dass während der Untersuchung mit Hilfe des Staatssicherheitskomitees der Union der Sozialistischen Sowjetrepubliken sowie internationaler Strafverfolgungs- und Terrorismusbekämpfungsorganisationen, allein in einer der vielen Episoden klar wurde, dass in den 1980er und 1990er Jahren kriminelle Beamte der höchsten Führungsebene der Union der Sozialistischen Sowjetrepubliken und der Generalsekretär des Zentralkomitees der Kommunistischen Partei der Sowjetunion Gorbatschow M.S., und später der illegitime Präsident Michail Gorbatschow, zusammen mit dem Präsidenten der Russischen Sozialistischen Föderativen Sowjetrepublik Jelzin Boris (wegen illegaler Handlungen vom Amt des Präsidenten Russlands suspendiert (VERFASSUNGSGERICHT DER RUSSISCHEN FÖDERATION SCHLUSSFOLGERUNG Nr. Z-2 vom 21. September 1993), handelnd nach einem kriminellen Plan, ein souveränes Land, ein souveränes Volk, souveräne Bürger der Union der Sozialistischen Sowjetrepubliken auszurauben, Unterschlagung und Diebstahl von Vermögenswerten der Union der Sozialistischen Sowjetrepubliken organisierten. Die gestohlenen Vermögenswerte des Souveräns wurden auf verschiedene kriminelle Weisen an verschiedene Organisationen und Einzelpersonen übertragen.
 
 sTelstelsfelsgelsfelsfelsfelstels
 
 elspalsgels
 
-We affırm that this crime is absolutely unacceptable and violates the most serious
-articles in the field of criminal law of Sovereign Cotintry of the Union of Soviet Socialist
-Republics, subjects and sub-subjects of the Law of the Union of Soviet Socialist Republics,
-and in the field of International Criminal Lave _ u
+Wir bekräftigen, dass dieses Verbrechen absolut inakzeptabel ist und die schwerwiegendsten Artikel im Bereich des Strafrechts des Souveränen Landes der Union der Sozialistischen Sowjetrepubliken, der Subjekte und Sub-Subjekte des Rechts der Union der Sozialistischen Sowjetrepubliken und im Bereich des Internationalen Strafrechts verletzt. u
 
 Grit
 
-In order to restore Justice, according to the Exclusive Historical Right, the Right of
-the Sovereign, the Right of the Owner of All WorldeAssets from the Creator of the New
-Era and the Right of the Chief Regulator of the World Financial System, all the above
-Decrees, Resolutions and Notifications are confirmed, the Decree of the Presidium of the
-Military People's Council of the USSR Ne4444 dated October 29, 2015 is confirmed.
+Um die Gerechtigkeit wiederherzustellen, werden gemäß dem Ausschließlichen Historischen Recht, dem Recht des Souveräns, dem Recht des Eigentümers aller Weltvermögenswerte vom Schöpfer der Neuen Ära und dem Recht des Hauptregulators des Weltfinanzsystems, alle oben genannten Dekrete, Resolutionen und Bekanntmachungen bestätigt, das Dekret des Präsidiums des Militär-Volksrates der UdSSR Nr. 4444 vom 29. Oktober 2015 wird bestätigt.
 
-On the Basis of the foregoing, we decide:
+Auf der Grundlage des Vorstehenden entscheiden wir:
 
 eon
 
-To deprive of Legal Personality and Outlaw all subjects of the Law of those who are
-guilty of this crime.
+Allen Subjekten des Rechts, die dieses Verbrechens schuldig sind, die Rechtspersönlichkeit zu entziehen und sie für vogelfrei zu erklären.
 
-To declare, confirm and declare illegal the Belovezhsky agreement, declared on
-December 08, 1991 by Yeltsin B.N., Kravchuk L.M., Shushkevich S.S.
+Das Belovezhsky-Abkommen, erklärt am 08. Dezember 1991 von Jelzin B.N., Krawtschuk L.M., Schuschkewitsch S.S., für illegal zu erklären, zu bestätigen und zu erklären.
 
-To revoke All Rights to own, manage, store and dispose of All financial and valuable
-assets of the Sovereign country of the Union of Soviet Socialist Republics and the
-Sovereign Soviet People from financial and banking officer Viktor Vladimirovich
-Gerashchenko, from all authorized and unauthorized custodians, holders, managers and
-illegal owners.
+Alle Rechte zum Besitz, zur Verwaltung, zur Aufbewahrung und zur Verfügung über alle finanziellen und wertvollen Vermögenswerte des souveränen Landes der Union der Sozialistischen Sowjetrepubliken und des souveränen Sowjetvolkes von dem Finanz- und Bankbeamten Viktor Wladimirowitsch Geraschtschenko, von allen autorisierten und nicht autorisierten Verwahrern, Inhabern, Verwaltern und illegalen Eigentümern zu entziehen.
 
 elsjelsgalsgalspelsgelspalsge
 
-Tonnenka obnlmanbHBIX NokyMeHtoB MeikıyHapopyafa, Kasnaueictsa M1 ABnaertca yronoBHO HakasyeMbIM
-npectynnennem / Any forgery of the official dpe: nF of aifoslnternational Treasury Monetary One shall be a
-crime punishable by law RN a
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar, die gesetzlich geahndet wird / Any forgery of the official documents of the International Treasury Monetary One shall be a crime punishable by law
 
 Gr
 
@@ -276,59 +151,21 @@ we, Se
 
 
 
-## Section 004
+## Abschnitt 004
 
-According to the Exclusive Historical Right, the Right of the Sovereign, on the
-basis ofthe Right ofthe Owner of All World Assets from the Creator ofthe New Era and
-on the basis ofthe Right ofthe Chief Regulator ofthe World Financial System, we confirm
-that on the basis of the Right of the Sovereign of the Union of Soviet Socialist Republics,
-on the basis of International Law, Resolutions of the Military People's Council USSR:
-Decree of the Presidium of the Military People's Council of the USSR Ne 11/11/11 dated
-October 18, 2013; Decree of the Presidium of the Military People's Council of the USSR
-Ne4444 dated October 29, 2015; Decree of the Presidium of the Military People's Council
-of the USSR GP USSR Ne81-6 dated October 07, 2018, On the restoration of the activities
-of the Treasury of the Union of Soviet Socialist Republics, the right of ownership,
-management, disposal and storage of all valuable and financial assets of the USSR and the
-profit received on the basis of these assets, has the State Treasury of the Union of Soviet
-Socialist Republics, represented by the International Treasury Monetary One, headed by
-the Secretary General and Chief Treasurer of the International Treasury Monetary One, His
+Gemäß dem Ausschließlichen Historischen Recht, dem Recht des Souveräns, auf der Grundlage des Rechts des Eigentümers aller Weltvermögenswerte vom Schöpfer der Neuen Ära und auf der Grundlage des Rechts des Hauptregulators des Weltfinanzsystems, bestätigen wir, dass auf der Grundlage des Rechts des Souveräns der Union der Sozialistischen Sowjetrepubliken, auf der Grundlage des Völkerrechts, der Resolutionen des Militär-Volksrates der UdSSR: Dekret des Präsidiums des Militär-Volksrates der UdSSR Nr. 11/11/11 vom 18. Oktober 2013; Dekret des Präsidiums des Militär-Volksrates der UdSSR Nr. 4444 vom 29. Oktober 2015; Dekret des Präsidiums des Militär-Volksrates der UdSSR GP UdSSR Nr. 81-6 vom 07. Oktober 2018, über die Wiederherstellung der Tätigkeit der Schatzkammer der Union der Sozialistischen Sowjetrepubliken, das Recht auf Eigentum, Verwaltung, Verfügung und Aufbewahrung aller wertvollen und finanziellen Vermögenswerte der UdSSR und des auf der Grundlage dieser Vermögenswerte erzielten Gewinns, die Staatliche Schatzkammer der Union der Sozialistischen Sowjetrepubliken hat, vertreten durch die International Treasury Monetary One, geleitet vom Generalsekretär und Chefschatzmeister der International Treasury Monetary One, Seiner Majestät Alexander Nikolajewitsch Paramonow.
 
-‘ Majesty Alexander Nikolaevich Paramonov.
+Alle nationalen und internationalen Strafverfolgungs- und Terrorismusbekämpfungsorganisationen, nationalen und internationalen Finanz- und Bankenkontrollorganisationen, alle Beamten und Mitarbeiter der nationalen und internationalen Finanz- und Bankensysteme haben unverzüglich alle Bank- und Nichtbankkonten, alle finanziellen und wertvollen Vermögenswerte und den auf ihrer Grundlage erzielten Gewinn zu überwachen, zu prüfen, zu sperren, zu beschlagnahmen und mit Übertragung an die International Treasury Monetary One einzuziehen, um sie der Bilanz der Schatzkammer der Union der Sozialistischen Sowjetrepubliken gutzuschreiben.
 
-All Law Enforcement and Counter-Terrorist Country and International
-Organizations, Country and International Financial and Banking Control Organizations, all
-officers and employees of the Country and Intemational Financial and Banking Systems
-immediately have to monitor, audit, block, arrest ‘and confiscate with transfer to the
-International Treasury Monetary One in order to be credited to The balance sheet of the
-Treasury of the Union of Soviet Sdcialist Repliblics of all Bank and non-bank accounts, all
-financial and valuable assets and the profit ‘earned on their basis.
+Hinsichtlich ehemaliger autorisierter und nicht autorisierter Verwahrer, Inhaber, Verwalter, illegaler Eigentümer und aller Rechtssubjekte ist es notwendig, eine Untersuchung durchzuführen und eine strafrechtliche Bestrafung im vollen Umfang des Rechts des Souveränen Landes der Union der Sozialistischen Sowjetrepubliken, der Subjekte und Sub-Subjekte des Rechts der Union der Sozialistischen Sowjetrepubliken und des Internationalen Strafrechts zu verfolgen.
 
-With regard to former authorized and unautherized custodians, holders, managers,
-illegal owners and all subjects of law, it igenecessary to conduct an investigation and
-prosecute a criminal punishment to the fullest extent of the Law of the Sovereign Country
-of the Union of Soviet Socialist Republics, subjects and sub-subjects of the Law of the
-Union of Soviet Socialist Republics and International Criminal Law.
+Die Kontrolle über die Ausführung dieser Resolution übertrage ich der Sicherheitsabteilung der International Treasury Monetary One und der Abteilung für Internationale Angelegenheiten der International Treasury Monetary One.
 
-I leave control over the execution of this resolution to the Security Department of
-the International Treasury Monetary One and the Department of International Affairs of
-the International Treasury Monetary One.
+Alle Rechtssubjekte sollten sich zur Umsetzung dieses Dekrets per E-Mail an folgende Adresse wenden: i.t.d.secretariat@monetaryone.org.
 
-All subjects of law in pursuance of this Decree should contact by mail e-mail:
-i.t.d.secretariat@monetaryone.org.
-
-The International Treasury Monetary One reaffirms Its Steady purposes of
-Protecting Peace and Humanity and Building a New, Creative and Fair Financial
-System based on the Gold Standard, the Purpose of which is to Serve Humanity in Its
-
-ax
-Tloanenka ouuHanbHbIx AOKYMEHTOB Mean
-
-2 a Kaspaveticrsa MI apasetca yronoBHo Haka3yeMbIM
-npectymmenvem / Any forgery of the ofticigh abe (i
-
-{he Intemational Treasury Monetary One shall be a
-
-crime punishable by law 2 ax +,
+Die International Treasury Monetary One bekräftigt ihre stetigen Ziele des Schutzes von Frieden und Menschlichkeit und des Aufbaus eines neuen, kreativen und gerechten Finanzsystems auf der Grundlage des Goldstandards, dessen Zweck es ist, der Menschheit in ihrer
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar, die gesetzlich geahndet wird / Any forgery of the official documents of the International Treasury Monetary One shall be a crime punishable by law
+5 von 6
 * a4
 5® yj?
 7 St
@@ -342,14 +179,13 @@ Gr
 
 
 
-## Section 005
+## Abschnitt 005
 
 Les aD
 
 dS
 
-Bright, Free, Creative, Spiritual, Moral, Material and Sustainable Development in
-Harmony with God and Nature.
+hellen, freien, kreativen, spirituellen, moralischen, materiellen und nachhaltigen Entwicklung in Harmonie mit Gott und der Natur zu dienen.
 
 NN
 Bor a
@@ -362,23 +198,17 @@ e
 
 MlOI-JHS-O10.7 °F |
 > M6, * BR e . , ; . “
-Narr President and Chief Optrating Director.of —
-
+Präsident und Chief Operating Director der
 White Spiritual Boy R. S.B. Global Corp Inc
 
-Creator. of RA”
+Schöpfer von RA“
 
-Director of Fund of social and economic development of regions “Treasury of the el
+Direktor des Fonds für soziale und wirtschaftliche Entwicklung der Regionen „Schatzkammer des
 
-Grand Intendant and Grand Treasurer
-Sovereign Order of St. John
+Großintendant und Großschatzmeister
+Souveräner Orden des Heiligen Johannes
 
-Ionnenka ouuvanbueix HoKyMentos MercıyHaponye 5 KasyauelictBa M1] xBNAEeTCK YTONOBHO Haka3yeMbIM ;
-npectynmenuem / Any forgery of the official dogampe [40 fg Üternational Treasury Monetary One shall be a
-crime punishable by law “N Or
-6 of & °*
+Jede Fälschung der offiziellen Dokumente der International Treasury Monetary One stellt eine strafbare Handlung dar, die gesetzlich geahndet wird / Any forgery of the official documents of the International Treasury Monetary One shall be a crime punishable by law
+6 von 8 °*
 “. ze
 “7, SH
-
-
-

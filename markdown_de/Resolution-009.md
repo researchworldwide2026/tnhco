@@ -1,10 +1,8 @@
 # Resolution-009
 
-# Resolution-009
+**Quell-PDF:** `Resolution-009.pdf`
 
-**Source PDF:** `Resolution-009.pdf`
-
-**Extraction method:** pdftotext (embedded text)
+**Extraktionsmethode:** pdftotext (eingebetteter Text)
 
 ---
 
@@ -12,535 +10,390 @@
                         Medzinárodná Menová Pokladnica Jedna
           LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
 
-Dátum: 24 decembra 2021
-Ref. č.: 009/RES2021
-Kód: 786
+Datum: 24. Dezember 2021
+Ref. Nr.: 009/RES2021
+Code: 786
 
 
 
-                                    UZNESENIE č. 009
+                                    RESOLUTION Nr. 009
 
 
-         Na základe predchádzajúcich uznesení a vyhlásení Medzinárodnej Menovej Pokladnice
-Jedna,
-       Potvrdzujúc Uznesenie č. 1 (001/RES2020) zo 7 apríla 2020 «Proti-krízové finančné
-opatrenia», Uznesenie č. 2 (002/RES2020) z 2 júna 2020 «Jediné východisko z globálnej
-finančnej krízy», Uznesenie č. 4 (004/RES2021) z 23 februára 2021 «Zrušenie historických
-aktív s cieľom vytvoriť nový vyvážený finančný systém», Uznesenie č. 5 z 16 júla 2021
-(005/RES2021), Uznesenie č. 6 z 13 septembra 2021 (006/RES2021), Uznesenie č. 7 z 10
-októbra 2021 (007/RES2021),
-       Konštatujeme, že Medzinárodná Menová Pokladnica Jedna je vďaka svojej
-univerzálnej povahe a legitimite jedinečnou a kľúčovou organizáciou na hľadanie účinných
-riešení v medzinárodných hospodárskych otázkach s cieľom ovplyvniť proces rozvoja vo
-svete, a opätovne potvrdzujeme, že Medzinárodná Menová Pokladnica Jedna má dobré
-predpoklady zúčastňovať sa na rôznych reformných procesoch zameraných na zlepšenie a
-posilnenie účinného fungovania medzinárodného finančného systému a štruktúr, pričom
-uznávame, že Medzinárodná Menová Pokladnica Jedna a medzinárodné finančné inštitúcie
-disponujú doplnkovými schopnosťami, v dôsledku čoho je koordinácia ich činností kľúčová,
-       Konštatujeme, že svet zažíva najvážnejšiu finančnú a hospodársku krízu od čias Veľkej
-hospodárskej krízy. Narastajúca kríza, ktorá sa začala začiatkom globálnej pandémie v
-najväčších svetových finančných centrách, sa rozšírila na celé svetové hospodárstvo a
-spôsobila vážne sociálne, politické a hospodárske dôsledky. Medzinárodná Menová
-Pokladnica Jedna je hlboko znepokojená jej nepriaznivými účinkami na rozvoj.
-       Táto kríza má negatívny vplyv na všetky krajiny, najmä na rozvojové krajiny, a ohrozuje
-živobytie, blahobyt a možnosti rozvoja miliónov ľudí. Táto kríza nielenže odhalila dlhodobé
-nedostatky a nerovnováhy v celom medzinárodnom finančnom systéme, ale zároveň sa stala
-podnetom pre zvýšené úsilie o reformu a posilnenie medzinárodného finančného systému a
-jeho štruktúry. Našou úlohou je zabezpečiť, aby opatrenia a reakcie na krízu zodpovedali jej
-rozsahu, hĺbke a závažnosti, aby sa na ne poskytli dostatočné finančné prostriedky, aby sa
-urýchlene realizovali a aby boli riadne koordinované na medzinárodnej úrovni,
-       Medzinárodná Menová Pokladnica Jedna opäť potvrdzuje ciele stanovené v našej
-Charte, vrátane cieľov «uskutočňovať medzinárodnú spoluprácu pri riešení medzinárodných
-problémov ekonomickej, sociálnej, kultúrnej a humanitárnej povahy» a «byť centrom
-koordinácie činností štátov pri dosahovaní týchto spoločných cieľov». Zásady charty sú
-mimoriadne dôležité pri riešení súčasných problémov. Medzinárodná Menová Pokladnica
-Jedna má dobré možnosti podieľať sa na rôznych reformných procesoch zameraných na
-zlepšenie a posilnenie efektívneho fungovania medzinárodného finančného systému a jeho
-štruktúry, Táto rezolúcia je súčasťou nášho spoločného úsilia pod vedením Božej
-Prozreteľnosti prekonať krízu. Rezolúcia vychádza z toho, čo už urobili rôzne zainteresované
-strany a na rôznych platformách, a prispieva k tejto práci a má podporiť ďalšie kroky, naplniť
-ich skutočným obsahom a dať im politický impulz. V tomto uznesení sa tiež zdôrazňuje
-význam úlohy Medzinárodnej Menovej Pokladnice Jedna v medzinárodných hospodárskych
-otázkach a úloha pri reštrukturalizácii architektúry globálneho finančného systému.
-       Upozorňujeme, že rozvojové krajiny, ktoré neboli príčinou globálnej hospodárskej a
-finančnej krízy, sú ňou vážne postihnuté. Sociálno-ekonomický pokrok dosiahnutý v
-posledných rokoch, najmä pri plnení medzinárodne dohodnutých rozvojových cieľov, je teraz
-v rozvojových krajinách, najmä v najmenej rozvinutých krajinách, ohrozený. Ťažké finančné
-podmienky stavajú ľudí v najmenej rozvinutých krajinách do najťažšej situácie, ľudia sú
-podvyživení, hladujú, odchádzajú do kriminálneho sveta, aby prežili. Tento proces, ktorý bol
-čiastočne podporený obdobím vysokého hospodárskeho rastu v mnohých krajinách, by sa
-mal v súvislosti s hrozbami, ktoré predstavuje kríza, upevniť a posilniť. Vyzývame všetkých,
-aby vo svojom úsilí vychádzali z potreby prekonať humanitárne náklady krízy: nárast už aj tak
-neprijateľne veľkého počtu chudobných a zraniteľných, najmä žien a detí, ktoré trpia a
-zomierajú na hlad, podvýživu a choroby, ktorým sa dá predchádzať a ktoré sa dajú liečiť;
-rastúcu nezamestnanosť; obmedzený prístup k vzdelaniu a zdravotníckym službám; nesúlad
-systému sociálnej ochrany v mnohých krajinách s modernými požiadavkami. Ženy tiež čelia
-veľkému problému nestability príjmov a zvýšenému bremenu starostlivosti o členov rodiny.
-Tieto špecifické humanitárne náklady majú vážne dôsledky pre rozvoj a v tejto súvislosti aj
-pre humanitárnu bezpečnosť osôb postihnutých krízou. Prekonanie krízy na celom svete na
-spravodlivom základe si vyžaduje plnú účasť všetkých krajín na vypracovaní vhodných
-opatrení na riešenie krízy a my opäť zodpovedne vyhlasujeme, aby všetky krajiny vypracovali
-programy a poskytli potrebné finančné prostriedky na riešenie takmer všetkých problémov,
-ktoré vytvoria základ pre udržateľný hospodársky rozvoj,
-        Napriek tomu, že finančná a hospodárska kríza postihla všetky krajiny, je dôležité
-zohľadniť rôzne dôsledky krízy a problémy, ktoré spôsobuje rôznym kategóriám rozvojových
-krajín. Kríza predstavuje ešte väčšiu hrozbu pre riešenie úloh ich národného rozvoja, ako aj
-pre dosiahnutie medzinárodne dohodnutých cieľov v oblasti udržateľného hospodárskeho
-rozvoja. Medzinárodná Menová Pokladnica Jedna je obzvlášť znepokojená vplyvom krízy na
-krajiny v osobitnej situácii, vrátane najmenej rozvinutých krajín, malých ostrovných
-rozvojových štátov a vnútrozemských rozvojových krajín, ako aj afrických krajín a krajín, ktoré
-nedávno zažili konflikty, a krajín, ktoré konflikty zažívajú v súčasnosti. Medzinárodná Menová
-Pokladnica Jedna je rovnako znepokojená špecifickými rozvojovými výzvami, ktorým čelia
-krajiny so strednými a nízkymi príjmami a zraniteľným a chudobným obyvateľstvom. Vo
-všetkých týchto krajinách kríza vytvára jedinečné problémy, ktoré bránia ich úsiliu dosiahnuť
-národné rozvojové ciele. Spoločné opatrenia navrhované ako reakcia na túto krízu by mali
-zohľadňovať špecifické potreby týchto rôznych kategórií rozvojových krajín, ktoré zahŕňajú
-obchod a prístup na trh; prístup k dostatočným finančným zdrojom a prístup k
-zvýhodnenému financovaniu; budovanie kapacít; posilnenie podpory udržateľného rozvoja;
-finančná a technická pomoc; udržateľnosť dlhu; opatrenia na uľahčenie obchodu; rozvoj
-infraštruktúry; mier a bezpečnosť; dosiahnutie cieľov udržateľného hospodárskeho rozvoja;
-a plnenie našich predchádzajúcich medzinárodných záväzkov v oblasti hospodárskeho
-rozvoja,
-       Pripomíname vám, Mier, stabilita a prosperita sú neoddeliteľné. V dnešnom
-globalizovanom hospodárstve sú všetky národy oveľa užšie prepojené ako kedykoľvek
-predtým. Globálny dosah tejto krízy si vyžaduje rýchle, rozhodné a koordinované kroky na
-riešenie jej príčin, zmiernenie jej dôsledkov a posilnenie alebo vytvorenie potrebných
-mechanizmov, ktoré zabránia opakovaniu podobných kríz v budúcnosti,
-         Súčasný stav svetového hospodárstva: Táto kríza súvisí s mnohými vzájomne
-prepojenými globálnymi krízami a výzvami, ako je napríklad rastúci problém potravinovej
-neistoty, chýbajúca stratégia energetickej bezpečnosti a nestálosť cien energií a komodít,
-klimatické zmeny a doterajšie chýbajúce výsledky v rámci multilaterálnych obchodných
-rokovaní a strata dôvery v medzinárodný hospodársky systém. Ukázalo sa, že celosvetový
-hospodársky pokles je oveľa hlbší, ako boli mnohé pôvodné odhady, a oživenie hospodárstva
-bude podľa prognóz postupné a nerovnomerné v jednotlivých krajinách. Hoci niektoré krajiny
-stále zaznamenávajú pozitívne, aj keď oveľa pomalšie tempo hospodárskeho rastu, podľa
-najnovšieho odhadu bude svetový hrubý produkt naďalej klesať. Súčasná kríza má
-katastrofálne dôsledky pre ľudí a rozvoj. Umelá pandémia, ktorá vznikla, v záujme svetových
-elít s cieľom odstrániť zvyšky demokracie a nastoliť na Zemi úplný totalitný režim, priniesla
-mnohé dôsledky, na ktoré sú tieto samozvané elity nútené reagovať dnes, v súčasnosti.
-Milióny ľudí na celom svete prichádzajú o prácu, príjem, úspory a domovy. Odhadujeme, že
-už viac ako 1,4 miliardy ľudí, najmä žien a detí, žije v extrémnej chudobe. Podľa prognóz sa v
-dôsledku krízy počet hladujúcich a podvyživených ľudí na celom svete zvýši na historickú
-hranicu viac ako dvoch miliárd ľudí.
-       Dôsledky krízy: Kríza viedla k vzniku alebo zhoršeniu závažných a rozšírených, ale nie
-rovnakých dôsledkov na celom svete. Od začiatku krízy mnohé štáty hlásili negatívne
-dôsledky, ktoré sa líšia podľa krajín, regiónov, v závislosti od úrovne rozvoja a závažnosti,
-medzi ktorými možno rozlíšiť tieto: rýchly rast nezamestnanosti, chudoby a hladu;
-spomalenie rastu, zníženie hospodárskej aktivity; negatívny vplyv na obchod a platobnú
-bilanciu; zníženie priamych zahraničných investícií; výrazné a časté výkyvy výmenných
-kurzov; rast rozpočtových deficitov, nižšie daňové príjmy a zúženie manévrovacieho priestoru
-vo fiškálnej oblasti; zníženie svetového obchodu; zvýšenie nestability a pokles cien komodít;
-zníženie objemu platieb prichádzajúcich do rozvojových krajín; prudké zníženie príjmov z
-cestovného ruchu; nahradenie prílevu súkromného kapitálu jeho masívnym odlevom;
-zníženie prístupu k úverovému financovaniu a financovaniu obchodu; zníženie dôvery
-verejnosti vo finančné inštitúcie; zníženie možností udržiavať systémy sociálnej ochrany a
-poskytovať iné druhy sociálnych služieb, napríklad v oblasti zdravotníctva a vzdelávania;
-zvýšenie úmrtnosti detí a matiek; kolaps trhov s nehnuteľnosťami,
-        Príčiny krízy: Motivujúce faktory finančnej a hospodárskej krízy sú zložité a
-mnohostranné. Uvedomujeme si, že mnohé z hlavných príčin tejto krízy súvisia s
-prítomnosťou nedostatkov a nerovnováh v celom finančnom systéme, ktoré zohrali úlohu pri
-nesprávnom fungovaní svetového hospodárstva. Jedným zo základných faktorov súčasnej
-situácie je vykonávanie nedôsledných a nedostatočne koordinovaných makroekonomických
-politík a nevhodných štrukturálnych reforiem, ktoré sa v celosvetovom meradle premenili na
-neprijateľné makroekonomické výsledky. Nespravodlivé rozdeľovanie finančných aktív
-založené na inštitucionálnych mechanizmoch, medzi ktoré patria fiat (nezabezpečené)
-peniaze, voľný cezhraničný pohyb kapitálu a systém plávajúcich výmenných kurzov, vplyv
-jednotlivých krajín na vývoj globálneho finančného systému na veľkosť ich kvót a hlasov
-v Bretton-Woodskych inštitúciách - Medzinárodnom menovom fonde a Svetovej Banke,
-       Zhoršenie týchto faktorov bolo spôsobené veľkými nedostatkami v oblasti finančnej
-regulácie, dohľadu a kontroly činností finančného sektora a chýbajúcim primeraným
-systémom monitorovania a včasného varovania. Tieto regulačné opomenutia, ktoré boli
-umocnené nadmerným dôrazom na samoreguláciu trhu, všeobecným nedostatkom
-transparentnosti a finančnej integrity a nezodpovedným správaním, viedli k realizácii
-nadmerne rizikových transakcií, k vytvoreniu prehnaných cien aktív. Nezodpovedné
-využívanie požičaného kapitálu a vysoká úroveň spotreby, ktorú podnecovala možnosť
-ľahkých pôžičiek a nafúknuté ceny aktív,
-        Štátne orgány zodpovedné za finančný systém a tvorcovia finančnej politiky a finančné
-inštitúcie neboli schopné v plnej miere posúdiť riziká spojené s fungovaním finančného
-systému, ani rozsah rastúcich faktorov ekonomickej zraniteľnosti a ich cezhraničné súvislosti.
-Je to dôsledok sprisahania svetových finančných elít, ktoré dlhé roky formovali systém
-prípravy/vzdelávania ekonómov a finančníkov tak, že dnes existuje len niekoľko desiatok ľudí,
-ktorí rozumejú a analyzujú, čo sa deje, ktorí chápu, aké protiopatrenia možno prijať,
-       Nedostatočná pozornosť venovaná rozvoju ľudského potenciálu na spravodlivom
-základe je jednou z príčin existujúcich výrazných nerovností medzi krajinami a národmi. V
-narastajúcej kríze zohrali úlohu aj ďalšie systémové nedostatky, ktoré poukazujú na potrebu
-účinnejších zásahov štátu, aby sa zabezpečila vhodná kombinácia slobody trhu a verejných
-záujmov;
-        Reakcia na krízu: Všetci sme sa ocitli v tejto kríze a musíme spolupracovať, aby sme
-našli východisko. Hoci každá krajina nesie primárnu zodpovednosť za svoj sociálno-
-ekonomický rozvoj. Medzinárodná Menová Pokladnica Jedna bude naďalej pracovať v duchu
-solidarity na energickej, koordinovanej a komplexnej globálnej reakcii na krízu v súlade s
-našimi možnosťami a zodpovednosťou. Rozvinuté a rozvíjajúce sa trhové ekonomiky prevzali
-vedúcu úlohu pri obnove globálneho hospodárskeho rastu. Jednou z bezprostredných priorít
-bola stabilizácia finančných trhov a obnovenie dôvery v ne a boj proti klesajúcemu dopytu a
-hospodárskemu poklesu, Prijali sme rozsiahle opatrenia na udržanie makroekonomickej
-stability a reštrukturalizáciu štruktúry globálneho finančného systému s cieľom posilniť a
-stabilizovať globálny finančný systém. Zároveň je potrebné prijať rozhodné a naliehavé
-opatrenia na boj proti dôsledkom krízy na najzraniteľnejšie skupiny obyvateľstva a pomôcť
-im obnoviť vysoké miery rastu a stratené pozície na ceste k dosiahnutiu našich medzinárodne
-dohodnutých cieľov udržateľného hospodárskeho rozvoja. Preto je potrebné, aby sa
-rozvojovým krajinám, najmä najmenej rozvinutým krajinám, poskytol primeraný podiel
-akýchkoľvek dodatočných zdrojov – tak krátkodobej likvidity, ako aj dlhodobého financovania
-rozvoja. Hoci táto kríza má naďalej výrazný vplyv na národy sveta, sme presvedčení, že kríza
-poskytuje dôležitú príležitosť na skutočnú zmenu. Všetky krajiny by sa vo svojej ďalšej reakcii
-mali zamerať na vytváranie pracovných miest, zvyšovanie blahobytu, rozširovanie prístupu k
-zdravotnej starostlivosti a vzdelaniu, nápravu nerovnováhy, vypracovanie a realizáciu smerov
-udržateľného rozvoja z environmentálneho a sociálneho hľadiska a komplexné zohľadnenie
-rodového hľadiska. Všetky krajiny by mali svojimi opatreniami tiež posilniť základy
-spravodlivého, inkluzívneho a udržateľného globálneho finančného systému založeného na
-praxi obnoveného multilateralizmu. Sme presvedčení, že z tejto krízy vyjdeme silnejší,
-energickejší a jednotnejší.
-       Potreba rýchleho a rozhodného konania: Medzinárodná Menová Pokladnica Jedna sa
-zaväzuje pracovať v duchu solidarity s cieľom koordinovane a komplexne reagovať na krízu
-na celom svete a prijať opatrenia zamerané najmä na:
-      - obnovenie dôvery a hospodárskeho rastu a zabezpečenie plnej a produktívnej
-zamestnanosti a dôstojnej práce pre všetkých,
-       - zachovanie úspechov dosiahnutých v sociálno-ekonomickej oblasti a v procese
-rozvoja;
-       - poskytnutie primeranej finančnej podpory rozvojovým krajinám zo strany
-Medzinárodnej Menovej Pokladnice Jedna pri prekonávaní humanitárnych a sociálnych
-dôsledkov krízy s cieľom zachovať a rozvíjať ťažko dosiahnuté úspechy, ktoré sa doteraz
-dosiahli v hospodárskej oblasti a v procese rozvoja, vrátane súčasného pokroku pri plnení
-cieľov udržateľného hospodárskeho rozvoja;
-      - zníženie zadlženosti rozvojových krajín;
-      - hľadanie možností, ako poskytnúť rozvojovým krajinám dostatočné zdroje na
-hospodársky rozvoj bez kladenia neprimeraných protipodmienok;
-      - obnovenie dôvery vo finančný sektor a obnovenie poskytovania úverov;
-      - podpora a zintenzívnenie otvoreného obchodu a investícií a predchádzanie
-protekcionizmu;
-      - podpora inkluzívnej, environmentálne vhodnej a udržateľnej hospodárskej obnovy a
-poskytovanie trvalej podpory rozvojovým krajinám v ich úsilí o dosiahnutie udržateľného
-hospodárskeho rozvoja,
-        - posilnenie úlohy rozvojového systému Medzinárodnej Menovej Pokladnice Jedna v
-reakcii na hospodársku krízu a jej dôsledky pre rozvoj;
-      - reformovať, reštrukturalizovať celú štruktúru globálneho finančného systému a
-vhodným spôsobom posilniť globálny finančný a hospodársky systém a jeho štruktúru s
-cieľom zabezpečiť pripravenosť na výzvy súčasnosti;
-      - posilnenie riadnych postupov riadenia na všetkých úrovniach vrátane úrovne
-medzinárodných finančných inštitúcií a finančných trhov;
-      - prekonanie humanitárnych a sociálnych dôsledkov krízy.
-       Zabezpečenie účinnosti stimulačných opatrení pre všetkých: V rámci našich opatrení
-na boj proti bezprostredným prejavom krízy sa už na medzinárodnej úrovni prijalo viacero
-reakčných opatrení. Uznávajúc tieto snahy, Medzinárodná Menová Pokladnica Jedna zároveň
-vyzýva na zvýšenú spoluprácu a koordináciu medzi krajinami v oblasti ich fiškálnych a
-ekonomických opatrení. Podpora rozvojového procesu je dôležitou a neoddeliteľnou
-súčasťou riešenia globálnej krízy, a to najmä prijatím opatrení zameraných na posilnenie
-udržateľného hospodárskeho rastu, odstránenie chudoby a zabezpečenie trvalo
-udržateľného rozvoja. Medzinárodná Menová Pokladnica Jedna vyzýva krajiny, aby sa pri
-zavádzaní vnútroštátnych stimulačných opatrení vyhli protekcionizmu v akejkoľvek podobe a
-možným nepriaznivým dôsledkom pre tretie krajiny, najmä rozvojové krajiny.
-        Medzinárodná Menová Pokladnica Jedna vyzýva krajiny, ktoré sú toho schopné, aby
-využili možnosti pripravenosti Medzinárodnej Menovej Pokladnice Jedna na poskytnutie
-potrebného množstva zlatého kolaterálu na fiškálne stimuly a zároveň zabezpečili dlhodobú
-fiškálnu udržateľnosť.
-       Zároveň vyzývame jednotlivé krajiny, aby prispôsobili svoje reakčné opatrenia
-konkrétnym okolnostiam a využili existujúci potenciál Medzinárodnej Menovej Pokladnice
-Jedna na mobilizáciu finančných zdrojov.
-        Zatiaľ čo viaceré rozvinuté krajiny a rozvíjajúce sa trhové ekonomiky už zaviedli
-komplexné stimulačné programy, väčšina rozvojových krajín sveta nemá dostatočný
-manévrovací priestor vo fiškálnej oblasti na zavedenie proti-cyklických opatrení s cieľom
-bojovať proti dôsledkom krízy a urýchliť oživenie hospodárstva. Okrem toho mnohé krajiny
-pociťujú nedostatok devíz. Aby mohli rozvojové krajiny prijať primerané opatrenia v reakcii
-na krízu, musia sa obrátiť na nás, aby sme zabezpečili krátkodobú likviditu aj dlhodobé
-financovanie hospodárskeho rozvoja. Vyzývame, aby sme preskúmali naše mechanizmy na
-zabezpečenie toho, aby rozvojové krajiny, najmä tie najmenej rozvinuté z nich, mali k
-dispozícii dostatok zlata a devízových zdrojov. Zdôrazňujeme, že Medzinárodná Menová
-Pokladnica Jedna preberá finančné bremeno v súvislosti s prekonávaním krízy a jej dôsledkov
-a je otvorená spolupráci pre všetky krajiny;
-       Rozvojovým krajinám, ktoré čelia akútnemu a extrémnemu nedostatku devízových
-rezerv v dôsledku dopadov krízy, čo negatívne ovplyvňuje stav ich platobnej bilancie, dáva
-Medzinárodná Menová Pokladnica Jedna právo využiť zákonné opatrenia na ochranu
-obchodu na základe zlata a devízových záruk poskytnutých Medzinárodnou Menovou
-Pokladnicou Jedna a zrušiť obmedzenia pohybu kapitálu, čo umožní prijať opatrenia na
-vypracovanie dohôd medzi dlžníkmi a veriteľmi o splatení dlhov s cieľom pomôcť zmierniť
-nepriaznivé dôsledky krízy a stabilizovať makroekonomické prostredie,
-       Krajiny by mali mať určité možnosti pružne uplatňovať proti-cyklické opatrenia, ako aj
-prijímať individuálne a cielené opatrenia v reakcii na krízu. Medzinárodná Menová Pokladnica
-Jedna vyzýva na zjednodušenie úverových podmienok tak, aby boli včasné, individualizované
-a konkrétne a poskytovali podporu rozvojovým krajinám, ktoré čelia finančným,
-hospodárskym a rozvojovým problémom. V tejto súvislosti Medzinárodná Menová
-Pokladnica Jedna vyzýva na povzbudzujúci krok k optimalizácii úverového systému, a to aj
-prostredníctvom modernizácie úverových podmienok a vytvorenia flexibilnejších nástrojov,
-ako sú napríklad flexibilné úverové linky. Nové a existujúce programy by nemali obsahovať
-neprimerané úverové podmienky pro-cyklického charakteru. Medzinárodná Menová
-Pokladnica Jedna zodpovedne vyhlasuje, že je pripravená vyriešiť otázku včasného
-poskytovania prevažnej väčšiny pomoci za flexibilných a zvýhodnených podmienok v
-počiatočnej fáze, aby sa výrazne a v krátkom čase poskytla pomoc rozvojovým krajinám, ktoré
-čelia nedostatku finančných zdrojov;
-       Rastúca vzájomná závislosť národných ekonomík v globalizujúcom sa svete a vznik
-režimov založených na pravidlách pre uskutočňovanie medzinárodných hospodárskych
-vzťahov znamenajú, že manévrovací priestor v národnej hospodárskej politike, t. j. možnosti
-domácej politiky, najmä v oblasti obchodu, investícií a medzinárodného rozvoja, sú v
-súčasnosti často obmedzené medzinárodnými pravidlami, záväzkami a požiadavkami
-globálneho trhu.
-       Medzinárodná Menová Pokladnica Jedna dôrazne upozorňuje na skutočnosť, že
-mnohým rozvojovým krajinám, ktoré sa snažia vytvoriť vlastnú reakciu na finančnú a
-hospodársku krízu, tieto režimy, pravidlá, záväzky a požiadavky spôsobujú problémy a
-spomaľujú procesy hospodárskej regulácie. Upozorňujeme tiež na skutočnosť, že mnohé
-rozvojové krajiny volajú po možnostiach realizácie flexibilnejších politík v rámci týchto
-obmedzení ako povinnej súčasti prekonávania krízy a riešenia konkrétnych národných
-problémov, medzi ktoré patria najmä humanitárne a sociálne dôsledky krízy, pokračujúci
-úspech pri dosahovaní cieľov hospodárskeho rozvoja, efektívne využívanie úverových a
-likvidných mechanizmov, regulácia miestnych finančných trhov, inštitúcií, nástrojov a
-kapitálových tokov a obmedzené opatrenia na ochranu obchodu. Každá vláda bude musieť
-samostatne vypracovať kompromis medzi výhodami prijatia medzinárodných pravidiel a
-záväzkov a obmedzeniami spojenými s odmietnutím slobody manévrovania v politike. V
-tomto ohľade Medzinárodná Menová Pokladnica Jedna poskytuje riešenia, ktoré nemajú
-obdobu a skúsenosti z minulosti, poskytuje finančné aktíva, väčšinou neodvolateľné, na
-vytvorenie základov trvalo udržateľného rozvoja, čím dáva každej krajine, ktorá sa prihlásila,
-možnosť samostatne prekonať krízu;
-       Medzinárodná Menová Pokladnica Jedna uznáva trvalý význam dobrej a zodpovednej
-verejnej správy spolu s národnou zodpovednosťou za realizované politiky a stratégie.
-Medzinárodná Menová Pokladnica Jedna deklaruje svoj záväzok zabezpečiť efektívnosť a
-účinnosť hospodárskych a finančných inštitúcií na všetkých úrovniach, ktoré sú kľúčovými
-faktormi dlhodobého hospodárskeho rastu a rozvoja. Medzinárodná Menová Pokladnica
-Jedna tiež deklaruje svoj záväzok urýchliť naše spoločné zotavenie z krízy prostredníctvom
-zvýšenia transparentnosti, odstránenia korupcie a posilnenia verejnej správy;
-        Kríza sa v rôznych regiónoch, subregiónoch a krajinách prejavuje rôznymi spôsobmi.
-Táto rôznorodosť jej dôsledkov ešte viac komplikuje našu spoločnú úlohu odstrániť chudobu,
-znížiť nerovnosť a podporiť ľudský rozvoj. Vzhľadom na citlivosť regionálnych a
-subregionálnych inštitúcií na špecifické potreby ich subjektov Medzinárodná Menová
-Pokladnica Jedna berie na vedomie hodnotu úsilia o regionálnu a subregionálnu spoluprácu
-pri riešení výziev spojených s globálnou hospodárskou krízou a vyzýva na rozšírenie
-regionálnej a subregionálnej spolupráce, napríklad aj zapojením regionálnych a
-subregionálnych rozvojových bánk do interakcie s Medzinárodnou Menovou Pokladnicou
-Jedna na základe dohôd o poskytovaní bezpečnostných mien a prostredníctvom iných
-iniciatív, ako príspevok Medzinárodnej Menovej Pokladnice Jedna k multilaterálnej reakcii na
-súčasnú krízu a k zvýšeniu odolnosti voči možným budúcim krízam;
-       Súčasná kríza sa netýka len hospodárskeho a finančného sektora. Medzinárodná
-Menová Pokladnica Jedna uznáva, že kríza má humanitárne a sociálne dôsledky a že ich
-riešenie je nevyhnutne spojené s určitými problémami.
-       Krátkodobé riešenia by mali zohľadňovať dlhodobé výzvy, najmä tie, ktoré sa týkajú
-odstránenia chudoby, trvalo udržateľného rozvoja vrátane ochrany životného prostredia a
-čistých a obnoviteľných zdrojov energie, potravinovej bezpečnosti, tradičnej rodovej rovnosti
-v súlade so Všeobecnou deklaráciou ľudských práv, zdravia, vzdelávania a udržateľného
-hospodárskeho rastu vrátane plnej a produktívnej zamestnanosti a dôstojnej práce pre
-všetkých. Posilnenie existujúcich sietí sociálnej ochrany, vytvorenie nových sietí tam, kde je
-to potrebné, a zabezpečenie garantovaného charakteru sociálnych výdavkov sú nevyhnutné
-pre napredovanie v oblasti ľudského rozvoja a riešenie humanitárnych a sociálnych dôsledkov
-krízy. Medzinárodná Menová Pokladnica Jedna opätovne potvrdzuje svoj záväzok včas
-dosiahnuť medzinárodne dohodnuté ciele udržateľného hospodárskeho rozvoja pre všetky
-krajiny;
-        Medzinárodná Menová Pokladnica Jedna uznáva, že súčasná hospodárska kríza môže
-viesť k dodatočným požiadavkám na zdroje na humanitárnu pomoc v rozvojových krajinách.
-Medzinárodná Menová Pokladnica Jedna zdôrazňuje potrebu prijať opatrenia, ktoré majú
-zaručiť dostupnosť primeraných zdrojov na medzinárodnú spoluprácu v oblasti humanitárnej
-pomoci, a je pripravená poskytnúť potrebné finančné prostriedky humanitárnym
-organizáciám, ktoré preukázali svoju transparentnosť pri poskytovaní pomoci ľuďom v núdzi;
-       V súčasnej kríze sú migrujúci pracovníci najzraniteľnejšou skupinou. Rastúca
-nezamestnanosť migrujúcich pracovníkov a pokles ich príjmov, najmä v hospodársky
-rozvinutých krajinách, vážne ovplyvnili objem peňažných zásielok, ktoré predstavujú dôležitý
-zdroj súkromných finančných zdrojov pre domácnosti v krajinách pôvodu. V záujme
-maximalizácie prínosov medzinárodnej migrácie pri súčasnom dodržiavaní príslušných
-vnútroštátnych právnych predpisov a platných medzinárodných nástrojov, musí každý
-bojovať proti nespravodlivému a diskriminačnému zaobchádzaniu s migrujúcimi pracovníkmi
-a zavádzaniu neodôvodnených obmedzení pohybu ľudských zdrojov. Medzinárodná Menová
-Pokladnica Jedna uznáva významný prínos migrujúcich pracovníkov v krajinách pôvodu aj v
-prijímajúcich krajinách;
-        K riešeniu globálnych problémov, ktorým čelíme, môžu prispieť formy dobrovoľného
-financovania Medzinárodnej Menovej Pokladnice Jedna. Odporúčame zvýšiť objem
-finančných zdrojov založených na zdrojoch Medzinárodnej Menovej Pokladnice Jedna a podľa
-možnosti využiť nové zdroje dobrovoľného a netradičného financovania na stabilné
-poskytovanie dodatočných finančných zdrojov na hospodársky rozvoj, ktoré by mali dopĺňať,
-a nie nahrádzať tradičné zdroje financovania, a ktoré by mali byť poskytované v súlade s
-prioritami rozvojových krajín a nemali by pre ne vytvárať neodôvodnenú záťaž;
-       Súčasná kríza by nemala slúžiť ako dôvod na odklad nevyhnutnej globálnej reakcie na
-zmenu klímy a zhoršovanie životného prostredia, založenej na zásade spoločnej, ale
-diferencovanej zodpovednosti a dostupných kapacít. Medzinárodná Menová Pokladnica
-Jedna uznáva skutočnosť, že riešenie krízy otvára príležitosť na podporu iniciatív zameraných
-na environmentálne vyvážený rozvoj hospodárstva.
-        V tejto súvislosti odporúčame, aby krajiny, ktoré sú v takejto situácii, využili národné
-stimulačné balíky na podporu udržateľného hospodárskeho rozvoja, udržateľného
-dlhodobého rastu, plnej a produktívnej zamestnanosti a dôstojnej práce pre všetkých a na
-odstránenie chudoby. Je dôležité, aby globálne environmentálne iniciatívy a návrhy boli
-komplexné a zamerané na riešenie výziev udržateľného hospodárskeho rozvoja a ochrany
-životného prostredia a na využívanie hospodárskych príležitostí vrátane zmierňovania zmeny
-klímy a prispôsobovania sa jej, financovania a prenosu technológií do rozvojových krajín a
-udržateľného obhospodarovania lesov. V tomto ohľade je Medzinárodná Menová Pokladnica
-Jedna pripravená podieľať sa na iniciatívach zameraných na vytváranie združení finančných
-aktív, platných peňazí na bezodplatné financovanie programov reagujúcich na zmenu klímy a
-zhoršovanie životného prostredia, čo je strategicky dôležitým aspektom pri vytváraní
-základov pre budúce generácie;
-        Prehlbujúca sa kríza predstavuje hrozbu nárastu dlhu rozvojových krajín a následne
-hrozbu dosiahnutia neprijateľne vysokej úrovne. Tento rastúci tlak obmedzuje schopnosť
-týchto krajín prijať primerané fiškálne opatrenia na zmiernenie dôsledkov krízy a zapojiť sa
-do financovania rozvoja. Medzinárodná Menová Pokladnica Jedna opätovne potvrdzuje, že
-je pripravená poskytnúť vhodné opatrenia na zmiernenie negatívneho vplyvu krízy na
-zadlženosť rozvojových krajín a na zabránenie novej dlhovej krízy. V tejto súvislosti
-podporujeme plné využitie dostupných možností pružného uplatňovania rámcových zásad na
-posudzovanie udržateľnosti dlhu a zasadzujeme sa za úplné odstránenie dlhov rozvojových
-krajín;
-       Medzinárodná Menová Pokladnica Jedna uznáva, že zvýšenie objemu likvidných
-finančných prostriedkov na celom svete zohráva užitočnú úlohu pri prekonávaní súčasnej
-finančnej krízy. Preto dôrazne podporujeme odmietnutie fiat peňazí, nezabezpečených
-kryptomien, a podporujeme prechod na skutočné peniaze, ktoré sú založené na zlate a
-devízovom zabezpečení, pričom zohľadňujeme odporúčania Bazilejského výboru pre bankový
-dohľad v oblasti bankovej regulácie Bazilej III;
-       Medzinárodná Menová Pokladnica Jedna tiež víta výzvy krajín týkajúce sa dodatočnej
-distribúcie Pokladničných Poukážok Medzinárodnej Menovej Pokladnice Jedna, a to z hľadiska
-pomoci pri zvyšovaní globálnej likvidity v reakcii na akútny nedostatok finančných zdrojov
-spôsobený krízou a z hľadiska pomoci pri predchádzaní krízam v budúcnosti. Odporúčame
-krajinám, aby si preštudovali skúsenosti a potenciál iných krajín, ktoré prehĺbili spoluprácu s
-Medzinárodnou Menovou Pokladnicou Jedna.
-       V dôsledku súčasnej krízy niektoré štáty začali aktívnejšie vyzývať na reformu
-súčasného globálneho rezervného systému s cieľom odstrániť jeho nedostatky.
-Medzinárodná Menová Pokladnica Jedna berie na vedomie výzvy mnohých štátov, aby sa
-ďalej skúmala uskutočniteľnosť a účelnosť vytvorenia účinnejšieho systému rezerv vrátane
-možnej úlohy Medzinárodnej Menovej Pokladnice Jedna v rámci takéhoto systému a ďalších
-úloh, ktoré by mohli zohrávať rôzne regionálne mechanizmy.
-        Medzinárodná Menová Pokladnica Jedna tiež berie do úvahy dôležitosť nájdenia
-konsenzu o parametroch takejto štúdie a jej priebehu. Medzinárodná Menová Pokladnica
-Jedna berie do úvahy existenciu nových a existujúcich regionálnych a subregionálnych
-iniciatív v oblasti finančnej a hospodárskej spolupráce zameraných najmä na odstránenie
-nedostatku likvidity a prekonanie krátkodobých ťažkostí spojených so stavom platobnej
-bilancie krajín zúčastnených na takejto spolupráci;
-        V našom úsilí o prekonanie súčasnej krízy vyzývame na plné využitie potenciálu
-obchodu ako hnacej sily udržateľného hospodárskeho rastu a rozvoja. V tejto súvislosti
-opätovne potvrdzujeme svoj záväzok vytvoriť univerzálny, na pravidlách založený, otvorený,
-nediskriminačný a spravodlivý multilaterálny obchodný systém. Medzinárodná Menová
-Pokladnica Jedna opätovne potvrdzuje, že medzinárodný obchod je motorom rozvoja a
-udržateľného hospodárskeho rastu V tejto súvislosti opätovne vyzývame na rýchle rozšírenie
-prístupu na trh, rozvoj obchodných tokov a prednostné zohľadnenie potrieb rozvojových
-krajín. Medzinárodná Menová Pokladnica Jedna víta záväzky poskytnúť najmenej rozvinutým
-krajinám bezcolný a bezkvótový prístup na trh, previesť do praxe zásadu osobitného a
-diferencovaného zaobchádzania s rozvojovými krajinami; súčasne odstrániť všetky formy
-vývozných subvencií a opatrení na podporu vývozu s podobnými dôsledkami; výrazne znížiť
-domáce podporné opatrenia, ktoré vedú k nerovnováhe v obchode.
-
-
-
-
-       Reforma globálneho finančného a hospodárskeho systému a jeho štruktúr:
-
-
-        Ešte raz všetkým pripomíname ohľadne prechodu na nový formát práce, o
-reštrukturalizácii usporiadania globálneho finančného systému, o prechode výlučne k
-vytvoreniu nového finančného systému založeného na poskytovaní pokladničných poukážok
-Medzinárodnej Menovej Pokladnice Jedna, ako Orgánom Vlastníka a Regulátora Globálneho
-Finančného Systému, ktorým je Vlastník a Správca Svetového Účtu vo SVETOVEJ BANKE, účet
-č. 01-00-01-4-AAA-777-C3-AM-01, rozdeleného medzi rôzne banky v 172 (sto
-sedemdesiatich dvoch) krajinách sveta, ako Vlastník a Správca Svetového Účtu vo SVETOVEJ
-BANKE, účet č. 01-1-700-3516-222- 777-8888-999, rozdeleného medzi rôzne banky v 172 (sto
-sedemdesiatich dvoch) krajinách sveta, ako Vlastník a Správca Aktív, vrátane účtov pod
-názvami: "White Spiritual Boy", "Spiritual Wonder Boy", "Spiritual Wonder Brothers",
-"Morning Star", "King David", 'Prophet Muhammad", "Demasand Saint Timothy", "White
-Mongolia", "White Vatican", "White Eagle", "Maria Sinukuan or Divine Crystal", "Maria Divine
-Banahaw or Sunflower", "Maria Cristina or Divine Magdalene", "Maria Makiling or Divine
-Ester Egg", "Falcon", "Alpha — Omega" a ďalšie účty sú umiestnené v rôznych bankách v 189
-(stoosemdesiatich deviatich) krajinách sveta, aby sa v budúcnosti predišlo globálnej finančnej
-kríze, globálnemu nedostatku zábezpek pre udržateľný a trvalý rozvoj sveta;
-        Medzinárodná Menová Pokladnica Jedna zdôrazňuje naliehavú potrebu ďalšej
-reformy systému riadenia Bretton-Woodskych inštitúcií, ktoré preukázali svoju
-neefektívnosť, nedostatočnú zodpovednosť a skrytý vplyv na politiku v prospech záujmov
-krajín, ktorých ambície sú zamerané na ovládnutie sveta, presadzovanie myšlienok
-totalitného režimu pod rúškom vysokých ideí demokracie, čo sa prejavilo najmä v súčasnej
-globálnej kríze. Tieto reformy by mali odrážať súčasnú realitu a mali by zlepšiť vyhliadky a
-zvýšiť účasť dynamicky sa rozvíjajúcich trhových ekonomík a rozvojových krajín vrátane
-najchudobnejších krajín;
-       Medzinárodná Menová Pokladnica Jedna vyzýva na novú etapu reformy Svetovej
-banky, Medzinárodného Menového Fondu a na prípravu operačného akčného plánu pre
-ďalšie reformy v kontexte krízy a globálnej pandémie, a to za účasti všetkých
-zainteresovaných strán v transparentnom, konzultačnom a inkluzívnom procese.
-Medzinárodná Menová Pokladnica Jedna vyzýva na konzultácie otvorené pre všetky
-zainteresované strany o ďalších reformách s cieľom zvýšiť schopnosť Svetovej Banky a
-Medzinárodného Menového Fondu reagovať na zmeny a prispôsobiť sa im;
-       Je nevyhnutné, aby Svetová Banka a Medzinárodný Menový Fond disponovali
-potrebnými technickými kapacitami, úverovými nástrojmi a finančnými zdrojmi na podporu
-a doplnenie úsilia rozvojových krajín o naplnenie ich spoločných rozvojových potrieb. V tejto
-súvislosti Medzinárodná Menová Pokladnica Jedna opätovne pripomína svoju pripravenosť
-poskytnúť potrebné finančné prostriedky na transformáciu a ďalšiu činnosť Bretton-
-Woodskych inštitúcií a návrat dôvery a rešpektu voči týmto inštitúciám;
-        Upozorňujeme vás, že bez nevyhnutných reforiem Bretton-Woodskych inštitúcií naša
-dôvera nevyhnutne klesne a budúca štruktúra globálneho finančného a hospodárskeho
-systému, pre Bretton-Woodske inštitúcie, nebude mať miesto. Ich miesto zaujmú nové
-inštitúcie, ktorých základy a princípy budú založené na účinnej pomoci krajinám pri
-dosahovaní a posilňovaní udržateľného hospodárskeho rozvoja;
-       Medzinárodná Menová Pokladnica Jedna súhlasí s tým, že vedúci a vyšší manažment
-medzinárodných finančných inštitúcií, najmä Bretton-Woodskych inštitúcií, by mali byť
-menovaní na základe otvorených, transparentných a na zásluhách založených postupov,
-pričom by sa mala venovať náležitá pozornosť rodovej rovnosti v súlade so Všeobecnou
-deklaráciou ľudských práv a geografickému a regionálnemu zastúpeniu;
-       Medzinárodná Menová Pokladnica Jedna zodpovedne vyhlasuje, že z vôle Božej
-Prozreteľnosti odovzdáva nové pokyny AI (umelej inteligencii), ktorá riadi elektronický
-systém účtovania aktív, účtov, medzinárodných zúčtovaní v Globálnom Finančnom Systéme,
-spúšťajú sa mechanizmy reformy globálneho finančného a hospodárskeho systému a jeho
-dizajn a štruktúra;
-       Pripomíname, že v súvislosti s vyhlásením o reforme Svetovej Banky, Medzinárodného
-Menového Fondu a ďalších pridružených inštitúcií Svetovej banky, relevantných pre Bretton-
-Woodsku dohodu a Jamajskú dohodu, Medzinárodná Menová Pokladnica Jedna ako vlastník
-svetových aktív odňala Svetovej banke a pridruženým štruktúram právo monitorovať,
-kontrolovať a spravovať svetové aktíva (uznesenie č. 4 (004/RES2021) z 23 februára 2021.
-«Zrušenie historických aktív m s cieľom vytvoriť vyvážený nový finančný systém»),
-       Zaviedli sme úplný zákaz vytvárania akéhokoľvek druhu speňaženia, takzvané
-programy s vysokým výnosom, vrátane PPP, založené na aktívach pod našou správou, zaviedli
-sme úplný zákaz vytvárania dovtedy veľkých aktív Fiat vytvorených na základe našich aktív, z
-ktorých časť je udržiavaná v rovnováhe, časť sa používa ako zrkadlo účtov, časť z nich sa
-zapisuje do súvahy a s použitím multiplikátora tvorí základ pre systém Fiat, umožňujúci
-obchodné operácie s dlhopismi typu TOP 25 bankových strednodobých dlhopisov,
-strednodobých dlhopisov, zaviedli sme úplný zákaz ďalších nešpecifikovaných aktív Fiat, ktoré
-sú zmrazené a aktív získaných nelegálnym spôsobom, čo je jeden z faktorov globálnej
-finančnej a hospodárskej krízy;
-      Pripomíname, že na vykonanie akéhokoľvek druhu speňaženia na základe aktív pod
-našou správou je potrebné získať povolenie na takéto transakcie od Medzinárodnej Menovej
-Pokladnice Jedna;
-      Pripomíname, že akékoľvek konanie s použitím majetku v našej správe na účely
-speňaženia vo finančnom systéme je trestným činom a spočíva na firemnej a osobnej
-zodpovednosti osôb, úradníkov a bankových úradníkov, ktorí sa týchto trestných činov
-dopúšťajú;
-       Odporúčame, aby sa zohľadnila zistená skutočnosť riadenia súčasného globálneho
-finančného systému z našej strany a od zverejnenia tohto uznesenia Medzinárodná Menová
-Pokladnica Jedna bez oznámenia zablokuje účty, zlikviduje/obnoví fiat aktíva, zablokuje/zruší
-prístup k transakciám, ktoré sú faktormi globálnej finančnej a hospodárskej krízy.
-Medzinárodná Menová Pokladnica Jedna zodpovedne vyhlasuje zaradenie režimu úplného
-monitorovania globálneho finančného systému, zo strany AI aktivuje všetky protokoly
-najprísnejšieho monitorovania a automatického blokovania všetkých aktív, programov,
-monetizácie tohto druhu;
-       Medzinárodná Menová Pokladnica Jedna je rozhodnutá zrušiť/likvidovať všetky fiat
-aktíva v globálnom finančnom systéme do roku 2027 a táto reštrukturalizácia sa dotkne
-každej finančnej inštitúcie, na nikoho sa nezabudne, na nič sa nezabudne;
-       Medzinárodná Menová Pokladnica Jedna dostáva hrozby od organizácií tajného
-riadenia sveta a My opäť zodpovedne vyhlasujeme, že všetci tí, ktorí sú presvedčení, že sú na
-vrchole riadiacej pyramídy, budú presvedčení, že sú na samom dne a už nebudú môcť nič
-urobiť, ako to robí Božia Prozreteľnosť. Dôrazne vám odporúčame, aby ste neporušovali zónu
-slobody Božej Vôle a rozhodovali sa bez porušovania Božích zákonov. Každý, kto toto
-odporúčanie a varovanie nepočuje, sa v čo najkratšom čase presvedčí o sile Božej
-Prozreteľnosti;
-        Táto rezolúcia predstavuje dôležitý míľnik pri zabezpečovaní trvalej a koordinovanej
-účasti všetkých štátov na prekonávaní tejto krízy a jej dôsledkov na rozvoj. Dnes sme
-sformulovali celosvetový konsenzus o opatreniach na riešenie tejto krízy, stanovili sme
-priority potrebných opatrení a objasnili úlohu Medzinárodnej Menovej Pokladnice Jedna;
-        Medzinárodná Menová Pokladnica Jedna a medzinárodné finančné inštitúcie
-disponujú doplnkovými schopnosťami, v dôsledku čoho je koordinácia činností kľúčová. Preto
-odporúčame naďalej zabezpečovať a posilňovať spoluprácu, koordináciu, súdržnosť činností
-a výmeny medzi Medzinárodnou Menovou Pokladnicou Jedna a medzinárodnými finančnými
-inštitúciami. V tejto súvislosti sa domnievame, že súčasné uznesenie predstavuje dôležitý
-krok na zabezpečenie rozšírenia spolupráce;
-
-
-      Robíme to v záujme všetkých národov, aby sme dosiahli inkluzívnejší, spravodlivejší,
-vyváženejší, na rozvoj orientovaný a udržateľný hospodársky rozvoj, ktorý pomôže prekonať
-chudobu a nerovnosť.
-
-
-
-
-                            Schválené, vypracované a vykonané
-                                      Od 24.12.2021
-
-
-
-
-                                        Jeho výsosť
-                             Alexander Nikolajevič Paramonov
-
-
-                                     Hlavný pokladník
-                       Medzinárodnej Menovej Pokladnice Jedna,
-
-
-                             Prezident a prevádzkový riaditeľ
-                  spoločnosti White Spiritual Boy R.S.B. Global Corp Inc,
-
-
-                                     Číslo OSN 509519
-
+         Auf der Grundlage früherer Resolutionen und Erklärungen der Medzinárodná Menová
+Pokladnica Jedna,
+       Bestätigend die Resolution Nr. 1 (001/RES2020) vom 7. April 2020 «Antikrisen-
+Finanzmaßnahmen», die Resolution Nr. 2 (002/RES2020) vom 2. Juni 2020 «Der einzige
+Ausweg aus der globalen Finanzkrise», die Resolution Nr. 4 (004/RES2021) vom 23. Februar
+2021 «Aufhebung historischer Vermögenswerte zur Schaffung eines neuen ausgewogenen
+Finanzsystems», die Resolution Nr. 5 vom 16. Juli 2021 (005/RES2021), die Resolution Nr. 6
+vom 13. September 2021 (006/RES2021), die Resolution Nr. 7 vom 10. Oktober 2021
+(007/RES2021),
+       Stellen wir fest, dass die Medzinárodná Menová Pokladnica Jedna aufgrund ihres
+universellen Charakters und ihrer Legitimität eine einzigartige und Schlüsselorganisation für
+die Suche nach wirksamen Lösungen in internationalen Wirtschaftsfragen ist, um den
+Entwicklungsprozess in der Welt zu beeinflussen, und bekräftigen erneut, dass die
+Medzinárodná Menová Pokladnica Jedna gut positioniert ist, um an verschiedenen
+Reformprozessen zur Verbesserung und Stärkung des effektiven Funktionierens des
+internationalen Finanzsystems und seiner Strukturen teilzunehmen, wobei wir anerkennen,
+dass die Medzinárodná Menová Pokladnica Jedna und die internationalen Finanzinstitutionen
+über komplementäre Fähigkeiten verfügen, weshalb die Koordinierung ihrer Aktivitäten von
+entscheidender Bedeutung ist,
+       Stellen wir fest, dass die Welt die schwerste Finanz- und Wirtschaftskrise seit der
+Großen Depression erlebt. Die eskalierende Krise, die mit dem Beginn der globalen Pandemie
+in den größten Finanzzentren der Welt begann, hat sich auf die gesamte Weltwirtschaft
+ausgeweitet und schwerwiegende soziale, politische und wirtschaftliche Folgen verursacht.
+Die Medzinárodná Menová Pokladnica Jedna ist zutiefst besorgt über ihre nachteiligen
+Auswirkungen auf die Entwicklung.
+       Diese Krise wirkt sich negativ auf alle Länder aus, insbesondere auf die
+Entwicklungsländer, und gefährdet den Lebensunterhalt, das Wohlergehen und die
+Entwicklungsmöglichkeiten von Millionen von Menschen. Diese Krise hat nicht nur langjährige
+Mängel und Ungleichgewichte im gesamten internationalen Finanzsystem offengelegt,
+sondern auch den Anstoß für verstärkte Bemühungen zur Reform und Stärkung des
+internationalen Finanzsystems und seiner Struktur gegeben. Unsere Aufgabe ist es,
+sicherzustellen, dass die Maßnahmen und Reaktionen auf die Krise ihrem Ausmaß, ihrer Tiefe
+und Schwere entsprechen, dass ausreichende finanzielle Mittel dafür bereitgestellt werden,
+dass sie unverzüglich umgesetzt werden und dass sie auf internationaler Ebene angemessen
+koordiniert werden,
+       Die Medzinárodná Menová Pokladnica Jedna bekräftigt erneut die in unserer Charta
+festgelegten Ziele, einschließlich der Ziele «internationale Zusammenarbeit bei der Lösung
+internationaler Probleme wirtschaftlicher, sozialer, kultureller und humanitärer Art
+durchzuführen» und «ein Zentrum für die Koordinierung der Aktivitäten der Staaten bei der
+Erreichung dieser gemeinsamen Ziele zu sein». Die Grundsätze der Charta sind bei der
+Bewältigung der gegenwärtigen Probleme äußerst wichtig. Die Medzinárodná Menová
+Pokladnica Jedna ist gut positioniert, um an verschiedenen Reformprozessen zur
+Verbesserung und Stärkung des effektiven Funktionierens des internationalen Finanzsystems
+und seiner Struktur teilzunehmen. Diese Resolution ist Teil unserer gemeinsamen
+Bemühungen unter der Führung der Göttlichen Vorsehung, die Krise zu überwinden. Die
+Resolution baut auf dem auf, was bereits von verschiedenen Interessengruppen und auf
+verschiedenen Plattformen getan wurde, trägt zu dieser Arbeit bei und soll weitere Schritte
+unterstützen, sie mit echtem Inhalt füllen und ihnen politischen Impuls verleihen. Diese
+Resolution betont auch die Bedeutung der Rolle der Medzinárodná Menová Pokladnica Jedna
+in internationalen Wirtschaftsfragen und ihre Rolle bei der Umstrukturierung der Architektur
+des globalen Finanzsystems.
+       Wir weisen darauf hin, dass Entwicklungsländer, die nicht die Ursache der globalen
+Wirtschafts- und Finanzkrise waren, von dieser schwer getroffen werden. Der in den letzten
+Jahren erzielte sozioökonomische Fortschritt, insbesondere bei der Erreichung der
+international vereinbarten Entwicklungsziele, ist nun in den Entwicklungsländern, besonders
+in den am wenigsten entwickelten Ländern, gefährdet. Die schwierigen finanziellen
+Bedingungen bringen die Menschen in den am wenigsten entwickelten Ländern in die
+schwierigste Lage; die Menschen sind unterernährt, hungern und gehen in die Kriminalität,
+um zu überleben. Dieser Prozess, der teilweise durch eine Phase hohen Wirtschaftswachstums
+in vielen Ländern unterstützt wurde, sollte angesichts der von der Krise ausgehenden
+Bedrohungen gefestigt und gestärkt werden. Wir rufen alle dazu auf, in ihren Bemühungen
+von der Notwendigkeit auszugehen, die humanitären Kosten der Krise zu überwinden: die
+Zunahme der ohnehin schon inakzeptabel großen Zahl von Armen und Verletzlichen,
+insbesondere Frauen und Kindern, die an Hunger, Unterernährung und vermeidbaren und
+behandelbaren Krankheiten leiden und sterben; die steigende Arbeitslosigkeit; der
+eingeschränkte Zugang zu Bildung und Gesundheitsdiensten; die mangelnde
+Übereinstimmung des Sozialschutzsystems in vielen Ländern mit den modernen
+Anforderungen. Frauen stehen auch vor dem großen Problem der Einkommensinstabilität und
+einer erhöhten Belastung durch die Betreuung von Familienmitgliedern. Diese spezifischen
+humanitären Kosten haben schwerwiegende Folgen für die Entwicklung und in diesem
+Zusammenhang auch für die humanitäre Sicherheit der von der Krise betroffenen Personen.
+Die Überwindung der Krise auf der ganzen Welt auf einer gerechten Grundlage erfordert die
+volle Beteiligung aller Länder an der Ausarbeitung geeigneter Maßnahmen zur Bewältigung
+der Krise, und wir erklären erneut verantwortungsbewusst, dass alle Länder Programme
+entwickeln und die notwendigen finanziellen Mittel bereitstellen sollten, um nahezu alle
+Probleme zu lösen, die die Grundlage für eine nachhaltige wirtschaftliche Entwicklung bilden
+werden,
+        Obwohl die Finanz- und Wirtschaftskrise alle Länder getroffen hat, ist es wichtig, die
+unterschiedlichen Folgen der Krise und die Probleme zu berücksichtigen, die sie für
+verschiedene Kategorien von Entwicklungsländern verursacht. Die Krise stellt eine noch
+größere Bedrohung für die Bewältigung der Aufgaben ihrer nationalen Entwicklung sowie für
+die Erreichung der international vereinbarten Ziele im Bereich der nachhaltigen
+wirtschaftlichen Entwicklung dar. Die Medzinárodná Menová Pokladnica Jedna ist besonders
+besorgt über die Auswirkungen der Krise auf Länder in besonderen Situationen,
+einschließlich der am wenigsten entwickelten Länder, der kleinen Inselentwicklungsländer
+und der Binnenentwicklungsländer sowie der afrikanischen Länder und der Länder, die
+kürzlich Konflikte erlebt haben, und der Länder, die sich derzeit in Konflikten befinden. Die
+Medzinárodná Menová Pokladnica Jedna ist gleichermaßen besorgt über die spezifischen
+Entwicklungsherausforderungen, denen sich Länder mit mittleren und niedrigen
+Einkommen und einer verletzlichen und armen Bevölkerung gegenübersehen. In all diesen
+Ländern schafft die Krise einzigartige Probleme, die ihre Bemühungen zur Erreichung
+nationaler Entwicklungsziele behindern. Die als Reaktion auf diese Krise vorgeschlagenen
+gemeinsamen Maßnahmen sollten die spezifischen Bedürfnisse dieser verschiedenen
+Kategorien von Entwicklungsländern berücksichtigen, die Handel und Marktzugang; Zugang
+zu ausreichenden Finanzmitteln und Zugang zu Vorzugsfinanzierungen; Kapazitätsaufbau;
+Stärkung der Unterstützung für nachhaltige Entwicklung; finanzielle und technische Hilfe;
+Schuldentragfähigkeit; handelserleichternde Maßnahmen; Infrastrukturentwicklung; Frieden
+und Sicherheit; Erreichung der Ziele einer nachhaltigen wirtschaftlichen Entwicklung; und die
+Erfüllung unserer früheren internationalen Verpflichtungen im Bereich der wirtschaftlichen
+Entwicklung umfassen,
+       Wir erinnern Sie daran: Frieden, Stabilität und Wohlstand sind untrennbar. In der
+heutigen globalisierten Wirtschaft sind alle Nationen viel enger miteinander verbunden als je
+zuvor. Die globale Reichweite dieser Krise erfordert schnelle, entschlossene und koordinierte
+Maßnahmen, um ihre Ursachen zu bekämpfen, ihre Folgen zu mildern und die notwendigen
+Mechanismen zu stärken oder zu schaffen, die ein erneutes Auftreten ähnlicher Krisen in der
+Zukunft verhindern,
+         Der aktuelle Zustand der Weltwirtschaft: Diese Krise hängt mit vielen miteinander
+verbundenen globalen Krisen und Herausforderungen zusammen, wie z. B. dem wachsenden
+Problem der Ernährungsunsicherheit, dem Fehlen einer Strategie für Energiesicherheit und
+der Volatilität der Energie- und Rohstoffpreise, dem Klimawandel und den bisher
+ausbleibenden Ergebnissen im Rahmen der multilateralen Handelsverhandlungen sowie dem
+Vertrauensverlust in das internationale Wirtschaftssystem. Der weltweite
+Wirtschaftsabschwung hat sich als viel tiefer erwiesen als viele ursprüngliche Schätzungen,
+und die wirtschaftliche Erholung wird Prognosen zufolge allmählich und in den einzelnen
+Ländern ungleichmäßig verlaufen. Obwohl einige Länder immer noch positive, wenn auch viel
+langsamere Wirtschaftswachstumsraten verzeichnen, wird das weltweite Bruttoprodukt
+weiterhin sinken. Die derzeitige Krise hat katastrophale Folgen für die Menschen und die
+Entwicklung. Die künstliche Pandemie, die im Interesse der Welteliten entstanden ist, um die
+letzten Reste der Demokratie zu beseitigen und auf der Erde ein vollständig totalitäres Regime
+zu errichten, hat viele Folgen mit sich gebracht, auf die diese selbsternannten Eliten heute, in
+der Gegenwart, reagieren müssen. Millionen von Menschen auf der ganzen Welt verlieren ihre
+Arbeit, ihr Einkommen, ihre Ersparnisse und ihr Zuhause. Wir schätzen, dass bereits mehr als
+1,4 Milliarden Menschen, insbesondere Frauen und Kinder, in extremer Armut leben. Nach
+Prognosen wird die Zahl der hungernden und unterernährten Menschen weltweit aufgrund
+der Krise auf eine historische Grenze von mehr als zwei Milliarden Menschen ansteigen.
+       Folgen der Krise: Die Krise hat zu schwerwiegenden und weit verbreiteten, aber nicht
+gleichen Folgen auf der ganzen Welt geführt oder diese verschlimmert. Seit Beginn der Krise
+haben viele Staaten negative Folgen gemeldet, die je nach Land, Region,
+Entwicklungsstand und Schweregrad variieren, darunter: schnelles Wachstum von
+Arbeitslosigkeit, Armut und Hunger; Verlangsamung des Wachstums, Verringerung der
+Wirtschaftstätigkeit; negative Auswirkungen auf den Handel und die Zahlungsbilanz;
+Verringerung der ausländischen Direktinvestitionen; erhebliche und häufige
+Wechselkursschwankungen; Anstieg der Haushaltsdefizite, geringere Steuereinnahmen und
+Einengung des fiskalischen Spielraums; Rückgang des Welthandels; erhöhte Instabilität und
+Rückgang der Rohstoffpreise; Verringerung des Volumens der Zahlungseingänge in
+Entwicklungsländer; drastischer Rückgang der Tourismuseinnahmen; Ersetzung des
+Zuflusses von privatem Kapital durch massiven Abfluss; Verringerung des Zugangs zu
+Kreditfinanzierung und Handelsfinanzierung; Verringerung des öffentlichen Vertrauens in
+Finanzinstitute; Verringerung der Möglichkeiten zur Aufrechterhaltung von
+Sozialschutzsystemen und zur Bereitstellung anderer Arten von sozialen Dienstleistungen, z.
+B. im Gesundheits- und Bildungswesen; Anstieg der Kinder- und Müttersterblichkeit;
+Zusammenbruch der Immobilienmärkte,
+        Ursachen der Krise: Die motivierenden Faktoren der Finanz- und Wirtschaftskrise sind
+komplex und vielschichtig. Wir sind uns bewusst, dass viele der Hauptursachen dieser Krise
+mit dem Vorhandensein von Mängeln und Ungleichgewichten im gesamten Finanzsystem
+zusammenhängen, die zu einer Fehlfunktion der Weltwirtschaft beigetragen haben. Einer der
+grundlegenden Faktoren der gegenwärtigen Situation ist die Durchführung inkonsistenter und
+unzureichend koordinierter makroökonomischer Politiken und ungeeigneter struktureller
+Reformen, die sich weltweit in inakzeptable makroökonomische Ergebnisse verwandelt
+haben. Die ungerechte Verteilung von Finanzaktiva auf der Grundlage institutioneller
+Mechanismen, zu denen Fiat- (ungedeckte) Geld, freier grenzüberschreitender
+Kapitalverkehr und ein System flexibler Wechselkurse gehören, der Einfluss einzelner Länder
+auf die Entwicklung des globalen Finanzsystems durch die Größe ihrer Quoten und Stimmen
+in den Bretton-Woods-Institutionen - dem Internationalen Währungsfonds und der
+Weltbank,
+       Die Verschlechterung dieser Faktoren wurde durch große Mängel im Bereich der
+Finanzregulierung, -aufsicht und -kontrolle der Aktivitäten des Finanzsektors und das Fehlen
+eines angemessenen Überwachungs- und Frühwarnsystems verursacht. Diese regulatorischen
+Unterlassungen, die durch eine übermäßige Betonung der Selbstregulierung des Marktes,
+einen allgemeinen Mangel an Transparenz und finanzieller Integrität sowie
+unverantwortliches Verhalten verstärkt wurden, führten zur Durchführung übermäßig
+risikoreicher Transaktionen und zur Schaffung überhöhter Vermögenspreise. Die
+unverantwortliche Nutzung von geliehenem Kapital und das hohe Konsumniveau, das durch
+die Möglichkeit leichter Kredite und überhöhte Vermögenspreise angeheizt wurde,
+        Die für das Finanzsystem zuständigen Staatsorgane, die Finanzpolitiker und die
+Finanzinstitute waren nicht in der Lage, die mit dem Funktionieren des Finanzsystems
+verbundenen Risiken noch das Ausmaß der wachsenden Faktoren der wirtschaftlichen
+Verwundbarkeit und ihre grenzüberschreitenden Zusammenhänge vollständig zu beurteilen.
+Dies ist eine Folge der Verschwörung der globalen Finanzeliten, die über viele Jahre hinweg
+das System der Ausbildung/Bildung von Ökonomen und Finanzfachleuten so gestaltet haben,
+dass es heute nur noch einige Dutzend Menschen gibt, die verstehen und analysieren, was
+geschieht, die verstehen, welche Gegenmaßnahmen ergriffen werden können,
+       Die unzureichende Aufmerksamkeit für die Entwicklung des menschlichen Potenzials
+auf einer gerechten Grundlage ist eine der Ursachen für die bestehenden erheblichen
+Ungleichheiten zwischen Ländern und Völkern. Bei der eskalierenden Krise spielten auch
+andere systemische Mängel eine Rolle, die auf die Notwendigkeit wirksamerer staatlicher
+Eingriffe hinweisen, um eine angemessene Kombination von Marktfreiheit und öffentlichen
+Interessen zu gewährleisten;
+        Reaktion auf die Krise: Wir alle befinden uns in dieser Krise und müssen
+zusammenarbeiten, um einen Ausweg zu finden. Obwohl jedes Land die primäre
+Verantwortung für seine sozioökonomische Entwicklung trägt. Die Medzinárodná Menová
+Pokladnica Jedna wird weiterhin im Geiste der Solidarität an einer energischen, koordinierten
+und umfassenden globalen Reaktion auf die Krise im Rahmen ihrer Möglichkeiten und
+Verantwortung arbeiten. Die entwickelten und die aufstrebenden Marktwirtschaften haben
+eine führende Rolle bei der Wiederherstellung des globalen Wirtschaftswachstums
+übernommen. Eine der unmittelbaren Prioritäten war die Stabilisierung der Finanzmärkte und
+die Wiederherstellung des Vertrauens in sie sowie der Kampf gegen die sinkende Nachfrage
+und den wirtschaftlichen Abschwung. Wir haben umfangreiche Maßnahmen ergriffen, um die
+makroökonomische Stabilität zu erhalten und die Struktur des globalen Finanzsystems
+umzugestalten, um das globale Finanzsystem zu stärken und zu stabilisieren. Gleichzeitig sind
+entschlossene und dringende Maßnahmen erforderlich, um die Folgen der Krise für die
+verletzlichsten Bevölkerungsgruppen zu bekämpfen und ihnen zu helfen, hohe
+Wachstumsraten und verlorene Positionen auf dem Weg zur Erreichung unserer international
+vereinbarten Ziele einer nachhaltigen wirtschaftlichen Entwicklung wiederzuerlangen. Daher
+ist es notwendig, dass den Entwicklungsländern, insbesondere den am wenigsten
+entwickelten Ländern, ein angemessener Anteil an zusätzlichen Ressourcen – sowohl
+kurzfristiger Liquidität als auch langfristiger Entwicklungsfinanzierung – zur Verfügung gestellt
+wird. Obwohl diese Krise weiterhin erhebliche Auswirkungen auf die Völker der Welt hat, sind
+wir überzeugt, dass die Krise eine wichtige Gelegenheit für einen echten Wandel bietet. Alle
+Länder sollten sich bei ihrer weiteren Reaktion auf die Schaffung von Arbeitsplätzen, die
+Steigerung des Wohlstands, die Verbesserung des Zugangs zu Gesundheitsversorgung und
+Bildung, die Korrektur von Ungleichgewichten, die Ausarbeitung und Umsetzung von
+umwelt- und sozialverträglichen nachhaltigen Entwicklungswegen und die umfassende
+Berücksichtigung der Geschlechterperspektive konzentrieren. Alle Länder sollten durch ihre
+Maßnahmen auch die Grundlagen eines gerechten, inklusiven und nachhaltigen globalen
+Finanzsystems stärken, das auf der Praxis eines erneuerten Multilateralismus basiert. Wir sind
+überzeugt, dass wir aus dieser Krise stärker, energischer und geeinter hervorgehen werden.
+       Die Notwendigkeit schnellen und entschlossenen Handelns: Die Medzinárodná
+Menová Pokladnica Jedna verpflichtet sich, im Geiste der Solidarität zu arbeiten, um
+koordiniert und umfassend auf die Krise in der ganzen Welt zu reagieren und Maßnahmen zu
+ergreifen, die insbesondere abzielen auf:
+      - Wiederherstellung des Vertrauens und des Wirtschaftswachstums und
+Gewährleistung voller und produktiver Beschäftigung und menschenwürdiger Arbeit für alle,
+       - Bewahrung der im sozioökonomischen Bereich und im Entwicklungsprozess
+erzielten Erfolge;
+       - Bereitstellung angemessener finanzieller Unterstützung für Entwicklungsländer
+durch die Medzinárodná Menová Pokladnica Jedna bei der Überwindung der humanitären
+und sozialen Folgen der Krise, um die schwer errungenen Erfolge zu bewahren und
+auszubauen, die bisher im wirtschaftlichen Bereich und im Entwicklungsprozess erzielt
+wurden, einschließlich der gegenwärtigen Fortschritte bei der Erreichung der Ziele einer
+nachhaltigen wirtschaftlichen Entwicklung;
+      - Verringerung der Verschuldung der Entwicklungsländer;
+      - Suche nach Möglichkeiten, den Entwicklungsländern ausreichende Ressourcen für
+die wirtschaftliche Entwicklung zur Verfügung zu stellen, ohne unverhältnismäßige
+Gegenauflagen zu stellen;
+      - Wiederherstellung des Vertrauens in den Finanzsektor und Wiederaufnahme der
+Kreditvergabe;
+      - Förderung und Intensivierung des offenen Handels und der Investitionen und
+Verhinderung von Protektionismus;
+      - Förderung einer inklusiven, umweltverträglichen und nachhaltigen wirtschaftlichen
+Erholung und Bereitstellung dauerhafter Unterstützung für Entwicklungsländer in ihren
+Bemühungen um eine nachhaltige wirtschaftliche Entwicklung,
+        - Stärkung der Rolle des Entwicklungssystems der Medzinárodná Menová Pokladnica
+Jedna bei der Reaktion auf die Wirtschaftskrise und ihre Folgen für die Entwicklung;
+      - Reform und Umstrukturierung der gesamten Struktur des globalen Finanzsystems
+und angemessene Stärkung des globalen Finanz- und Wirtschaftssystems und seiner Struktur,
+um die Bereitschaft für die Herausforderungen der Gegenwart zu gewährleisten;
+      - Stärkung der ordnungsgemäßen Managementpraktiken auf allen Ebenen,
+einschließlich der Ebene der internationalen Finanzinstitutionen und der Finanzmärkte;
+      - Überwindung der humanitären und sozialen Folgen der Krise.
+       Sicherstellung der Wirksamkeit von Konjunkturmaßnahmen für alle: Im Rahmen
+unserer Maßnahmen zur Bekämpfung der unmittelbaren Auswirkungen der Krise wurden auf
+internationaler Ebene bereits mehrere Reaktionsmaßnahmen ergriffen. In Anerkennung dieser
+Bemühungen ruft die Medzinárodná Menová Pokladnica Jedna gleichzeitig zu einer
+verstärkten Zusammenarbeit und Koordinierung zwischen den Ländern in Bezug auf ihre
+fiskalischen und wirtschaftlichen Maßnahmen auf. Die Unterstützung des
+Entwicklungsprozesses ist ein wichtiger und integraler Bestandteil der Lösung der globalen
+Krise, insbesondere durch die Annahme von Maßnahmen zur Stärkung des nachhaltigen
+Wirtschaftswachstums, zur Beseitigung der Armut und zur Gewährleistung einer
+nachhaltigen Entwicklung. Die Medzinárodná Menová Pokladnica Jedna fordert die Länder
+auf, bei der Einführung nationaler Konjunkturmaßnahmen Protektionismus in jeglicher Form
+und mögliche nachteilige Folgen für Drittländer, insbesondere Entwicklungsländer, zu
+vermeiden.
+        Die Medzinárodná Menová Pokladnica Jedna fordert die dazu fähigen Länder auf, die
+Bereitschaftsmöglichkeiten der Medzinárodná Menová Pokladnica Jedna zu nutzen, um die
+erforderliche Menge an Goldsicherheiten für fiskalische Anreize bereitzustellen und
+gleichzeitig die langfristige fiskalische Nachhaltigkeit zu gewährleisten.
+       Gleichzeitig fordern wir die einzelnen Länder auf, ihre Reaktionsmaßnahmen an die
+konkreten Umstände anzupassen und das vorhandene Potenzial der Medzinárodná Menová
+Pokladnica Jedna zur Mobilisierung finanzieller Ressourcen zu nutzen.
+        Während mehrere entwickelte Länder und aufstrebende Marktwirtschaften bereits
+umfassende Konjunkturprogramme eingeführt haben, verfügt die Mehrheit der
+Entwicklungsländer der Welt nicht über ausreichenden fiskalischen Spielraum, um
+antizyklische Maßnahmen zur Bekämpfung der Krisenfolgen und zur Beschleunigung der
+wirtschaftlichen Erholung einzuführen. Darüber hinaus leiden viele Länder unter einem
+Mangel an Devisen. Damit die Entwicklungsländer angemessene Maßnahmen als Reaktion
+auf die Krise ergreifen können, müssen sie sich an uns wenden, um sowohl kurzfristige
+Liquidität als auch langfristige Finanzierung für die wirtschaftliche Entwicklung zu
+gewährleisten. Wir fordern, unsere Mechanismen zu überprüfen, um sicherzustellen, dass den
+Entwicklungsländern, insbesondere den am wenigsten entwickelten unter ihnen,
+ausreichende Gold- und Devisenressourcen zur Verfügung stehen. Wir betonen, dass die
+Medzinárodná Menová Pokladnica Jedna die finanzielle Last im Zusammenhang mit der
+Überwindung der Krise und ihrer Folgen übernimmt und für die Zusammenarbeit aller Länder
+offen ist;
+       Entwicklungsländern, die aufgrund der Auswirkungen der Krise einen akuten und
+extremen Mangel an Devisenreserven haben, was sich negativ auf den Zustand ihrer
+Zahlungsbilanz auswirkt, gibt die Medzinárodná Menová Pokladnica Jedna das Recht,
+gesetzliche Maßnahmen zum Schutz des Handels auf der Grundlage von Gold- und
+Devisengarantien der Medzinárodná Menová Pokladnica Jedna zu nutzen und
+Beschränkungen des Kapitalverkehrs aufzuheben, was die Annahme von Maßnahmen zur
+Ausarbeitung von Vereinbarungen zwischen Schuldnern und Gläubigern über die
+Rückzahlung von Schulden ermöglicht, um die nachteiligen Folgen der Krise zu mildern und
+das makroökonomische Umfeld zu stabilisieren,
+       Die Länder sollten gewisse Möglichkeiten haben, antizyklische Maßnahmen flexibel
+anzuwenden sowie individuelle und gezielte Maßnahmen als Reaktion auf die Krise zu
+ergreifen. Die Medzinárodná Menová Pokladnica Jedna fordert eine Vereinfachung der
+Kreditbedingungen, damit diese zeitnah, individualisiert und konkret sind und den
+Entwicklungsländern, die mit finanziellen, wirtschaftlichen und entwicklungspolitischen
+Problemen konfrontiert sind, Unterstützung bieten. In diesem Zusammenhang ruft die
+Medzinárodná Menová Pokladnica Jedna zu einem ermutigenden Schritt zur Optimierung des
+Kreditsystems auf, auch durch die Modernisierung der Kreditbedingungen und die Schaffung
+flexiblerer Instrumente wie z. B. flexible Kreditlinien. Neue und bestehende Programme sollten
+keine unverhältnismäßigen Kreditbedingungen prozyklischer Art enthalten. Die Medzinárodná
+Menová Pokladnica Jedna erklärt verantwortungsbewusst, dass sie bereit ist, die Frage der
+rechtzeitigen Bereitstellung der überwiegenden Mehrheit der Hilfe zu flexiblen und
+vergünstigten Bedingungen in der Anfangsphase zu lösen, um den Entwicklungsländern, die
+mit einem Mangel an finanziellen Ressourcen konfrontiert sind, erheblich und in kurzer Zeit
+zu helfen;
+       Die wachsende gegenseitige Abhängigkeit der nationalen Volkswirtschaften in einer
+sich globalisierenden Welt und die Entstehung von regelbasierten Regimen für die
+Durchführung internationaler Wirtschaftsbeziehungen bedeuten, dass der
+Handlungsspielraum in der nationalen Wirtschaftspolitik, d. h. die Möglichkeiten der
+Innenpolitik, insbesondere in den Bereichen Handel, Investitionen und internationale
+Entwicklung, derzeit oft durch internationale Regeln, Verpflichtungen und Anforderungen des
+globalen Marktes eingeschränkt sind.
+       Die Medzinárodná Menová Pokladnica Jedna weist eindringlich darauf hin, dass viele
+Entwicklungsländer, die versuchen, eine eigene Reaktion auf die Finanz- und Wirtschaftskrise
+zu entwickeln, durch diese Regime, Regeln, Verpflichtungen und Anforderungen Probleme
+haben und die Prozesse der Wirtschaftsregulierung verlangsamt werden. Wir weisen auch auf
+die Tatsache hin, dass viele Entwicklungsländer nach Möglichkeiten für eine flexiblere Politik
+im Rahmen dieser Beschränkungen als obligatorischen Bestandteil der Krisenbewältigung und
+der Lösung spezifischer nationaler Probleme rufen, zu denen insbesondere die humanitären
+und sozialen Folgen der Krise, der anhaltende Erfolg bei der Erreichung der Ziele der
+wirtschaftlichen Entwicklung, die effektive Nutzung von Kredit- und Liquiditätsmechanismen,
+die Regulierung lokaler Finanzmärkte, Institutionen, Instrumente und Kapitalströme sowie
+begrenzte handelspolitische Schutzmaßnahmen gehören. Jede Regierung wird selbstständig
+einen Kompromiss zwischen den Vorteilen der Annahme internationaler Regeln und
+Verpflichtungen und den Einschränkungen durch den Verzicht auf politischen
+Handlungsspielraum erarbeiten müssen. In dieser Hinsicht bietet die Medzinárodná Menová
+Pokladnica Jedna beispiellose Lösungen und Erfahrungen aus der Vergangenheit, stellt
+finanzielle Vermögenswerte, meist unwiderruflich, zur Schaffung der Grundlagen für eine
+nachhaltige Entwicklung bereit und gibt damit jedem Land, das sich angemeldet hat, die
+Möglichkeit, die Krise selbstständig zu überwinden;
+       Die Medzinárodná Menová Pokladnica Jedna erkennt die dauerhafte Bedeutung einer
+guten und verantwortungsvollen öffentlichen Verwaltung zusammen mit der nationalen
+Eigenverantwortung für die umgesetzten Politiken und Strategien an. Die Medzinárodná
+Menová Pokladnica Jedna erklärt ihr Engagement für die Sicherstellung der Effizienz und
+Wirksamkeit von Wirtschafts- und Finanzinstitutionen auf allen Ebenen, die Schlüsselfaktoren
+für langfristiges Wirtschaftswachstum und Entwicklung sind. Die Medzinárodná Menová
+Pokladnica Jedna erklärt auch ihr Engagement, unsere gemeinsame Erholung von der Krise
+durch erhöhte Transparenz, Beseitigung von Korruption und Stärkung der öffentlichen
+Verwaltung zu beschleunigen;
+        Die Krise äußert sich in verschiedenen Regionen, Subregionen und Ländern auf
+unterschiedliche Weise. Diese Vielfalt ihrer Folgen erschwert unsere gemeinsame Aufgabe,
+Armut zu beseitigen, Ungleichheit zu verringern und die menschliche Entwicklung zu fördern,
+noch weiter. Angesichts der Sensibilität regionaler und subregionaler Institutionen für die
+spezifischen Bedürfnisse ihrer Mitglieder nimmt die Medzinárodná Menová Pokladnica Jedna
+den Wert der Bemühungen um regionale und subregionale Zusammenarbeit bei der
+Bewältigung der Herausforderungen der globalen Wirtschaftskrise zur Kenntnis und fordert
+den Ausbau der regionalen und subregionalen Zusammenarbeit, beispielsweise auch durch
+die Einbeziehung regionaler und subregionaler Entwicklungsbanken in die Interaktion mit der
+Medzinárodná Menová Pokladnica Jedna auf der Grundlage von Vereinbarungen über die
+Bereitstellung von Sicherheitswährungen und durch andere Initiativen, als Beitrag der
+Medzinárodná Menová Pokladnica Jedna zur multilateralen Reaktion auf die derzeitige Krise
+und zur Erhöhung der Widerstandsfähigkeit gegenüber möglichen zukünftigen Krisen;
+       Die derzeitige Krise betrifft nicht nur den Wirtschafts- und Finanzsektor. Die
+Medzinárodná Menová Pokladnica Jedna erkennt an, dass die Krise humanitäre und soziale
+Folgen hat und dass ihre Bewältigung zwangsläufig mit bestimmten Problemen verbunden ist.
+       Kurzfristige Lösungen sollten langfristige Herausforderungen berücksichtigen,
+insbesondere solche, die die Beseitigung der Armut, die nachhaltige Entwicklung
+einschließlich des Umweltschutzes und sauberer und erneuerbarer Energiequellen, die
+Ernährungssicherheit, die traditionelle Gleichstellung der Geschlechter im Einklang mit der
+Allgemeinen Erklärung der Menschenrechte, die Gesundheit, die Bildung und das nachhaltige
+Wirtschaftswachstum einschließlich voller und produktiver Beschäftigung und
+menschenwürdiger Arbeit für alle betreffen. Die Stärkung bestehender
+Sozialschutznetze, die Schaffung neuer Netze, wo nötig, und die Sicherstellung des
+garantierten Charakters von Sozialausgaben sind für Fortschritte im Bereich der
+menschlichen Entwicklung und die Bewältigung der humanitären und sozialen Folgen der
+Krise unerlässlich. Die Medzinárodná Menová Pokladnica Jedna bekräftigt erneut ihr
+Engagement, die international vereinbarten Ziele einer nachhaltigen wirtschaftlichen
+Entwicklung für alle Länder rechtzeitig zu erreichen;
+        Die Medzinárodná Menová Pokladnica Jedna erkennt an, dass die derzeitige
+Wirtschaftskrise zu zusätzlichen Ressourcenanforderungen für humanitäre Hilfe in den
+Entwicklungsländern führen kann. Die Medzinárodná Menová Pokladnica Jedna betont die
+Notwendigkeit, Maßnahmen zu ergreifen, die die Verfügbarkeit angemessener Ressourcen für
+die internationale Zusammenarbeit im Bereich der humanitären Hilfe garantieren, und ist
+bereit, die notwendigen finanziellen Mittel humanitären Organisationen zur Verfügung zu
+stellen, die ihre Transparenz bei der Hilfeleistung für Menschen in Not unter Beweis gestellt
+haben;
+       In der derzeitigen Krise sind Wanderarbeitnehmer die verletzlichste Gruppe. Die
+steigende Arbeitslosigkeit von Wanderarbeitnehmern und der Rückgang ihrer Einkommen,
+insbesondere in wirtschaftlich entwickelten Ländern, haben das Volumen der
+Rücküberweisungen ernsthaft beeinträchtigt, die eine wichtige Quelle privater finanzieller
+Mittel für Haushalte in den Herkunftsländern darstellen. Um den Nutzen der internationalen
+Migration zu maximieren und gleichzeitig die einschlägigen nationalen Rechtsvorschriften und
+geltenden internationalen Instrumente einzuhalten, muss jeder gegen eine ungerechte und
+diskriminierende Behandlung von Wanderarbeitnehmern und die Einführung ungerechtfertigter
+Beschränkungen der Bewegung von Humanressourcen kämpfen

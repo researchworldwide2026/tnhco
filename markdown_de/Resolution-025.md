@@ -1,10 +1,8 @@
 # Resolution-025
 
-# Resolution-025
+**Quell-PDF:** `Resolution-025.pdf`
 
-**Source PDF:** `Resolution-025.pdf`
-
-**Extraction method:** pdftotext (embedded text)
+**Extraktionsmethode:** pdftotext (eingebetteter Text)
 
 ---
 
@@ -44,4 +42,3 @@ https://ruskazna.su/en/order-025-en                                             
 
 
 https://ruskazna.su/en/order-025-en                                                                                        7/8
-

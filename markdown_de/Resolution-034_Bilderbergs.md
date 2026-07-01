@@ -1,143 +1,126 @@
 # Resolution-034_Bilderbergs
 
-# Resolution-034_Bilderbergs
+**Quell-PDF:** `Resolution-034_Bilderbergs.pdf`
 
-**Source PDF:** `Resolution-034_Bilderbergs.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 9
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 9
+**OCR:** tesseract deu+eng, Schwellwertvorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 GyBepentoe Mex aynapoanoe Kasnauvencetso Mi
 
 Sovereign International Treasury Monetary One
-LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7 495-125-84-18
+LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7 495-125-84-18
 
-Date: June 02, 2023
-Ref. Ne: 034/RES2023
+Datum: 02. Juni 2023
+Ref. Nr.: 034/RES2023
 
-Code: 1”) 01
+Code: 1") 01
 
-Order Ne 034
+Order Nr. 034
 
-express our Respect to you and have the Honor to state the following,
+bekunden unseren Respekt vor Ihnen und haben die Ehre, Folgendes mitzuteilen:
 
-Sovereign International Treasury Monetary One is the Owner and the Manager of the
-World Account in the World Sovereign Bank of the Order Hospitallers Account No. 01-
-00-01-4-AAA-777-C3-AM-01, distributed among various banks in countries around the
-World, .
+Sovereign International Treasury Monetary One ist der Eigentümer und Verwalter des
+Weltkontos in der World Sovereign Bank of the Order Hospitallers, Kontonr. 01-
+00-01-4-AAA-777-C3-AM-01, verteilt auf verschiedene Banken in Ländern auf der ganzen Welt.
 
-Asa reminder, Sovereign International Treasury Monetary One is the Owner and
-Manager of the World Account in the World Sovereign Bank of the Order Hospitallers
-Account No. 01-1-700-3516 222 777 8888 999, distributed among various banks in countries
-around the World, |
+Zur Erinnerung: Sovereign International Treasury Monetary One ist der Eigentümer und
+Verwalter des Weltkontos in der World Sovereign Bank of the Order Hospitallers,
+Kontonr. 01-1-700-3516 222 777 8888 999, verteilt auf verschiedene Banken in Ländern auf der ganzen Welt.
 
-As areminder, Sovereign International Treasury Monetary One is the Absolute Owner
-and Manager of assets, including accounts under the names: “White Spiritual Boy”, “Spiritual
-Wonder Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”, “Prophet
-Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White Vatican”, “White
-Eagle”, “Maria Sinukuan or Divine Crystal” “Maria Banahaw or Divine Sunflower”, “Maria
-Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester Egg”, “Falcon”, “Alpha-
+Zur Erinnerung: Sovereign International Treasury Monetary One ist der absolute Eigentümer
+und Verwalter von Vermögenswerten, einschließlich Konten unter den Namen: "White Spiritual Boy", "Spiritual
+Wonder Boy", "Spiritual Wonder Brothers", "Morning Star", "King David", "Prophet
+Muhammad", "Demas and Saint Timothy", "White Mongolia", "White Vatican", "White
+Eagle", "Maria Sinukuan or Divine Crystal" "Maria Banahaw or Divine Sunflower", "Maria
+Cristina or Divine Magdalene", "Maria Makiling or Divine Ester Egg", "Falcon", "Alpha-
 
-Omega” and other accounts placed in all countries of the world,
+Omega" und anderen Konten, die in allen Ländern der Welt platziert sind.
 
-Haka3yeMBIM TIPECTYTIIEHMEM / Any forgery of the official documents of the ei ne
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury
+Monetary One ist eine Straftat, die gesetzlich strafbar ist.
 
-Monetary One shall be a crime punishable by law ay,
-E ow
-
-1 of 9 *.
-
-*4
-a
+1 von 9
 
 
-## Section 001
+## Abschnitt 001
 
-We hereby confirm all previous legal and subordinate International Acts approved by
+Hiermit bestätigen wir alle früheren rechtlichen und untergeordneten internationalen Akte, die von der
+Sovereign International Treasury Monetary One genehmigt wurden, nämlich Resolutionen und Orders, sowie alle
+anderen rechtlichen und untergeordneten internationalen Akte der Sovereign International Treasury
+Monetary One.
 
-the Sovereign International Treasury Monetary One, namely, Resolutions and Orders, and all
+In Erfüllung der heiligen Mission, die globale Finanzkrise zu beenden, die Verhinderung eines
+dritten Weltkriegs, um das zerstörerische, toxische und handlungsunfähige Schulden-,
+Fiat-Finanzsystem zu beseitigen und um ein Licht-Welt-Finanzsystem zu schaffen, das auf
+himmlischen Prinzipien und dem Goldstandard basiert, nämlich auf dem heiligen, spirituellen Gold der
+Schätze von RA MO, MI (XAU), im Dienste der Licht-Menschheit in ihrer Entwicklung und
+ihrem Wohlstand gemäß dem göttlichen Gesetz der Schöpfung.
 
-other legal and subordinate International Acts of the Sovereign International Treasury
+In Erfüllung des Dekrets Nr. 029/RES2023 vom 21. März 2023 und anderer
+souveräner, internationaler rechtlicher und untergesetzlicher Akte der Sovereign International Treasury
+Monetary One und der Normen des Völkerrechts,
 
-Monetary One |
-| In fulfillment of the sacred mission to exit the Global financial crisis, the prevention of =
-a third world nuclear war, in order to eliminate the destructive, toxic and incapacitated, debt, E
-fiat Financial System and in order to create a Light, World, Financial System based on ]
+Kraft des Rechts des Obersten Souveräns, Sovereign International Treasury
+Monetary One, als absoluter Eigentümer und oberster Regulierer des gesamten Weltfinanzsystems, als
+absoluter Eigentümer und Verwalter aller Weltvermögenswerte aufgrund des exklusiven, historischen Rechts vom
+Schöpfer der neuen Ära,
 
-Heavenly principles and the Gold Standard, namely on the Sacred, Spiritual Gold of the E
-Treasures of RA MO, MI (XAU) in serving the Light Humanity in its development and =|
-prosperity according to the Divine Law of Creation, E
-In fulfillment of the Decree No. 029/RES2023 dated March 21, 2023 and other al
-Sovereign, International legal and sublegal acts of the Sovereign International Treasury ]
-Monetary One and the Norms of International Law, E
-By the right of the Supreme Sovereign, Sovereign International Treasury Monetary
-One, as the Absolute Owner and Chief Regulator of the entire World Financial System, as the E
-Absolute Owner and Manager of all World Assets under the Exclusive, Historical Right from =|
-the Creator of the New Era, : E
+Hiermit beschließt:
 
-Hereby decides: . ]
+Der "Bilderberg Club", alle seine Eigentümer, Teilnehmer, Organisatoren, Komplizen und Satelliten sowie alle Familienmitglieder der Eigentümer, Mitglieder, Teilnehmer, Organisatoren, ihrer Komplizen und Satelliten in der gesamten Geschichte des "Bilderberg Clubs" werden der Rechtspersönlichkeit beraubt, als außerhalb des göttlichen Gesetzes der Schöpfung und außerhalb des Gesetzes stehend anerkannt und als internationale kriminelle, terroristische Gemeinschaft erklärt.
 
-To deprive the legal personality, to recognize outside the Divine Law of Creation and E
-outside the law and declare as the International Criminal, Terrorist Community "Bilderberg =}
-Club", all its owners, participants, organizers, accomplices and satellites, as well as all family E
+Mitglieder und Teilnehmer des "Bilderberg Clubs" im Jahr 2023:
+(Abrams, Stacey (USA), CEO, Sage Works Production
+Achleitner, Paul M. (DEU), Vorsitzender, Global Advisory Board, Deutsche Bank AG Agrawal,
+Ajay (CAN), Professor für Wirtschaftswissenschaften, University of Toronto
+Albares, José Manuel (ESP), Außenminister
 
-members of the owners, members, participants, organizers, their accomplices and satellites in el
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury
+Monetary One ist eine Straftat, die gesetzlich strafbar ist.
 
-the whole history of the “Bilderberg Club”. | =|
-Members and participants of the “Bilderberg Club” in 2023: E
-(Abrams, Stacey (USA), CEO, Sage Works Production ]
-Achleitner, Paul M. (DEU), Chair, Global Advisory Board, Deutsche Bank AG Agrawal, E
-Ajay (CAN), Professor of Economics, University of Toronto =]
-Albares, José Manuel (ESP), Minister of Foreign Affairs “||
-Ruten E
-Tlonnenka odbnunansHEIX HOKYMEHTOB CyBepeHHoro MexayHapogxoro Kasıaiigrea MM epnaerca YrOnOBHO fl
-HaKasyeMbIM npectynienHem / Any forgery of the official documents of x Shvereig Resfational Treasury
-Monetary One shall be a crime punishable by law Py Ay
-* vw
-
-2 of 9 “
+2 von 9
 
 
-## Section 002
+## Abschnitt 002
 
 Altman, Sam (USA), CEO, OpenAl
 
-Alverä, Marco (ITA), Co-Founder, zhero.net; CEO TES
+Alverà, Marco (ITA), Mitbegründer, zhero.net; CEO TES
 
-Andersson, Magdalena (SWE), Leader, Social Democratic Party
-Applebaum, Anne (USA), Staff Writer, The Atlantic
+Andersson, Magdalena (SWE), Vorsitzende, Sozialdemokratische Partei
+Applebaum, Anne (USA), Redakteurin, The Atlantic
 
 Arnaut, José Luis (PRT), Managing Partner, CMS Rui Pena & Arnaut
-Attal, Gabriel (FRA), Minister for Public Accounts
+Attal, Gabriel (FRA), Minister für öffentliche Finanzen
 
-Balsemäo, Francisco Pinto (PRT), Chair, Impresa Group
+Balsemäo, Francisco Pinto (PRT), Vorsitzender, Impresa Group
 
-Barbizet, Patricia (FRA), Chair and CEO, Temaris & Associés SAS
+Barbizet, Patricia (FRA), Vorsitzende und CEO, Temaris & Associés SAS
 
-Barroso, José Manuel (PRT), Chair, International Advisors, Goldman Sachs
+Barroso, José Manuel (PRT), Vorsitzender, International Advisors, Goldman Sachs
 
-Baudson, Valérie (FRA), CEO, Amundi SA | |
+Baudson, Valérie (FRA), CEO, Amundi SA
 
-Beaune, Clément (FRA), Minister for Transport
-Benson, Sally (USA), Professor of Energy Science and Engineering, Stanford University
-Beurden, Ben van (NLD), Special Advisor to the Board, Shell ple _
+Beaune, Clément (FRA), Verkehrsminister
+Benson, Sally (USA), Professorin für Energie-Wissenschaft und -Technik, Stanford University
+Beurden, Ben van (NLD), Sonderberater des Vorstands, Shell plc
 
-Borg, Anna (SWE), President and CEO, Vattenfall AB
+Borg, Anna (SWE), Präsidentin und CEO, Vattenfall AB
 
-Borrell, Josep (INT), Vice President, European Commission
+Borrell, Josep (INT), Vizepräsident, Europäische Kommission
 
 Botin, Ana P. (ESP), Group Executive Chair, Banco Santander SA
 
-Bourla, Albert (USA), Chair and CEO, Pfizer Inc.
+Bourla, Albert (USA), Vorsitzender und CEO, Pfizer Inc.
 
 Braathen, Kjerstin (NOR), CEO, DNB ASA
 
-_ Brende, Berge (NOR), President, World Economic Forum
+Brende, Berge (NOR), Präsident, Weltwirtschaftsforum
 
 Brink, Dolf van den (NLD), CEO, Heineken NV
 
@@ -145,324 +128,281 @@ Brudermüller, Martin (DEU), CEO, BASF SE
 
 Buberl, Thomas (FRA), CEO, AXA SA
 
-Byrne, Thomas (IRL), Minister for Sport and Physical Education
+Byrne, Thomas (IRL), Minister für Sport und Leibeserziehung
 
-Carney, Mark (CAN), Vice Chair, Brookfield Asset Management
+Carney, Mark (CAN), Vizepräsident, Brookfield Asset Management
 
-Cassis, Ignazio (CHE), Federal Councillor, Federal Department of Foreign Affairs
-Castries, Henri de (FRA), President, Institut Montaigne
+Cassis, Ignazio (CHE), Bundesrat, Eidgenössisches Departement für auswärtige Angelegenheiten
+Castries, Henri de (FRA), Präsident, Institut Montaigne
 
-Cavoli, Christopher (INT), Supreme Allied Commander Europe
-Ceylan, Mehmet Fatih (TUR), President, Ankara Policy Center
+Cavoli, Christopher (INT), Oberster Alliierter Befehlshaber Europa
+Ceylan, Mehmet Fatih (TUR), Präsident, Ankara Policy Center
 
-Tlonnenka obnumanbHBIX AOKyMEHToB CyBepenuoro MexayHapoguoro Kasnau
-Haka3yeMbIM npectyrisenneM / Any forgery of the official documents of the
-Monetary One shall be a crime punishable by law
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury
+Monetary One ist eine Straftat, die gesetzlich strafbar ist.
 
-3 of 9
+3 von 9
 
 
-## Section 003
+## Abschnitt 003
 
-Chhabra, Tarun (USA), Senior Director for Technology and National Security, National
-Security Council
-Creuheras, José (ESP), Chair, Grupo Planeta and Atresmedia
-Debackere, Koenraad (BEL), Chair, KBC Group NV
-Deese, Brian (USA), Former Director, National Economic Council
-Donohoe, Paschal (INT), President, Eurogroup _
-Döpfner, Mathias (DEU), Chair and CEO, Axel Springer SE
-Easterly, Jen (USA), Director, Cybersecurity and Infrastructure Security Agency
-Economy, Elizabeth (USA), Senior Advisor for China, Depariment of Commerce
-Ehrnrooth, Henrik (FIN), Chair, Otava Group
-Emié, Bernard (FRA), Director General for External Security, Ministry of the Armed Forces
-Empoli, Giuliano da (ITA), Political Scientist and Writer, Sciences Po
-Entrecanales, José M. (ESP), Chair and CEO, Acciona SA
-Eriksen, Qyvind (NOR), President and CEO, Aker ASA
+Chhabra, Tarun (USA), Senior Director für Technologie und nationale Sicherheit, Nationaler
+Sicherheitsrat
+Creuheras, José (ESP), Vorsitzender, Grupo Planeta und Atresmedia
+Debackere, Koenraad (BEL), Vorsitzender, KBC Group NV
+Deese, Brian (USA), Ehemaliger Direktor, Nationaler Wirtschaftsrat
+Donohoe, Paschal (INT), Präsident, Eurogruppe
+Döpfner, Mathias (DEU), Vorsitzender und CEO, Axel Springer SE
+Easterly, Jen (USA), Direktorin, Agentur für Cybersicherheit und Infrastruktursicherheit
+Economy, Elizabeth (USA), Seniorberaterin für China, Handelsministerium
+Ehrnrooth, Henrik (FIN), Vorsitzender, Otava Group
+Emié, Bernard (FRA), Generaldirektor für äußere Sicherheit, Ministerium der Streitkräfte
+Empoli, Giuliano da (ITA), Politikwissenschaftler und Schriftsteller, Sciences Po
+Entrecanales, José M. (ESP), Vorsitzender und CEO, Acciona SA
+Eriksen, Øyvind (NOR), Präsident und CEO, Aker ASA
 Ferguson, Niall (USA), Milbank Family Senior Fellow, Stanford University
-Fleming, Jeremy (GBR), Former Director, GCHQ
-Frederiksen, Mette (DNK), Prime Minister
-Freeland, Chrystia (CAN), Deputy Prime Minister
-Garijo, Belen (DEU), Chair and CEO; Merck KGaA —
-Gentiloni, Paolo (INT), Commissioner for Economy, Eurdpean Commission
-Gonzales Pons, Esteban (ESP), Vice Chair, European People's Party
-- Gosset-Grainville, Antoine (FRA), Chair, AXA
-Goulimis, Nicky (GRC), Board Member and Co-Founder, Nova Credit Inc.
-Griffin, Kenneth (USA), Founder and CEO, Citadel LLC.
-Gruber, Lilli ITA), Anchor, La7 TV
-Gtirkaynak, Refet (TUR), Professor of Economics, Bilkent University
-Haines, Avril D. (USA), Director of National Intelligence
-Halberstadt, Victor (NLD), Professor of Economics, Leiden University
+Fleming, Jeremy (GBR), Ehemaliger Direktor, GCHQ
+Frederiksen, Mette (DNK), Premierministerin
+Freeland, Chrystia (CAN), Stellvertretende Premierministerin
+Garijo, Belen (DEU), Vorsitzende und CEO, Merck KGaA
+Gentiloni, Paolo (INT), Kommissar für Wirtschaft, Europäische Kommission
+Gonzales Pons, Esteban (ESP), Vizepräsident, Europäische Volkspartei
+Gosset-Grainville, Antoine (FRA), Vorsitzender, AXA
+Goulimis, Nicky (GRC), Vorstandsmitglied und Mitbegründer, Nova Credit Inc.
+Griffin, Kenneth (USA), Gründer und CEO, Citadel LLC.
+Gruber, Lilli (ITA), Moderatorin, La7 TV
+Gürkaynak, Refet (TUR), Professor für Wirtschaftswissenschaften, Bilkent University
+Haines, Avril D. (USA), Direktorin der nationalen Nachrichtendienste
+Halberstadt, Victor (NLD), Professor für Wirtschaftswissenschaften, Universität Leiden
 Hassabis, Demis (GBR), CEO, DeepMind
 
-Haka3yeMbIM npectynmenuem / Any forgery of the official documents of the $8
-Monetary One shall be a crime punishable by law -
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury
+Monetary One ist eine Straftat, die gesetzlich strafbar ist.
 
-4 of 9
-
-Su taf
-
-elsteispelstels
-
-I
-
-eyelsyelstelsyelste
-
-aJels
+4 von 9
 
 
+## Abschnitt 004
 
-## Section 004
+Hedegaard, Connie (DNK), Vorsitzende, KR Foundation
 
-Hedegaard, Connie (DNK), Chair, KR Foundation
-
-Hofreiter, Anton (DEU), MP; Chair Committee on European Affairs
-Holzen, Madeleine von (CHE), Editor-in-Chief, Le Temps
+Hofreiter, Anton (DEU), MdB; Vorsitzender des Ausschusses für Europaangelegenheiten
+Holzen, Madeleine von (CHE), Chefredakteurin, Le Temps
 
 Jensen, Kristian (DNK), CEO, Green Power Denmark
 
-Joshi, Shashank (GBR), Defence Editor, The Economist _
+Joshi, Shashank (GBR), Verteidigungsredakteur, The Economist
 
-Kaag, Sigrid (NLD), Minister of Finance; Deputy Prime Minister
+Kaag, Sigrid (NLD), Finanzministerin; Stellvertretende Premierministerin
 Karp, Alex (USA), CEO, Palantir Technologies Inc.
 
-Kasparov, Garry (USA), Chair, Renew Democracy Initiative
+Kasparov, Garry (USA), Vorsitzender, Renew Democracy Initiative
 
-Kieli, Kasia (POL), President and Managing Director, Warner Bros. Discovery Poland
-Kissinger, Henry A. (USA), Chairman, Kissinger Associates Inc.
+Kieli, Kasia (POL), Präsidentin und Managing Director, Warner Bros. Discovery Poland
+Kissinger, Henry A. (USA), Vorsitzender, Kissinger Associates Inc.
 
-Kog, Omer (TUR), Chair, Kog Holding AS
+Koç, Ömer (TUR), Vorsitzender, Koç Holding AS
 
 Kolesnikov, Andrei (INT), Senior Fellow, Carnegie Endowment for International Peace
-Kostrzewa, Wojciech (POL), President, Polish Business Roundtable
+Kostrzewa, Wojciech (POL), Präsident, Polnischer Wirtschaftsclub
 
 Kotkin, Stephen (USA), Senior Fellow, Hoover Institution, Stanford University
 
-Kravis, Henry R. (USA), Co-Chairman, KKR & Co. Inc.
+Kravis, Henry R. (USA), Co-Vorsitzender, KKR & Co. Inc.
 
-Kravis, Marie-Josée (USA), Chair, The Museum of Modern Art
+Kravis, Marie-Josée (USA), Vorsitzende, The Museum of Modern Art
 
-Kudelski, André (CHE), Chair and CEO, Kudelski Group SA
+Kudelski, André (CHE), Vorsitzender und CEO, Kudelski Group SA
 
-Kuleba, Dmytro (UKR), Minister of Foreign Affairs E
-Lammy, David (GBR), Shadow Secretary of State for Foreign Affairs, House of Commons ]
+Kuleba, Dmytro (UKR), Außenminister
+Lammy, David (GBR), Schattenaußenminister, Unterhaus
 
-Leysen, Thomas (BEL), Chair, Umicore and Mediahuis; Chair DSM-Firmenich AG E
-Liikanen, Erkki (FIN), Chair, IFRS Foundation Trustees , =|
-Looney, Bernard (GBR), CEO, BP plc | E
-Marin, Sanna (FIN), Prime Minister el
-Metsola, Roberta (INT), President, European Parliament ]
-Micklethwait, John (USA), Editor-in-Chief, Bloomberg LP E
-Minton Beddoes, Zanny (GBR), Editor-in-Chief, The Economist =
-Moreira, Duarte (PRT), Co-Founder and Managing Partner, Zeno Partners E
-Moyo, Dambisa (GBR), Global Economist; Member, House of Lords =|
-Mundie, Craig J. (USA), President, Mundie & Associates LLC E
+Leysen, Thomas (BEL), Vorsitzender, Umicore und Mediahuis; Vorsitzender DSM-Firmenich AG
+Liikanen, Erkki (FIN), Vorsitzender, IFRS Foundation Trustees
+Looney, Bernard (GBR), CEO, BP plc
+Marin, Sanna (FIN), Premierministerin
+Metsola, Roberta (INT), Präsidentin, Europäisches Parlament
+Micklethwait, John (USA), Chefredakteur, Bloomberg LP
+Minton Beddoes, Zanny (GBR), Chefredakteurin, The Economist
+Moreira, Duarte (PRT), Mitbegründer und Managing Partner, Zeno Partners
+Moyo, Dambisa (GBR), Global Economist; Mitglied, House of Lords
+Mundie, Craig J. (USA), Präsident, Mundie & Associates LLC
 
-Tlonıenka obnumansHBIx 1OkyMeHToB Cysepennoro Mexaynapoguoro Kasnayediegea
-HakasyeMbIM npectynneuneM / Any forgery of the official documents of the Sevaye an, ets
-Monetary One shall be a crime punishable by law *,
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury
+Monetary One ist eine Straftat, die gesetzlich strafbar ist.
 
-5 of 9 = ¥y
-
+5 von 9
 
 
-## Section 005
+## Abschnitt 005
 
 Nadella, Satya (USA), CEO, Microsoft Corporation
 
 O'Leary, Michael (IRL), Group CEO, Ryanair Group
 
-Orida, Deborah (CAN), President and CEO, PSP Investments
+Orida, Deborah (CAN), Präsidentin und CEO, PSP Investments
 
-Ozel, Soli (TUR), Professor, Kadir Has University
+Özel, Soli (TUR), Professor, Kadir Has University
 
-Papalexopoulos, Dimitri (GRC), Chair, TITAN Cement Group; Treasurer Bilderberg
+Papalexopoulos, Dimitri (GRC), Vorsitzender, TITAN Cement Group; Schatzmeister Bilderberg
 Meetings
-
-Philippe, Edouard (FRA), Mayor, Le Havre
+Philippe, Edouard (FRA), Bürgermeister, Le Havre
 
 Pottinger, Matthew (USA), Distinguished Visiting Fellow, Hoover Institution
-Pouyanné, Patrick (FRA), Chair and CEO, TotalEnergies SE -
+Pouyanné, Patrick (FRA), Vorsitzender und CEO, TotalEnergies SE
 
-Rachman, Gideon (GBR), Chief Foreign Affairs Commentator, The Financial Times
-Ramirez, Pedro J. (ESP), Director, El Espafiol |
-_Rappard, Rolly van (NLD), Co-Founder and Co-Chair, CVC Capital Partners
-Reynders, Didier (INT), European Commissioner for Justice
+Rachman, Gideon (GBR), Chefkommentator für Außenpolitik, The Financial Times
+Ramirez, Pedro J. (ESP), Direktor, El Español
+Rappard, Rolly van (NLD), Mitbegründer und Co-Vorsitzender, CVC Capital Partners
+Reynders, Didier (INT), EU-Kommissar für Justiz
 
-Röttgen, Norbert (DEU), MP, German Bundestag
+Röttgen, Norbert (DEU), MdB, Deutscher Bundestag
 
-Rutte, Mark (NLD), Prime Minister ° :
+Rutte, Mark (NLD), Premierminister
 
-Salomon, Martina (AUT), Editor-in-Chief, Kurier
+Salomon, Martina (AUT), Chefredakteurin, Kurier
 
 Sawers, John (GBR), Executive Chair, Newbridge Advisory Ltd.
 
 Schadlow, Nadia (USA), Senior Fellow, Hudson Institute
 
-Schallenberg, Alexander (AUT), Minister for European and International Affairs
-Schmidt, Eric E. (USA), Former CEO and Chair, Google LLC —
+Schallenberg, Alexander (AUT), Minister für europäische und internationale Angelegenheiten
+Schmidt, Eric E. (USA), Ehemaliger CEO und Vorsitzender, Google LLC
 
-Schmidt, Wolfgang (DEU), Head of the Chancellery, Federal Minister for Special Tasks
-Sebastiäo, Nuno (PRT), Chair and CEO, Feedzai — .
-Sikorski, Radoslaw (POL), MEP, European Parliament
+Schmidt, Wolfgang (DEU), Chef des Bundeskanzleramtes, Bundesminister für besondere Aufgaben
+Sebastião, Nuno (PRT), Vorsitzender und CEO, Feedzai
+Sikorski, Radoslaw (POL), MdEP, Europäisches Parlament
 
 Silva, Filipe (PRT), CEO, Galp
 
 Stilwell de Andrade, Miguel (PRT), CEO, EDP
 
-Stoltenberg, Jens (INT), Secretary General, NATO
+Stoltenberg, Jens (INT), Generalsekretär, NATO
 
 Subramanian, Arvind (INT), Senior Fellow in International and Public Affairs, Brown
 University
 
 Tellis, Ashley J. (USA), Tata Chair for Strategic Affairs, Carnegie Endowment
 
-*
-Honnenka odmuManBHEIX HOKYMEHTOB CyBepeHHoro MexayHapogHoro Kasnauencpi« N una
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury
+Monetary One ist eine Straftat, die gesetzlich strafbar ist.
 
-HAKa3yeMBIM npectyrieuneM / Any forgery of the official documents of the Sovgte & ati
-Monetary One shall be a crime punishable by law “er Qs
-
-. bays N .
-
-6 of 9
+6 von 9
 
 
+## Abschnitt 006
 
-## Section 006
+Thiel, Peter (USA), Präsident, Thiel Capital LLC
 
-Thiel, Peter (USA), President, Thiel Capital LLC
+Tsu, Jing (USA), Professorin für ostasiatische Sprachen und Literaturen, Yale University
+Tugendhat, Tom (GBR), Staatsminister für Sicherheit
 
-Tsu, Jing (USA), Professor of East Asian Languages and Literatures, Yale University
-Tugendhat, Tom (GBR), Minister of State for Security
+Vadera, Shriti (GBR), Vorsitzende, Prudential plc
 
-Vadera, Shriti (GBR), Chair, Prudential plc
+Vassilakis, Eftichios (GRC), Vorsitzender, Aegean Group
 
-Vassilakis, Eftichios (GRC), Chair, Aegean Group
+Waldron, John (USA), Präsident und COO, The Goldman Sachs Group, Inc.
+Wallenberg, Marcus (SWE), Vorsitzender, Skandinaviska Enskilda Banken AB
 
-Waldron, John (USA), President and COO, The Goldman Sachs Group, Inc.
-Wallenberg, Marcus (SWE), Chair, Skandinaviska Enskilda Banken AB |
+Wennink, Peter (NLD), Präsident und CEO, ASML Holding NV
 
-Wennink, Peter (NLD), President and CEO, ASML Holding NV
+Wright, Thomas (USA), Senior Director für strategische Planung, Nationaler Sicherheitsrat
+Yang, Yuan (GBR), Europa-China-Korrespondent, Financial Times
 
-Wright, Thomas (USA), Senior Director for Strategic Planning, National Security Council
-Yang, Yuan (GBR), Europe-China Correspondent, Financial Times
+Yergin, Daniel (USA), Vizepräsident, S&P Global
 
-Yergin, Daniel (USA), Vice Chair, S&P Global 5
+Yinanç, Barçin (TUR), Journalistin, T24 News Website).
 
-Yinang, Bargin (TUR), Journalist, T24 News Website).
+Alle spezialisierten Rechtssubjekte legen unverzüglich strafrechtliche Ermittlungen mit
+Verfolgung im vollen Umfang des Gesetzes und der internationalen Normen des Strafrechts gegen die
+internationale kriminelle, terroristische Gemeinschaft "Bilderberg Club" und ihre Eigentümer, Teilnehmer,
+Organisatoren, Komplizen und Satelliten sowie alle Familienmitglieder der Eigentümer, Mitglieder,
+Teilnehmer, Organisatoren, ihrer Komplizen und Satelliten ein, die ihre kriminellen Aktivitäten über einen
+langen Zeitraum hinweg ausüben.
 
-All specialized Subjects of the Law shall immediately begin criminal investigation with
-prosecution to the fullest extent of the Law and International norms of criminal Law on the
-International, criminal, terrorist community "Bilderberg Club" and its owners, participants,
-organizers, accomplices and satellites, as well as all family members of owners, members,
-participants, organizers, their accomplices and satellites, leading their criminal activities for a
-long period of time.
+Alle Arten von Vermögenswerten und jegliches Eigentum der internationalen terroristischen Gemeinschaft
+"Bilderberg Club", ihrer Eigentümer, Teilnehmer, Organisatoren, Komplizen und Satelliten sowie
+aller Familienmitglieder der Eigentümer, Mitglieder, Teilnehmer, Organisatoren, ihrer Komplizen und
+Satelliten unterliegen der sofortigen Beschlagnahme und Übertragung auf die Bilanz der
+Sovereign International Treasury Monetary One mit anschließender Verteilung und Verwendung für die
+Entwicklung von Programmen und Projekten der Licht-Menschheit.
 
-All types of assets and any property belonging to the International terrorist community
-"Bilderberg Club", its owners, participants, organizers, accomplices and satellites, as well as
-all family members of the owners, members, participants, organizers, their accomplices and
-satellites are subject to immediate confiscation and transfer.to the balance sheet of the
-Sovereign International Treasury Monetary One with subsequent distribution and use for the
-development of programs and projects of Light Humanity.
+In Erfüllung dieses Orders:
 
-In fulfillment of this Order:
+e Alle internationalen und staatlichen Anti-Terror- und Rechts-, Strafverfolgungs-
+organisationen,
 
-e All International and State, counter-terrorism and legal, law enforcement
+e Alle militärischen Organisationen,
 
-organizations,
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury
+Monetary One ist eine Straftat, die gesetzlich strafbar ist.
 
-e All military organizations,
-
-Flonnenka obHunanbHEIXx KOKyMEeHToB Cysepennoro MexayHaponHoro Kasna" teligned Mt F eangetca yronoBHo
-Haka3yeMBIM IIPECTYIIIEHHEM / Any forgery of the official documents of the wes igniter atigpal Treasury
-Monetary One shall be a crime punishable by law
-
-7 0f9
+7 von 9
 
 
+## Abschnitt 007
 
-## Section 007
+e An alle tatsächlichen Orders,
+e An alle Meister des Weltsystems,
+e An alle Meister des Weltfinanzsystems,
 
-e To all actual Orders,
-e To all Masters of the World System,
-e To ali Masters of the World Financial System,
+e Alle internationalen und nationalen Kontrollorganisationen,
 
-e All International and Country Control Organizations,
+e An alle Missionare, die eine Mission vor dem Einen Gott, dem All-Schöpfer, erfüllen,
+die Licht und Wissen in die Welt bringen,
 
-e To all missionaries performing a mission before the One God The All-Creator,
-bringing Light and Knowledge to the World,
+e An alle Welträume: YAVE, NAVE, SLAVE und PRAVE.
 
-@ To All world spaces: YAVE, NAVE, SLAVE and PRAVE.
+e Gemäß der All-Licht All-Himmlischen All-Göttlichen Vorsehung für alle Große Göttliche
+Vorsehung, alle Großen Kosmischen Kräfte, alle Göttlichen Armadas, alle Göttlichen Flotten, sowie
+die Große Flotte von RA, beginnen Sie sofort mit der Umsetzung dieses Orders im Hinblick auf seine
+vollständige Durchführung.
 
-e Pursuant to the All Light All of Heaven All Divine Providence to All Great Divine
-Providence, All Great Cosmic Forces, All Divine Armadas, all Divine Fleets, as well
-as the Great Fleet of RA, immediately begin to implement this Order in terms of its
-full implementation.
+An alle Licht-Menschheit und alle internationalen Rechtssubjekte, die auf der Grundlage
+der Prinzipien der Volkssouveränität organisiert sind und die Prinzipien der Volkssouveränität beachten,
+empfiehlt die Sovereign International Treasury Monetary One nachdrücklich, das Verfahren
+der Selbstorganisation in ihrem Land durchzuführen, um die oberste Volksmacht des Souveräns zu manifestieren
+und den souveränen Status ihres Mutterlandes für eine lichtvolle, friedliche und kreative Entwicklung der universellen Liebe und Freundschaft in der ganzen Welt wiederherzustellen.
+Die Sovereign International Treasury Monetary One empfiehlt einen kompetenten und lichtvollen Ansatz
+für die Frage der Selbstorganisation auf Systemebene.
 
-To all Bright Humanity and all International Subjects of Law, organized on the basis
-of the principles of popular Sovereignty and observing the principles of popular Sovereignty,
-the Sovereign International Treasury Monetary One strongly recommends that the procedure
-of self-organization in their Country be carried out in order to manifest the Supreme People's
-Power of the Sovereign and return the Sovereign Status of their Motherland for a Light,
-Peaceful and Creative Development of Universal Love and Friendship throughout the World.
-Sovereign International Treasury Monetary One recommends a competent and Light approach
-to the issue of self-organization at the system level.
+Die Sovereign International Treasury Monetary One wünscht allen Ländern, allen Clans
+und Stämmen, allen Nationen der Welt der gesamten Licht-Menschheit die schnelle Wiederherstellung
+ihres lichtvollen Zuhauses unter der souveränen Flagge und dem heiligen Namen Mutterland im universellen
+kreativen Aufbau unserer lichtvollen Welt als dem universellen heimischen Tempel.
 
-The Sovereign International Treasury Monetary One wishes all Countries, all Clans '
-and Tribes, all Nations of the World of all Bright Humanity the speedy restoration of their
-Bright Home under the Sovereign Flag and the sacred name Motherland in the universal
-Creative Construction of Our Bright World, as the Universal Native Temple.
+Die Sovereign International Treasury Monetary One bestätigt nachdrücklich ihre Erklärung und wird
+in Zukunft unparteiisch und korrekt ihre lichtvolle Mission erfüllen, Gerechtigkeit wiederherzustellen und das
+All-Licht All-Himmlische System aufzubauen, das der Licht-Menschheit treu dienen soll und wird, und folglich
+dem All-Gott, All-Schöpfer, All-Kreativen Familie des Höchsten als dem Einen All-
+Himmlischen All-Gott All-Schöpfer All-Kreativen von allem Existierenden und allem Nicht-Existierenden in
 
-Sovereign International Treasury Monetary One Firmly confirms its Statement and in
-the future to impartially and correctly fulfill its Light mission to restore Justice and build the
-All-Light All-Heavenly System, which should and will faithfully serve the Bright Humanity,
-and consequently, All-God, All-Creator, All-Creative Family of the Supreme as the One All-
-Heavenly All to God All to the Creator All-Creative of all Existing and all Non-Existent in
+ist strafbar
 
-ABNACTCA YTOIOBHO
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury
+Monetary One ist eine Straftat, die gesetzlich strafbar ist.
 
-Tlonnenka OdHUMaNBHEIX AOKYMEHTOB CyBepeHHoro MexayHapomigtey
-ternational Treasury
-
-Haka3yeMbIM npecrynsennem / Any forgery of the official documents /o;
-Monetary One shall be a crime punishable by law *
-
-8 of 9
+8 von 9
 
 
+## Abschnitt 008
 
-## Section 008
+Der König der Könige
 
-“
-ran
+White Spiritual Boy
 
-EN N
-ES A A arly
-zer 57
-ze: 412s | |
-Ym) m, ° .
-45 inZ The King of Kings
-Pell JHS-o19 ey £
+Generalsekretär
+der Sovereign International Treasury
+Monetary One
 
-A. ape White Spiritual Boy
+Präsident
+von White Spiritual Boy R. S. B. Global Corp INC
 
-Ae
-Secretary General N
-of the Sovereign International Treasury Ss
-- Monetary One
-President
-
-of White Spiritual Boy R. S. B. Global Corp INC |
-
-Chairman of the Board
-of the World Sovereign Bank
+Vorsitzender des Vorstands
+der World Sovereign Bank
 of the Order of the Hospitallers
 
-Tloagenka obrumansHEIX JoKyMexToB CyBepeHHoro Mexaynapoguoro Kasnauelicppa, 8
-Haka3yeMbiM npectynmennem / Any forgery of the official documents of the Soys gigi
-Monetary One shall be a crime ‘punishable by law - y
+Jede Fälschung der offiziellen Dokumente der Sovereign International Treasury
+Monetary One ist eine Straftat, die gesetzlich strafbar ist.
 
-9 of 9
-
-
-
+9 von 9

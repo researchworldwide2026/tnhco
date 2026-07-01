@@ -1,24 +1,21 @@
 # Resolution-022
 
-# Resolution-022
+**Quell-PDF:** `Resolution-022.pdf`
 
-**Source PDF:** `Resolution-022.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 4
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion
+**Bilder:** 4
 **OCR:** tesseract deu+eng
 
 ---
 
-## Section 000
+## Abschnitt 000
 
-. MeyKayHapoaHoe KasHaueicrso M1
-International Treasury Monetary One
+. International Treasury Monetary One
 
-LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Date: November 30, 2022
-Ex. No.: 022/RES2022
+Datum: 30. November 2022
+Ex. Nr.: 022/RES2022
 Code: @ 0139TbRA
 Code: lial
 
@@ -29,106 +26,105 @@ stelsrelstelstelstelsels
 
 elspels
 
-Ordinance No. 022
+Verordnung Nr. 022
 
-We henge press our Respect to you "and have the Honor to state the following,
+Wir sprechen Ihnen unseren Respekt aus und haben die Ehre, Folgendes mitzuteilen:
 
-International Treasury Monetary One is the owner and the manager of the World
-Account with WORLD BANK, Account No. 01-00-01-4-AAA-777-C3-AM-01,
-distributed among various banks in countries;around the.World,
+International Treasury Monetary One ist der Eigentümer und Verwalter des World
+Account bei der WORLD BANK, Kontonr. 01-00-01-4-AAA-777-C3-AM-01,
+verteilt auf verschiedene Banken in Ländern auf der ganzen Welt.
 
-As areminder, International Treasury Monetary One is the owner and manager of the
-World Account in WORLD BANK Account No. 01-1-700-3516 222 777 8888 999,
-distributed among various banks in countries around the World,
+Zur Erinnerung: International Treasury Monetary One ist der Eigentümer und Verwalter des
+World Account bei der WORLD BANK, Kontonr. 01-1-700-3516 222 777 8888 999,
+verteilt auf verschiedene Banken in Ländern auf der ganzen Welt.
 
-As a reminder, International Treasury ‘Monetary One is the owner and manager of
-assets, including accounts under the names: “White Spiritual Boy”, “Spiritual Wonder
-Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”, “Prophet E
+Zur Erinnerung: International Treasury Monetary One ist der Eigentümer und Verwalter von
+Vermögenswerten, einschließlich Konten unter den Namen: „White Spiritual Boy“, „Spiritual Wonder
+Boy“, „Spiritual Wonder Brothers“, „Morning Star“, „King David“, „Prophet E
 
 Ly | ta | ot
 
-Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White Vatican”, “White
+Muhammad“, „Demas and Saint Timothy“, „White Mongolia“, „White Vatican“, „White
 
-Eagle”, “Maria Sinukuan or Divine Crystal” “Maria Banahaw or Divine Sunflower”, =|
-_ “Maria Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester Egg”, “Falcon”, E
+Eagle“, „Maria Sinukuan or Divine Crystal“ „Maria Banahaw or Divine Sunflower“, =|
+_ „Maria Cristina or Divine Magdalene“, „Maria Makiling or Divine Ester Egg“, „Falcon“, E
 
-“Alpha-Omega” and other accounts placed with various Banks in 189 (One hundred and 4]
+„Alpha-Omega“ und andere Konten, die bei verschiedenen Banken in 189 (einhundert und 4]
 
-eighty nine) countries around the World, E
+neunundachtzig) Ländern auf der ganzen Welt geführt werden, E
 
-We are guided by previous resolutions and statements of the International Treasury
-Monetary One, “||
-‘Reaffirming Resolution Ne001 (001/RES2020) dated April 07, 2020 “On overcoming E
-the global financial crisis”, Resolution Ne002 (002/RES2020) dated June 02, 2020 “The |
-only way out of the global financial crisis”, Resolution Ne003 dated 01 October 2020 E
-(003/RES2020), Ordinance Ne004 (004/RES2021) of February 23, 2021 “Cancellation of
-Historical Assets to Form a Balanced New Financial System”, Ordinance Ne005 of July 16,
-2021 (005/RES2021), Ordinance Ne006 of 13 September 2021 (006/RES2021), Ordinance E
+Wir lassen uns von früheren Resolutionen und Erklärungen des International Treasury
+Monetary One leiten, „||
+Unter Bekräftigung der Resolution Nr. 001 (001/RES2020) vom 7. April 2020 „Zur Überwindung E
+der globalen Finanzkrise“, Resolution Nr. 002 (002/RES2020) vom 2. Juni 2020 „Der |
+einzige Ausweg aus der globalen Finanzkrise“, Resolution Nr. 003 vom 1. Oktober 2020 E
+(003/RES2020), Verordnung Nr. 004 (004/RES2021) vom 23. Februar 2021 „Aufhebung
+historischer Vermögenswerte zur Bildung eines ausgewogenen neuen Finanzsystems“, Verordnung Nr. 005 vom 16. Juli
+2021 (005/RES2021), Verordnung Nr. 006 vom 13. September 2021 (006/RES2021), Verordnung E
 
 m ae rrr re rr EL LS CR SOLAS Le SRPSKALOCNESY SRST
 
 
 
-## Section 001
+## Abschnitt 001
 
-N°007 of 01 October 2021 (007/RES2021), Ordinance Ne008 of 21 December 2021
-(008/RES2021), Ordinance Ne009 of 24 December 2021 ( 009/RES2021), Notice Ne010 of
-13 January 2022 (010/RES2022), Ordinance Ne011 of 22 January 2022 (011/RES2022),
-Ordinance Ne012 of 27 February 2022 (012/RES2022), Ordinance Ne013 of March 01
-(013/RES2022), Ordinance Ne014 of March 03, 2022 (014/RES 2022), Ordinance Ne015
-of 13 March 2022 (015/RES2022), Ordinance Ne016 of 16 March 2022 (016/RES2022),
-Ordinance Ne017 of 13 May 2022 (017/RES2022), Ordinance Ne018 of 22 July 2022
-(018/RES2022), Ordinance Ne019 of September 23, 2022 (019/RES2022), Ordinance
-Ne020: of October 05, 2022 (020/RES2022), Ordinance Ne021 of October 25, 2022
+Nr. 007 vom 1. Oktober 2021 (007/RES2021), Verordnung Nr. 008 vom 21. Dezember 2021
+(008/RES2021), Verordnung Nr. 009 vom 24. Dezember 2021 (009/RES2021), Bekanntmachung Nr. 010 vom
+13. Januar 2022 (010/RES2022), Verordnung Nr. 011 vom 22. Januar 2022 (011/RES2022),
+Verordnung Nr. 012 vom 27. Februar 2022 (012/RES2022), Verordnung Nr. 013 vom 1. März
+(013/RES2022), Verordnung Nr. 014 vom 3. März 2022 (014/RES 2022), Verordnung Nr. 015
+vom 13. März 2022 (015/RES2022), Verordnung Nr. 016 vom 16. März 2022 (016/RES2022),
+Verordnung Nr. 017 vom 13. Mai 2022 (017/RES2022), Verordnung Nr. 018 vom 22. Juli 2022
+(018/RES2022), Verordnung Nr. 019 vom 23. September 2022 (019/RES2022), Verordnung
+Nr. 020 vom 5. Oktober 2022 (020/RES2022), Verordnung Nr. 021 vom 25. Oktober 2022
 (021/RES2022).
 
-We hereby declare that jointly: White Spiritual Boy R.S.B. Global Corp Inc.,
-International Treasury Monetary One, the State Service «Union Counter-Terrorism», with
-the help of other International Law Enforcement and Counterterrorism organizations and
-specialized International Societies, Global monitoring and investigation were conducted
-regarding to the legality of the actions of the ex-president of the Philippines Ferdinand
-Emmanuel Edralyn Marcos and his family in the Global financial work together with ex-
-US President Ronald Reagan and his administration, the US Federal Reserve System
+Wir erklären hiermit, dass gemeinsam: White Spiritual Boy R.S.B. Global Corp Inc.,
+International Treasury Monetary One, der Staatsdienst «Union Counter-Terrorism», mit
+Hilfe anderer internationaler Strafverfolgungs- und Terrorismusbekämpfungsorganisationen und
+spezialisierter internationaler Gesellschaften, eine globale Überwachung und Untersuchung
+bezüglich der Rechtmäßigkeit der Handlungen des Ex-Präsidenten der Philippinen Ferdinand
+Emmanuel Edralyn Marcos und seiner Familie bei der globalen Finanzarbeit zusammen mit dem Ex-
+US-Präsidenten Ronald Reagan und seiner Regierung, dem US Federal Reserve System
 
-(FRS), the US Federal Economic Department (FED), the US Treasury, the World Bank
+(FRS), dem US Federal Economic Department (FED), dem US-Finanzministerium, der Weltbank
 
-(and later formed by the World Bank Group Committee of 300).
+(und dem später von der Weltbankgruppe gebildeten Komitee der 300) durchgeführt wurde.
 
-As a result of the conducted studies of the title documents and actions that formed
-the basis for the creation of the financial platform of Washington DC, and subsequently the
-financial hegemony of the United States, namely the US Federal Reserve System, the US
-Federal Economic Department arid the formation of the World Bank Group Financial
-Committee of 300, it was absolutely Established, Proved and Confirmed:
+Als Ergebnis der durchgeführten Untersuchungen der Eigentumsdokumente und Handlungen, die die
+Grundlage für die Schaffung der Finanzplattform von Washington DC und anschließend der
+Finanzhegemonie der Vereinigten Staaten, nämlich des US Federal Reserve System, des
+US Federal Economic Department und der Bildung des Finanzkomitees der 300 der Weltbankgruppe, bildeten, wurde
+absolut festgestellt, bewiesen und bestätigt:
 
-That the Marcos Family, led by‘ex-President of the Philippines Ferdinand Emmanuel
-Edralin Marcos, jointly with the US Federal Reserve System and senior officers of the
-World Bank Group of 300 Committee, jointly with the Illuminati criminal society, in
-agreement with an apostate and thief, the ex-custodian of one of the White Spiritual Boy
-“Spiritual Wonder Boy” sub-accounts, (who betrayed the Sacred Mission of the Guardian
-entrusted to him, as a result, he lost his soul and became a criminal, criminally using the
-master codes without the Permission of the Master, His Highness Salamin B. Rizal
-Descendant of God Salim, Spiritual Master, President of the White Spiritual Boy R.S.B.
-Global Corp Inc, and Salamin B. Rizal's Spiritual Father His Majesty Alexander the King
-of Kings, Monetary One), falsified all powers of attorney, historical documents, financial
-documents, as a result, the criminal, financial committee 300 of the World Bank Group was
-illegally founded on this falsified, empty, criminal, financial foundation.
+Dass die Marcos-Familie, angeführt vom Ex-Präsidenten der Philippinen Ferdinand Emmanuel
+Edralin Marcos, gemeinsam mit dem US Federal Reserve System und hochrangigen Beamten des
+Komitees der 300 der Weltbankgruppe, gemeinsam mit der kriminellen Gesellschaft der Illuminaten,
+im Einvernehmen mit einem Abtrünnigen und Dieb, dem Ex-Verwalter eines der White Spiritual Boy
+„Spiritual Wonder Boy“-Unterkonten (der die ihm anvertraute heilige Mission des Wächters
+verriet, infolgedessen seine Seele verlor und ein Krimineller wurde, der kriminell die
+Mastercodes ohne die Erlaubnis des Meisters, Seiner Hoheit Salamin B. Rizal
+Nachkomme Gottes Salim, Spiritueller Meister, Präsident der White Spiritual Boy R.S.B.
+Global Corp Inc, und des geistlichen Vaters von Salamin B. Rizal, Seiner Majestät Alexander dem
+König der Könige, Monetary One, verwendete), alle Vollmachten, historischen Dokumente, Finanzdokumente
+fälschte, infolgedessen das kriminelle Finanzkomitee 300 der Weltbankgruppe illegal auf dieser
+gefälschten, leeren, kriminellen Finanzgrundlage gegründet wurde.
 
-It is difficult to imagine the scale of the monstrous crimes committed during this
-time by the previously-mentioned criminal community and their accomplices and
-followers. The scale of the planetary destruction and the human victims as a result of the
-crimes committed by them are enormous, and cannot be forgiven, forgotten or justified in
+Es ist schwer, das Ausmaß der ungeheuerlichen Verbrechen zu ermessen, die in dieser
+Zeit von der zuvor erwähnten kriminellen Gemeinschaft und ihren Komplizen und
+Anhängern begangen wurden. Das Ausmaß der planetaren Zerstörung und der menschlichen Opfer infolge der
+von ihnen begangenen Verbrechen ist enorm und kann nicht vergeben, vergessen oder in
 
 Tloanenka odHUManbHLIX AOKYMEHTOB Mexyyatfiponi oro" Kagnaueticra MI apnasetca YTONOBHO HaKa3syeMbIM
-npecrynnenneM / Any forgery of the official docume: tS ‘of the-Intemational Treasury Monetary One shall be a
-
-crime punishable by law rine en
+npecrynnenneM / Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar rine en
 
 Leaked f Rand | Cat} | Ct |
 
 ake ald |
 
 
-## Section 002
+## Abschnitt 002
 
 |
 |
@@ -136,56 +132,49 @@ ake ald |
 |
 |
 |
+irgendeiner Weise gerechtfertigt werden. Basierend auf dem Vorstehenden, als Ergebnis einer langen und tiefgehenden gemeinsamen Arbeit: Untersuchungen,
+Überprüfungen, Nachprüfungen, Arbeit und Schlussfolgerungen speziell eingesetzter Kommissionen, ist das
+International Treasury Monetary One zu Folgendem gelangt:
 
-any way. Based on the foregoing, as a result of a long and deep joint work: investigations,
-checks, re-checks, work and conclusions of specially created commissions, the
-International Treasury Monetary One came to the following:
+Aufgrund des Endes des Spiels der Götter und der Transformation der Welt von
+RA und Mutter Erde RUS in einen Licht- und Himmelszustand, um die
+göttliche Vorsehung durch göttliche Vorsehung zu erfüllen, durch das Recht des Souveräns, durch das Recht des
+Erbbesitzes aller Vermögenswerte der Welt, durch das Recht des
+Chefregulators des Weltfinanzsystems,
 
-Due the end of the Game of the Gods and the Transformation of the World of
-RA and Mother Earth RUS into a Light and Celestial state, in order to fulfill God's
-Providence by Divine Providence, by the Right of the Sovereign, by the Right of
-Hereditary Ownership of all the Assets of the World, by the Right of the Chief
-Regulator of the World Financial System,
+beschließen wir:
 
-We decide:
+1) Dem Ex-Präsidenten der Philippinen Ferdinand Emmanuel
+Edralin Marcos, schuldig der Begehung der zuvor beschriebenen globalen Verbrechen gegen Gott und die Menschheit, die Rechtspersönlichkeit zu entziehen und ihn außerhalb der göttlichen Gesetze und
+außerhalb des Familienmitgliedergesetzes anzuerkennen.
 
-1) To deprive of Legal Personality and recognize outside the Divine Laws and
-outsidethe Family Members Law, the ex-president ofthe Philippines Ferdinand Emmanuel
-Edralin Marcos, guilty of committing the previously-described Global crimes against God
-and Humanity.
+1.1) Ihr gesamtes Eigentum auffinden und beschlagnahmen mit anschließender Übertragung an das
+International Treasury Monetary One, mit anschließender Verteilung an internationale Sozialprogramme
+zugunsten der Armen. »
 
-1.1) Find and confiscate all their property with further transfer to the International
-Treasury Monetary One, with subsequent distribution to the International social programs
-in favor of the poor. »
+2) Allen Subjekten und Sub-Subjekten des Gesetzes, die direkt oder indirekt an dem
+zuvor beschriebenen globalen Verbrechen gegen Gott und die Menschheit beteiligt waren, die Rechtspersönlichkeit entziehen und sie außerhalb der göttlichen Gesetze und außerhalb des Gesetzes anerkennen.
 
-2) Deprive of Legal Personality and recognize outside the Divine Laws and outside
-the Law all subjects and sub-subjects of the Law directly or indirectly participating in the
-previously described Global Crime against Ged and Humanity.
+2.1) Ihr gesamtes Eigentum auffinden und beschlagnahmen mit anschließender Übertragung an das
+International Treasury Monetary One, mit anschließender Verteilung an die internationalen Sozialprogramme
+zugunsten der Armen. . ” .
 
-2.1) Find and confiscate all their property with further transfer to the International
-Treasury Monetary One, with subsequent distribution.to the international social programs
-in favor of the poor. . ” .
+3) Allen ihrer Rechtspersönlichkeit beraubten und außerhalb des göttlichen Gesetzes anerkannten Weltverbrechern wird
+mit aller Strenge straf- und militärrechtliche Verantwortlichkeit auferlegt, gemäß den
+göttlichen Gesetzen und den Gesetzen, als internationale Terroristen und Kriegsverbrecher.
 
-3) All world criminals deprived of Legal Personality and recognized outside the
-Divine Law, are called to criminal and military liability with All Severity, according to the
-Divine Laws and the Laws, as international terrorists and war criminals.
+3.1) Ihr gesamtes Eigentum von ihrer Rechtspersönlichkeit beraubten und durch diese Resolution geächteten Weltverbrechern auffinden und beschlagnahmen, mit anschließender Übertragung an das
+International Treasury Monetary One, mit anschließender Verteilung an die internationalen Sozialprogramme
+zugunsten der Armen.
 
-3.1) To find and confiscate all their property from world criminals deprived of legal
-personality and outlawed by this Resolution, with further transfer to the International
-Treasury Monetary One, with subsequent distribution to the international social programs
-in favor of the poor.
+4) Allen internationalen und nationalen Strafverfolgungsorganisationen, allen
+internationalen und nationalen Terrorismusbekämpfungsorganisationen, allen staatlichen und privaten Militärorganisationen, allen internationalen und nationalen Kontroll- und Überwachungsorganisationen, alle auf krimineller Basis gebildeten Vermögenswerte zu blockieren und zu beschlagnahmen mit anschließender Übertragung an das
+International Treasury Monetary, mit anschließender Verteilung an die internationalen Sozialprogramme
+zugunsten der Armen.
 
-4) To all International and Country Law Enforcement Organizations, all
-International and Country Counter-Terrorism Organizations, all State and private military
-organizations, all International and country control and monitoring organizations, to block
-and confiscate all the assets formed on a criminal basis with further transfer to the
-International Treasury Monetary, with subsequent distribution to the international social
-programs in favor of the poor.
-
-Hlogmenka opHuvanbHBIx AOKYMeHTOB Mexaynapoaio b Kasfiayelicrea MI spnsetca yronosHo Haka3yeMbIM
-npectynnenneMm / Any forgery of the official documenistof the International Treasury Monetary One shall be a
-
-crime punishable by law Rol os NN
+Hlogmenka opHuvanbHBIx AOKyMeHTOB Mexaynapoaio b Kasfiayelicrea MI spnsetca yronosHo Haka3yeMbIM
+npectynnenneMm / Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar Rol os NN
 
 stalstelstelstelsyelstelstelstelstelstelstalste [3
 
@@ -197,23 +186,22 @@ elspelsgels)
 
 
 
-## Section 003
+## Abschnitt 003
 
-We hereby confirm Our Firm position and to fulfill in the Future Our Sacred Duty
-to Protect the World and restore Justice before the Supreme Family, Before Our Mother
-Earth, before all Nations, as the One United People of the World, with the Purpose of
-Creating the Celestial, Living, Human System in the Divine Laws of Creation, so that The
-Celestially Created System will serve Faithfully and Truthfully/to the Supreme Family, All
-Mankind and Nature in Universal Harmony...
+Wir bestätigen hiermit Unsere feste Position und werden in Zukunft Unsere heilige Pflicht
+erfüllen, die Welt zu schützen und Gerechtigkeit wiederherzustellen vor der Höchsten Familie, Vor Unserer Mutter Erde, vor allen Nationen, als das Eine Vereinte Volk der Welt, mit dem
+Ziel der Schaffung des Himmlischen, Lebendigen, Menschlichen Systems in den göttlichen Gesetzen der Schöpfung, damit das
+Himmlisch Geschaffene System treu und wahrhaftig der Höchsten Familie, der
+gesamten Menschheit und der Natur in universeller Harmonie dient...
 
 Monetary One,
 
-President of
+Präsident von
 White Spiritual Boy R. S. B. Global Corp Inc,
 
-Grand Intendant
-Sovereign Order of St. John
-Jerusalem, Rhodes, Maltese Order of Hospitallers
+Großintendant
+Souveräner Orden des Hl. Johannes
+Jerusalem, Rhodos, Malteserorden der Hospitaliter
 
 Sn. BO RS e Ny
 
@@ -245,7 +233,6 @@ wl SPiph
 on
 
 ST,
-
 ......
 oe” te,
 
@@ -271,12 +258,9 @@ fp:Refeayeticrea MI aanaerıca YFONOBHO HAKA3yEMBbIM
 of the\Int&ipational Treasury Monetary One shall be a
 
 Tionnenka odbnuManbHBIX AOKyMeHTOB MexnyHa alto
-npectynnenuem / Any forgery of the official dgguments
-crime punishable by law EL Va
+npectynnenuem / Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar EL Va
 
 a Da
 I TUE
 :
-
-
-

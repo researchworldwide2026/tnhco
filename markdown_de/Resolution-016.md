@@ -1,16 +1,14 @@
 # Resolution-016
 
-# Resolution-016
+**Quell-PDF:** `Resolution-016.pdf`
 
-**Source PDF:** `Resolution-016.pdf`
-
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 8
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 8
 **OCR:** tesseract deu+eng, threshold preprocessing
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 Ir
 
@@ -20,106 +18,102 @@ ar
 
 «tONa
 
-MexkayHapoaHoe Ka3sHayenctso M1
 International Treasury Monetary One
 
-LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418
 
-Date: March 16, 2022.
-Ref. No.: 016/RES2022
+Datum: 16. März 2022.
+Ref. Nr.: 016/RES2022
 Code: fd 786 ITAH
 
-RESOLUTION No 016
+RESOLUTION Nr. 016
 
-Withdrawal of assets in order to build a world free of nuclear weapons
-and stop the arms race actively developed by NATO.
+Entzug von Vermögenswerten, um eine Welt ohne Atomwaffen aufzubauen
+und das von der NATO aktiv vorangetriebene Wettrüsten zu stoppen.
 
-We are guided by previous resolutions and statements of the International Treasury
-Monetary One,
+Wir lassen uns von früheren Resolutionen und Erklärungen des International Treasury
+Monetary One leiten,
 
-Reaffirming Resolution No. 1 (001/RES2020) of April 07, 2020 "On the way out of
-the global financial crisis", Resolution No. 2 (002/RES2020) of June 02, 2020 "The only
-way out of the global financial crisis", Resolution No. 4 (004/RES2021) of February 23,
-2021 "Cancellation of historical assets in order to form a balanced new financial system",
-Resolution No. 5 (005/RES2021) of July 16, 2021, Resolution No. 6 (006 /RES2021) of
-September 13, 2021, Resolution No. 7 (007/RES2021) of October 01, 2021, Resolution
-No. 8 (008/RES2021) of December 21, 2021, Resolution No. 9 (009/RES2021) of
-December 22, 2021 "Reform of the global financial and economic system and its
-architecture", Resolution No. 11 (011/RES2022) of January 22, 2022 "On the termination
-of all relations with the well-known surname of financiers Rothschild", Resolution No. 12
-(012/RES2022) dated February 27, 2022 “Revocation of all Asset Rights from the
-Trilateral Commission of the Trillentum Gold Reserve and New World Order Financial
-System Trusts”, Resolution No. 13 (013/RES2022) dated March 01, 2022 "Determining
-the role of the State Bank of the USSR in restructuring the global financial and economic
+Bestätigend Resolution Nr. 1 (001/RES2020) vom 07. April 2020 "Über den Weg aus
+der globalen Finanzkrise", Resolution Nr. 2 (002/RES2020) vom 02. Juni 2020 "Der einzige
+Weg aus der globalen Finanzkrise", Resolution Nr. 4 (004/RES2021) vom 23. Februar
+2021 "Stornierung historischer Vermögenswerte zur Bildung eines ausgewogenen neuen Finanzsystems",
+Resolution Nr. 5 (005/RES2021) vom 16. Juli 2021, Resolution Nr. 6 (006/RES2021) vom
+13. September 2021, Resolution Nr. 7 (007/RES2021) vom 01. Oktober 2021, Resolution
+Nr. 8 (008/RES2021) vom 21. Dezember 2021, Resolution Nr. 9 (009/RES2021) vom
+22. Dezember 2021 "Reform des globalen Finanz- und Wirtschaftssystems und seiner
+Architektur", Resolution Nr. 11 (011/RES2022) vom 22. Januar 2022 "Über die Beendigung
+aller Beziehungen zum bekannten Finanziersnamen Rothschild", Resolution Nr. 12
+(012/RES2022) vom 27. Februar 2022 "Entzug aller Vermögensrechte von der Trilateralen Kommission
+der Trillentum Gold Reserve und New World Order Financial System Trusts", Resolution Nr. 13 (013/RES2022) vom 01. März 2022 "Bestimmung
+der Rolle der Staatsbank der UdSSR bei der Umstrukturierung des globalen Finanz- und Wirtschafts-
 
 7
 
-Tlomgenka obuIMalBHBIX JokyMeHTos MexayHaposHoro KasHauelictBa M1 sapiaetca yTOIIOBHO Haka3yeMbIM
-IpecTyrnıeHmem / Any forgery of the official documents of the International Treasury Monetary One shall be
+Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar / Any forgery of the official documents of the International Treasury Monetary One shall be
 a crime punishable by law
 
 AGAR GAARA RAGA bard
 
-1 of 8
+1 von 8
 
 Er
 Ahr
 
 
-## Section 001
+## Abschnitt 001
 
 Ls
 
-system and its architecture, activating new functions", Resolution No. 14 (014/RES2022)
-dated March 03, 2022 "Revocation of assets in order to prevent the Third World War and
-prevent the return of Nazism", Resolution No. 15 (015/RES2022) of March 13, 2022
-“Withdrawal of assets in order to eliminate all forms of discrimination, genocide of
-peoples”,
+systems und seiner Architektur, Aktivierung neuer Funktionen", Resolution Nr. 14 (014/RES2022)
+vom 03. März 2022 "Entzug von Vermögenswerten zur Verhinderung des Dritten Weltkriegs und
+Verhinderung der Rückkehr des Nationalsozialismus", Resolution Nr. 15 (015/RES2022) vom 13. März 2022
+"Entzug von Vermögenswerten zur Beseitigung aller Formen von Diskriminierung, Völkermord
+an Völkern",
 
-We remind that the end of the Second World War was the beginning of an era of a
-new alignment of forces in the international field. Two opposing groupings of states united
-around the USSR and the USA, forming a bipolar model of the world. One of the symbols
-of the beginning of the Cold War was the North Atlantic Alliance (NATO), created on
-April 4, 1949 as an anti-Soviet military-political bloc. There are currently 30 countries in
-the alliance.
+Wir erinnern daran, dass das Ende des Zweiten Weltkriegs der Beginn einer Ära einer
+neuen Kräfteverteilung auf internationaler Ebene war. Zwei gegensätzliche Gruppierungen von Staaten vereinten
+sich um die UdSSR und die USA und bildeten ein bipolares Weltmodell. Eines der Symbole
+des Beginns des Kalten Krieges war das Nordatlantische Bündnis (NATO), gegründet am
+4. April 1949 als antisowjetischer militärisch-politischer Block. Derzeit umfasst das Bündnis 30 Länder.
 
-The declared goals of NATO concern exclusively security, freedom and democracy.
-This organization, created for defense purposes, sets itself the task of maintaining stability
-throughout the world, settling geopolitical unrest, protecting democracy, human rights and
-the borders established after the Second World War. However, it should be noted that in
-recent decades, NATO has been using very dubious means to achieve its goals. Thus, in
-1995 and 1999, NATO armed forces used many types of prohibited weapons in the territory
-of the former Yugoslavia, and at the moment the phrase "peacekeeping bombing" has
-become a catch phrase. NATO is also interested in the countries of Central and Central
-Asia, the Middle East and Africa. NATO traditionally considers the Soviet Union, Russia
-and China to be its adversaries;
+Die erklärten Ziele der NATO betreffen ausschließlich Sicherheit, Freiheit und Demokratie.
+Diese zu Verteidigungszwecken gegründete Organisation stellt sich die Aufgabe, Stabilität
+in der ganzen Welt aufrechtzuerhalten, geopolitische Unruhen zu befrieden, Demokratie, Menschenrechte und
+die nach dem Zweiten Weltkrieg festgelegten Grenzen zu schützen. Es ist jedoch anzumerken, dass
+die NATO in den letzten Jahrzehnten sehr zweifelhafte Mittel zur Erreichung ihrer Ziele eingesetzt hat. So
+setzten die NATO-Streitkräfte 1995 und 1999 auf dem Gebiet
+des ehemaligen Jugoslawiens viele Arten verbotener Waffen ein, und derzeit ist der Satz "Friedenssichernde Bombardierung"
+zu einem geflügelten Wort geworden. Die NATO ist auch an den Ländern Zentral- und Mittelasiens, des Nahen Ostens und Afrikas interessiert. Die NATO betrachtet die Sowjetunion, Russland
+und China traditionell als ihre Gegner;
 
-Today they will not remember, but in 1954 the USSR applied for NATO
-membership, but the application was rejected - the North Atlantic Alliance was originally
-created precisely as a counterbalance to the powerful Soviet Union;
+Heute wird man sich nicht daran erinnern, aber 1954 beantragte die UdSSR die NATO-
+Mitgliedschaft, aber der Antrag wurde abgelehnt - das Nordatlantische Bündnis wurde ursprünglich
+genau als Gegengewicht zur mächtigen Sowjetunion geschaffen;
 
-Paying attention to the terrible arithmetic of NATO operations, since its inception,
-more than three million people have been killed by NATO armed forces as a result of 60
-invasions of sovereign states. The list of crimes against countries, peoples, is so long that
-the Nuremberg trials can consider these crimes for decades in order to bring those
-responsible to punishment.
+Unter Beachtung der schrecklichen Arithmetik der NATO-Operationen wurden seit ihrer Gründung
+mehr als drei Millionen Menschen durch die NATO-Streitkräfte infolge von 60
+Invasionen souveräner Staaten getötet. Die Liste der Verbrechen gegen Länder und Völker ist so lang,
+dass die Nürnberger Prozesse diese Verbrechen jahrzehntelang prüfen könnten, um die
+Verantwortlichen zu bestrafen.
 
-Please note that the echo of the war crimes of the Ukrainian security forces still
-reaches the Donbass. The result of regular shelling of settlements with the use of
-indiscriminate lethal weapons was the death and injury of thousands of Russian-speaking
-civilians. The intent to destroy or genocide the inhabitants of Donbass is obvious. This is
-evidenced by spontaneous common unmarked graves, forcedly formed outside specially
-designated places. In August-October 2021, five such mass graves were discovered in the
-region of Pervomaisk (the Luhansk People's Republic), of which the remains of at least
+Bitte beachten Sie, dass das Echo der Kriegsverbrechen der ukrainischen Sicherheitskräfte immer noch
+den Donbass erreicht. Das Ergebnis regelmäßiger Beschießungen von Siedlungen mit dem Einsatz von
+unterschiedslosen tödlichen Waffen war der Tod und die Verletzung Tausender russischsprachiger
+Zivilisten. Die Absicht, die Bewohner des Donbass zu vernichten oder zu genozidieren, ist offensichtlich. Dies
+belegen spontane, nicht gekennzeichnete Massengräber, die zwangsweise außerhalb speziell
+ausgewiesener Orte angelegt wurden. Im August-Oktober 2021 wurden fünf solcher Massengräber in der
+Region Perwomaisk (Volksrepublik Lugansk) entdeckt, von denen die Überreste von mindestens
 
-Tlomenka ObHIMANIBHEIX AOKyMEHTOB MexyHaponHoro Ka3nauelictpa M1 ABISIETCH yrosIOBHO Haka3yeMbIM
-IpecTyrnıemmem / Any forgery of the official documents of the International Treasury Monetary One shall be a
+Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar / Any forgery of the official documents of the International Treasury Monetary One shall be a
 crime punishable by law
 
 e]
 Sr
 
-20f8
+2 von 8
 
 mein,
 |
@@ -131,58 +125,54 @@ TARA AGA GAGA Gena GaGa
 r
 
 
-## Section 002
+## Abschnitt 002
 
 Ls
 
-295 civilians who died as a result of shelling by the Ukrainian security forces in 2014 were
-exhumed. It is already known that among the remains there are bodies of women of
-different ages. We are talking about the cruel treatment of the civilian population, the use
-of means and methods in an armed conflict that are prohibited by international
-humanitarian law;
+295 Zivilisten, die infolge des Beschusses durch die ukrainischen Sicherheitskräfte im Jahr 2014 starben, exhumiert wurden. Es ist bereits bekannt, dass sich unter den Überresten Leichen von Frauen
+verschiedenen Alters befinden. Wir sprechen über die grausame Behandlung der Zivilbevölkerung, den Einsatz
+von Mitteln und Methoden in einem bewaffneten Konflikt, die durch das internationale
+humanitäre Völkerrecht verboten sind;
 
-We still have not heard that the Western and Europe "civilized" community has
-given a strong assessment of these war crimes. We believe that our colleagues are well
-aware that in this way they give the Kiev nationalist regime “carte blanche” to continue
-armed violence against the inhabitants of the Donetsk People's Republic and the Luhansk
-People's Republic. The consequences are not long in coming, and we are witnessing a
-theater of military operations on the territory of Ukraine;
+Wir haben immer noch nicht gehört, dass die westliche und europäische "zivilisierte" Gemeinschaft
+diese Kriegsverbrechen scharf verurteilt hat. Wir glauben, dass unseren Kollegen sehr wohl bewusst ist,
+dass sie auf diese Weise dem Kiewer nationalistischen Regime "carte blanche" geben, die
+bewaffnete Gewalt gegen die Bewohner der Volksrepublik Donezk und der Volksrepublik Lugansk fortzusetzen. Die Folgen lassen nicht lange auf sich warten, und wir sind Zeugen eines
+Kriegsschauplatzes auf dem Territorium der Ukraine;
 
-March 14, 2022 in a residential area of the city of Donetsk, a tactical missile
-"Tochka-U" was hit. 20 civilians were killed. Another 28 people were seriously injured.
-Equipping the warhead of the rocket with cluster munition proves that the purpose of the
-nationalist strike on the city was to kill the maximum number of civilians. The shelling was
-carried out from the north-western direction, from the area of the settlement of
-Krasnoarmeysk, which is controlled by Ukrainian units. We emphasize that the use of
-cluster munitions in residential areas of the city, where there are no firing positions, is a
-war crime. This type of weapon is prohibited for use by international agreements. However,
-again, neither the OSCE Chairmanship-in-Office nor any of the participating States
-condemned this act of aggression. We see that, according to the Western and Europe
-"civilized" community, People are divided into those who are worthy of protection and
-those who, for some reason, are not worthy of it. Such is "civilized" behavior and
-"commitment" to international humanitarian law;
+Am 14. März 2022 wurde ein Wohngebiet der Stadt Donezk von einer taktischen Rakete
+"Tochka-U" getroffen. 20 Zivilisten wurden getötet. Weitere 28 Menschen wurden schwer verletzt.
+Die Ausstattung des Gefechtskopfes der Rakete mit Streumunition beweist, dass das Ziel des
+nationalistischen Angriffs auf die Stadt die Tötung einer maximalen Anzahl von Zivilisten war. Der Beschuss erfolgte
+aus nordwestlicher Richtung, aus dem Gebiet der Siedlung
+Krasnoarmeysk, die von ukrainischen Einheiten kontrolliert wird. Wir betonen, dass der Einsatz von
+Streumunition in Wohngebieten der Stadt, in denen es keine Feuerstellungen gibt, ein
+Kriegsverbrechen ist. Diese Art von Waffe ist durch internationale Abkommen verboten. Jedoch
+hat weder der OSZE-Vorsitz noch einer der Teilnehmerstaaten
+diesen Akt der Aggression verurteilt. Wir sehen, dass nach Ansicht der westlichen und europäischen "zivilisierten" Gemeinschaft Menschen in diejenigen unterteilt werden, die des Schutzes würdig sind, und
+diejenigen, die aus irgendeinem Grund nicht würdig sind. Das ist "zivilisiertes" Verhalten und
+"Engagement" für das internationale humanitäre Völkerrecht;
 
-In this regard, we remind, addressing the states separately, the principle of equality
-in dignity and rights of all Humans and all Nations, regardless of race, nationality, color
-and origin, is a generally accepted principle recognized in international law. Consequently,
-any form of discrimination carried out by a state is a violation of international law, entailing
-the international responsibility of the state;
+In diesem Zusammenhang erinnern wir, uns an die Staaten einzeln wendend, daran, dass der Grundsatz der Gleichheit
+an Würde und Rechten aller Menschen und aller Nationen, unabhängig von Rasse, Nationalität, Hautfarbe
+und Herkunft, ein allgemein anerkannter Grundsatz ist, der im Völkerrecht anerkannt ist. Folglich
+ist jede Form von Diskriminierung, die von einem Staat ausgeübt wird, ein Verstoß gegen das Völkerrecht, der die
+internationale Verantwortung des Staates nach sich zieht;
 
-The cynicism of the organizers of this act of state terrorism was also manifested in
-the fact that two days before it, the Ukrainian side began circulating in social networks
-calls for the mothers of the Donetsk People's Republic to come to the city administration
-of Donetsk in order to find out the fate of their sons. It was at the place and at the time
-indicated in these appeals that the dastardly blow was dealt;
+Der Zynismus der Organisatoren dieses Aktes des Staatsterrorismus zeigte sich auch darin,
+dass die ukrainische Seite zwei Tage zuvor in sozialen Netzwerken
+Aufrufe verbreitete, dass die Mütter der Volksrepublik Donezk zur Stadtverwaltung
+von Donezk kommen sollten, um das Schicksal ihrer Söhne zu erfahren. An dem in diesen Aufrufen angegebenen Ort und zur angegebenen Zeit
+wurde der hinterhältige Schlag geführt;
 
-Please note that at present, the countries of NATO and the European Union,
-ignoring international norms and their own rules, are supplying lethal weapons to Ukraine
+Bitte beachten Sie, dass derzeit die Länder der NATO und der Europäischen Union
+unter Missachtung internationaler Normen und ihrer eigenen Regeln tödliche Waffen an die Ukraine liefern
 
-OO} Tlomenka ObHIMANIBHEIX AOKyMEHTOB MexyHaponHoro Ka3nauelictpa M1 ABISIETCH yrosIOBHO Haka3yeMbIM
-u. IpecTyrnıemmem / Any forgery of the official documents of the International Treasury Monetary One shall be a
-
+OO} Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar / Any forgery of the official documents of the International Treasury Monetary One shall be a
 crime punishable by law
 
-3 of 8
+3 von 8
 
 Sores
 
@@ -194,58 +184,54 @@ TARA AGA GAGA Gena GaGa
 r
 
 
-## Section 003
+## Abschnitt 003
 
 Ls
 
-and sending mercenaries to kill Russian servicemen. The entire responsibility for the death
-of this category of foreign citizens in Ukraine rests solely with the leadership of the
-countries sending them. The International Treasury Monetary One expresses its concern
-about the connection between mercenarism and illegal arms trafficking, which contribute
-to fueling and continuing the conflict in Ukraine;
+und Söldner entsenden, um russische Soldaten zu töten. Die gesamte Verantwortung für den Tod
+dieser Kategorie ausländischer Bürger in der Ukraine liegt allein bei der Führung der
+Länder, die sie entsenden. Das International Treasury Monetary One äußert seine Besorgnis
+über den Zusammenhang zwischen Söldnertum und illegalem Waffenhandel, die zur Anheizung und Fortsetzung des Konflikts in der Ukraine beitragen;
 
-These days, fears have been confirmed regarding the development by the United
-States on the territory of Ukraine of appropriate biological materials for military purposes
-under the auspices of the US intelligence services. Indicative here is the extreme
-nervousness of officials from the US administration in connection with the discovery of
-their weapons bio-development on the territory of Ukraine. At the disposal of the
-International Treasury Monetary One were documents that confirm that a network of at
-least 30 (thirty) biological laboratories has been formed on the territory of Ukraine, in
-which extremely dangerous experiments are carried out aimed at enhancing the pathogenic
-properties of plague, anthrax, tularemia, cholera and other deadly diseases using synthetic
-biology. The research results were sent to the US military biological centers, incl. to the
-U.S. Army Medical Research Institute of Infectious Diseases, the Walter Reed Army
-Research Institute, the U.S. Naval Medical Research Center, and the military laboratories
-at Fort Detrick, formerly key sites of the U.S. biological weapons program. In practice, the
-US-implemented program of the so-called "reform" of the Ukrainian healthcare system has
-led to an increase in the incidence of especially dangerous infections among Ukrainians,
-including rubella, diphtheria and tuberculosis. The incidence of measles has increased
-more than 100 times. With a high degree of probability, we can say that one of the tasks of
-the United States and its allies in Ukraine was the creation of bioagents capable of
-selectively affecting various ethnic groups of the population.
+In diesen Tagen haben sich die Befürchtungen hinsichtlich der Entwicklung
+geeigneter biologischer Materialien für militärische Zwecke durch die USA auf dem Territorium der Ukraine
+unter der Schirmherrschaft der US-Geheimdienste bestätigt. Bezeichnend ist hier die
+extreme Nervosität von Beamten der US-Regierung im Zusammenhang mit der Entdeckung ihrer
+biologischen Waffenentwicklungen auf dem Territorium der Ukraine. Dem
+International Treasury Monetary One lagen Dokumente vor, die bestätigen, dass auf dem Territorium der Ukraine ein Netzwerk von mindestens
+30 (dreißig) biologischen Labors gebildet wurde, in denen
+extrem gefährliche Experimente durchgeführt werden, die darauf abzielen, die pathogenen
+Eigenschaften von Pest, Milzbrand, Tularämie, Cholera und anderen tödlichen Krankheiten unter Verwendung synthetischer
+Biologie zu verstärken. Die Forschungsergebnisse wurden an die militärischen biologischen Zentren der USA geschickt, darunter
+an das U.S. Army Medical Research Institute of Infectious Diseases, das Walter Reed Army
+Research Institute, das U.S. Naval Medical Research Center und die militärischen Labors
+in Fort Detrick, ehemals Schlüsselstandorte des US-Programms für biologische Waffen. In der Praxis hat das
+von den USA umgesetzte Programm der sogenannten "Reform" des ukrainischen Gesundheitssystems zu einem Anstieg der Inzidenz besonders gefährlicher Infektionen bei Ukrainern geführt,
+darunter Röteln, Diphtherie und Tuberkulose. Die Inzidenz von Masern hat sich
+mehr als verhundertfacht. Mit hoher Wahrscheinlichkeit können wir sagen, dass eine der Aufgaben der
+USA und ihrer Verbündeten in der Ukraine die Schaffung von Bioagenzien war, die in der Lage sind,
+verschiedene ethnische Bevölkerungsgruppen selektiv zu beeinflussen.
 
-The International Treasury Monetary One recognizes that an ever-wider degree of
-agreement and cooperation between countries is required to effectively address
-international problems,
+Das International Treasury Monetary One erkennt an, dass ein immer breiteres Maß an Übereinstimmung und Zusammenarbeit zwischen den Ländern erforderlich ist, um internationale Probleme wirksam zu lösen,
 
-The International Treasury Monetary One implementing Resolution No. 11
-(011/RES2022) of January 22, 2022 "On the termination of all relations with the well-
-known surname of financiers Rothschild", Resolution No. 12 (012/RES2022) dated
-February 27, 2022 “Revocation of all Asset Rights from the Trilateral Commission of the
-Trillenium Gold Reserve and New World Order Financial System Trusts”, Resolution No.
-13 (013/RES2022) dated March 01, 2022 "Determining the role of the State Bank of the
-USSR in restructuring the global financial and economic system and its architecture,
-activating new functions", Resolution No. 14 (014/RES2022) dated March 03, 2022
-"Revocation of assets in order to prevent the Third World War and prevent the return of
+Das International Treasury Monetary One setzt Resolution Nr. 11
+(011/RES2022) vom 22. Januar 2022 "Über die Beendigung aller Beziehungen zum bekannten
+Finanziersnamen Rothschild", Resolution Nr. 12 (012/RES2022) vom
+27. Februar 2022 "Entzug aller Vermögensrechte von der Trilateralen Kommission der
+Trillenium Gold Reserve und New World Order Financial System Trusts", Resolution Nr.
+13 (013/RES2022) vom 01. März 2022 "Bestimmung der Rolle der Staatsbank der
+UdSSR bei der Umstrukturierung des globalen Finanz- und Wirtschaftssystems und seiner Architektur,
+Aktivierung neuer Funktionen", Resolution Nr. 14 (014/RES2022) vom 03. März 2022
+"Entzug von Vermögenswerten zur Verhinderung des Dritten Weltkriegs und Verhinderung der Rückkehr des
 
-Tlomenka ObHIMANIBHEIX AOKyMEHTOB MexyHaponHoro Ka3nauelictpa M1 ABISIETCH yrosIOBHO Haka3yeMbIM
-IpecTyrnıemmem / Any forgery of the official documents of the International Treasury Monetary One shall be a
+Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar / Any forgery of the official documents of the International Treasury Monetary One shall be a
 crime punishable by law
 
 e]
 Sr
 
-40of8
+4 von 8
 
 mein,
 |
@@ -257,59 +243,53 @@ TARA AGA GAGA Gena GaGa
 r
 
 
-## Section 004
+## Abschnitt 004
 
 Ls
 
-Nazism", Resolution No. 15 (015/RES2022) of March 13, 2022 “Withdrawal of assets in
-order to eliminate all forms of discrimination, genocide of peoples”, continue actively
-blocking all system access codes for accounting, distribution and control of assets that
-these groups and all their affiliated organizations, banks, companies had, strives to
-create conditions under which all states will be able to use all their resources to solve
-the task of improving the well-being of their Peoples, without fear of any coercion,
-threat or use of force,
+Nationalsozialismus", Resolution Nr. 15 (015/RES2022) vom 13. März 2022 "Entzug von
+Vermögenswerten zur Beseitigung aller Formen von Diskriminierung, Völkermord an Völkern", fort und blockiert aktiv alle Systemzugangscodes für die Buchhaltung, Verteilung und Kontrolle von Vermögenswerten, die
+diese Gruppen und alle ihre angeschlossenen Organisationen, Banken, Unternehmen hatten, und
+strebt danach, Bedingungen zu schaffen, unter denen alle Staaten in der Lage sein werden, alle ihre Ressourcen zu nutzen, um
+die Aufgabe der Verbesserung des Wohlergehens ihrer Völker zu lösen, ohne Angst vor irgendeinem Zwang, einer
+Drohung oder Gewaltanwendung zu haben,
 
-The International Treasury Monetary One notes the growing interest and increased
-desire for detente in recent years, convinced of the urgent need for additional efforts to
-expand this trend so that it covers all areas of the world and contributes to the settlement
-of outstanding international problems by peaceful means through the participation and
-cooperation of states,
+Das International Treasury Monetary One stellt in den letzten Jahren ein wachsendes Interesse und einen verstärkten Wunsch nach Entspannung fest, überzeugt von der dringenden Notwendigkeit zusätzlicher Anstrengungen,
+diesen Trend auszuweiten, so dass er alle Bereiche der Welt abdeckt und zur Beilegung
+hervorstehender internationaler Probleme mit friedlichen Mitteln durch die Beteiligung und Zusammenarbeit
+der Staaten beiträgt,
 
-The International Treasury Monetary One recognizes that the continuation of a
-policy of confrontation and rivalry between states or groups of states is incompatible with
-the détente of international tension,
+Das International Treasury Monetary One erkennt an, dass die Fortsetzung einer Politik
+der Konfrontation und Rivalität zwischen Staaten oder Staatengruppen mit der Entspannung der internationalen Spannungen unvereinbar ist,
 
-The International Treasury Monetary One reaffirms the indivisibility of the world
-and security in all areas of the world and the growing interdependence between countries,
-and therefore strives to achieve the elimination of all sources of political tension and
-friction,
+Das International Treasury Monetary One bekräftigt die Unteilbarkeit der Welt
+und der Sicherheit in allen Bereichen der Welt und die wachsende gegenseitige Abhängigkeit zwischen den Ländern,
+und strebt daher danach, die Beseitigung aller Quellen politischer Spannungen und Reibungen
+zu erreichen,
 
-The International Treasury Monetary One is convinced that confidence-building
-measures could contribute to defusing international tensions,
+Das International Treasury Monetary One ist überzeugt, dass vertrauensbildende Maßnahmen zur Entschärfung internationaler Spannungen beitragen könnten,
 
-The International Treasury Monetary One is also convinced that progress in
-negotiations on arms limitation and disarmament, especially in the field of nuclear
-weapons, and the elimination of the threat of war are of great importance for the
-continuation of detente and the further development of friendly relations between states,
+Das International Treasury Monetary One ist auch überzeugt, dass Fortschritte bei
+den Verhandlungen über Rüstungsbegrenzung und Abrüstung, insbesondere im Bereich der Kernwaffen,
+und die Beseitigung der Kriegsgefahr von großer Bedeutung für die Fortsetzung
+der Entspannung und die weitere Entwicklung freundschaftlicher Beziehungen zwischen den Staaten sind,
 
-The International Treasury Monetary One is convinced that the establishment of
-fair and equitable economic relations between states is an important condition for true and
-lasting peace and harmony between countries,
+Das International Treasury Monetary One ist überzeugt, dass die Herstellung fairer und gerechter Wirtschaftsbeziehungen zwischen den Staaten eine wichtige Voraussetzung für einen wahren und
+dauerhaften Frieden und Harmonie zwischen den Ländern ist,
 
-The International Treasury Monetary One 1s also convinced of the need to eliminate
-all forms of aggression, foreign occupation and interference in the internal affairs of other
-states, to ensure respect for Human Rights and the need to eliminate colonialism through
-the free exercise of the right to self-determination and the eradication of racism and
-apartheid, as well as other forms of injustice,
+Das International Treasury Monetary One ist auch überzeugt von der Notwendigkeit, alle
+Formen von Aggression, fremder Besatzung und Einmischung in die inneren Angelegenheiten anderer
+Staaten zu beseitigen, die Achtung der Menschenrechte zu gewährleisten und die Notwendigkeit, den Kolonialismus durch die freie Ausübung des Rechts auf Selbstbestimmung und die Ausrottung von Rassismus und
+Apartheid sowie anderer Formen von Ungerechtigkeit zu beseitigen,
 
-The International Treasury Monetary One, guided, therefore, by the need for all
-states, based on the highest interests of peace and the future of humankind, intends to
+Das International Treasury Monetary One, geleitet daher von der Notwendigkeit für alle
+Staaten, basierend auf den höchsten Interessen des Friedens und der Zukunft der Menschheit, beabsichtigt,
 
-Tlomenka ObHIMANIBHEIX AOKyMEHTOB MexyHaponHoro Ka3nauelictpa M1 ABISIETCH yrosIOBHO Haka3yeMbIM
-IpecTyrnıemmem / Any forgery of the official documents of the International Treasury Monetary One shall be a
+Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar / Any forgery of the official documents of the International Treasury Monetary One shall be a
 crime punishable by law
 
-5 of 8
+5 von 8
 
 my
 
@@ -321,58 +301,49 @@ TARA AGA GAGA Gena GaGa
 r
 
 
-## Section 005
+## Abschnitt 005
 
 Ls
 
-continue efforts towards further detente, developing better relations between countries, and
-for these purposes, following the implementation of the tasks set, has come to the final, an
-irreversible solution, and introduces the following solutions:
+die Anstrengungen zur weiteren Entspannung fortzusetzen, bessere Beziehungen zwischen den Ländern zu entwickeln,
+und zu diesen Zwecken, nach der Umsetzung der gestellten Aufgaben, zu einer endgültigen, unwiderruflichen Lösung gekommen, und führt die folgenden Lösungen ein:
 
-We withdraw all Rights to assets that were previously transferred under
-management and disposal in the following Countries, Organizations, Groups, Persons
-placed in central, national and / or state banks, commercial banks, in different countries
-around the World:
+Wir entziehen alle Rechte an Vermögenswerten, die zuvor unter Verwaltung
+und Verfügung in den folgenden Ländern, Organisationen, Gruppen, Personen, die bei Zentral-, National- und/oder Staatsbanken, Geschäftsbanken,
+in verschiedenen Ländern der Welt hinterlegt sind, übertragen wurden:
 
-NATO - North Atlantic Treaty Organization, North Atlantic Alliance
+NATO - North Atlantic Treaty Organization, Nordatlantisches Bündnis
 
-AUKUS - trilateral security pact between Australia, the United Kingdom,
-and the United States
+AUKUS - trilateraler Sicherheitspakt zwischen Australien, dem Vereinigten Königreich,
+und den Vereinigten Staaten
 
-We activate the blocking of all system access codes for accounting, distribution and
-control, which these groups and all their affiliated organizations, banks, companies had.
+Wir aktivieren die Blockierung aller Systemzugangscodes für die Buchhaltung, Verteilung und
+Kontrolle, die diese Gruppen und alle ihre angeschlossenen Organisationen, Banken, Unternehmen hatten.
 
-In connection with the transfer of assets to our full disposal and management,
-observing all the norms of International Law, the assets are entered into the balance of the
-International Treasury Monetary One. In this regard, we strongly recommend starting the
-procedure of removal from the balance of these assets and all securities, formed on the
-basis of these assets and gradually begin the liquidation of valid and Fiat financial resources
-received during the period of using these assets;
+Im Zusammenhang mit der Übertragung von Vermögenswerten in unsere volle Verfügung und Verwaltung,
+unter Beachtung aller Normen des Völkerrechts, werden die Vermögenswerte in die Bilanz des
+International Treasury Monetary One eingetragen. In diesem Zusammenhang empfehlen wir dringend, mit dem Verfahren der Entfernung aus der Bilanz dieser Vermögenswerte und aller Wertpapiere, die auf der Grundlage dieser Vermögenswerte gebildet wurden, zu beginnen und schrittweise mit der Liquidation der gültigen und Fiat-Finanzressourcen zu beginnen, die während der Nutzungsdauer dieser Vermögenswerte erhalten wurden;
 
-There is no possibility to consider the preservation of formed securities, valid and
-fiat financial resources, on the basis of assets that have not been put into use and have not
-been sent to social projects up to this point. Likewise, consideration of proposals is
-impossible;
+Es besteht keine Möglichkeit, die Erhaltung gebildeter Wertpapiere, gültiger und
+Fiat-Finanzressourcen, auf der Grundlage von Vermögenswerten, die nicht in Gebrauch genommen und bis zu diesem Zeitpunkt nicht an soziale Projekte weitergeleitet wurden, in Betracht zu ziehen. Ebenso ist die Berücksichtigung von Vorschlägen unmöglich;
 
-From the moment of receipt of this notification, to make the necessary system
-notifications in the Global Financial System within 48 hours, in order to notify all banking
-and interbank organizations in a timely manner, we instruct your esteemed Organization;
+Ab dem Zeitpunkt des Erhalts dieser Benachrichtigung, die erforderlichen Systemmeldungen
+im Globalen Finanzsystem innerhalb von 48 Stunden zu machen, um alle Bank- und
+zwischenbanklichen Organisationen rechtzeitig zu benachrichtigen, weisen wir Ihre geschätzte Organisation an;
 
-We remind that any actions using the above assets for the purpose of monetization
-in the financial system are a crime and are the personal and individual responsibility of
-persons, officials and bank officers who commit these crimes;
+Wir erinnern daran, dass alle Handlungen unter Verwendung der oben genannten Vermögenswerte zum Zwecke der Monetarisierung
+im Finanzsystem ein Verbrechen sind und die persönliche und individuelle Verantwortung von
+Personen, Beamten und Bankangestellten tragen, die diese Verbrechen begehen;
 
-We remind that in order to prevent fraud and deception of bona fide subjects of Law,
-it 1s prescribed to transfer the register of documents for entry into the liquidation
-memorandum for the purpose of accounting, analysis, and evaluation of the integrity of
-Ex-guardians, Ex-holders, and Ex-managers of the Right to manage historical assets of the
-Global Financial System;
+Wir erinnern daran, dass zur Verhinderung von Betrug und Täuschung gutgläubiger Rechtssubjekte
+vorgeschrieben ist, das Register der Dokumente zur Aufnahme in das Liquidationsmemorandum
+zum Zwecke der Buchhaltung, Analyse und Bewertung der Integrität von Ex-Vormündern, Ex-Inhabern und Ex-Verwaltern des Rechts zur Verwaltung historischer Vermögenswerte des Globalen Finanzsystems zu übermitteln;
 
-Tlomenka ObHIMANIBHEIX AOKyMEHTOB MexyHaponHoro Ka3nauelictpa M1 ABISIETCH yrosIOBHO Haka3yeMbIM
-IpecTyrnıemmem / Any forgery of the official documents of the International Treasury Monetary One shall be a
+Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar / Any forgery of the official documents of the International Treasury Monetary One shall be a
 crime punishable by law
 
-6 of 8
+6 von 8
 
 my
 
@@ -384,56 +355,55 @@ TARA AGA GAGA Gena GaGa
 r
 
 
-## Section 006
+## Abschnitt 006
 
-We remind, the Sacred Rights of the Guardians of the above assets have been
-revoked, and any actions contrary to the Resolution of the International Treasury No. 4
-(004/RES2021) dated February 23, 2021 «The cancellation of historical assets in order to
-form a new well-balanced financial system» will have immediate (inescapable) sacred and
-obvious consequences for the Guardians with manifestation in the material world.
+Wir erinnern daran, dass die Heiligen Rechte der Hüter der oben genannten Vermögenswerte
+widerrufen wurden, und alle Handlungen, die der Resolution des International Treasury Nr. 4
+(004/RES2021) vom 23. Februar 2021 "Die Stornierung historischer Vermögenswerte zur Bildung
+eines neuen ausgewogenen Finanzsystems" zuwiderlaufen, werden sofortige (unausweichliche) heilige und
+offensichtliche Konsequenzen für die Hüter mit Manifestation in der materiellen Welt haben.
 
-The International Treasury Monetary One declares its determination to:
+Das International Treasury Monetary One erklärt seine Entschlossenheit:
 
-- identify bank accounts, assets and actively block all system access codes for accounting,
-distribution and control of assets that the groups and all their affiliated organizations,
-banks, companies had in order to eliminate the causes and consequences of international
-tension in order to promote a peaceful and speedy settlement unresolved international
-problems, and seek to eliminate both the causes and the consequences of international
-tension in a manner that relations between all states may develop in the direction of
-cooperation and friendship with a view to preventing the occurrence of situations that could
-endanger international peace and security;
+- Bankkonten, Vermögenswerte zu identifizieren und aktiv alle Systemzugangscodes für die Buchhaltung,
+Verteilung und Kontrolle von Vermögenswerten zu blockieren, die die Gruppen und alle ihre angeschlossenen
+Organisationen, Banken, Unternehmen hatten, um die Ursachen und Folgen internationaler
+Spannungen zu beseitigen, um eine friedliche und schnelle Beilegung
+ungelöster internationaler Probleme zu fördern, und zu versuchen, sowohl die Ursachen als auch die Folgen
+internationaler Spannungen auf eine Weise zu beseitigen, dass sich die Beziehungen zwischen allen Staaten in Richtung
+Zusammenarbeit und Freundschaft entwickeln können, um das Auftreten von Situationen zu verhindern, die den
+internationalen Frieden und die Sicherheit gefährden könnten;
 
-- firmly adhere to and promote the implementation of universally recognized principles
-and declarations aimed at strengthening international peace and security and developing
-friendly and cooperative relations among states, as well as fulfill their obligations to
-provide financing for sustainable development arising from multilateral treaties and
-agreements that serve to achieve these goals;
+- sich fest an allgemein anerkannte Prinzipien und Erklärungen zu halten und deren Umsetzung zu fördern,
+die auf die Stärkung des internationalen Friedens und der Sicherheit und die Entwicklung freundschaftlicher
+und kooperativer Beziehungen zwischen den Staaten abzielen, sowie ihre Verpflichtungen
+zur Bereitstellung von Finanzmitteln für nachhaltige Entwicklung zu erfüllen, die sich aus multilateralen Verträgen
+und Abkommen ergeben, die der Erreichung dieser Ziele dienen;
 
-- to strengthen the role of the /nternational Treasury Monetary One as one of the main
-instruments in the maintenance of international peace and security by strengthening the
-Organization's capabilities in the field of ensuring and maintaining peace;
+- die Rolle des International Treasury Monetary One als eines der Hauptinstrumente
+zur Wahrung des internationalen Friedens und der Sicherheit zu stärken, indem die Fähigkeiten der
+Organisation im Bereich der Gewährleistung und Wahrung des Friedens gestärkt werden;
 
-- refrain from the threat or use of force and observe in their relations with other states the
-principles of sovereign equality, territorial integrity, inviolability of interstate borders,
-inadmissibility of the acquisition and occupation of the territory of other states by force,
-settlement of disputes, including border disputes, by purely peaceful means , renunciation
-of intervention and interference in the internal affairs of other states, adhere to respect for
-the Human rights, respect for the right of all countries to freely choose their social, political
-and economic systems and develop their external relations in such a way that they consider
-the most consistent with the interests of their Peoples;
+- von der Androhung oder Anwendung von Gewalt Abstand zu nehmen und in ihren Beziehungen zu anderen Staaten
+die Prinzipien der souveränen Gleichheit, territorialen Integrität, Unverletzlichkeit der zwischenstaatlichen Grenzen,
+Unzulässigkeit des Erwerbs und der Besetzung des Territoriums anderer Staaten durch Gewalt,
+Beilegung von Streitigkeiten, einschließlich Grenzstreitigkeiten, auf rein friedlichem Wege, Verzicht
+auf Intervention und Einmischung in die inneren Angelegenheiten anderer Staaten zu beachten, sich an die Achtung der
+Menschenrechte zu halten, das Recht aller Länder zu respektieren, ihre sozialen, politischen
+und wirtschaftlichen Systeme frei zu wählen und ihre Außenbeziehungen so zu entwickeln, wie sie es für
+am besten mit den Interessen ihrer Völker vereinbar halten;
 
-- ensure the free exercise of the right of Peoples under colonial and foreign domination to
-self-determination and promote majority rule, especially where racial oppression and, in
-particular, apartheid, have deprived Peoples of the opportunity to exercise their inalienable
-rights. In this regard, assist in the formation of the necessary measures and the provision
-of non-refundable funding;
+- die freie Ausübung des Rechts der Völker unter kolonialer und fremder Herrschaft auf
+Selbstbestimmung zu gewährleisten und die Mehrheitsherrschaft zu fördern, insbesondere wo Rassenunterdrückung und
+insbesondere Apartheid den Völkern die Möglichkeit genommen haben, ihre unveräußerlichen
+Rechte auszuüben. In dieser Hinsicht bei der Bildung der notwendigen Maßnahmen und der Bereitstellung
+von nicht rückzahlbaren Finanzmitteln zu helfen;
 
-OO} Tlomenka ObHIMANIBHEIX AOKyMEHTOB MexyHaponHoro Ka3nauelictpa M1 ABISIETCH yrosIOBHO Haka3yeMbIM
-u. IpecTyrnıemmem / Any forgery of the official documents of the International Treasury Monetary One shall be a
-
+OO} Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar / Any forgery of the official documents of the International Treasury Monetary One shall be a
 crime punishable by law
 
-7 of 8
+7 von 8
 
 my
 
@@ -445,48 +415,46 @@ TARA AGA GAGA Gena GaGa
 r
 
 
-## Section 007
+## Abschnitt 007
 
 Ls
 
 L
 
-- strive to establish and develop fair and balanced economic relations between states and
-reduce the gap between developed and developing countries in accordance with the
-financing plans adopted by the /nternational Treasury Monetary One on the basis of
-consensus on the establishment of a new international economic order, and the formation
-of a new architecture of the world financial system;
+- sich zu bemühen, faire und ausgewogene Wirtschaftsbeziehungen zwischen den Staaten aufzubauen und zu entwickeln
+und die Kluft zwischen entwickelten und Entwicklungsländern gemäß den
+vom International Treasury Monetary One auf der Grundlage
+des Konsenses über die Errichtung einer neuen internationalen Wirtschaftsordnung verabschiedeten Finanzierungsplänen zu verringern,
+und die Bildung einer neuen Architektur des Weltfinanzsystems;
 
-- encourage mutual understanding and trust between Humans by developing and
-facilitating cultural exchanges, freer movement and contacts between them, both
-individually and collectively. In this regard, we declare that there are all opportunities for
-financing cultural and educational programs free of charge;
+- gegenseitiges Verständnis und Vertrauen zwischen den Menschen zu fördern, indem kultureller Austausch,
+freiere Bewegung und Kontakte zwischen ihnen, sowohl individuell als auch kollektiv, entwickelt und erleichtert werden.
+In dieser Hinsicht erklären wir, dass es alle Möglichkeiten für die Finanzierung von Kultur- und Bildungsprogrammen kostenlos gibt;
 
-- to continue to develop their relations and cooperation in accordance with the purposes
-and principles of the /nternational Treasury Monetary One in the Divine laws of Creation
-and to comply with the resulting principles set out above, recognizing that nothing in this
-Resolution can neither change nor diminish the obligations that the International Treasury
-Monetary One has taken on themselves in relation to other states in accordance with the
-principles of international law.
+- ihre Beziehungen und Zusammenarbeit gemäß den Zielen
+und Prinzipien des International Treasury Monetary One in den göttlichen Gesetzen der Schöpfung
+weiterzuentwickeln und die sich daraus ergebenden oben dargelegten Prinzipien einzuhalten, in der Erkenntnis, dass nichts in dieser
+Resolution die Verpflichtungen, die das International Treasury Monetary One
+gegenüber anderen Staaten gemäß den Prinzipien des Völkerrechts übernommen hat, weder ändern noch mindern kann.
 
-Approved, completed and executed
+Genehmigt, abgeschlossen und ausgeführt
 
-Date 16.03.2022
+Datum 16.03.2022
 
-His Majesty
+Seine Majestät
 
 Alexander Nikolaevich Paramonov
 
-Secretary General, Chief Treasurer
-of the International Treasury Monetary One
+Generalsekretär, Chefschatzmeister
+des International Treasury Monetary One
 
-UN No. 509519
+UN Nr. 509519
 
-Tlomenka ObHIMANIBHEIX AOKyMEHTOB MexyHaponHoro KasHaueiictBa M1 ABISIETCH yrosIOBHO Haka3yeMbIM
-IpecTyrnıemmem / Any forgery of the official documents of the International Treasury Monetary One shall be a
+Jede Fälschung der offiziellen Dokumente des International Treasury Monetary One stellt eine
+strafbare Handlung dar / Any forgery of the official documents of the International Treasury Monetary One shall be a
 crime punishable by law
 
-8 of 8
+8 von 8
 
 my
 
@@ -498,5 +466,3 @@ Gr]
 Inlorslermlorgforplopslermlersiorolorsierooraferalersiopplerafernloralore
 
 r
-
-

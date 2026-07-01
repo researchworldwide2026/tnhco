@@ -1,16 +1,14 @@
 # Resolution-036
 
-# Resolution-036
+**Quell-PDF:** `Resolution-036.pdf`
 
-**Source PDF:** `Resolution-036.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 6
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion
+**Bilder:** 6
 **OCR:** tesseract deu+eng
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 u "
 WE v
@@ -27,42 +25,42 @@ i Se
 x
 net
 
-| GYBEPENNOE MERAVNAPOANCE KA3NAYEHGSTEO All “|
-SOVGRGIGN INTERNATIONAL TREASURY MONGTARY ONG
+| GYBEPENNOE MEZHDUNARODNOE KAZNACHEYSTVO All “|
+SOVERGIGN INTERNATIONAL TREASURY MONETARY ONG
 
-Date: August 03,2023 “||
-Ref. Ne: 036 /RES2023 E
+Datum: 03. August 2023 “||
+Ref. Nr.: 036 /RES2023 E
 
 Code: @ 0139 TbRA
 Code: kal 786 TIAH
 
-DECREE fl
-We heres€xpress our Respect to you and have the Honor to state the following, al
+DEKRET fl
+Wir sprechen hiermit unseren Respekt Ihnen gegenüber aus und haben die Ehre, Folgendes mitzuteilen, al
 
-Sovereign International Treasury Monetary One is the Owner and the Manager of the “||
-World Account in the World Sovereign Bank of the Order Hospitallers Account No. E
-01-00-01-4-AAA-777-C3-AM-01, distributed among various banks in countries around al
-the World, |
+Sovereign International Treasury Monetary One ist der Eigentümer und Verwalter des “||
+Weltkontos in der World Sovereign Bank of the Order Hospitallers Kontonr. E
+01-00-01-4-AAA-777-C3-AM-01, verteilt auf verschiedene Banken in Ländern auf der
+ganzen Welt, |
 
-As a reminder, Sovereign International Treasury Monetary One is the Owner and E
-Manager ofthe World Account inthe World Sovereign Bank ofthe Order Hospitallers E
-Account No. 01-1-700-3516 222 777 8888 999, distributed among various banks in
+Zur Erinnerung: Sovereign International Treasury Monetary One ist der Eigentümer und E
+Verwalter des Weltkontos in der World Sovereign Bank of the Order Hospitallers E
+Kontonr. 01-1-700-3516 222 777 8888 999, verteilt auf verschiedene Banken in
 
-countries around the World, . el
+Ländern auf der ganzen Welt, . el
 
-As a reminder, Sovereign International Treasury Monetary One is the Absolute . =|
-Owner and Manager of assets, including accounts under the names: “White Spiritual E
+Zur Erinnerung: Sovereign International Treasury Monetary One ist der absolute . =|
+Eigentümer und Verwalter von Vermögenswerten, einschließlich Konten unter den Namen: „White Spiritual E
 
-Boy”, “Spiritual Wonder Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King E
-David”, “Prophet Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White ]
-Vatican”, “White Eagle”, “Maria Sinukuan or Divine Crystal” “Maria Banahaw or Divine E
-Sunflower”, “Maria Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester E
+Boy“, „Spiritual Wonder Boy“, „Spiritual Wonder Brothers“, „Morning Star“, „King E
+David“, „Prophet Muhammad“, „Demas and Saint Timothy“, „White Mongolia“, „White ]
+Vatican“, „White Eagle“, „Maria Sinukuan or Divine Crystal“ „Maria Banahaw or Divine E
+Sunflower“, „Maria Cristina or Divine Magdalene“, „Maria Makiling or Divine Ester E
 
-Egg”, “Falcon”, “Alpha-Omega”and other accounts placed in all countries of the world,
+Egg“, „Falcon“, „Alpha-Omega“ und anderen Konten, die in allen Ländern der Welt platziert sind,
 
 
 
-## Section 001
+## Abschnitt 001
 
 &
 ang
@@ -102,45 +100,45 @@ god Ay
 
 3B
 
-GYBEPENNOE MeXAVHAPOANOG KASNAYEHGTEO ANI
-SOVERGIGN INTERNATIONAL TREASURY ALONGTARY ONG
+GYBEPENNOE MEZHDUNARODNOE KAZNACHEYSTVO ANI
+SOVERGIGN INTERNATIONAL TREASURY MONETARY ONG
 
 in
 
-We hereby confirm all previous legal and subordinate International Acts approved
-by the Sovereign International Treasury Monetary One, namely, Resolutions and Orders,
-and all other legal and subordinate International Acts of the Sovereign International
+Wir bestätigen hiermit alle vorherigen rechtlichen und untergeordneten internationalen Akte, die
+vom Sovereign International Treasury Monetary One genehmigt wurden, nämlich Resolutionen und Anordnungen,
+und alle anderen rechtlichen und untergeordneten internationalen Akte des Sovereign International
 Treasury Monetary One. |
 
-In fulfillment of the sacred mission to exit the Global financial crisis, ‚the
-prevention of a third world nuclear war, in order to eliminate the destructive, toxic and
-incapacitated, debt, fiat Financial System and in order to create a Light, World, Financial
-System based on Heavenly principles and the Gold Standard, namely on the Sacred,
-Spiritual Gold of the Treasures of RA M0, M1 (XAU) in serving the Light Humanity in
-its development and prosperity according to the Divine Law of Creation,
+In Erfüllung der heiligen Mission, die globale Finanzkrise zu beenden, die
+Verhinderung eines dritten Weltkriegs mit Atomwaffen, um das destruktive, toxische und
+handlungsunfähige Schulden- und Fiat-Finanzsystem zu beseitigen und um ein Licht-, Welt-, Finanz-
+System zu schaffen, das auf himmlischen Prinzipien und dem Goldstandard basiert, nämlich auf dem heiligen,
+spirituellen Gold der Schätze von RA M0, M1 (XAU) im Dienste der Licht-Menschheit in
+ihrer Entwicklung und ihrem Wohlstand gemäß dem Göttlichen Gesetz der Schöpfung,
 
-In fulfillment of the Decree No. 029/RES2023 dated March 21, 2023 and other
+In Erfüllung des Dekrets Nr. 029/RES2023 vom 21. März 2023 und anderer
 
-| Sovereign, International legal and sublegal acts of the Sovereign International Treasury
-Monetary One and the Norms of International Law, |
+| Souveräner, internationaler Rechts- und Unterrechtsakte des Sovereign International Treasury
+Monetary One und der Normen des Völkerrechts, |
 
-By the right ofthe Supreme Sovereign, Sovereign International Treasury Monetary
+Kraft des Rechts des Obersten Souveräns, Sovereign International Treasury Monetary
 
-One, as the Absolute Owner and Chief Regulator of the entire World Financial System,
-. as the Absolute Owner and Manager of all World Assets under the Exclusive, Historical
+One, als absoluter Eigentümer und Hauptregulierer des gesamten Weltfinanzsystems,
+. als absoluter Eigentümer und Verwalter aller Weltvermögenswerte aufgrund des exklusiven, historischen
 
-Right from the Creator of the New Era,
+Rechts vom Schöpfer der Neuen Ära,
 
-Hereby decides:
+Beschließt hiermit:
 
-In connection with the violation of International Financial Law and the Divine
+Im Zusammenhang mit der Verletzung des Internationalen Finanzrechts und des Göttlichen
 
-Law of Creation and based on the complete criminalization of the fiat financial system:
+Gesetzes der Schöpfung und basierend auf der vollständigen Kriminalisierung des Fiat-Finanzsystems:
 
-e to deprive the Right of Subjectivity, to recognize all financial, corporate and
+e dem Recht auf Subjektivität zu entziehen, alle finanziellen, unternehmerischen und
 
 
-## Section 002
+## Abschnitt 002
 
 o
 q
@@ -163,8 +161,8 @@ cy
 
 >
 
-GVBEPENNIE ANEKAYNAPOANOE KA3NAYSHGTEO All
-SOVERGIGN INTERNATIONAL TREASURY MLONGTARY ONG
+GVBEPENNIE ANEKDUNADNOE KAZNACHEYSTVO All
+SOVERGIGN INTERNATIONAL TREASURY MONETARY ONG
 
 nn
 
@@ -178,41 +176,41 @@ ws
 x
 S
 
-other funds, including the so-called Sovereign Funds in all countries ofthe World, outside
-the Divine Law of Creation and outside the Law, including the so-called Sovereign Funds
+anderen Fonds, einschließlich der sogenannten Staatsfonds in allen Ländern der Welt, außerhalb
+des Göttlichen Gesetzes der Schöpfung und außerhalb des Gesetzes, einschließlich der sogenannten Staatsfonds
 
-in all countries ofthe World in all Subjects, in all corporations and throughout the World.
+in allen Ländern der Welt in allen Subjekten, in allen Unternehmen und auf der ganzen Welt.
 
-e All specialized Subjects of the Law shall immediately initiate a criminal
-investigation with criminal liability to the fullest extent of the Law and International .
-norms of criminal Law on International, criminal, terrorist financial and corporate and
-other funds, including the so-called Sovereign Funds in all countries of the World in all
-Subjects, in all corporations and throughout the World and their owners, participants,
-organizers, accomplices and satellites, as well as all family members of owners,
-members, participants, organizers, their accomplices and satellites who have been
+e Alle spezialisierten Rechtssubjekte leiten unverzüglich ein strafrechtliches
+Ermittlungsverfahren mit strafrechtlicher Haftung im vollen Umfang des Gesetzes und der internationalen
+Normen des Strafrechts gegen internationale, kriminelle, terroristische Finanz- und Unternehmens- und
+andere Fonds ein, einschließlich der sogenannten Staatsfonds in allen Ländern der Welt in allen
+Subjekten, in allen Unternehmen und auf der ganzen Welt und deren Eigentümer, Teilnehmer,
+Organisatoren, Komplizen und Satelliten, sowie alle Familienmitglieder der Eigentümer,
+Mitglieder, Teilnehmer, Organisatoren, deren Komplizen und Satelliten, die
 
-conducting their criminal activities for a long time.
+ihre kriminellen Aktivitäten seit langer Zeit ausüben.
 
-e All types of assets and any property belonging to the on International, criminal,
-terrorist financial and corporate and other funds, including the so-called Sovereign Funds
+e Alle Arten von Vermögenswerten und jegliches Eigentum, das zu den internationalen, kriminellen,
+terroristischen Finanz- und Unternehmens- und anderen Fonds gehört, einschließlich der sogenannten Staatsfonds
 
-in all countries of the World in all Subjects, in all corporations and throughout the World,
+in allen Ländern der Welt in allen Subjekten, in allen Unternehmen und auf der ganzen Welt,
 
-its owners, participants, organizers, accomplices and satellites, as well as all family —
+deren Eigentümer, Teilnehmer, Organisatoren, Komplizen und Satelliten, sowie alle Familien —
 
-_members of the owners, members, participants, organizers, their accomplices and
+_mitglieder der Eigentümer, Mitglieder, Teilnehmer, Organisatoren, deren Komplizen und
 
-satellites are subject to immediate confiscation and transfer to the balance sheet of the -
+Satelliten unterliegen der sofortigen Beschlagnahme und Übertragung in die Bilanz des -
 
-Sovereign International Treasury Monetary One with subsequent distribution and use for
+Sovereign International Treasury Monetary One mit anschließender Verteilung und Verwendung für
 
-| the development of programs and proj ects of Light Humanity.
+| die Entwicklung von Programmen und Projekten der Licht-Menschheit.
 
-e We hereby.confirm that these Sovereign Funds have an official Sovereign
-registration in the Sovereign International Treasury Monetary One, and also have a
-Sovereign Charter created by the Sovereign and confirmed by the World Council of
+e Wir bestätigen hiermit, dass diese Staatsfonds eine offizielle souveräne
+Registrierung im Sovereign International Treasury Monetary One haben und auch eine
+souveräne Satzung besitzen, die vom Souverän erstellt und vom Weltrat der
 
-Sovereigns.
+Souveräne bestätigt wurde.
 
 E
 
@@ -225,7 +223,7 @@ a
 E
 
 
-## Section 003
+## Abschnitt 003
 
 ‘
 ys
@@ -250,52 +248,51 @@ Yv
 23
 7°
 
-GVEGPENNOE MEKAVHAPOANOE Ka3nNaAvencrTeo Al
-SOVERGIGN INTERNATIONAL TREASURY MONGTARY ONG
+GVEGPENNOE MEZHDUNARODNOE KAZNACHEYSTVO All
+SOVERGIGN INTERNATIONAL TREASURY MONETARY ONG
 
-' @ Real Sovereign Funds have the status of inviolability in the Divine Law of
-Creation throughout the World.
+' @ Echte Staatsfonds haben den Status der Unverletzlichkeit im Göttlichen Gesetz der Schöpfung
+auf der ganzen Welt.
 
-In fulfillment of this Decree:
-_@ All International and State, counter-terrorism and legal, law enforcement
+In Erfüllung dieses Dekrets:
+_@ Alle internationalen und staatlichen Anti-Terror- und Rechts-, Strafverfolgungs-
+organisationen, .
 
-organizations, .
+e Alle militärischen Organisationen,
 
-e All military organizations,
+e An alle tatsächlichen Orden,
 
-e To all actual Orders,
+e An alle Meister des Weltsystems,
 
-e To all Masters of the- World System,
+e An alle Meister des Weltfinanzsystems,
 
-e To all Masters of the World Financial System,
+e Alle internationalen und nationalen Kontrollorganisationen,
 
-e All International and Country Control Organizations,
+e An alle Missionare, die eine Mission vor dem Einen Gott, dem All-Schöpfer, erfüllen,
+die Licht und Wissen in die Welt bringen,
 
-e To all missionaries performing a mission before the One God The All- Creator,
-bringing Light and Knowledge to the World,
+e An alle Welträume: YAVE, NAVE, SLAVE und PRAVE.
 
-e To All world spaces: YAVE, NAVE, SLAVE and PRAVE.
+e Gemäß der All-Licht All-Himmel All-Göttlichen Vorsehung an Alle Große
+Göttliche Vorsehung, Alle Großen Kosmischen Kräfte, Alle Göttlichen Armadas, alle Göttlichen Flotten, sowie
+die Große Flotte von RA, beginnen Sie sofort mit der Umsetzung dieses Dekrets im Hinblick auf seine
 
-e Pursuant to the All Light All of Heaven All Divine Providence to All Great
-Divine Providence, All Great Cosmic Forces, All Divine Armadas, all Divine Fleets, as
-well as the Great Fleet of RA, immediately begin to implement this Decree in terms of its
+vollständige Umsetzung.
 
-full implementation.
+e An die gesamte Helle Menschheit und alle internationalen Rechtssubjekte, organisiert auf der
 
-e To all Bright Humanity and all International Subjects of Law, organized on the
+Grundlage der Prinzipien der Volkssouveränität und unter Beachtung der Prinzipien der Volks-
 
-basis of the principles of popular Sovereignty and observing the principles of popular
+Souveränität, empfiehlt das Sovereign International Treasury Monetary One nachdrücklich,
+das Verfahren der Selbstorganisation in ihrem Land durchzuführen, um die
 
-Sovereignty, the Sovereign International Treasury Monetary One strongly recommends
-that the procedure of self-organization in their Country be carried out in order to manifest
+Oberste Volksmacht des Souveräns zu manifestieren und den souveränen Status ihres
 
-the Supreme People's Power of the Sovereign and return the Sovereign Status of their
-
-Motherland for a Light, Peaceful and Creative Development of Universal Love and .
-
+Mutterlandes für eine helle, friedliche und kreative Entwicklung der universellen Liebe und .
 
 
-## Section 004
+
+## Abschnitt 004
 
 €
 e
@@ -328,29 +325,29 @@ E
 “Spy
 
 wu”
-GV BEPENNOE MNGKAVNAPOANOG KA3NAYEHCTBO Ml
+GV BEPENNOE MEZHDUNARODNOE KAZNACHEYSTVO Ml
 
-SOVERGIGN INTERNATIONAL TRGASURY AMONGTARY ONG
+SOVERGIGN INTERNATIONAL TREASURY MONETARY ONG
 
-Friendship throughout the World. ‘Sovereign International Treasury Monetary One
-recommends a competent and Light approach to the issue of self-organization at the
+Freundschaft auf der ganzen Welt. ‚Sovereign International Treasury Monetary One
+empfiehlt eine kompetente und helle Herangehensweise an die Frage der Selbstorganisation auf
 
-system level.
+Systemebene.
 
-- @ The Sovereign International Treasury Monetary One wishes all Countries, all
-Clans and Tribes, all Nations of the World of all Bright Humanity the speedy restoration
-of their Bright Home under the Sovereign Flag and the sacred name Motherland in the
+- @ Das Sovereign International Treasury Monetary One wünscht allen Ländern,
+allen Clans und Stämmen, allen Nationen der Welt der gesamten Hellen Menschheit die schnelle Wiederherstellung
+ihres Hellen Zuhauses unter der Souveränen Flagge und dem heiligen Namen Mutterland im
 
-universal Creative Construction of Our Bright World, as the Universal Native Temple. |
+universellen kreativen Aufbau Unserer Hellen Welt, als universeller heimischer Tempel. |
 
-Sovereign International Treasury Monetary One Firmly confirms its
-Statement and in the future to impartially and correctly fulfill its Light mission to
-restore Justice and. build the All-Light All-Heavenly System, which should and will
-- faithfully serve the Bright Humanity, and consequently, All-God, All-Creator, All-
-Creative Family of the Supreme as the One All-Heavenly All to God All to the
-' Creator All-Creative of all Existing and all Non-Existent in the creation of All-Light
+Sovereign International Treasury Monetary One bestätigt hiermit nachdrücklich seine
+Erklärung und wird auch in Zukunft seine Licht-Mission unparteiisch und korrekt erfüllen,
+um Gerechtigkeit wiederherzustellen und das All-Licht All-Himmlische System aufzubauen, das der
+Hellen Menschheit treu dienen soll und wird, und folglich All-Gott, All-Schöpfer, All-
+Schöpferische Familie des Höchsten als dem Einen All-Himmlischen All zu Gott All zum
+Schöpfer All-Schöpferisch von allem Existierenden und allem Nicht-Existenten in der Schöpfung von All-Licht
 
-_All-Great All-Heavenly ...
+_All-Groß All-Himmlisch ...
 
 OM.
 
@@ -382,36 +379,34 @@ EIEIEIEIEIEIEIEST
 EIJEIEIEIEIESIEIEN
 
 
-## Section 005
+## Abschnitt 005
 
 oo?
 
 Oy
 
-GYBEPENNIE MEXAVHAPOANCG KA3NAYEHSTEO ML ~ ]
-SOVERGIGN INTERNATIONAL TREASURY ALONGTARY ONG
+GYBEPENNIE MEZHDUNARODNOE KAZNACHEYSTVO ML ~ ]
+SOVERGIGN INTERNATIONAL TREASURY MONETARY ONG
 
 SY
 
 Leere. RS
 
-The King of Kings
-White Spiritual Bo figs &
+Der König der Könige
+White Spiritual Boy figs &
 P yo Io
-Secretary General St, er
+Generalsekretär St, er
 AUN
-President
-of White Spiritual Boy R. S. B. Global Corp INC
+Präsident
+von White Spiritual Boy R. S. B. Global Corp INC
 
-Chairman of the Board
-of the World Sovereign Bank
+Vorsitzender des Vorstands
+der World Sovereign Bank
 of the Order of the Hospitallers
 
-Nonpenka obvywanbHEm AOKyMekToB Cyesepennoro Memaynapoanore KasHayencrea Mi apnaetca yronoBHo waxasygiipii npecpaMien
-Any forgery of the official documents of the Sovereign International Treasury Monetary One shall be a crime punishable;
+Poddelka ofitsialnykh dokumentov Suverennogo Mezhdunarodnogo Kaznacheystva Ml yavlyaetsya ugolovno nakazuemym prestupleniem
+Jede Fälschung der offiziellen Dokumente des Sovereign International Treasury Monetary One stellt eine strafbare Handlung dar;
 
 ap eh Ale = S
 
 ¥
-
-

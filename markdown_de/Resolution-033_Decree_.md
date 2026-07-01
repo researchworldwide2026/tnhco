@@ -1,263 +1,259 @@
 # Resolution-033_Decree_
 
-# Resolution-033_Decree_
+**Quell-PDF:** `Resolution-033_Decree_.pdf`
 
-**Source PDF:** `Resolution-033_Decree_.pdf`
-
-**Extraction method:** OCR via embedded image extraction
-**Images:** 6
+**Extraktionsmethode:** OCR via eingebettete Bildextraktion
+**Bilder:** 6
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 Gyeepennoe Mexaynapoanoce Kasnavericrso All En
 Sovereign International Treasury Monetary One | 5
 
-LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418 [F
+LEI: 2534008YC6NRP4BLOF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Tel: +7-495-1258418 [F
 
-Mata: June 02, 2023 | E
-Hex. Ne: 033/RES2023 a]
+Datum: 02. Juni 2023 | E
+Hex. Nr.: 033/RES2023 a]
 
 Kon: @ 0139TBRA | E
 
-Decree Ne 033 el
+Dekret Nr. 033 el
 
-We hereby express our Respect tö you and have the Honor to state the following,
+Hiermit bringen wir unseren Respekt Ihnen gegenüber zum Ausdruck und haben die Ehre, Folgendes festzustellen:
 
-' Sovereign International Treasury Monetary ‘One is the Absolute Owner and the Manager B
+' Sovereign International Treasury Monetary 'One ist der absolute Eigentümer und Verwalter B
 
-: of the World Account in the World Sovereign Bank of the Order Hospitallers Account No. el
+: des Weltkontos in der World Sovereign Bank des Order Hospitallers Kontonr. el
 
-01-00-01-4-AAA-777-C3- AM-01, distributed among „Various banks in countries around the
+01-00-01-4-AAA-777-C3- AM-01, verteilt auf verschiedene Banken in Ländern auf der ganzen
 
-World, ”. : B
+Welt. ”. : B
 
-_ As a reminder, Sovereign International Treasury Monetary One is the Absolute Owner
+_ Zur Erinnerung: Sovereign International Treasury Monetary One ist der absolute Eigentümer
 
-and Manager of the World Account in the World Sovereign Bank of the Order Hospitallers el
+und Verwalter des Weltkontos in der World Sovereign Bank des Order Hospitallers el
 
-Account No. 01-1-700-3516 222 777 8888 999, distributed among ‘various banks in countries
+Kontonr. 01-1-700-3516 222 777 8888 999, verteilt auf verschiedene Banken in Ländern auf der
 
-around the World, | fl
+ganzen Welt. | fl
 
-As a reminder, Sovereign International Treasury Monetary One is the Absolute ]
-Owner and Manager of assets, including accounts under the names: “White Spiritual Boy”, E
-“Spiritual Wonder Boy”, “Spiritual Wonder Brothers”, “Morning Star”, “King David”, “Prophet “|
-Muhammad”, “Demas and Saint Timothy”, “White Mongolia”, “White Vatican”, “White 5
-Eagle”, “Maria Sinukuan or Divine Crystal” “Maria Banahaw or Divine Sunflower”, “Maria E
-Cristina or Divine Magdalene”, “Maria Makiling or Divine Ester Egg”, “Falcon”, “Alpha- ]
-Omega”and other accounts placed in all countries of the world, E
+Zur Erinnerung: Sovereign International Treasury Monetary One ist der absolute ]
+Eigentümer und Verwalter von Vermögenswerten, einschließlich Konten unter den Namen: "White Spiritual Boy", E
+"Spiritual Wonder Boy", "Spiritual Wonder Brothers", "Morning Star", "King David", "Prophet "|
+Muhammad", "Demas and Saint Timothy", "White Mongolia", "White Vatican", "White 5
+Eagle", "Maria Sinukuan or Divine Crystal" "Maria Banahaw or Divine Sunflower", "Maria E
+Cristina or Divine Magdalene", "Maria Makiling or Divine Ester Egg", "Falcon", "Alpha- ]
+Omega" und andere Konten, die in allen Ländern der Welt platziert sind. E
 
 Tlonnenka obnumanbHBIX MOKyMeHToB CyBepeHHoro MesxyHaponkoro Kasnayeiictsa MI ABIACT ZA, grpliopno .
-Haka3yeMbIM IIPECTYIIEHHEM / Any forgery of the official documents of the Sovereign Integmfpnd € Et
-Monetary One shall be a crime punishable by law *
+Haka3yeMbIM IIPECTYIIEHHEM / Jede Fälschung der offiziellen Dokumente des Sovereign Integmfpnd € Et
+Monetary One stellt eine strafbare Handlung dar. *
 
-1 of 6
+1 von 6
 
 
 
-## Section 001
+## Abschnitt 001
 
-We hereby confirm all previous legal and subordinate International Acts approved by the
-Sovereign International Treasury Monetary One, namely, Resolutions and Orders, and all other
-legal and subordinate International Acts of the Sovereign International Treasury Monetary One. 2]
+Hiermit bestätigen wir alle früheren rechtlichen und nachgeordneten internationalen Akte, die vom
+Sovereign International Treasury Monetary One genehmigt wurden, nämlich Resolutionen und Anordnungen, sowie alle anderen
+rechtlichen und nachgeordneten internationalen Akte des Sovereign International Treasury Monetary One. 2]
 
-In fulfillment of the sacred mission to exit the Global financial crisis, the prevention of a E
-third world nuclear war, in order to eliminate the destructive, toxic and incapacitated, debt, fiat iz
-Financial System and in order to create a Light, World, Financial System based on Heavenly “||
-principles and the Gold Standard, namely on the Sacred, Spiritual Gold of the Treasures of RA E
-MO, M1 (XAU) in serving the Light Humanity in its development and prosperity according to 2]
-the Divine Law of Creation. oo E
+In Erfüllung der heiligen Mission, die globale Finanzkrise zu beenden, die Verhinderung eines E
+dritten nuklearen Weltkriegs, um das zerstörerische, toxische und handlungsunfähige Schulden- und Fiat- iz
+Finanzsystem zu beseitigen und um ein Licht-, Welt-, Finanzsystem zu schaffen, das auf himmlischen “||
+Prinzipien und dem Goldstandard basiert, nämlich auf dem heiligen, spirituellen Gold der Schätze von RA E
+MO, M1 (XAU) im Dienste der Lichtmenschheit in ihrer Entwicklung und ihrem Wohlstand gemäß 2]
+dem göttlichen Gesetz der Schöpfung. oo E
 
-The criminal, terrorist communities of the jesuits and the Illuminati, the kabbal and other “||
-secret criminal societies, relying on the Admiralty Law, which is illegitimate on the land, under 5
-the feudal slogan of democracy, criminally seized the free Republic of the United States of E
-America and established a corporate dictatorial regime in it that did not comply with the Rules ]
-of Law, thereby turning the free Republic into a corporation. International criminal terrorist E
-organizations such as: the jesuits, the Illuminati, the kabbal, the dark khazaria, the dark nobility, “||
-the cult of the black sun committed monstrous crimes against God, all Light Humanity and E
-Nature, organizing and carrying out wars, military conflicts, murders, genocide, capture and el
-plunder free Countries, Clans, Tribes.and Nations, and turned into a global world parasite,
-which for many years killed and exterminated free People, their homes and Nature with a E
-bloody club, captivated them and forced them to work for the criminal terrorist corporation =|
-USA. . E
+Die kriminellen, terroristischen Gemeinschaften der Jesuiten und der Illuminaten, der Kabbal und anderer “||
+geheimer krimineller Gesellschaften, die sich auf das Admiralitätsrecht stützen, das an Land unrechtmäßig ist, unter 5
+der feudalen Parole der Demokratie, haben die freie Republik der Vereinigten Staaten von E
+Amerika kriminell an sich gerissen und ein korporatives diktatorisches Regime in ihr errichtet, das nicht den Rechtsregeln ]
+entspricht, und damit die freie Republik in eine Körperschaft verwandelt. Internationale kriminelle terroristische E
+Organisationen wie: die Jesuiten, die Illuminaten, die Kabbal, das dunkle Khazaria, der dunkle Adel, “||
+der Kult der schwarzen Sonne haben monströse Verbrechen gegen Gott, die gesamte Lichtmenschheit und E
+die Natur begangen, indem sie Kriege, militärische Konflikte, Morde, Völkermord, die Eroberung und el
+Plünderung freier Länder, Clans, Stämme und Nationen organisierten und durchführten, und verwandelten sich in einen globalen Weltschmarotzer,
+der viele Jahre lang freie Menschen, ihre Häuser und die Natur mit einem E
+blutigen Knüppel tötete und ausrottete, sie gefangen nahm und zwang, für die kriminelle terroristische Körperschaft =|
+USA zu arbeiten. . E
 
-International terrorists running the USA Crime Corporation, Fraud, by Crime and Murder =|
-have taken control of the International Financial System by organizing a Legal Rights E
-Inconsistent Criminal, Destructive, Fiat, Debt Financial System with Washington D.C., The el
+Internationale Terroristen, die die USA-Verbrechenskörperschaft betreiben, Betrug, durch Verbrechen und Mord =|
+haben die Kontrolle über das internationale Finanzsystem übernommen, indem sie ein mit den Rechtsnormen E
+unvereinbares kriminelles, destruktives, Fiat-, Schulden-Finanzsystem mit Washington D.C., The el
 
-Federal Reserve System and London City as one of its main hubs. Today, the external debt of
+Federal Reserve System und London City als einem seiner Hauptknotenpunkte organisierten. Heute ist die Auslandsverschuldung der
 
-the entire World Community of the USA corporation is a monstrous figure that does not el
+gesamten Weltgemeinschaft der USA-Körperschaft eine monströse Zahl, die nicht el
 
-owned by the kabbal represented by the illegitimate criminal investment company “BlackRock”
+der offiziell erklärten Summe auf offiziellen Websites und durch Unternehmensmedien entspricht E
+
+und der Kabbal gehört, vertreten durch die illegitime kriminelle Investmentgesellschaft "BlackRock"
 
 | (BlackRock, Inc.). el
 
-‘correspond to the officially declared amount on official websites and through corporate media E
-
 Ionzenka odummanbHbIX Jokymentos CyBepeHHkoro Mexıynaponuoro Kasnaueictsa M1 aBnaerca] yromoBHo
-Haka3yeMbIM npecrynnenvem / Any forgery of the official documents of the Sovereign Intergagang wlgeasury
-Monetary One shall be a crime punishable by law ar ay Ing
+Haka3yeMbIM npecrynnenvem / Jede Fälschung der offiziellen Dokumente des Sovereign Intergagang wlgeasury
+Monetary One stellt eine strafbare Handlung dar. ar ay Ing
 
-2 of 6
+2 von 6
 
 els7els7215 Teer ge
 
 
 
-## Section 002
+## Abschnitt 002
 
 Jin ; p Fa .
+Unwillig, den hellen Weg der Schöpfung zu beschreiten und die Normen des E
+Völkerrechts einzuhalten, die die Rechte, Freiheiten und Gleichheit aller Länder, Clans, Stämme ]
+und Nationen schützen, hat eine illegitime, kriminelle, korporative Gruppe von Eindringlingen, die die freie E
+Republik der USA und ihr freies Volk gefangen nahm, ihre Entscheidung veröffentlicht, die bedingte, d.h. 2]
+unterschätzte "Staatsverschuldung" der Vereinigten Staaten gegenüber der Weltgemeinschaft zu erhöhen. An der Kreuzung E
+des Beginns der neuen Lichtära der Menschheit und ihrer hellen Entwicklung gemäß dem el
+göttlichen Gesetz der Schöpfung hat der internationale, kriminelle Aggressor und Ausbeuter der Lichtmenschheit =|
+und der gesamten freien Weltgemeinschaft seine Absichten bestätigt, seinen kriminellen kriminellen E
+Weg der Plünderung und Unterdrückung aller Länder der Welt, aller Clans, Stämme und Nationen der ]
+Welt fortzusetzen. E
+Kraft des Rechts des Souveräns, der Sovereign International Treasury Monetary One, als ]
+der absolute Eigentümer und oberste Regulierer des gesamten Weltfinanzsystems, als der absolute E
 
-Unwishing to embark on the bright path of creation and comply with the Norms of E
-International Law that protect the Rights, Freedoms and equality of all Countries, Clans, Tribes ]
-and Nations, an illegitimate, criminal, corporate group of invaders that captivated the free E
-Republic of the USA and its free People, published its decision to increase conditional, i.e., 2]
-underestimated "public debt" ofthe United States to the World community. At the crossroads of E
-the beginning of the New Light Era of Humanity and its Light development according to the el
-Divine Law of Creation, the International, criminal aggressor and exploiter of Light Humanity =|
-and the entire free World Community confirmed its intentions to continue its criminal criminal E
-path to plunder and oppress all the Countries of the World, all Clans, Tribes and Nations of the ]
-World. E
-By the Right of the Sovereign, the Sovereign International Treasury Monetary One, as ]
-the Absolute Owner and Chief Regulator of the entire World Financial System, as the Absolute E
+Eigentümer und Verwalter aller Weltvermögenswerte kraft des exklusiven, historischen Rechts vom Schöpfer B
+der neuen Ära,
 
-Owner and Manager of all World Assets under the Exclusive, Historical Right from the Creator B
-ofthe New Era,
+Beschließt hiermit
 
-Hereby Decides
+Der Körperschaft der Vereinigten Staaten von E
+Amerika die Rechtspersönlichkeit zu entziehen, sie außerhalb des göttlichen Gesetzes der Schöpfung und E
+außerhalb des Gesetzes zu stellen, die USA-Entscheidung el
+zur Erhöhung der Staatsverschuldung der USA-Körperschaft für null und nichtig zu erklären. ]
 
-To deprive of the legal personality, to recognize the corporation of the United States of E
-America outside the Divine Law of Creation and outside the law, to recognize the USA decision el
-to increase the public debt of the USA corporation as null and void. ]
+Die legitime verfassungsmäßige Ordnung der freien Republik der Vereinigten Staaten von E
+Amerika auf dem Territorium der Vereinigten Staaten wiederherzustellen. ]
 
-To restore the legitimate constitutional order of the free Republic of the United States of E
-America on the territory ofthe United States. ]
+Allen Kriminellen in Gestalt internationaler, krimineller, terroristischer Organisationen =|
+(Jesuiten, Illuminaten, Kabbal, dunkler Adel, dunkles Khazaria, Schwarzer-Sonnen-Kult, falscher Malteserorden, [F
+"Opus Dei" (lat. Opus Dei - das Werk Gottes), Bnei B'rith, radikaler Zionismus und andere kriminelle el
+Organisationen), die die kriminelle Ideologie des Neofaschismus und der interethnischen “||
+Überlegenheit pflegen und unterstützen, Verbrechen gegen das Völkerrecht begehen, wie: Verbrechen gegen die E
+Menschenrechte, Organisation blutiger Kriege und militärischer Konflikte, Geldwäsche, Völkermord, Terrorismus, B
 
-To deprive the legal personality, to recognize outside the Divine Law of Creation and E
-outside the law all criminals in the person of International, criminal, terrorist organizations =|
-(jesuits, Hluminati, kabbal, dark nobility, dark khazaria, black sun cult, fake Order of Malta, [F
-"Opus Dei" (lat. Opus Dei - the Work of God), Bnei B'rith, radical zionism and other criminal el
-organizations), cultivating and supporting the criminal ideology of neo-fascism and interethnic “||
-superiority, committing crimes against international Law, such as: crimes against Human E
-Rights, organizing bloody wars and military conflicts, money laundering, genocide, terrorism, B
+Extremismus und Korruption, und die das Recht des souveränen freien
 
-extremism and corruption, and neglected and encroached on the Right of the Sovereign Free
+Monetary One stellt eine strafbare Handlung dar.
 
-Monetary One shall be a erime punishable by law
-
-30f6
-
+3 von 6
 
 
-## Section 003
 
-well as the Right ofthe Sovereign of Free Clans, Tribes and
+## Abschnitt 003
 
-Nations throughout the World. In relation to the above criminal subjects, conduct a criminal
-investigation and call for criminal liability to the fullest extent of the law and the International
-Norms of Criminal Law.
+sowie das Recht des Souveräns freier Clans, Stämme und
 
-All types of assets and any property belonging to the above International, terrorist
-organizations, their owners, participants, organizers, accomplices and satellites, as well as all
-family members of the owners, participants, organizers, their accomplices, satellites and all
-criminal entities, are subject to immediate confiscation and crediting to the balance sheet of the
-Sovereign International Treasury Monetary One with subsequent distribution and use for the
-development of programs and proj ects of Light Humanity. .
+Nationen auf der ganzen Welt vernachlässigt und angetastet haben. In Bezug auf die oben genannten kriminellen Subjekte eine strafrechtliche
+Untersuchung durchzuführen und sie im vollen Umfang des Gesetzes und der internationalen
+Normen des Strafrechts strafrechtlich zur Verantwortung zu ziehen.
 
-Freeze and revoke all financial, valuable and: all other assets from the United States
-Corporation, the Subjects of the Rights of the United States of America and the sub-entities of
-the Rights of the United States of America, the organizations of the United States of America,
-their satellites and all criminal secret societies.
+Alle Arten von Vermögenswerten und jegliches Eigentum, das den oben genannten internationalen, terroristischen
+Organisationen, ihren Eigentümern, Teilnehmern, Organisatoren, Komplizen und Satelliten sowie allen
+Familienmitgliedern der Eigentümer, Teilnehmer, Organisatoren, ihrer Komplizen, Satelliten und aller
+kriminellen Einheiten gehört, unterliegen der sofortigen Beschlagnahme und Gutschrift auf der Bilanz des
+Sovereign International Treasury Monetary One mit anschließender Verteilung und Verwendung für die
+Entwicklung von Programmen und Projekten der Lichtmenschheit. .
 
-To impose a ban on any type of issue of securities, issue of money, currencies and the
-production of any other types of payment,and settlement means of the United States
-Corporation, subjects of the Rights of the United States Corporation and sub- subjects of the
-Rights of the United States Corporation, organizations ‘of the United States Corporation, their
-satellites and all criminal secret societies. “ |
+Alle finanziellen, wertvollen und alle anderen Vermögenswerte der United States
+Corporation, der Rechtssubjekte der Vereinigten Staaten von Amerika und der Unterrechtssubjekte der
+Vereinigten Staaten von Amerika, der Organisationen der Vereinigten Staaten von Amerika,
+ihrer Satelliten und aller kriminellen Geheimgesellschaften einfrieren und widerrufen.
 
-Impose an Embargo and a complete ban on any export and import of money, currencies,
-securities and any other financial means, as well as all types of goods of the United States of
-America corporation, the Subjects of the Rights of the United States of America corporation and
-the sub-entities of the Rights of the United States of America corporation, organizations of their .
-satellites and all criminal secret societies. |
+Ein Verbot jeglicher Art von Ausgabe von Wertpapieren, Ausgabe von Geld, Währungen und
+der Herstellung aller anderen Arten von Zahlungs- und Abwicklungsmitteln der United States
+Corporation, der Rechtssubjekte der United States Corporation und der Unterrechtssubjekte der
+United States Corporation, der Organisationen der United States Corporation, ihrer
+Satelliten und aller kriminellen Geheimgesellschaften zu verhängen. “ |
 
-To provide the entire World System with comprehensive support for the resurgence of
-the legitimate constitutional People's Power of the Free Republic of the United States of
-America, based on the principles of Justice and Sovereignty according to the Divine Law of
+Ein Embargo und ein vollständiges Verbot jeglicher Aus- und Einfuhr von Geld, Währungen,
+Wertpapieren und jeglichen anderen finanziellen Mitteln sowie aller Arten von Waren der United States
+of America Corporation, der Rechtssubjekte der United States of America Corporation und
+der Unterrechtssubjekte der United States of America Corporation, der Organisationen ihrer
+Satelliten und aller kriminellen Geheimgesellschaften zu verhängen. |
 
-Creation.
+Dem gesamten Weltsystem umfassende Unterstützung für die Wiederbelebung der
+legitimen verfassungsmäßigen Volksmacht der Freien Republik der Vereinigten Staaten von
+Amerika zu gewähren, basierend auf den Prinzipien der Gerechtigkeit und Souveränität gemäß dem göttlichen Gesetz der
+
+Schöpfung.
 
 lonzenka obmuumansHbIX MOKyYMEHTOB CyBepeHHoro MexzyHapoguoro K:
-Haka3yeMbIM npecryIvieunem / Any forgery of the official documents of
-Monetary One shall be a crime punishable by law
+Haka3yeMbIM npecryIvieunem / Jede Fälschung der offiziellen Dokumente des
+Monetary One stellt eine strafbare Handlung dar.
 
-4 of 6
+4 von 6
 
 
 
-## Section 004
+## Abschnitt 004
 
-In fulfillment of this Decree:
+In Erfüllung dieses Dekrets:
 
-. All International and State, counter-terrorism and legal, law enforcement organizations,
+. Alle internationalen und staatlichen Anti-Terror- und Rechts-, Strafverfolgungsorganisationen,
 
-e All military organizations,
+e Alle militärischen Organisationen,
 
-e To all actual Orders,
+e Allen tatsächlichen Orden,
 
-e To all Masters of the World System,
+e Allen Meistern des Weltsystems,
 
-e To all Masters of the World Financial System,
+e Allen Meistern des Weltfinanzsystems,
 
-e All International and Country Control Organizations,
+e Alle internationalen und nationalen Kontrollorganisationen,
 
-e To all missionaries performing a mission before thé One God The All-Creator,
-bringing Light and Knowledge to the World, | |
+e Allen Missionaren, die eine Mission vor dem Einen Gott, dem All-Schöpfer, erfüllen,
+die Licht und Wissen in die Welt bringen, | |
 
-e To All world spaces: YAVE, NAVE, SLAVE and PRAVE.
+e Allen Welträumen: YAVE, NAVE, SLAVE und PRAVE.
 
-e Pursuant to the All Light All of Heaven All Divine Providence to All Great Divine
-Providence, All Great Cosmic Forces, All Divine Armadas, all Divine Fleets, as well as the
-Great Fleet of RA, immediately begin to implement this Decree in terms of its full
-implementation. -
+e Gemäß der All-Licht-All-Himmels-All-Göttlichen-Vorsehung, aller Großen Göttlichen
+Vorsehung, aller Großen Kosmischen Kräfte, aller Göttlichen Armadas, aller Göttlichen Flotten, sowie der
+Großen Flotte von RA, sofort mit der Umsetzung dieses Dekrets im Hinblick auf seine vollständige
+Durchführung zu beginnen. -
 
-To all Bright Humanity and all International Subjects of Law, organized on the basis of
-the principles of popular Sovereignty and observing the principles of popular Sovereignty, the
-Sovereign International Treasury. -Monetary One strongly recommends that the procedure of
-self-organization in their Country be carried out in order to manifest the Supreme People's
-Power of the Sovereign and return the Sovereign Status of their Motherland for a Light,
-Peaceful and Creative Development of Universal Love and Friendship throughout the World.
-Sovereign International Treasury Monetary One recommends a competent and Light approach _
+Der gesamten Hellen Menschheit und allen internationalen Rechtssubjekten, die auf der Grundlage
+der Prinzipien der Volkssouveränität organisiert sind und die Prinzipien der Volkssouveränität beachten, empfiehlt
+der Sovereign International Treasury Monetary One nachdrücklich, das Verfahren der
+Selbstorganisation in ihrem Land durchzuführen, um die oberste Volksmacht des Souveräns zu manifestieren und den souveränen Status ihres Mutterlandes für eine helle,
+friedliche und schöpferische Entwicklung der universellen Liebe und Freundschaft auf der ganzen Welt wiederherzustellen.
+Sovereign International Treasury Monetary One empfiehlt einen kompetenten und hellen Ansatz _
 
-to the issue of self-organization at the system level.
+für die Frage der Selbstorganisation auf Systemebene.
 
-The Sovereign International Treasury Monetary One wishes all Countries, all Clans and
-Tribes, all Nations of the World of all Bright Humanity the speedy restoration of their Bright
-Home under the Sovereign Flag and the sacred name Motherland in the universal Creative
+Der Sovereign International Treasury Monetary One wünscht allen Ländern, allen Clans und
+Stämmen, allen Nationen der Welt der gesamten Hellen Menschheit die schnelle Wiederherstellung ihres Hellen
+Zuhauses unter der souveränen Flagge und dem heiligen Namen Mutterland im universellen schöpferischen
 
-Construction of Our Bright World, as the Universal Native Temple.
+Aufbau unserer Hellen Welt als dem universellen heimischen Tempel.
 
-Sovereign International Treasury Monetary One Firmly confirms its Statement and in the
-future to impartially and correctly fulfill its Light mission to restore Justice and build the All-
-Light All-Heavenly System, which should and will faithfully serve the Bright Humanity, and
+Sovereign International Treasury Monetary One bestätigt seine Erklärung nachdrücklich und wird in
+Zukunft unparteiisch und korrekt seine helle Mission erfüllen, die Gerechtigkeit wiederherzustellen und das All-Licht-
+All-Himmels-System aufzubauen, das der Hellen Menschheit treu dienen soll und wird, und
 
 2%
 Tlonnenka odunmaneuerx NOKyMeHTOoB CyBepeHHoro MeaxsyHaponuoro Kanngeiliina cM, if anpaerca yTOIOBHO
 
-HakasyeMbIM upectymieHuem / Any forgery of the official documents am thes Sovereignfinfe Treasury
-Monetary One shall be a crime punishable by law :
+HakasyeMbIM upectymieHuem / Jede Fälschung der offiziellen Dokumente des Sovereignfinfe Treasury
+Monetary One stellt eine strafbare Handlung dar. :
 
-5 of 6 :
+5 von 6 :
 
 Mar
 
 
-## Section 005
+## Abschnitt 005
 
-consequently, All-God, All-Creator, All-Creative Family of the Supreme as the One All
+folglich, All-Gott, All-Schöpfer, All-Schöpferische Familie des Höchsten als der Eine All
 
 Alexander
 
@@ -266,33 +262,33 @@ BANNAN,
 STEHEN,
 Fe fe, x
 227 „4 . .
-Zein «423 The King of Kings
+Zein «423 Der König der Könige
 ge: ._ =
 BEN „Oz . ee
 ‘fesOl-dHs-010 287 White Spiritual Boy
 My 877% PS .
-' EIER es Secretary General
-of the Sovereign International Treasury Monetary One -
-s President |
-of White Spiritual Boy R. 8. B. Global Corp INC
-ofthe Sove Order. o%Saint John
-Jerusg Sec Malta,
-e Order of
+' EIER es Generalsekretär
+des Sovereign International Treasury Monetary One -
+s Präsident
+von White Spiritual Boy R. 8. B. Global Corp INC
+des Souveränen Ordens des Heiligen Johannes
+Jerusalem, Sekundär Malta,
+e Orden des
 
-Chairman of the Board
-ofthe World Sovereign Bank
-of the Order of the Hospitallers
+Vorsitzender des Vorstands
+der World Sovereign Bank
+des Ordens der Hospitaliter
 
-HakasyeMbIM upecryrinenneMm / Any forgery of the official documents of the
-* “
+HakasyeMbIM upecryrinenneMm / Jede Fälschung der offiziellen Dokumente des
+*
 8 a
 a
 %
 
-Monetary One shall be a crime punishable by law
-6 of 6
+Monetary One stellt eine strafbare Handlung dar.
+6 von 6
 
-Heavenly All to God All to the Creator All-Creative of all Existing and all Non-Existent in the
+Himmlischen Alles zu Gott Alles zum Schöpfer All-Schöpferischen alles Existierenden und alles Nicht-Existierenden im
 
 : *
 Ilonzenka odbummanBHBEIX HÖKYMEHTOB CyBepeHHoTo MexıyHaponHoro Kasnaugihjba i Mannsercn YTONOBHO
@@ -300,5 +296,3 @@ Ilonzenka odbummanBHBEIX HÖKYMEHTOB CyBepeHHoTo MexıyHaponHoro Kasnaugihjba i 
 
 cae tional Treasury
 Fe
-
-

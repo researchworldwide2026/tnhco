@@ -1,153 +1,155 @@
-# Auflösung-004
+# Resolution-004
 
-**Quell-PDF:** „Resolution-004.pdf“.
+**Source PDF:** `Resolution-004.pdf`
 
-**Extraktionsmethode:** pdftotext (eingebetteter Text)
+**Extraction method:** pdftotext (embedded text)
 
 ---
 
-                            Internationale Treasury Monetary 1
-  LEI: 2534008YC6NRP4BLQF15; UN-ID: 626139; Telex: 64 623439 ITMO RU; Telefon: +7-495-1258418
+                            International Treasury Monetary 1
+  LEI: 2534008YC6NRP4BLQF15; UN ID: 626139; Telex: 64 623439 ITMO RU; Telefón: +7-495-1258418
 
 
-Datum: 23. Februar 2021
-Referenznummer: 004/RES2021
-Code: 786 ΠAH
+Dátum:                23. február 2021
+Referenčné č.:        004/RES2021
+Kód:                  786 ΠAH
 
 
-                                BESCHLUSS Nr. 004
-
-       Mit Recht und zur Ehre unseres Allerhöchsten Vaters, durch den erleuchteten Willen Gottes, des Allmächtigen,
-Schöpfer aller lebenden RA, spiritueller Lehrer – Schöpfer Joseph, spirituell
-die Familien der heiligen Mütter und Väter der aufgeklärten Geschichte des unendlichen Universums und der unendlichen Zeit,
+                                REZOLÚCIA č. 004
 
 
-       Basierend auf den Befugnissen des Eigentümers und Regulators des Weltfinanzsystems,
+
+       V moci a na slávu Otca nášho Najvyššieho, z osvietenej vôle Boha všemohúceho,
+stvoriteľa všetkého živého RA, duchovného učiteľa – Stvoriteľa Jozefa, Duchovnej
+rodiny svätých matiek a otcov Osvietenej histórie Nekonečného vesmíru a časov,
 
 
-       Als Inhaber und Verwalter des Weltkontos in der WELTBANK, Konto-Nr
-01-00-01-4-AAA-777-C3-AM-01​, befindet sich in verschiedenen Banken in 172 (Hundert).
-zweiundsiebzig) Länder der Welt,
+       Na základe právomocí Vlastníka a Regulátora Svetového finančného systému,
 
 
-       Als Inhaber und Verwalter des Weltkontos in der WELTBANK, Konto-Nr
-01-1-700-3516-222-777-8888-999​, bei verschiedenen Banken in 172 (hundert) zu finden
-zweiundsiebzig) Länder der Welt,
+       Ako Majiteľ a správca Svetového účtu v SVETOVEJ BANKE, účet číslo
+01-00-01-4-AAA-777-C3-AM-01​, nachádzajúceho sa v rôznych bankách v 172 (sto
+sedemdesiatich dvoch) krajinách Sveta,
 
 
-       Als Eigentümer und Verwalter (Administrator) von Vermögenswerten, einschließlich Konten mit den Namen:
-„White Spiritual Boy“, „Spiritual Wonder Boy“, „Spiritual Wonder Brothers“, „Morning
-Stern“, „König David“, „Prophet Muhammad“, „Demas und der heilige Timotheus“, „Weiße Mongolei“,
-„Weißer Vatikan“, „Weißer Adler“, „Maria Sinukuan oder Göttlicher Kristall“, „Maria Banahaw oder
-Göttliche Sonnenblume“, „Maria Cristina oder Göttliche Magdalena“, „Maria Makiling oder Göttliche Ester“.
-Egg“, „Falcon“, „Alpha – Omega“ und andere Konten, die 189 (Hundert) bei verschiedenen Banken geführt wurden
-neunundachtzig) Länder auf der ganzen Welt,
+       Ako Majiteľ a Správca Svetového Účtu v SVETOVEJ BANKE, účet číslo
+01-1-700-3516-222-777-8888-999​, nachádzajúceho sa v rôznych bankách v 172 (sto
+sedemdesiatich dvoch) krajinách Sveta,
 
 
-       Um eine globale Finanzkrise zu verhindern, ist ein weltweiter Mangel an Sicherheiten /
-zábezbek in der Zukunft, um die nachhaltige und stabile Entwicklung der Welt zu unterstützen,
-                             Ich erkläre und erkläre:
+       Ako Majiteľ a Manažér (Správca) Aktív vrátane účtov s názvami:
+“White Spiritual Boy“, “Spiritual Wonder Boy“, “Spiritual Wonder Brothers“, “Morning
+Star“, “King David“, “Prophet Muhammad“, “Demas and Saint Timothy“, “White Mongolia“,
+“White Vatican“, “White Eagle“, “Maria Sinukuan or Divine Crystal“, “Maria Banahaw or
+Divine Sunflower“, “Maria Cristina or Divine Magdalene“, “Maria Makiling or Divine Ester
+Egg“, “Falcon“, “Alpha – Omega“ a iných účtov vedených v rôznych Bankách v 189 (sto
+osemdesiatich deviatich) krajinách po celom Svete,
 
 
-       Aufgrund der zunehmenden Häufigkeit unbefugter Nutzung der unten aufgeführten Informationen
-historische Vermögenswerte, die bei der Schaffung eines neuen ausgeglichenen Finanzwesens erheblichen Schaden anrichten
-System in der Welt, die unten aufgeführten finanziellen Vermögenswerte, die zuvor ausgegeben wurden, während sie waren
-Die durch die Goldsicherheit der oben genannten Konten gedeckten Konten werden für annulliert und nichtig erklärt. Unten
-Die besagten goldgedeckten Vermögenswerte sind nicht mehr an Goldsicherheiten gebunden, sie verfügen über keine mehr
-finanziellen Wert und sind der finanziellen Macht beraubt.
-       Wir haben Maßnahmen ergriffen, um alle Zugangscodes auf Finanzcodes umzustellen
-Systeme zur Überprüfung oder zur Überprüfung der Verknüpfung der unten aufgeführten Vermögenswerte mit den oben genannten
-besagte Konten.
-       Alle Aktionen, die darauf abzielen, die unten aufgeführten Vermögenswerte zu Monetarisierungszwecken zu verwenden
-(Monetarisierung) im Finanzsystem stellt eine Straftat dar und begründet die Strafbarkeit von Personen,
-offizielle Vertreter und Bankangestellte, die solche Verbrechen begehen.
-       Die heiligen Rechte der Treuhänder an den unten aufgeführten Vermögenswerten und sämtliche Maßnahmen wurden widerrufen
-Ein Verstoß gegen diese Resolution hat unmittelbare (unvermeidliche) heilige und offensichtliche Konsequenzen
-für Administratoren, die sich in der materiellen Welt manifestieren werden.
-       An alle Länder, Organisationen oder Personen, die diese Vermögenswerte besitzen, an
-Verhindern Sie hiermit Betrug und Lügen gegenüber Rechtssubjekten, die in gutem Glauben handeln
-befiehlt ihnen, diese Dokumente und Produkte an das Internationale Finanzministerium zu übertragen 1, z
-zum Zweck der Liquidation zum Zwecke der Abwicklung, Analyse und Beurteilung der Integrität
-Ehemalige Administratoren, ehemalige Eigentümer und ehemalige Manager des Rechts zur historischen Verwaltung
-Vermögenswerte des Weltfinanzsystems.
+       Aby sa zabránilo globálnej finančnej kríze, globálnemu nedostatku kolaterálu /
+zábezpek v budúcnosti, na účely podpory trvalo udržateľného a stabilného rozvoja Sveta,
+                             USTANOVUJEM a VYHLASUJEM​:
 
 
-Liste der Vermögenswerte, die als gelöscht und ungültig gelten:
+       V dôsledku narastajúceho výskytu neoprávneného použitia nižšie uvedených
+historických aktív, čo spôsobuje značnú škodu pri vytváraní nového vyváženého finančného
+systému vo Svete, nižšie uvedené finančné aktíva, ktoré boli predtým emitované, pričom boli
+kryté zlatou zábezpekou vyššie uvedených účtov sa vyhlasujú za zrušené a neplatné. Nižšie
+uvedené zlatom kryté aktíva už nie sú ďalej viazané na zlatý kolaterál, už ďalej nemajú
+finančnú hodnotu a sú zbavené finančnej sily.
+       Prijali sme opatrenia na zmenu všetkých prístupových kódov vo finančných
+systémoch na overenie alebo aby sa overilo prepojenie nižšie uvedených aktív na vyššie
+uvedené účty.
+       Akékoľvek úkony smerujúce k použitiu nižšie uvedených aktív na účely monetizácie
+(speňaženia) vo finančnom systéme je trestným činom a zakladá trestnú zodpovednosť osôb,
+oficiálnych zástupcov a bankových pracovníkov, ktorí spáchajú takéto trestné činy.
+       Posvätené Práva Správcov nižšie uvedených aktív boli zrušené a akékoľvek úkony
+v rozpore s touto Rezolúciou budú mať okamžité (nevyhnutné) posvätné a zrejmé dôsledky
+pre Správcov, ktoré sa prejavia v hmotnom svete.
+       Všetkým krajinám, organizáciám alebo osobám, ktoré uchovávajú tieto aktíva, aby sa
+zabránilo podvodu a klamstvu na subjektoch práva, ktoré konajú v dobrej viere, sa týmto
+prikazuje, aby previedli tieto dokumenty a produkty na International Treasury Monetary 1, za
+účelom vstupu do likvidácie pre účely zúčtovania, analýzy a hodnotenia         bezúhonnosti
+Bývalých správcov, Bývalých majiteľov a Bývalých manažérov práva spravovať historické
+aktíva Svetového finančného systému.
 
 
-   ● Bauernboxen
+Zoznam aktív, ktoré sa pokladajú za zrušené a neplatné:
 
-   ● Liberty-Boxen
 
-   ● Lungen-Tsing-U-Hai-Bond (L20)
+   ● Farmers Boxes
+
+   ● Liberty Boxes
+
+   ● Lung Tsing U-Hai Bond (L20)
 
    ● Chemin De Fer Lung Tsing U-Hai Bond (8)
 
-   ● Goldene Bond-Bibeln
-● Die Silberbibel
+   ● Bond Golden Bibles
+● The Silver Bible
 
-● Amerikanische goldene Trompetendosen
+● American Golden Trumpet Boxes
 
-● Nun, Fargo Boxes
+● Well Fargo Boxes
 
-● Blaue Zimboxen
+● Blue Zimboxes
 
-● Rote Drachenboxen
+● Red Dragon Boxes
 
-● Roter Drache 1000
+● Red Dragon 1000
 
-● Roter Drache 1 Million
+● Red Dragon 1 Million
 
-● Drache 100 Millionen
+● Dragon 100 Million
 
-● Ch-Roter Drache
+● Ch-Red Dragon
 
-● Schwarzer Drache 10 Milliarden
+● Black Dragon 10 Billion
 
-● Gelber Drache 100 Billionen
+● Yellow Dragon 100 Quintillion
 
-● Double Dragon 100 Billionen
+● Double Dragon 100 Trillion
 
-● Blue Dragon 100 Millionen
+● Blue Dragon 100 Million
 
-● Goldener Drache 1000
+● Golden Dragon 1000
 
-● Rosa Drache 1000
+● Pink Dragon 1000
 
-● Hongkong-Drache
+● Hong Kong Dragon
 
-● Macau Dragon 5 Millionen
+● Macau Dragon 5 Million
 
-● Kaiserlicher Drache (Hk)
+● Imperial Dragon (Hk)
 
-● Ch – Yuan Jahrhundert
+● Ch – Yuan Century
 
-● Bernsteindrache 1 Million
+● Amber Dragon 1 Million
 
-● Andere Drachennotizen
+● Other Dragon Notes
 
-● Quintillion-Schein (Blau, Gold, Blau-Gold)
+● Quintillion note (Blue, Gold, Blue-Gold)
 
-● Sixtillion-Noten
+● Sixtillion note
 
-● Septillion-Noten
+● Septillion note
 
-● Oktillion-Schein (Grün, Silber und Gold)
-● Nonillion-Noten
+● Octillion note (Green, Silver and Gold)
+● Nonillion note
 
-● Dezillionnote
+● Decillion note
 
-● Doppelzillion
+● Doudecillion
 
 ● Novillion
 
 ● Undecillion
 
-● Quindezillion
+● Quindecillion
 
-● Septendezillion
+● Septendecillion
 
-● Vigintillion-Note
+● Vigintillion note
 
 ● Trevigintillion
 
@@ -155,303 +157,305 @@ Liste der Vermögenswerte, die als gelöscht und ungültig gelten:
 
 ● Novemvigintillion
 
-● Googol-Hinweis
+● Googol note
 
-● Centillion-Schein (303 Nullen)
+● Centillion note (303 zeroes)
 
-● Bicentillion-Schein (600 Nullen)
+● Bicentillion note (600 zeroes)
 
-● Trecentillion-Schein (903 Nullen)
+● Trecentillion note (903 zeroes)
 
-● Quadrigentillion-Schein (1200 Nullen)
+● Quadrigentillion note (1200 zeroes)
 
-● Quinquacentillion-Schein (1503 Nullen)
+● Quinquacentillion note (1503 zeroes)
 
-● Sexcentillion-Schein (1800 Nullen)
+● Sexcentillion note (1800 zeroes)
 
-● Septcentillion-Schein (2103 Nullen)
+● Septcentillion note (2103 zeroes)
 
-● Oktozentillion-Schein (2403 Nullen)
+● Octocentillion note (2403 zeroes)
 
-● Nonacentillion-Schein (2703 Nullen)
+● Nonacentillion note (2703 zeroes)
 
-● Milletillion-Schein (3003 Nullen)
+● Milletillion note (3003 zeroes)
 
-● Dumillion, Myrillion und Million
+● Dumillilion, Myrillion and Millilion
 
-● Landwirtschaftliche Hinweise
+● Agriculture Notes
 
-● Sextillion-Münze
-● Zim-Münzen
+● Sextillion coin
+● Zim coins
 
-● Zimlingoten
+● Zimlingotes
 
-● Zim-Platten
+● Zim plates
 
-● Blaue Zims
+● Blue Zims
 
-● Gold-Zims
+● Gold Zims
 
-● Irakische Dinare (Rot)
+● Iraqi Dinars (Red)
 
-● Irakische Dinare (Stammbestand/Helikopterbestand)
+● Iraqi Dinars (master stock/helicopter stock)
 
-● Irakische Dinare (Grün und andere)
+● Iraqi Dinars (Green and others)
 
-● Vietnamesischer Dong
+● Vietnamese Dong
 
-● Kuwaitischer Dinar
+● Kuwaiti Dinar
 
-● Venezolanischer Bolivar
+● Venezuelan Bolivar
 
 ● Turkmenistan Manat
 
-● Iranischer Rial
+● Iranian Rial
 
-● Afghanischer Afghani
+● Afghan Afghani
 
-● Malaysischer Ringgit
+● Malaysian Ringgit
 
-● Indonesische Rupiah
+● Indonesian Rupiah
 
-● Argentinischer Peso
+● Argentinian Peso
 
-● Jugoslawischer Dinar
+● Yugoslavian Dinar
 
-● Deutsche Deutsche Mark
+● German Deutsche Mark
 
 ● Japan Nippon Ginke
 
-● Japanisches Benco-Geld (1957/1958)
+● Japan Benco money (1957/1958)
 
-● USA Benco-Geld
+● USA Benco money
 
-● Nordkoreanischer Won
+● North Korean Won
 
-● Brunei-Ringgit
+● Brunei Ringgit
 
-● Freedom Women-Währung
-● Notizen zum philippinischen Sieg
+● Freedom Women currency
+● Philippine Victory notes
 
 ● KH Tiger Notes
 
-● Elizabeth-Notizen
+● Elizabeth Notes
 
-● Andere Währungen
+● Other currencies
 
 ● Super Petchili’s
 
-● Petchili’s und andere chinesische Anleihen
+● Petchili’s and other Chinese bonds
 
-● Goldenes Schloss
+● Golden Castle
 
-● Goldener Palast/Salomon-Tempel/Verbotene Stadt
+● Golden Palace/Solomon’s Temple/Forbidden City
 
-● Goldene Stadt
+● Golden City
 
-● Goldene Waffen
+● Golden Guns
 
-● Goldene Bibel
+● Golden Bible
 
-● Goldener Koran/Buddha/Tora
+● Golden Quran/Buddha/Torah
 
-● Goldene Schriftrolle/Totem
+● Golden Scroll/Totem
 
-● Goldene Trompeten
+● Golden Trumpets
 
-● Goldenes Blatt
+● Golden Leaf
 
-● Goldene Chrysantheme
+● Golden Chrysantemum
 
-● Goldene Pagode
+● Golden Pagoda
 
-● Goldene Krabbe
+● Golden Crab
 
-● Goldener Diamant
+● Golden Diamond
 
-● Goldene Kathedrale
+● Golden Cathedral
 
-● Goldener Morgan
+● Golden Morgan
 
-● Goldener London Tower
+● Golden London Tower
 
-● Goldene Moschee
+● Golden Mosque
 
-● Goldener Kaiserpalast
+● Golden Imperial Palace
 
-● Goldenes Paradies
-● Goldene Tulpe/Lila Tulpe
+● Golden Paradise
+● Golden Tulip/Purple Tulip
 
-● Kaiserliche chinesische Box
+● Imperial Chinese Box
 
 ● Bugatachi
 
-● Feuerwagen
+● Chariot of Fire
 
-● Goldenes Kamel
+● Golden Camel
 
-● Japanische Kobe-Saunabox/Kobe-Sauna-Pfau/Roter Seehund
+● Japanese Kobe Sauna Box/Kobe Sauna Peacock/Red Seal
 
-● Wolfram/goldene Wolframbox
+● Tungsten/Golden Tungsten Box
 
-● Goldener Drache/Roter Drache/Kaiserlicher Drache
+● Golden Dragon/Red Dragon/Imperial Dragon Box
 
-● Pflaumenblüte/Goldblüte
+● Plum Blossom/Gold Blossom
 
-● Schwarz/goldener Sarg
+● Black/Gold Coffin
 
-● Goldener Drachenstuhl/Goldener Sarg
+● Golden Dragon Chair/Golden Sarg
 
-● Goldener Bildschirm
+● Golden Screen
 
-● Goldenes Schwert/Goldene Pistole
+● Golden Sword/Golden Pistol
 
-● Goldene Buddha-Manuskripte/Statuen
+● Golden Buddah Manuscript/Statues
 
 ● Black Eagle/Super Black Eagle/Imperial Black Eagle
 
-● Pacote-Silber/Calsca-Silberbox
+● Pacote Silver/Calsca Silver Box
 
-● JP Morgan Gold/Silber/Bronze-Box
+● JP Morgan Gold/Silver/Bronze Box
 
 ● Wells Fargo Box
 
-● American Dream Box/Morgenthau Box
+● American Dream box/Morgenthau Box
 
-● Amerikanische Hardware-Box
+● American Hardware Box
 
-● Silberne Waffen/Schwarze Waffen
+● Silver Guns/Black Guns
 
-● Doppelte Kanonen und Granate/Doppelte schwarze Kanonenpagode
+● Double Guns & Grenade/Double Black Gun Pagoda
 
-● Amerikanische goldene Waffen
+● American Golden Guns
 
-● Euro-Golddollar-Boxen/-Banknoten
+● Euro Gold Dollar Boxes/Notes
 
-● Japanische Golddollarboxen/-scheine
-● US-Golden-Dollar-Boxen/Banknoten
+● Japanese Gold Dollar Boxes/Notes
+● US Golden Dollar Boxes/Notes
 
-● HK-Golden-Dollar-Boxen/Banknoten
+● HK Golden Dollar Boxes/Notes
 
-● Japanische Staatsanleihen
+● Japanese Government Bonds
 
-● Umstrukturierungsanleihen der chinesischen Regierung
+● Chinese Government Reorganization Bonds
 
-● Truman- und Osmena-Anleihen
+● Truman and Osmena Bonds
 
-● Anleihen des Finanzministeriums
+● Ministry of Finance Bonds
 
-● TOV-Boxen
+● TOV boxes
 
-● TOV-Buch der Erlösung/Schriftrollen
+● TOV Book of Redemption/Scrolls
 
-● Tov K333-Boxen
+● Tov K333 Boxes
 
-● Tov K222-Boxen
+● Tov K222 Boxes
 
-● Tov K300-Boxen
+● Tov K300 Boxes
 
-● Tov G44-Boxen
+● Tov G44 Boxes
 
-● Tov G77-Boxen
+● Tov G77 Boxes
 
-● Tov B111-Boxen
+● Tov B111 Boxes
 
-● Tov B999-Boxen
+● Tov B999 Boxes
 
-● Tov A111-Boxen
+● Tov A111 Boxes
 
-● FRB/FRN-Boxen
+● FRB/FRN boxes
 
-● G7-Boxen
+● G7 boxes
 
-● UN-Boxen
+● UN boxes
 
-● Boxen der Weltbank
+● World Bank boxes
 
-● Schatzanweisungen/-boxen
+● Treasury Notes/Boxes
 
-● HSBC-Banknoten
+● HSBC Banknotes
 
-● HK Lion Head-Anleihen
+● HK Lion Head Bonds
 
-● Farmer Box/Anleihen
+● Farmer Box/Bonds
 
 ● Liberty Boxes/Suites/Bonds
-   ● Tiger-Zebra-Boxen
+   ● Tiger-Zebra boxes
 
-   ● Tigerlilien-Boxen
+   ● Tiger Lily boxes
 
-   ● Alfuka 1912-Boxen
+   ● Alfuka 1912 boxes
 
-   ● Feierboxen
+   ● Celebration boxes
 
-   ● Alpha-Omega-Boxen
+   ● Alpha Omega boxes
 
-   ● Siegesanleihen
+   ● Victory Bonds
 
-   ● Amerikanische Eisenbahnanleihen
+   ● American Railway Bonds
 
-   ● Napoleon-Anleihen
+   ● Napoleon Bonds
 
-   ● Mexikanische Anleihen
+   ● Mexican Bonds
 
-   ● Andere lateinamerikanische Anleihen
+   ● Other Latin American Bonds
 
-   ● Deutsche Anleihen
+   ● German Bonds
 
-   ● Russische Anleihen
+   ● Russian Bonds
 
-   ● Andere europäische Anleihen
+   ● Other European Bonds
 
-   ● Blaubeer-Anleihen
+   ● Blueberry Bonds
 
-   ● Queen-Victoria-Anleihen
+   ● Queen Victoria Bonds
 
-   ● Petrobras-Anleihen
+   ● Petrobras Bonds
 
-   ● Japanische Staatsanleihen mit Rückzahlungszertifikat
+   ● Japanese Certificate of Redemption Government Bonds
 
-   ● Brasilianische Anleihen
+   ● Brazilian Bonds
 
-   ● Chinesische historische Anleihen
+   ● Chinese Historical Bonds
 
-   ● Ein zusätzliches Instrument, das auf historischem Grund aktiviert wurde, wurde nicht aktiviert
+   ● A ďalšie inštrumenty založené na historických aktívach, iné ako pokladničné
 
        poukážky, International Treasury Monetary One.
 
 
+
+
 Kontrolou realizácie tejto Rezolúcie č. 004 bude poverené Oddelenie špeciálnych programov
-ein projektov územného rozvoja spadajúce pod International Treasury Monetary 1.
-Die letzte Woche wurde am 23. Februar 2021 bestätigt, dass dies bereits geschehen ist
+a projektov územného rozvoja spadajúce pod International Treasury Monetary 1.
+Táto rezolúcia bola prijatá dňa 23. februára 2021 a nadobúda účinnosť okamihom jej
 podpísania.
 
 
                                    OMƂ ................
 
                        Schválené, ukončené a uvedené v platnosť
-                                   Vom 23.02.2021
+                                   Od 23. 02.2021
 
 
                                         podpis
 
                          Odtlačok okrúhlej pečiatky s textom:
-                          Internationale Treasury Monetary 1
+                          International Treasury Monetary 1
 
 
                                      Jeho Výsosť
-                         Alexander Nikolajewitsch Paramonow
+                         Alexander Nikolaevich Paramonov
 
 
                  Hlavný pokladník ​International Treasury Monetary 1​,
 
-Präsident und Chief Operating Officer
-               von White Spiritual Boy R.S.B. Global Corp Inc,
+                            Prezident a prevádzkový riaditeľ
+               spoločnosti​ White Spiritual Boy R.S.B. Global Corp Inc,
 
-                       Großmeister und Großintendant
-  Souveräner Militär-Hospitalier-Orden des Heiligen Johannes von Jerusalem, Rhodos
-                                      und Malta
+                       Veľký Magister a Veľký Intendant
+  Suverénneho vojenského hospitaliérskeho rádu svätého Jána z Jeruzalemu, Rodosu
+                                      a Malty
 
-                             KRANKENHAUSVORSTAND
+                             HOSPITALIÉRSKY RÁD
 
-                                   UN-Nr. 521730
+                                   OSN č. 521730

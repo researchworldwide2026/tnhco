@@ -1,86 +1,86 @@
 # Resolution-005
 
-**Quell-PDF:** „Resolution-005.pdf“.
+**Quell-PDF:** `Resolution-005.pdf`
 
 **Extraktionsmethode:** pdftotext (eingebetteter Text)
 
 ---
 
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-                                                                          → Gehen Sie zur Website ICC „Light Great Russia“
+                                                                          → Zur Website des ICC «Light Great Russia»
 
 
 
-    Startseite / Beschluss / Beschluss Nr. 005
-
-
-
-
-    Beschluss Nr. 005
+    Startseite / Resolution / RESOLUTION Nr. 005
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 1/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+    RESOLUTION Nr. 005
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 2/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-005                                                                                    1/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 3/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-005                                                                                    2/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 4/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-005                                                                                    3/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 5/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-005                                                                                    4/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 6/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-005                                                                                    5/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 7/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-005                                                                                    6/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 8/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-005                                                                                    7/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 9/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-005                                                                                    8/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 10/11
-5. 10. 2021 21:18 ENTSCHLIESSUNG Nr. 005 :: Global Treasury Monetary One und Goldbarrendepot
+https://ruskazna.su/en/rezolyuciya-005                                                                                    9/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
+
+
+
+
+https://ruskazna.su/en/rezolyuciya-005                                                                                    10/11
+5. 10. 2021 21:18                        RESOLUTION Nr. 005 :: Global Treasury Monetary One und Goldbarren-Depot
 
 
 
@@ -91,4 +91,4 @@ https://ruskazna.su/en/rezolyuciya-005 10/11
 
 
 
-https://ruskazna.su/en/rezolyuciya-005 11.11
+https://ruskazna.su/en/rezolyuciya-005                                                                                    11/11

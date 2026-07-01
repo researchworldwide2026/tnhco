@@ -1,10 +1,8 @@
 # Resolution-030
 
-# Resolution-030
+**Quell-PDF:** `Resolution-030.pdf`
 
-**Source PDF:** `Resolution-030.pdf`
-
-**Extraction method:** pdftotext (embedded text)
+**Extraktionsmethode:** pdftotext (eingebetteter Text)
 
 ---
 
@@ -38,4 +36,3 @@ https://ruskazna.su/en/order030                                                 
 
 
 https://ruskazna.su/en/order030                                                                                               6/7
-

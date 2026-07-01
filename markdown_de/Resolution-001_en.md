@@ -1,141 +1,139 @@
-# Resolution-001_en
+# Resolution-001_de
 
-**Quell-PDF:** „Resolution-001_en.pdf“.
+**Quell-PDF:** `Resolution-001_en.pdf`
 
-**Extraktionsmethode:** OCR über eingebettete Bildextraktion + Vorverarbeitung
-**Bilder extrahiert:** 6
-**OCR:** tesseract deu+eng, Schwellenwertvorverarbeitung
+**Extraktionsmethode:** OCR via eingebetteter Bildextraktion + Vorverarbeitung
+**Extrahierte Bilder:** 6
+**OCR:** tesseract deu+eng, Schwellwertvorverarbeitung
 
 ---
 
 ## Abschnitt 000
 
-Mexaynapognoe Kasnauvenctso Alle
+Mexaynapognoe Kasnauvenctso All
 International Treasury Monetary One
 
-LEI: 2534008 YC6NRP4BLOFI5; UN-ID: 626139; Tel.: +7-495-1258418
+LEI: 2534008 YC6NRP4BLOFI5; UN ID: 626139; Tel: +7-495-1258418
 
 Datum: 07. April 2020
 Ref. Nr.: 001/RES2020
-Beschluss Nr. 001
+BESCHLUSS Nr. 001
 
-FINANZMASSNAHMEN ZUR KRISENBEKÄMPFUNG
+ANTI-KRISEN-FINANZMASSNAHMEN
 
 FARARARARAGAGE
 
 
 ## Abschnitt 001
 
-Vor dem Hintergrund der weltweiten Epidemie des „Coronavirus“ und der erzwungenen
-Ankündigung einer universellen Planetenquarantäne mit Schließung aller Staatsgrenzen
-Länder der Welt führten zum Stillstand der gesamten Weltwirtschaft bis hin zum Zusammenbruch
-Aktienmärkte und Indizes haben großen Einfluss auf die Weltreservewährung – den US-Dollar.
+Vor dem Hintergrund der globalen Epidemie des „Coronavirus“ und der erzwungenen
+Ausrufung einer universellen planetaren Quarantäne mit der Schließung der Staatsgrenzen aller
+Länder der Welt, die zu einem Stillstand der gesamten Weltwirtschaft führte, einschließlich des Zusammenbruchs von
+Aktienmärkten und Indizes, die die Weltreservewährung – den US-Dollar – stark beeinträchtigen.
 
-Um der Epidemie, der allgemeinen Panik, dem Zusammenbruch der Weltwirtschaft und auch dem entgegenzuwirken
-gesamten Weltfinanzsystem, um länderübergreifende geopolitische Spannungen mit dem zu beseitigen
-Möglichkeit, einen dritten Weltkrieg auszulösen, um internationale Maßnahmen umzusetzen
-Empfehlungen des Baseler ITI:
+Um der Epidemie, der allgemeinen Panik, dem Zusammenbruch der Weltwirtschaft und auch des
+gesamten Weltfinanzsystems entgegenzuwirken, um länderübergreifende geopolitische Spannungen mit der
+Möglichkeit der Entfesselung eines dritten Weltkriegs zu beseitigen, um internationale
+Empfehlungen von Basel ITI umzusetzen:
 
-Das Internationale Finanzministerium M1 ist der Haupthalter und Verwalter des Goldes der gesamten Welt
-Reserve, sowohl Bankguthabengold als auch außerbilanzielles Gold auf dem Planeten, übernimmt Folgendes
-Auflösungen:
+Das International Treasury M1 als Hauptinhaber und Verwalter der gesamten Weltgoldreserve,
+sowohl des bilanzwirksamen Bankgoldes als auch des außerbilanziellen Goldes auf dem Planeten, erlässt die
+folgenden Beschlüsse:
 
-1. allen Ländern zu empfehlen, die endgültigen Empfehlungen von Basel III in die Tat umzusetzen
-auf deren Grundlage sie den einheitlichen Zahlungsweltstandard für die Weltwährung übernehmen -
-XAU (Bankgold).
+1. Allen Ländern zu empfehlen, die endgültigen Empfehlungen von Basel III in Kraft zu setzen, auf deren
+Grundlage sie den einheitlichen Zahlungsweltstandard für die Weltwährung –
+XAU (Bankgold) übernehmen.
 
-2. Aufgrund fehlender Börsenkurse, aufgrund des Zusammenbruchs der alten Reservewährung der USA
-Dollar, wird empfohlen, sofort den GOLDSTANDARD in der Welt einzuführen
-Finanzsystem.
+2. Aufgrund des Fehlens von Börsennotierungen aufgrund des Zusammenbruchs der alten Reservewährung des US-
+Dollars wird empfohlen, sofort den GOLDSTANDARD im Weltfinanzsystem
+einzuführen.
 
 IGA RARARARA GAG
 
 
 ## Abschnitt 002
 
-3. Im Weltfinanzsystem zu genehmigen und in das Weltfinanzsystem einzuführen
-Umlauf der neuen Weltreservewährungen, gesetzlich genehmigt in einem bestimmten, festgelegten Maß
-an den XAU (Bank Gold) gebunden sein:
+3. Im Weltfinanzsystem die neuen Weltreservewährungen zu genehmigen und in den Weltfinanzkreislauf
+einzuführen, die rechtlich in einem bestimmten, festgelegten Maß an das XAU (Bankgold) gebunden sind:
 
 a) „Goldener Sowjetrubel“
 
-1 (Ein) Goldener Sowjetrubel = 0,987412g. Angenommen am 1. Januar 1961;
+1 (Ein) Goldener Sowjetrubel = 0,987412 g. Angenommen am 1. Januar 1961;
 b) „Goldener US-Dollar“
 
-1 (ein) Gold-US-Dollar = 1,2345 g. Basierend auf dem Bretton-Woods-Abkommen von 1944;
+1 (Ein) Goldener US-Dollar = 1,2345 g. Basierend auf dem Bretton-Woods-Abkommen von 1944;
 c) „Goldener Ecu“
 
-1 (Ein) Goldener Ecu = 1 Unze Gold, basierend auf dem Orden des Sovereign Order of the
-Hospitaliers;
+1 (Ein) Goldener Ecu = 1 Unze Gold, basierend auf dem Befehl des Souveränen Ordens der
+Hospitaliter;
 
 §_001/RES2020
 
 AGRA wa
 
-beißen
+bite
 
 r:
 
 
 ## Abschnitt 003
 
-4. Das Internationale Finanzministerium M1 ist berechtigt:
+4. Das International Treasury M1 wird ermächtigt:
 
-4.1. Zu schaffen, für die Zeit der Krise und die Zeit der Beseitigung der Nachkrise
-Konsequenzen, eine Sonderabteilung zur Bewältigung der Weltfinanzkrise – „Anti-Krise
-Zentrum“.
+4.1. Für die Dauer der Krise und die Zeit der Beseitigung der Nachkrisenfolgen
+eine Sonderabteilung zur Überwindung der Weltfinanzkrise zu schaffen – „Anti-Krisen-Zentrum“.
 
-4.2. Beginn der Ausgabe von MI-Schatzwechseln in drei globalen Reservewährungen
-(hier und nach „TB M1“). TB M1 sollte für die Platzierung in den Staatskassen der USA konzipiert sein
-Länder, ihre National-, Reserve- und Zentralstaatsbanken, um die zu erhöhen und sicherzustellen
-Ländergoldguthaben und zur Sicherstellung der Ausgabe nationaler Währungen der Länder, die
-wird offensichtlich zu einem verständlichen Anfangswert der nationalen Währungen in der Welt führen
-für Austausch und Handel, um den lahmgelegten internationalen Handel und andere Verträge wiederherzustellen.
+4.2. Mit der Ausgabe von MI Treasury Bills zu beginnen, die auf drei globalen Reservewährungen
+lauten (im Folgenden „TB M1“). TB M1 sollen zur Platzierung in den Schatzämtern der
+Länder, ihren nationalen, Reserve- und Zentralstaatsbanken konzipiert sein, um das
+Landesgoldbilanz zu erhöhen und zu sichern und die Ausgabe von Landeswährungen der Länder zu gewährleisten,
+was offensichtlich zu einem verständlichen, anfänglichen Wert der Landeswährungen in der Welt
+für den Austausch und Handel führen wird, um den paralysierten internationalen Handel und andere Verträge wiederherzustellen.
 
-5. Internationale Organisationen, die im Bereich Finanzmarktmanagement tätig sind, sind
-Es wird empfohlen, umgehend Arbeitsgruppen mit den erforderlichen Befugnissen zu bilden
-und Geheimstatus, um auf der Plattform der Sonderabteilung „Anti-Krisen-Zentrum“ zu arbeiten.
+5. Internationalen Organisationen, die im Bereich des Finanzmarktmanagements tätig sind, wird
+empfohlen, sofort Arbeitsgruppen mit der erforderlichen Autoritätsebene
+und Geheimstatus zu bilden, um auf der Plattform der Sonderabteilung „Anti-Krisen-Zentrum“ zu arbeiten.
 
-& Die eavarnmante nf tha anuntriag und thair natianal racarıa cantral und otata hanbe ara
+& Die Regierungen der Länder und ihre nationalen Reserve-, Zentral- und Staatsbanken werden
 
 AAA
 
 
 ## Abschnitt 004
 
-V. au BUVULUIUUIED UL LUG VVURLMICD Alu WC LALUVUA, KUSLIYL, Load auu Schiefer vaınd aut
-Es wird empfohlen, drei bis fünf Beamte für die operative Arbeit mit dem Zentrum zu bevollmächtigen
-das Weltfinanzsystem, das Internationale Finanzministerium M1 und die Sonderabteilung „Anti-
-Krisenzentrum“.
+V. au BUVULUIUUIED UL LUG VVURLMICD Alu WC LALUVUA, KUSLIYL, Load auu slate vaınd aut
+empfohlen, drei bis fünf Offiziere für die operative Arbeit mit dem Zentrum des
+Weltfinanzsystems, dem International Treasury M1 und der Sonderabteilung „Anti-
+Krisen-Zentrum“ zu ermächtigen.
 
-7. Die Kontrolle über die Umsetzung dieser Anti-Krisen-Maßnahmen sollte dem übertragen werden
-Gemeinsames Exekutivkomitee mit Sonderbefugnissen im Rahmen des Internationalen Finanzministeriums M1.
+7. Die Kontrolle über die Umsetzung dieser Anti-Krisen-Maßnahmen sollte dem
+Gemeinsamen Exekutivausschuss mit Sondervollmachten beim International Treasury M1 übertragen werden.
 
-Internationales Finanzministerium M1
-S. E. Alexander N. Paramonow
+International Treasury M1
+S.E. Alexander N. Paramonov
 Chefschatzmeister
 
 Präsident,
-die Internationale Finanz-Corporation
+der International Financial Corporation
 
 pletulerolerulerolerslerolern
 
 
 ## Abschnitt 005
 
-Weißer spiritueller Junge R.S.B. Global Corp Inc
+White Spiritual Boy R.S.B. Global Corp Inc
 
-Kommandant, Großintendant des Patrimoniums, Oberschatzmeister
+Kommandeur, der Patrimony Grand Intendant, der Chefschatzmeister
 des Großmagisteriums, der Großkommandeur
 
-Souveräner und militärischer Orden des Heiligen Johannes von Jerusalem
+Souveräner und Militärischer Orden des Heiligen Johannes von Jerusalem
 
-Orden der Hospitaliers
+Orden der Hospitaliter
 
-UN-ID Ne 521730
+UN ID Nr. 521730
 
 §001/RES2020
 
-Bin
+Am
 
 fi
