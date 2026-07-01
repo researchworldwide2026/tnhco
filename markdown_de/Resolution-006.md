@@ -1,18 +1,14 @@
-# Resolution-006 (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
-
 # Resolution-006
 
-**Source PDF:** `Resolution-006.pdf`
+**Quell-PDF:** „Resolution-006.pdf“.
 
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 27
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR über eingebettete Bildextraktion + Vorverarbeitung
+**Bilder extrahiert:** 27
+**OCR:** tesseract deu+eng, Schwellenwertvorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 1:3
 a
@@ -20,79 +16,79 @@ a
 Mexaynapognoe Kasnayettcrso MI
 International Treasury Monetary One
 
-LEI: 2534008YC6NRP4BLOF15; UN ID; 626139; Telex: 64 623439 ITMO RU; Ph: +7-495-1258418
+LEI: 2534008YC6NRP4BLOF15; UN-ID; 626139; Telex: 64 623439 ITMO RU; Tel.: +7-495-1258418
 
-Date: September 13, 2021
-Ref No: 006/RES2021
-Code: lid 786 TAH
+Datum: 13. September 2021
+Referenznummer: 006/RES2021
+Code: Deckel 786 TAH
 
-RESOLUTION No 006
+ENTSCHLIESSUNG Nr. 006
 
-We, the International Treasury Monetary One (also referred to as MI), recognize as our
-main responsibility to maintain Peace and security throughout the World by conducting
-international monetary reforms, in accordance with the goals and principles of M1.
+Wir, das International Treasury Monetary One (auch als MI bezeichnet), erkennen uns als unser an
+Hauptverantwortung für die Aufrechterhaltung von Frieden und Sicherheit auf der ganzen Welt
+internationale Währungsreformen im Einklang mit den Zielen und Grundsätzen von M1.
 
-The International Treasury Monetary One is guided by previous M1 resolutions and
-statements.
+Das International Treasury Monetary One orientiert sich an früheren M1-Resolutionen und
+Aussagen.
 
-The International Treasury Monetary One is the owner and manager of the World Account
-at the WORLD BANK, Account No. 01-00-01-4-AAA-777-C3-AM-O1, distributed to various
-banks in 172 (One hundred and seventy-two) countries around the world.
+Das International Treasury Monetary One ist Eigentümer und Verwalter des Weltkontos
+bei der WORLD BANK, Konto-Nr. 01-00-01-4-AAA-777-C3-AM-O1, verteilt an verschiedene
+Banken in 172 (einhundertzweiundsiebzig) Ländern auf der ganzen Welt.
 
-The International Treasury MI is the owner and manager of the World Account in the
-WORLD BANK Account No. 01-1-700-3516 222 777 8888 999, distributed to various banks
-in 172 (One hundred and seventy-two) countries around the world.
+Das International Treasury MI ist Eigentümer und Verwalter des Weltkontos in der
+WELTBANK-Konto-Nr. 01-1-700-3516 222 777 8888 999, verteilt an verschiedene Banken
+in 172 (einhundertzweiundsiebzig) Ländern auf der ganzen Welt.
 
-Confirming the Resolution No. 1 (001/RES2020) from April 07, 2020 «Anti crisis
-financial measures», Resolution No. 2 (002/RES2020) from June 02, 2020 «The one way out
-of the global financial crisis». Resolution No. 4 (004/RES2021) from February 23. 2021 «The
-cancellation of all issues based on historical assets written up in the Resolution M1 No, 4
+Bestätigung der Resolution Nr. 1 (001/RES2020) vom 07. April 2020 „Anti-Krise
+Finanzielle Maßnahmen», Resolution Nr. 2 (002/RES2020) vom 02.06.2020 «Der einzige Ausweg
+der globalen Finanzkrise». Beschluss Nr. 4 (004/RES2021) vom 23. Februar 2021 «Die
+Annullierung aller Emissionen, die auf historischen Vermögenswerten basieren, die in der Resolution M1 Nr. 4 aufgeführt sind
 
 RAR AGA FARA PARA RAGA ERRATA RARARARIEe
 
 
-## Section 001
+## Abschnitt 001
 
 gi
 
-(004/RES2021) from February 23, 2021, in order to form a new well-balanced financial
-system»,
+(004/RES2021) vom 23. Februar 2021, um eine neue, ausgewogene Finanzlage zu schaffen
+System»,
 
-Confirming that the monetary reform is based on the principles contained in the
-Resolution 001/RES2020 (2020) on Anti crisis financial measures, on the approval of new
-World reserve currencies in the Global Financial System and the introduction of new World
-reserve currencies into Global financial turnover, legally approved in a specific measure of
-filling XAU (Bank Gold): a) «Golden Soviet Ruble»; b) «Golden US Dollar»; c) «Golden
-ECU», the International Treasury Monetary One has started issuing MI Treasury Bills
-denominated in three new reserve World Currencies (hereinafter referred to as «TB M1»). The
-TB M1 are intended for placement in the Treasuries of the Countries of the World, their
-National, Reserve, Central, State Banks in order to increase and ensure the Country's gold
-balance of the Countries of the World and ensure the issuance of national currencies of the
-Countries of the World, which will lead to a clear initial value of the Country's currencies of
-the Countries of the World for exchange trading and the restoration of paralyzed international
-trade and other agreements.
+Bestätigung, dass die Währungsreform auf den darin enthaltenen Grundsätzen basiert
+Resolution 001/RES2020 (2020) zu Finanzmaßnahmen zur Krisenbewältigung und zur Genehmigung neuer
+Weltreservewährungen im globalen Finanzsystem und die Einführung neuer Weltreservewährungen
+Reservewährungen in globalen Finanzumsatz, gesetzlich in einem bestimmten Maß genehmigt
+Füllung XAU (Bankgold): a) „Goldener Sowjetrubel“; b) „Goldener US-Dollar“; c) „Golden
+ECU» hat das International Treasury Monetary One mit der Ausgabe von MI Treasury Bills begonnen
+in drei neuen Weltreservewährungen denominiert (im Folgenden als „TB M1“ bezeichnet). Die
+TB M1 sind für die Platzierung in den Staatskassen der Länder der Welt bestimmt
+National-, Reserve-, Zentral- und Staatsbanken, um das Gold des Landes zu vermehren und zu sichern
+Gleichgewicht der Länder der Welt und stellen die Ausgabe nationaler Währungen sicher
+Länder der Welt, was zu einem klaren Anfangswert der Landeswährungen führt
+die Länder der Welt für den Börsenhandel und die Wiederherstellung der gelähmten internationalen Politik
+Handels- und andere Abkommen.
 
-Reealling the recommendations to the Governments and their related financial
-authorities to adopt one of these world reserve currencies and to approve the necessary steps
-both at the level of parliaments and at the level of their central banks,
+Umsetzung der Empfehlungen an die Regierungen und der damit verbundenen Finanzen
+die Behörden dazu aufzufordern, eine dieser Weltreservewährungen einzuführen und die notwendigen Schritte zu genehmigen
+sowohl auf der Ebene der Parlamente als auch auf der Ebene ihrer Zentralbanken,
 
-Recalling that, taking into account the positive features of Special Drawing Rights
-(SDR), the TB MI will be used as a promising important international element for the
-formation of official currency reserve systems, the regulation of balance of payments and the
-measurement of the value of new national currencies,
+Daran erinnernd und unter Berücksichtigung der positiven Eigenschaften der Sonderziehungsrechte
+(SDR) wird der TB MI als vielversprechendes wichtiges internationales Element für die eingesetzt
+Bildung offizieller Währungsreservesysteme, die Regulierung der Zahlungsbilanz und die
+Messung des Wertes neuer nationaler Währungen,
 
-Reaffirming the need for all countries to put into effect a single world payment standard
-for the World Currency - XAU (Bank gold). in connection with the collapse of the old reserve
-currency — the US Dollar, it is recommended to immediately introduce a GOLD STANDARD
-in the Global Financial System,
+Bekräftigung der Notwendigkeit, dass alle Länder einen einheitlichen weltweiten Zahlungsstandard einführen
+für die Weltwährung - XAU (Bankgold). im Zusammenhang mit dem Zusammenbruch der alten Reserve
+Währung – dem US-Dollar – wird empfohlen, sofort einen GOLDSTANDARD einzuführen
+im globalen Finanzsystem,
 
-Welcoming the measures taken in the implementation of the Resolution 004/RES2021
-(2021), calling for their continuation, and taking note of the deployment in this regard of
-operations around the world to block the use of historical assets, arrest and bring to justice
-those involved in their illegal use,
+Wir begrüßen die Maßnahmen, die zur Umsetzung der Resolution 004/RES2021 ergriffen wurden
+(2021), fordert deren Fortführung und nimmt den diesbezüglichen Einsatz zur Kenntnis
+Operationen auf der ganzen Welt, um die Nutzung historischer Vermögenswerte zu blockieren, zu verhaften und vor Gericht zu bringen
+diejenigen, die an ihrer illegalen Nutzung beteiligt sind,
 
-Welcoming the countries seeking to establish cooperation within the framework of the
-Resolution 002/RES2020 (2020), in particular paragraphs 12, 13, 14, 15,
+Ich begrüße die Länder, die eine Zusammenarbeit im Rahmen des Abkommens anstreben
+Resolution 002/RES2020 (2020), insbesondere Absätze 12, 13, 14, 15,
 
 cil
 
@@ -101,355 +97,353 @@ TIGAGAGA GARAGE GAGA GGA GAGA GAGAGrGA
 5
 
 
-## Section 002
+## Abschnitt 002
 
-Confirming the readiness to cooperate in accordance with the Resolution 002/RES2020
-(2020), paragraph 12: Concerning debts to the International Monetary Fund. We recommend
-that the Ministries of Finance conduct an audit of the debts after the introduction of the
-Jamaican currency system; Submit reports to the International Treasury Monetary One, on the
-basis of which the International Treasury Monctary One will provide the necessary asscts for
-the complete closure of government debts to the International Monetary Fund.
+Bestätigung der Bereitschaft zur Zusammenarbeit gemäß der Resolution 002/RES2020
+(2020), Absatz 12: Bezüglich Schulden beim Internationalen Währungsfonds. Wir empfehlen
+dass die Finanzministerien nach Einführung des eine Prüfung der Schulden durchführen
+Jamaikanisches Währungssystem; Senden Sie Berichte an das International Treasury Monetary One
+Auf dieser Grundlage wird das International Treasury Monctary One die notwendigen Mittel bereitstellen
+die vollständige Schließung der Staatsschulden gegenüber dem Internationalen Währungsfonds.
 
-Confirming the readiness to cooperate in accordance with the Resolution 002/RES2020
-(2020), paragraph 13: Concerning international, external public debts that have formed
-between the countries after the introduction of the Jamaican monetary system. We recommend
-that countries conduct an audit and classify these debts, identify medium-and long-term debts,
-and submit a report to the International Treasury Monetary One on medium-and long-term
-debts, exclusively interstate debts. Based on the reports. the International Treasury Monetary
-One will provide the necessary assets for the complete closure of public debts between
-countries. The exceptions are state debts formed for the implementation of investment projects
-and state programs in accordance with the priority directions of the country’s economic
-development,
+Bestätigung der Bereitschaft zur Zusammenarbeit gemäß der Resolution 002/RES2020
+(2020), Absatz 13: Bezüglich der entstandenen internationalen, externen Staatsschulden
+zwischen den Ländern nach der Einführung des jamaikanischen Währungssystems. Wir empfehlen
+dass die Länder eine Prüfung durchführen und diese Schulden klassifizieren, mittel- und langfristige Schulden identifizieren,
+und legen Sie dem International Treasury Monetary One einen mittel- und langfristigen Bericht vor
+Schulden, ausschließlich zwischenstaatliche Schulden. Basierend auf den Berichten. das Internationale Finanzministerium
+Man werde die notwendigen Mittel für die vollständige Schließung der Staatsschulden bereitstellen
+Länder. Ausgenommen sind Staatsschulden, die zur Umsetzung von Investitionsvorhaben gebildet werden
+und staatliche Programme entsprechend den vorrangigen Wirtschaftsrichtungen des Landes
+entwicklung,
 
-Confirming our readiness to cooperate in accordance with the recommendations of the
-Resolution 002/RES2020 (2020), paragraph 14: We recommend that all countries review state
-programs and investment projects in accordance with the priority directions of the country's
-economic development; Identify programs and projects that meet the conditions for the
-development of environmental safety. solving the problem of food production, solving the
-problem of employment, solving the problems of infrastructure development, solving the
-housing issue. by providing all citizens with housing, the transition to the rational use of natural
-resources. We recommend that all countries review the concepts of energy security with the
-transition to alternative environmentally friendly energy sources, taking into account the
-availability of innovative free energy technologies that will be actively implemented,
+Bestätigung unserer Bereitschaft zur Zusammenarbeit gemäß den Empfehlungen des
+Resolution 002/RES2020 (2020), Absatz 14: Wir empfehlen allen Ländern, den Zustand zu überprüfen
+Programme und Investitionsprojekte gemäß den vorrangigen Richtungen des Landes
+wirtschaftliche Entwicklung; Identifizieren Sie Programme und Projekte, die die Bedingungen dafür erfüllen
+Entwicklung der Umweltsicherheit. Lösung des Problems der Lebensmittelproduktion, Lösung des
+Problem der Beschäftigung, Lösung der Probleme der Infrastrukturentwicklung, Lösung der
+Wohnungsfrage. durch die Bereitstellung von Wohnraum für alle Bürger erfolgt der Übergang zur rationellen Nutzung der Natur
+Ressourcen. Wir empfehlen allen Ländern, die Konzepte der Energiesicherheit mit dem zu überprüfen
+Übergang zu alternativen umweltfreundlichen Energiequellen unter Berücksichtigung der
+Verfügbarkeit innovativer Freienergietechnologien, die aktiv umgesetzt werden,
 
-Confirming our readiness to cooperate in accordance with the recommendations of the
-Resolution 002/RES2020 (2020), paragraph 15: We recommend that the prepared state
-programs and investment projects be submitted to the International Treasury Monetary One in
-accordance with the priority directions of the country’s economic development. The
-International Treasury Monetary One will provide the necessary assets to finance government
-programs and investment projects. A special working group with the participating country will
-determine the conditions and the program in the form of financing schedule. The task of the
+Bestätigung unserer Bereitschaft zur Zusammenarbeit gemäß den Empfehlungen des
+Resolution 002/RES2020 (2020), Absatz 15: Wir empfehlen den vorbereiteten Zustand
+Programme und Investitionsprojekte werden dem International Treasury Monetary One in vorgelegt
+in Übereinstimmung mit den vorrangigen Richtungen der wirtschaftlichen Entwicklung des Landes. Die
+International Treasury Monetary One wird die notwendigen Vermögenswerte zur Finanzierung der Regierung bereitstellen
+Programme und Investitionsprojekte. Eine spezielle Arbeitsgruppe mit dem teilnehmenden Land wird dies tun
+Legen Sie die Konditionen und das Programm in Form eines Finanzierungsplans fest. Die Aufgabe der
 
 (EARAGALA GAARA GAS EAGA Ae AaAGAGAoAGA
 
 E
 
 
-## Section 003
+## Abschnitt 003
 
-Special Working Group will be to determine which state programs will receive wrevocable
-funding,
+Eine spezielle Arbeitsgruppe wird festlegen, welche staatlichen Programme unwiderruflich erhalten werden
+Finanzierung,
 
-Reaffirming the need to put an end to the continuing increase in the illegal use of fiat
-(fiduciary) money on the basis of accounts held and managed by the International Treasury
-Monetary One,
+Bekräftigung der Notwendigkeit, der anhaltenden Zunahme der illegalen Nutzung von Fiat-Währungen ein Ende zu setzen
+(Treuhand-)Geld auf der Grundlage von Konten, die vom Internationalen Finanzministerium geführt und verwaltet werden
+Monetäres,
 
-Reminding that the Fiat (fiduciary) money has no intrinsic value and no collateral with
-reserves. These assets are only backed up with people's trust in the state and the level of the
-state's influence in the world. Depending on the method of issue. three types of money can be
-distinguished: commodity, credit and fiat. Commodity money played an important role in metal
-monetary systems, the credit one in the countries where there was no state monopoly on the
-issue of money. Fiat money has historically been issued by the state. Today, states not only
-issue cash, but also provide confidence in non-cash money created by banks. Therefore, all
-modem money can be considered fiat. Taking into account that fiat money is a symbolic credit
-unsecured paper money, which is called fiduciary, from Lat. feducia, «trust», purchasing power
-is based solely on trust in the issuer. The nominal value of such money does not depend on its
-material or on the collateral stored in the bank. In real (metal) monetary systems, the size of the
-issue is limited by bank reserves (liquid assets of banks), in fiat systems such restrictions
-disappear,
+Wir erinnern daran, dass das Fiat-Geld (Treuhandgeld) keinen inneren Wert und keine Sicherheiten hat
+Reserven. Diese Vermögenswerte werden nur durch das Vertrauen der Menschen in den Staat und das Niveau des Staates untermauert
+Einfluss eines Staates in der Welt. Abhängig von der Art der Ausgabe. Es gibt drei Arten von Geld
+unterschieden: Ware, Kredit und Fiat. Rohstoffgeld spielte im Metall eine wichtige Rolle
+Währungssysteme, das Kreditsystem in den Ländern, in denen es kein staatliches Monopol gab
+Ausgabe von Geld. Fiat-Geld wurde in der Vergangenheit vom Staat ausgegeben. Heute Staaten nicht nur
+Sie geben Bargeld aus, schaffen aber auch Vertrauen in das von Banken geschaffene unbare Geld. Daher alle
+Modernes Geld kann als Fiat betrachtet werden. Berücksichtigt man, dass es sich bei Fiat-Geld um einen symbolischen Kredit handelt
+ungesichertes Papiergeld, das Treuhänder genannt wird, von lat. feducia, „Vertrauen“, Kaufkraft
+basiert ausschließlich auf dem Vertrauen in den Emittenten. Der Nominalwert dieses Geldes hängt nicht von seinem Wert ab
+Material oder auf die bei der Bank hinterlegten Sicherheiten. In realen (Metall-)Geldsystemen ist die Größe des
+Die Ausgabe wird durch Bankreserven (liquide Vermögenswerte der Banken) begrenzt, in Fiat-Systemen durch solche Einschränkungen
+verschwinden,
 
-The International Treasury Monetary One, as the main Owner and manager of the entire
-world gold reserve, both bank balance sheet gold and off-balance sheet gold on the Planet
-Earth, introduces the following Solutions:
+Das International Treasury Monetary One ist der Haupteigentümer und Manager des gesamten Finanzministeriums
+Weltgoldreserven, sowohl Bankbilanzgold als auch außerbilanzielles Gold auf dem Planeten
+Erde stellt die folgenden Lösungen vor:
 
-We call on all countries of the world, as well as the States that signed the adoption of the
-Millennium Declaration, to unite efforts in the fight against the source of all ills on Earth -
-Poverty, The International Treasury Monetary One confirms its readiness to provide all
-countries with the necessary amount of assets to ensure the issuance of valid money
+Wir rufen alle Länder der Welt sowie die Staaten auf, die die Annahme unterzeichnet haben
+Millenniumserklärung, um die Anstrengungen im Kampf gegen die Quelle aller Übel auf der Erde zu bündeln –
+Armut, The International Treasury Monetary One bekräftigt seine Bereitschaft, alles bereitzustellen
+Länder mit der notwendigen Höhe an Vermögenswerten, um die Ausgabe von gültigem Geld sicherzustellen
 (001/RES2020 (2020), 005/RES2021 (2021)).
 
-We condemn all banks that illegally use historical assets, the right of management and
-disposal of which has passed to the International Treasury Monetary One and try to restrict the
-access of the International Treasury Monetary One to the assets retained in every criminal way.
+Wir verurteilen alle Banken, die illegal historische Vermögenswerte, das Managementrecht usw. nutzen
+Die Verfügung über die an das Internationale Finanzministerium übergegangen ist, versuchen wir, die zu beschränken
+Zugriff des Internationalen Finanzministeriums auf die auf jegliche kriminelle Weise einbehaltenen Vermögenswerte.
 
-We welcome the States that have joined, and the States that are ready to join cooperation
-and interaction with the International Treasury Monetary One. in suppressing the criminal
-retention of asset management rights by banks by the legal owner and manager, the
-International Treasury Monetary One, in order to bring bank employees to criminal
+Wir begrüßen die Staaten, die beigetreten sind, und die Staaten, die zur Zusammenarbeit bereit sind
+und Interaktion mit dem International Treasury Monetary One. bei der Unterdrückung des Verbrechers
+Eigentumsvorbehalt der Vermögensverwaltungsrechte der Banken durch den rechtlichen Eigentümer und Verwalter, der
+International Treasury Monetary One, um Bankangestellte kriminell zu machen
 
-us|
+uns|
 
 (RA SAGA GA AGA GAGA GA GAA aAGAGAGAaAGA
 
 E
 
 
-## Section 004
+## Abschnitt 004
 
-responsibility. Thanks to such cooperation and the triumph of justice and equality of everyone
-before the laws, the International Treasury Monetary One reminds of the personal
-responsibility of bank employees for carrying out criminal actions and calls once again on bank
-employees to be aware of their actions in order to refrain from committing crimes.
+Verantwortung. Dank dieser Zusammenarbeit und dem Triumph der Gerechtigkeit und Gleichheit aller
+Vor den Gesetzen erinnert das Internationale Finanzministerium an das Persönliche
+Verantwortung von Bankmitarbeitern für die Begehung krimineller Handlungen und fordert die Bank erneut auf
+Mitarbeiter müssen sich ihrer Handlungen bewusst sein, um keine Straftaten zu begehen.
 
-We Condemn all existing issues of new Fiat currency on the basis of illegal use of
-historical assets, which right to control and dispose moved to the International Treasury
-Monetary One accounted for in the Resolution 004/RES2021 (2021), which are increasingly
-undermine the process of stabilization of the transition to a new financial system and threaten
-the lives of hundreds of millions of people on the Earth. In this regard, as a Global Regulator
-we prohibit the formation of the issue of new fiat money based on the illegal use of historical
-assets taken into account in the Resolution 004/RES2021 (2021).
+Wir verurteilen alle bestehenden Ausgaben neuer Fiat-Währungen aufgrund der illegalen Verwendung von
+historische Vermögenswerte, deren Kontroll- und Verfügungsrecht auf das internationale Finanzministerium überging
+In der Resolution 004/RES2021 (2021) wurde die Währungsunion berücksichtigt, die zunehmend an Bedeutung gewinnt
+den Stabilisierungsprozess des Übergangs zu einem neuen Finanzsystem untergraben und bedrohen
+das Leben von Hunderten Millionen Menschen auf der Erde. In dieser Hinsicht als globaler Regulator
+Wir verbieten die Entstehung der Ausgabe von neuem Fiat-Geld auf der Grundlage der illegalen Verwendung von historischem Geld
+Vermögenswerte, die in der Resolution 004/RES2021 (2021) berücksichtigt werden.
 
-We condemn all ongoing issues of new fiat money in any country of the world and
-strongly recommend that all States immediately begin the transition of existing issues to new
-valid money secured by XAU on the basis of Treasury Bills of the International Treasury
-Monetary One.
+Wir verurteilen alle laufenden Probleme mit neuem Fiat-Geld in jedem Land der Welt und
+Ich empfehle dringend, dass alle Staaten unverzüglich mit der Umstellung bestehender Probleme auf neue beginnen
+gültiges Geld, das von XAU auf der Grundlage von Treasury Bills des International Treasury gesichert wird
+Monetäres.
 
-Having the responsibility and exclusive role of the International Treasury Monetary
-One, as well as responsibility to all States of the World, the International Treasury Monetary
-One confirms its readiness to provide all countries with the necessary number of Treasury Bills
-of the International Treasury Monetary One to ensure the issuance of valid money
+Sie tragen die Verantwortung und die ausschließliche Rolle des International Treasury Monetary
+Eines davon, ebenso wie die Verantwortung gegenüber allen Staaten der Welt, ist das Internationale Finanzministerium
+Man bekräftigt seine Bereitschaft, allen Ländern die erforderliche Anzahl an Schatzanweisungen zur Verfügung zu stellen
+des International Treasury Monetary One, um die Ausgabe von gültigem Geld sicherzustellen
 (001/RES2020 (2020)).
 
-We remind you that based on the recommendations of Basel III and Resolution
-001/RES2020 (2026), the Treasury Bills of the International Treasury Monetary One are issued
-in two categories: (1) Reserve World Currency (001/RES2020 (2020)): (2) Exchange-traded.
-World Currency denominated in any currency of the World.
+Wir erinnern Sie daran, dass dies auf den Empfehlungen von Basel III und der Resolution basiert
+001/RES2020 (2026) werden die Treasury Bills des International Treasury Monetary One ausgegeben
+in zwei Kategorien: (1) Weltreservewährung (001/RES2020 (2020)): (2) Börsengehandelt.
+Weltwährung, die auf eine beliebige Währung der Welt lautet.
 
-We confirm once again, on the basis of ownership and management of World Accounts
-in World Bank, Account No. 01-00-01-4-AAA-777-C3-AM-01 and Account No. 01-1-700-
-3516 222 777 8888 999, which are the main worldwide security metal accounts distributed to
-various banks in 172 (One hundred and seventy-two) countries around the world, on the basis
-of the Resolution 001/RES2020 (2020), that the Treasury Bills of the International ‘Treasury
-Monetary One are the main, Internationally accepted, verified security instrument for issuing
-new valid money.
+Wir bestätigen dies noch einmal auf der Grundlage des Besitzes und der Verwaltung von Weltkonten
+bei der Weltbank, Konto-Nr. 01-00-01-4-AAA-777-C3-AM-01 und Konto-Nr. 01-1-700-
+3516 222 777 8888 999, die weltweit wichtigsten Konten für Sicherheitsmetalle, an die verteilt wird
+Verschiedene Banken in 172 (einhundertzweiundsiebzig) Ländern auf der ganzen Welt
+der Resolution 001/RES2020 (2020), dass die Treasury Bills des Internationalen „Treasury
+Monetary One ist das wichtigste, international anerkannte und verifizierte Sicherheitsinstrument für die Ausgabe
+neues gültiges Geld.
 
-We condemn all new crypto currencies that have been formed and are being formed that
-do not have a valid collateral, the mining of which increasingly undermines the process of
+Wir verurteilen alle neuen Kryptowährungen, die geschaffen wurden und werden
+Sie verfügen nicht über gültige Sicherheiten, deren Abbau den Prozess zunehmend untergräbt
 
 Bel
 
 TIGAGAGA FARRAR FASS AGA GAGA GAGA GAGA Ge
 
-i
+ich
 
 
-## Section 005
+## Abschnitt 005
 
-stabilizing the transition to a new financial system in the World. strengthening the processes of
-money laundering, financing of criminal activities, extremism and terrorism.
+Stabilisierung des Übergangs zu einem neuen Finanzsystem in der Welt. Stärkung der Prozesse von
+Geldwäsche, Finanzierung krimineller Aktivitäten, Extremismus und Terrorismus.
 
-Despite the Fifth EU Directive on combating money laundering (AMLD5) entered into
-force in January 2020. in spite of all the requirements of FATF members, formulated in June
-last year on the recommendations on the crypto currencies regulation, all new input control
-measures introduced have proven to be ineffective and demonstrate the vulnerability of the Fiat
-financial system. In this connection, the crypto currency will remain the main tool of the
-underworld in the laundering of money obtained by criminal means and financing of criminal
-activities, the financing of extremism and terrorism,
+Trotz Inkrafttreten der Fünften EU-Richtlinie zur Bekämpfung der Geldwäsche (AMLD5).
+tritt im Januar 2020 in Kraft. Trotz aller im Juni formulierten Forderungen der FATF-Mitglieder
+Letztes Jahr gab es zu den Empfehlungen zur Kryptowährungsregulierung eine völlig neue Eingabekontrolle
+Die eingeleiteten Maßnahmen haben sich als unwirksam erwiesen und zeigen die Verwundbarkeit des Fiat
+Finanzsystem. In diesem Zusammenhang bleibt die Kryptowährung das Hauptinstrument der
+Unterwelt in der Geldwäsche, die mit kriminellen Mitteln erlangt wurde, und der Finanzierung von Straftaten
+Aktivitäten, die Finanzierung von Extremismus und Terrorismus,
 
-We are introducing a ban on all types of crypto currencies and We call on all States to
-realize the harm of using crypto currency today and in the future, With the use of crypto
-currency. the lives of hundreds of millions of people on Earth are put at risk. We call on all
-States to introduce bans on the use of crypto currencies and develop measures to counter the
-use of them, which will create a basis for combating money laundering, the financing of
-criminal activities, the financing of extremism and terrorism.
+Wir führen ein Verbot aller Arten von Kryptowährungen ein und fordern alle Staaten dazu auf
+Erkennen Sie den Schaden, den die Verwendung von Kryptowährungen heute und in Zukunft mit der Verwendung von Kryptowährungen mit sich bringt
+Währung. Das Leben von Hunderten Millionen Menschen auf der Erde ist gefährdet. Wir rufen alle auf
+Staaten sollen Verbote für die Verwendung von Kryptowährungen einführen und Maßnahmen entwickeln, um dem entgegenzuwirken
+Verwendung von ihnen, die eine Grundlage für die Bekämpfung der Geldwäsche und der Finanzierung von schaffen wird
+kriminelle Aktivitäten, die Finanzierung von Extremismus und Terrorismus.
 
-We welcome the bans introduced by States on the use of crypto currencies, which will
-undoubtedly strengthen the basis of the current issues for new valid money backed up with
-XAU on the basis of the Treasury Bills of the Intemational Treasury Monetary One.
+Wir begrüßen die von den Staaten eingeführten Verbote der Verwendung von Kryptowährungen
+Zweifellos stärken Sie die Basis der aktuellen Ausgaben für neues gültiges Geld, das mit gesichert ist
+XAU auf Basis der Treasury Bills des International Treasury Monetary One.
 
-Being forced to observe the formation of military conflicts, zones of stress, based on the
-selfish desire of several States to seize natural resources, hydrocarbons, rare earth elements,
-other countries, with the aim of ensuring and maintaining its leadership in the near future, we
-call on to comprehend the existence of higher values, based on People. Human Life, Human
-Rights, Freedom of Will and Choice and we remind that there is no apologise for genocide,
-extremism and terrorism. and any crimes against humanity are punished on the Earth!
+Die Entstehung militärischer Konflikte, Belastungszonen, ist aufgrund der Zwanghaftigkeit zu beobachten
+Der egoistische Wunsch mehrerer Staaten, natürliche Ressourcen, Kohlenwasserstoffe und seltene Erden zu beschlagnahmen,
+anderen Ländern, mit dem Ziel, seine Führungsrolle in naher Zukunft zu sichern und zu behaupten, wir
+Rufen Sie dazu auf, die Existenz höherer Werte zu begreifen, die auf Menschen basieren. Menschliches Leben, Mensch
+Rechte, Willens- und Wahlfreiheit und wir erinnern daran, dass es keine Entschuldigung für Völkermord gibt,
+Extremismus und Terrorismus. und alle Verbrechen gegen die Menschlichkeit werden auf der Erde bestraft!
 
-Recalling that peace and security, development and human rights are the pillars on
-which sustainable creative development is formed, and the foundations of collective security
-and well-being, and recognizing that development, peace, security and human rights are
-interconnected and strengthen each other,
+Unter Hinweis darauf, dass Frieden und Sicherheit, Entwicklung und Menschenrechte die Grundpfeiler sind
+welche nachhaltige kreative Entwicklung entsteht, und die Grundlagen der kollektiven Sicherheit
+und Wohlergehen und in der Anerkennung, dass Entwicklung, Frieden, Sicherheit und Menschenrechte wichtig sind
+miteinander verbunden sind und sich gegenseitig stärken,
 
-Recognizing that peace is not just the absence of conflicts, but a positive, dynamic and
-participatory process in which dialogue is encouraged, conflicts are resolved in a spirit of
-mutual understanding and cooperation and socio-economic development is ensured,
+In der Erkenntnis, dass Frieden nicht nur die Abwesenheit von Konflikten ist, sondern ein positiver, dynamischer und positiver Frieden
+partizipatorischer Prozess, in dem der Dialog gefördert wird und Konflikte im Geiste von gelöst werden
+gegenseitiges Verständnis und Zusammenarbeit sowie sozioökonomische Entwicklung gewährleistet sind,
 
 da
 
-TEACH SAGARA GAGA GoGo GAGA GAGA GA GAGA
+UNTERRICHTEN SAGARA GAGA GoGo GAGA GAGA GA GAGA
 
 E
 
 
-## Section 006
+## Abschnitt 006
 
 Rn
 
-The International Treasury Monetary One resolves to continue to deal with these issues
-to its specialized units — the Special Department for Overcoming the Global Financial Crisis
-«Anti-Crisis Center» and the Department of Special Projects and Programs.
+Das International Treasury Monetary One beschließt, sich weiterhin mit diesen Fragen zu befassen
+an seine Spezialeinheiten – die Sonderabteilung zur Bewältigung der globalen Finanzkrise
+„Anti-Krisen-Zentrum“ und die Abteilung für Sonderprojekte und Programme.
 
-The control and audit of the implementation of this Resolution No. 006 is entrusted to
-the Executive Committee of the International Treasury Monetary One.
+Die Kontrolle und Prüfung der Umsetzung dieser Resolution Nr. 006 wird anvertraut
+das Exekutivkomitee des International Treasury Monetary One.
 
-Approved, completed and executed
+Genehmigt, abgeschlossen und ausgeführt
 
-Since 13.09.2021
+Seit 13.09.2021
 
-His Highness
+Seine Hoheit
 
-Alexander Nikolaevich Paramonov
+Alexander Nikolajewitsch Paramonow
 
-The Chief Treasurer
-of the International Treasury Monetary One,
+Der Oberschatzmeister
+des International Treasury Monetary One,
 
-The President and Chief Operating Officer
-of the White Spiritual Boy R.S.B. Global Corp Inc,
+Der Präsident und Chief Operating Officer
+des White Spiritual Boy R.S.B. Global Corp Inc,
 
-UN No. 521730
+UN-Nr. 521730
 
 (EAR AGAR GAARA GA FAS SAaA GAGA aGAGAGAoAA
 
-i
+ich
 
+## Abschnitt 007
 
+Anlage zum Beschluss Nr. 006 vom 13.09.2021
 
-## Section 007
+International Treasury Monetary One, vertreten durch den Chefschatzmeister
+Hoheit Alexander Nikolajewitsch Paramonow:
 
-Attachment to the Resolution No. 006 from 13.09.2021
+ist Inhaber und Verwalter des Weltkontos bei der WELTBANK, Konto-Nr.
+01-00-01-4-AAA-777-C3-AM-D1, verteilt an verschiedene Banken in 172 (Einhundertund
+72) Länder auf der ganzen Welt.
 
-International Treasury Monetary One represented by The Chief Treasurer His
-Highness Alexander Nikolaevich Paramonov:
+ist Inhaber und Verwalter des Weltkontos im WORLD BANK Account No.
+01-1-700-3516 222 777 8888 999, verteilt an verschiedene Banken in 172 (Einhundertund
+zweiundsiebzig) Länder auf der ganzen Welt,
 
-is the owner and manager of the World Account at the WORLD BANK, Account No.
-01-00-01-4-AAA-777-C3-AM-D1, distributed to various banks in 172 (One hundred and
-seventy-two) countries around the world.
+ist Eigentümer und Verwalter von Vermögenswerten. einschließlich Bankkonten und deren Verteilung unter
+die Namen: „White Spiritual Boy“, „Spiritual Wonder Boy“. „Spirituelle Wunderbrüder“,
+„Moming Star“, „König David“, „Prophet Muhammad“, „Demas und der heilige Timotheus“, „White
+Mongolei“, „Weißer Vatikan“. „Weißer Adler“. „Maria Sinukuan oder Göttlicher Kristall“, „Maria
+„Göttliche Banahaw oder Sonnenblume“, „Maria Cristina oder göttliche Magdalena“. „Maria Makiling oder
+Divine Ester Egg“, „Falcon“, „Alpha – Omega“ und andere mehr als 1.400 Konten in
+verschiedene Banken in 189 (einhundertneunundachtzig) Ländern auf der ganzen Welt.
 
-is the owner and manager of the World Account in the WORLD BANK Account No.
-01-1-700-3516 222 777 8888 999, distributed to various banks in 172 (One hundred and
-seventy-two) countries around the world,
+Seine Hoheit
 
-is the owner and manager of assets. including Bank accounts and their distribution under
-the names: “White Spiritual Boy”, “Spiritual Wonder Boy”. “Spiritual Wonder Brothers”,
-“Moming Star”, “King David”, “Prophet Muhammad”, “Demas and Saint Timothy”, “White
-Mongolia”, “White Vatican”. “White Eagle”. “Maria Sinukuan or Divine Crystal”, “Maria
-Divine Banahaw or Sunflower”, “Maria Cristina or Divine Magdalene”. “Maria Makiling or
-Divine Ester Egg”, “Falcon”, “Alpha — Omega” and other more than 1,400 accounts located in
-different Banks in 189 (one Hundred eighty-nine) countries around the World.
+Alexander Nikolajewitsch Paramonow
 
-His Highness
+Chefschatzmeister des International Treasury Monetary One,
 
-Alexander Nikolaevich Paramonov
-
-Chief Treasurer of the International Treasury Monetary One,
-
-President and Chief Operating Officer of
-White Spiritual Boy R. S. B. Global Corp Inc,
+Präsident und Chief Operating Officer von
+Weißer spiritueller Junge R. S. B. Global Corp Inc,
 
 UN Ne. 521730
 
 oaleraleraleraleraleroferforsteralerstorzterafenalormlersTorsleralerz)
 
 
-## Section 008
+## Abschnitt 008
 
-WHITE SPIRITUAL BOY R.S.8. GLOBAL CORP
+WEISSER SPIRITUELLER JUNGE R.S.8. GLOBAL CORP
 
 SEC RES NO TH 008-47 461.26
-CFFICE ADDRESSNO 338 Banana Street
+CFFICE-ADRESSE: 338 Banana Street
 
 Brgy Manggahan Pasig City Metro Manila 1611
-Mobile Phone
+Mobiltelefon
 
-JHS JOSE HIGHNESS SPIRITUAL
+JHS JOSE HIGHNESS SPIRITUELL
 
-BOARD RESOLUTION NO. 002043 / 2020
-White Spiritual Boy RSB Global Corp.
+BESCHLUSS DES VORSTANDS NR. 002043 / 2020
+Weißer spiritueller Junge RSB Global Corp.
 
-January 75, 2019 at 7:30 at 5:00 PM minutes of the Meeting of the Board of
-Directors of White Spiritual Boy RSB Global Corp. held at Postal Address: Road 4
-Block 13 ARVEEMAR Homes Subdivision Brgy. San Isidro Angono Rizal, Provincia
-de Rizal Phitippines 1600.
+75. Januar 2019, 19:30 Uhr, 17:00 Uhr Protokoll der Vorstandssitzung von
+Direktoren der White Spiritual Boy RSB Global Corp. an der Postanschrift: Road 4
+Block 13 ARVEEMAR Homes Subdivision Brgy. San Isidro Angono Rizal, Provinz
+de Rizal Philippinen 1600.
 
-Present:
+Anwesend:
 
 - Salamin 8. Rizal
 
-- Alexander Nikolaevich Paramonov
-- Samara B. Base
+- Alexander Nikolajewitsch Paramonow
+- Samara B. Basis
 
 - John Mark L. Bahinting
 
 - Edisa F. Lozano
 
-- Mary Grace $. Racal
+- Mary Grace $. Rassel
 
 - Francisco A. Pradilla
 
-Call or Order
+Rufen Sie an oder bestellen Sie
 
-There being a forum, the Chairman, called the Special General Meating to be
-elected by and from among the stockholders without prejudice to such Power as may
-be granted by Law, at 7:00 AM up to 5:00 PM Corporate Secretary Samara B. Base
-recorded the Proceedings.
+Da es ein Forum gab, nannte der Vorsitzende das Special General Meating
+wird von und aus der Mitte der Aktionäre gewählt, unbeschadet der etwaigen Befugnisse
+gesetzlich zulässig, von 7:00 bis 17:00 Uhr, Unternehmenssekretärin Samara B. Base
+hat die Verhandlungen aufgezeichnet.
 
 Min: Mh...
 
 en AI REIL RACTAATARIERICAG AATEC
 
 
-## Section 009
+## Abschnitt 009
 
-Matters Taken Up:
+Behandelte Angelegenheiten:
 
-1. Resolved, as it is hereby resolved the body John Mark L. Bahinting Treasurer
-and Chairman President CEO Rizal, Salamin B and Francisco A. Pradilla Board
-of Directors Unanimously approved and granted the New Corporate Name and
-anather Postal Address
+1. Beschlossen, wie hiermit beschlossen wird, das Gremium John Mark L. Bahinting, Schatzmeister
+und Chairman President CEO Rizal, Salamin B und Francisco A. Pradilla Board
+der Direktoren einstimmig den neuen Firmennamen genehmigt und ihm zuerkannt
+eine andere Postanschrift
 
-with Email Address of
-. Mobile Number of :
+mit E-Mail-Adresse von
+. Mobilnummer von:
 
-2. Election of New Board of Directors and Officers.
-Chairman President CEO : RSB - Rizal, Salamin B. and
-President COO, Chief Operation Officer : Alexander Nikolaevich Paramonov
-Assigned President COO in Seven (7) International Biggest Continent in the
-Whole Asia Namely : Asia ~ Africa - North America — South America — Antartica
-~ Australia and Europe.
+2. Wahl des neuen Vorstands und der leitenden Angestellten.
+Vorsitzender Präsident CEO: RSB - Rizal, Salamin B. und
+Präsident COO, Chief Operation Officer: Alexander Nikolaevich Paramonov
+Ernennung zum President COO in sieben (7) größten Kontinenten der Welt
+Ganz Asien Nämlich: Asien ~ Afrika – Nordamerika – Südamerika – Antarktis
+~ Australien und Europa.
 
-COO - President Alexander N. Paramonov Gonfidential Documents to issue the
-Treasury Bills any amount in the Whole Asian Countries to issue proof of funds,
-LC, SBLC and Bank Guarantee any kind of instrument for the absence of COO
-Alexander Nikolaevich Paramonov, signed Chairman President CEO Rizal,
-Salamin B. all agreement and contract of Trading Program and Humanitarian
-Project in the Whola World.
+COO – Präsident Alexander N. Paramonov Gonfidential Documents zur Ausstellung der
+Schatzwechsel beliebiger Höhe in ganz Asien zur Ausstellung von Geldnachweisen,
+LC, SBLC und Bank garantieren jede Art von Instrument für das Fehlen eines COO
+Alexander Nikolaevich Paramonov, unterzeichneter Vorsitzender Präsident CEO Rizal,
+Salamin B. alle Zustimmung und Vertrag des Handelsprogramms und der humanitären Hilfe
+Projekt in der Whola-Welt.
 
-Mr. Alexander Paramonov, of Russian Passport with current
-address in
+Herr Alexander Paramonov, russischer Pass mit aktuellem Stand
+Adresse in
 
-is hereby authorized and obligated to act regarding the provisions, by
-laws, statutes and the articles of incorporation with the highest accuracy and
-correctness.
+wird hiermit ermächtigt und verpflichtet, im Hinblick auf die Bestimmungen tätig zu werden
+Gesetze, Statuten und die Satzung mit größter Genauigkeit und
+Korrektheit.
 
-Mr. Paramonov has the right to represent the company to banks and other
-official institutions, to negotiate and consider, settle, approve, deliver and / or
-issue all relevant documents regarding the matters of the certification,
-settlements and placement of all of the worldwide accounts of the company.
+Herr Paramonov hat das Recht, das Unternehmen gegenüber Banken und anderen zu vertreten
+offizielle Institutionen, zu verhandeln und zu prüfen, zu regeln, zu genehmigen, zu liefern und/oder
+alle relevanten Unterlagen zu den Angelegenheiten der Zertifizierung ausstellen,
+Abwicklung und Platzierung aller weltweiten Konten des Unternehmens.
 
-President COO, authorized to registered of the Bank Name: JHS
-International Global Bank and Joverexal Global Bank and Company: White
+Präsident COO, bevollmächtigt zur Registrierung des Banknamens: JHS
+International Global Bank und Joverexal Global Bank and Company: Weiß
 Spiritual Boy Global Humanitarian Project Rizal Foundation.
 
-Mn . a
+Mn. a
 
 gezofs
 
@@ -458,30 +452,30 @@ gezofs
 TER!
 
 
-## Section 010
+## Abschnitt 010
 
 ¢
 
-RIZAL, JOSE HIGHNESS SPIRITUAL
-MASTER CODE
+RIZAL, JOSE HOHEIT, SPIRITUELL
+MASTERCODE
 
-an es ve 11
+am 11. September
 
 Rizal Salamin B. Alexander Nikolaevich Parafitono¥,
-CEO - Chief Executive Ofiicer President, COO — Chief Operation Officer
+CEO – Chief Executive Officer, Präsident, COO – Chief Operation Officer
 
 /
 Ar. vo dd
 
-yhara B. Base Joli Mark b-Bahinting
-‘Spiritual Adviser Board of Director
+Yhara B. Base Joli Mark b-Bahinting
+„Verwaltungsrat des spirituellen Beraters.“
 mt
 Ediea F. Lozano Mary Grace S. Racal
-Corporate Treasurer Board of Director
+Vorstand des Unternehmensschatzmeisters
 ht
 
 Francisco A. Pradilla
-Corporate Sectary
+Unternehmenssektierer
 
 Mm. m
 
@@ -490,243 +484,239 @@ di
 Eng RIETHE RI RARER RAETARACEREM CREAR MERCIA
 
 
-## Section 011
+## Abschnitt 011
 
 [— ren
 
 RIZAL, SALAMIN B.
 
-Chairman President, CEO
+Vorsitzender Präsident, CEO
 White Spirituat Bay Redemptian Code
 
-Authored:
+Autor:
 
-IN WITNESS WHEREOF, we have here unto set our hands this 6” day of January
-2020 in Quezon City, Philippines.
+ZU URKUND DESSEN sind wir hier, um an diesem 6-Zoll-Tag im Januar unsere Hände aufzulegen
+2020 in Quezon City, Philippinen.
 
-WITNESS MY HAND AND SEAL on the date and place first above-written.
+Bezeugen Sie meine Hand und mein Siegel an dem oben genannten Datum und Ort.
 
 N
-Doc. No. 4m ; E if A
-Page No. 9» ; NOTARY'RUBLIC ,
-Book No. xvi v
+Dok. Nr. 4m ; E wenn A
+Seite Nr. 9» ; NOTAR'RUBLIC ,
+Buch Nr. xvi v
 
-Series of 2020;
+Serie von 2020;
 
 a. a
 
-Page & of
+Seite & von
 
 12
 
 mm
 
+## Abschnitt 012
 
+Wiedergutmachung
 
-## Section 012
+1. Weißer spiritueller Junge Rizal Salamin B.. mit der Kraft des Höchsten Schöpfers, Schöpfer RA,
+Schöpfer JHS Jose Highness Spiritueller Meister, Spirituelle Familie All Glory Mothers in Uoly
+Väter der Lichtgeschichte in der Provinz Luzon, König von König Rizal, Besitzer des Throns JHS
+01-4 Reichtum auf und um den Planeten Erde, rechtmäßiger Unterzeichner aller Konten
+Rohstoffe Land zu Wasser,
 
-Resstution
+Ich bestätige, dass zur Verhinderung einer globalen Währungskrise ein globales Sicherheitendefizit erforderlich ist
+In der Zukunft wird für eine Welt der nachhaltigen und dauerhaften Entwicklung das Formelsystem verwendet.
+Mechanismusverfahren. ein echtes Dokument und eine Richtlinienanwendung für jedes Land
+wurden vorbereitet. »
 
-1. White Spiritual Boy Rizal Salamin B.. with the Power of Supreme Creator, Creator RA,
-Creator JHS Jose Highness Spiritual Master, Spiritual Family All Glory Mothers in Uoly
-Fathers the Light history in Province of Luzon, King of King Rizal owner of the Throne JHS
-01-4 wealth in and around the Planet in Earth, legal Signatory Owner of All Accounts
-commodities Land by Water,
+1 unterstützt meine repräsentativen Teams, Einzelpersonen, Unternehmen und sozialen Gemeinschaften
+und Stiftungen, um der Welt zu helfen, das globale Kollateraldefizit in Fanure zu überwinden,
 
-I, confirm that for the purposes of preventing a global monetary crisis, global collateral deficit
-in the future, for a World of sustainable and durable development, the formula system,
-mechanism procedure. a genuine document and guideline application for any Country
-were prepared. »
+1, informieren Sie hiermit über die übertragenen Vermögenswerte von White Spiritual Boy, Spiritual
+Meister Salamie B. Rizal, der Vorsitzende und CEO von WHITE SPIRITUAL.
+JUNGE R.S.B. GLOBAL CORP INC. Die Vermögenswerte werden an die Internationale übertragen
+Treasury of Civil Society „LGR“, auch International Treasury Mi genannt
+(„Monetary One“) auf der Grundlage des Transtor-Gesetzes vom 17. September 2019
 
-1 will assist with my representative teams, individuals, companies, social communities
-and foundations, to help the World to overcome the global collateral deficit in fanure,
+Eines der übertragenen Vermögenswerte, nämlich Konten und Einlagen im Namen von White Spiritual
+Junge,
+ist der Account „White Spir
 
-1, hereby inform about the transferred assets from White Spiritual Boy, Spiritual
-Master Salamie B. Rizal, the Chairman-president & CEO of the WHITE SPIRITUAL.
-BOY R.S.B. GLOBAL CORP INC. The Assets are transferred to the International
-Treasury of Civil Society “LGR", horcinulter referred to as International Treasury Mi
-(“Monetary One”) on the basis af Act of Transtor dated to September 17, 2019
+al Boy“ in der folgenden Bank:
+WELTBANK (Konto Nr. 01-00-01-4-AAA-777-C3-AM-
 
-One of the transferred Assets, namely accounts and deposits in the name of White Spiritual
-Boy,
-is the account “White Spir
+Hiermit teile und bestätige ich, dass diese Vermögenswerte ab dem 17. September 2019 verfügbar sind
+Die Bilanz wird durch die Monetäre ausgeglichen.
 
-al Boy” in the following bank:
-WORLD BANK (Account N 01-00-01-4-AAA-777-C3-AM-
+Alle Mandate, Vollmachten, Anordnungen und alle anderen geschäftlichen Ernennungen
+Die Ermächtigung im monetären, sozialen, wirtschaftlichen und kulturellen Bereich soll gefördert werden
+ecmed als aufgehoben und null und nichtig erklärt.
 
-Herewith 1 inform and confirm, that starting fom September 17. 2019 these assets are on the
-balance shects ef the Monetary One.
+ms – mit Ausnahme von Mandaten, Vollmachten, Vorstandsbeschlüssen, Anordnungen und
+Die Berechtigungsnachweise werden an das International Treasury MI (früherer Name „International“) vergeben
 
-All Mandates, Powers of Attomey, Orders and any other wrilicn appointments
-ggand empowerment in the Monetary, Social, Economfe and Cultural Spheres shall he
-ecmed as rescinded and null and void.
+Schatzkammer der Zivilgesellschaft („LER“),
+y akzeptiert Mandate, Vollmachten, Vorstandsbeschlüsse, Anordnungen usw
 
-ms - except of Mandats, Powers of Attomey, Board Resolutions, Orders and
-eredentials issucd to the International Treasury MI (former name ‘International
-
-Treasury of Civil Society “LER”),
-y sacept of Mandates, Powers of Attorney, Board Resolutions, Orders and
-
-eredentials issued to the PresidentChief Operation Officer WUITE SPIRITUAL
-BOY R.S.B. GLOBAL CORP INC, ILE. Alexander N. Paramonov (Board
-Resolution Ne
-602043/2019. from Oktober 17,
+Berechtigungsnachweise an den PresidentChief Operation Officer WUITE SPIRITUAL ausgestellt
+JUNGE R.S.B. GLOBAL CORP INC, ILE. Alexander N. Paramonov (Vorstand
+Auflösung Ne
+602043/2019. ab 17. Oktober
 
 019).
 
-With the Power of Supreme Creator. Power of Creaior RA. Power of Crealor JES Jose
-Highness Spiritual Master, Power of Spicitual Family All Glory Mothers im Holy Fathers
-works in mysterious ways, I address, because it is time for your interaction with Monetary
-One, below is the contact list of my representative teams to contact and work with, for
-determination to take courageous reformatory steps which are insistently necessary to bring the
-World to a trajeciory of sustainable and durable development.
+Mit der Kraft des Höchsten Schöpfers. Macht von Creaior RA. Macht von Crealor JES Jose
+Hoheit, spiritueller Meister, Macht der spirituellen Familie. Alle Ehre, Mütter und Heilige Väter
+Ich spreche es auf mysteriöse Weise an, denn es ist Zeit für Ihre Interaktion mit Monetary
+Erstens finden Sie unten die Kontaktliste meiner repräsentativen Teams, mit denen ich Kontakt aufnehmen und mit denen ich zusammenarbeiten kann
+Entschlossenheit, mutige Reformschritte zu unternehmen, die dringend notwendig sind, um das zu erreichen
+Die Welt auf den Weg einer nachhaltigen und dauerhaften Entwicklung bringen.
 
 13
 
 J hAG AGA S AGAR GARA GAGARARAGAGAR ARERR
 
 
-## Section 013
+## Abschnitt 013
 
-This Resolution és irrevocable, comes into force from the mament of its signing, has no
-retroactive effect and is valid in all territories and waters of the Barth.
+Diese Resolution ist unwiderruflich, tritt mit ihrer Unterzeichnung in Kraft und hat keine Gültigkeit
+rückwirkend und gilt in allen Gebieten und Gewässern der Barth.
 
 2
 
 RIZAL, SALAMIN B.
 
-White Spiritual Boy
+Weißer spiritueller Junge
 
-The contact list of my representative teams to contact and work with.
+Die Kontaktliste meiner repräsentativen Teams, mit denen ich Kontakt aufnehmen und zusammenarbeiten kann.
 
 LE, Alexander N. Paramonov
 
-‘Chief Treasurer of International Kreasury Mi
-Phone: +7 995 969 1399
+„Chefschatzmeister von International Kreasury Mi
+Telefon: +7 995 969 1399
 
-Email: treasury @ruskazna.su
+E-Mail: Treasury @ruskazna.su
 
-| UN ID Ne 521730
+| UN-ID Ne 521730
 
-Language skills: Russian (native), English (A1 — Elementary)
+Sprachkenntnisse: Russisch (Muttersprache), Englisch (A1 – Grundkenntnisse)
 
 !
-‘Joachim Schauz
-i
+„Joachim Schauz
+ich
 
 14
 
-ee oR ErLRPIcRANETALeE
+eE oder ErLRPICRANETALeE
 
-
-
-## Section 014
+## Abschnitt 014
 
 Khramtsova Galina
-I
+Ich
 
 FARAGARARABCY
 
 RIZAL, SALAMIN B.
 
-February 5, 2020
-10 pages
+5. Februar 2020
+10 Seiten
 
 ARAN GSA GAGA GAGGIA GAGE
 
-dia
+Durchm
 
 
-## Section 015
+## Abschnitt 015
 
-Name of Bank
-Bank Address
+Name der Bank
+Bankadresse
 
-Account Name
-Accounl Number
-Amount of US $
+Kontoname
+Kontonummer
+Betrag in US-Dollar
 
 a
 
 Ar
 
-Back-up
+Backup
 
-Account Holder
+Kontoinhaber
 
 Redemption Cade
-Account Code
+Kontocode
 
-Global Signatory Code
-Account Signatory Owner
+Globaler Unterzeichnerkodex
+Inhaber des Kontounterzeichners
 
-WHITE SPIRITUAL BOY R.S.B. GLOBAL CORP,
+WEISSER SPIRITUELLER JUNGE R.S.B. GLOBAL CORP,
 SEC REG NO CS 201303072 TIN 008-471-125
 
-DODICALLION ACCOUNT
+DODICALLION-KONTO
 
-World Bank
+Weltbank
 1818H Street NW Washington D.C. 20433 USA 202
 473-1000
 
-White Soiritual Boy
+Weißer geselliger Junge
 
 01-1-700-3516 222 777 8888 999
 
-973,000,000.000.000,000,000.000,000.000,000.000.000,000.
-000,000,000,000.000,000.000.000,000.000,000,000.000,000,
-000,000,000,000.000,000,000.000,000,000,000.000,000,000,
-000,000,000,000,000,060,000.000,000,000,000.000.000,000,
-000,000,000,000,000,000.000.000,000.000.000.000,000,000.
-000,000,000,000.000,000.000.000,000.000,000.000,000,000.
-000,000,000,000.000,000,000,000,000,000,000.000,000.000,
-000,000,000.000,000,000,000.000.000,000,000,000.000,000,
-000,000,000,000,000.000,000.000,000.000,000,000,000.000
-000,000,000.000.000,000.000.000.000.000.000.000.000,000.
-000,000,000,000.000,000.000.000,000.000.000.000.000,000.
-000,000,000.000.000,000.000.000,000.000.000.000,000.000.
-000,000,000.000.000,000,000.000,000.000,000.000,000,000,
-000,000,000,000,000,000,000.000,000,000.000.000.000,000,
-000,000,000,000.000,000.000.000,000.000,000.000,000,000.
-000,000,000,000.000,000,000.000,000.000,000.000,000.000,
-000,000,000.000,000.000,000.000,000.000 ) 700 zeros
+973.000.000.000.000.000.000.000.000.000.000.000.000.000.
+000.000.000.000.000.000.000.000.000.000.000.000.000.000,
+000.000.000.000.000.000.000.000.000.000.000.000.000.000,
+000.000.000.000.000.060.000.000.000.000.000.000.000.000,
+000.000.000.000.000.000.000.000.000.000.000.000.000.000.
+000.000.000.000.000.000.000.000.000.000.000.000.000.000.
+000.000.000.000.000.000.000.000.000.000.000.000.000.000,
+000.000.000.000.000.000.000.000.000.000.000.000.000.000,
+000.000.000.000.000.000.000.000.000.000.000.000.000.000
+000.000.000.000.000.000.000.000.000.000.000.000.000.000.
+000.000.000.000.000.000.000.000.000.000.000.000.000.000.
+000.000.000.000.000.000.000.000.000.000.000.000.000.000.
+000.000.000.000.000.000.000.000.000.000.000.000.000.000,
+000.000.000.000.000.000.000.000.000.000.000.000.000.000,
+000.000.000.000.000.000.000.000.000.000.000.000.000.000.
+000.000.000.000.000.000.000.000.000.000.000.000.000.000,
+000.000.000.000.000.000.000.000.000.000 ) 700 Nullen
 
-5,783,963, 482 (Five Billion Seven Hundred Eighty
+5.783.963, 482 (Fünf Milliarden siebenhundertachtzig
 
-Three Million Nine Hundred Sixty Three Thousand Four
-Hundred Eighty Two) metric tons of Gold in Bethlehem(
-Europe).
+Drei Millionen neunhundertdreiundsechzigtausendvier
+Hundertzweiundachtzig) Tonnen Gold in Bethlehem(
+Europa).
 
-Rizal, Salamın B.
+Rizal, Salamin B.
 
 16
 
 Gr EIR ETa RETAIN TP RRC A NCATE
 
 
-## Section 016
+## Abschnitt 016
 
-Certification
+Zertifizierung
 
-This is to certify Jose Highness Spiritual Master Code Titulo de Prodiedad de
-Terrenos OLT 01-4 Rizal part or portion covered by the Entire Philippines Archipelago including Sabah
-and Malaysia Original Land Survey Map (LSM 1734- 1744) of the Whole Archipelago with Island, Islets of
-7,169 including Turtle Island, Spratly Isiand and Sabah Malaysia covered by Article |, Il and Ill aborigin Land
-Owner Rizal, Satamin legal Signatory of All Account Commodities Land by Water.
+Dies dient der Zertifizierung des spirituellen Meisterkodex der Hoheit Jose, des Titulo de Prodiedad de
+Terrenos OLT 01-4 Rizal, Teil oder Teil, der vom gesamten philippinischen Archipel einschließlich Sabah abgedeckt wird
+und Malaysia Original Land Survey Map (LSM 1734-1744) des gesamten Archipels mit Inseln und Inselchen
+7.169, darunter Turtle Island, Spratly Isiand und Sabah Malaysia, fallen unter Artikel |, Il und Ill Ureinwohnerland
+Eigentümer Rizal, Satamin-Rechtsunterzeichner von All Account Commodities Land by Water.
 
 FOCUS rar
 
 BEIN FEILER ATION
 
-HE. ALEXANDER NIKOLAEVICH PARAMONOV
+ER. ALEXANDER NIKOLAEVICH PARAMONOV
 COO Chief Operating Officer M1
 Monetary One of White Spiritual Boy RSB Global
-Corp inc,
+Corp Inc.,
 
-Office : 314 Moscow, 123060, Russia
-Tel: + 7-495-125418
-Emait: veasury@raskazna.su
-UN ID No.: 521730
+Büro: 314 Moskau, 123060, Russland
+Tel.: + 7-495-125418
+E-Mail: veasury@raskazna.su
+UN-ID-Nr.: 521730
 
 IZAL, SALAMIN B.
 
@@ -739,196 +729,192 @@ White Spiritual Boy RSE Global Corp. Ine.
 
 EEE BEE:
 
+## Abschnitt 017
 
-
-## Section 017
-
-Name of Bank:
-Account Name:
-Account No.
-Amount
+Name der Bank:
+Kontoname:
+Konto-Nr.
+Betrag
 
 Swift Cade
 
-Name of Bank:
+Name der Bank:
 
-Amount
-Swift Code:
+Betrag
+Swift-Code:
 
-Acknowledge
-Board Resolution No. 01-00-01-4 Rizal
+Bestätigen
+Vorstandsbeschluss Nr. 01-00-01-4 Rizal
 
-Board of TRUSTEES, of White Spiritual Boy RSB Global Corp. Inc. Registered
-No. CS 201303072 and TIN No. 008-471-126 the PRESIDENT CEO, CHIEF
-EXECUTIVE OFFICER A. E. RIZAL, SALAMIN B. updated ownership the rights
-power and authorities, documents being made acknowledgement the board resolution of
-the Pre COO is hereby given and granted (0 his HIGHNESS ALEXANDER
-NIKOLSEVICH PARAMONOV THE CHIEF TREASURER OF THE
-INTERNATIONAL TREASURY MONETARY ONE.
+Kuratorium der White Spiritual Boy RSB Global Corp. Inc. eingetragen
+Nr. CS 201303072 und TIN Nr. 008-471-126 der PRESIDENT CEO, CHIEF
+EXECUTIVE OFFICER A. E. RIZAL, SALAMIN B. aktualisierte die Eigentumsrechte
+Macht und Behörden, Dokumente werden in Anerkennung des Vorstandsbeschlusses erstellt
+Der Pre COO wird hiermit erteilt und gewährt (0 seine HOHEIT ALEXANDER
+NIKOLSEVICH PARAMONOV DER CHEFSCHATZER DES
+INTERNATIONALES TREASURY MONETARY ONE.
 
-The President COO Chief Operation Officer of the White Spiritual Boy RSB
-Glohal Corp Un No. 521730,
+Der Präsident COO Chief Operation Officer des White Spiritual Boy RSB
+Glohal Corp Un Nr. 521730,
 
-WHEREAS the Company White Spiritual Boy RSB Global Corp. Inc. H.E.
-ALEXANDER N. PARAMONOV is authorized to negotiate in all banks to discuss
-communicate of all account name : White Spiritual Boy Accounts All Assets Land by
-Water and I recognized as an owner and Manager of the World Account in the World
-Bank Account Number 01-00-01-4-AAA-777-CH AM-01 Account Number 01-1-700-
-3516-222-777-8888-999 around the World im all Federal Reserve Banks in Whole
-United States of America of in the Different 12 States of America namely; Atlanta —
-Boston — Chicago- Dallas - Cleveland — Kansas City — Minneapolis — New York —
-Phitadelphia - Richmond - San Franciseo - St, Louis and AH Accounts, Asset
-Commodities Land hy Water Redemption Cade No.
+IN DER ERWÄGUNG, dass das Unternehmen White Spiritual Boy RSB Global Corp. Inc. S.E.
+ALEXANDER N. PARAMONOV ist berechtigt, in allen Banken zu verhandeln
+Geben Sie alle Kontonamen an: White Spiritual Boy Accounts Alle Vermögenswerte landen bei
+Water und ich sind als Eigentümer und Manager des Weltkontos in der Welt anerkannt
+Bankkontonummer 01-00-01-4-AAA-777-CH AM-01 Kontonummer 01-1-700-
+3516-222-777-8888-999 auf der ganzen Welt, bei allen Federal Reserve Banks im Ganzen
+Vereinigte Staaten von Amerika in den verschiedenen 12 Staaten von Amerika, nämlich; Atlanta –
+Boston – Chicago – Dallas – Cleveland – Kansas City – Minneapolis – New York –
+Phitadelphia – Richmond – San Franciseo – St, Louis und AH Konten, Vermögenswerte
+Rohstoffe Land Hy Water Redemption Cade No.
 
-Spiritual Master Code:
+Spiritueller Meistercode:
 
 18
 
-Account Name: >
-Account No.
+Kontoname: >
+Konto-Nr.
 %
 
 mm oA SAGHORGAGARAEAGToAGARadE!
 
 
-## Section 018
+## Abschnitt 018
 
-NOW TEEREFORS, 3Y THE SGARD OF TRUSTEE, EDIZA F. LOZANO, SECONDED BY
+JETZT TEEREFORS, 3JÄHRIG DER SGARD DES TREUHÄNDERS, EDIZA F. LOZANO, SEKUNDIERT VON
 FRANCISCO A. PRADILLA,
 
-RESCLVE ASIT DORS HERERY RESOLVED FOR IMMENIATE APPROVAL OF THE AMONG
-CONCERN!
+RESCLVE ASIT DORS HERERY BESCHLOSSEN, SOFORTIGE GENEHMIGUNG DER UNTERNEHMEN
+Sorge!
 
-RESCLVE FURTHER TO FORWARD THIS RESOLUTION SRANTED BY THE CONCERNED.
-OFFICERS RESOLUTION FINALLY, GRANTED THE CEQ, CHIEF EXECUTIVE OFFICER HE. RIZAL.
-SALAMIK B ALCOUNT SIGNATORY OF ALL ASSETS COMMODITIES LAND BY WATER
-SECONDED BY CORPORATE SECRET) EDIZA F, LOZANO, RESOLUTION MOST FAVORED.
-VALUED APEROVED AND GRANTED AND PROMPT ACTION UPON RECEIPT HEREOF.
+Wir behalten uns vor, diesen von den Betroffenen genehmigten Beschluss weiterzuleiten.
+Die Entscheidung der Beamten wurde schließlich dem CEQ erteilt, Chief Executive Officer He. RIZAL.
+SALAMIK B ALCOUNT UNTERZEICHNER ALLER VERMÖGENSWERTE, WAREN, LAND UND WASSER
+ABGEORDNET DURCH UNTERNEHMENSGEHEIMNIS) EDIZA F, LOZANO, BEVORZUGTER BESCHLUSS.
+WERTEN APEROVIERT UND GEWÄHRT UND SOFORTIGE MASSNAHMEN NACH ERHALT DER HIERVON.
 
-UNANIMOUSLY APPROVED AND CARRIED HEREBY CERTIFY TO THE
-CORRECTNESS ABOVE RESOLUTION OFFICER 1 HAVE HEREWNTO SIGNED NAMED AND
+EINSTIMMIG GENEHMIGT UND DURCHGEFÜHRT HIERMIT ZERTIFIZIEREN
+RICHTIGKEIT OBEN RESOLUTION OFFICER 1 HABEN HIERMIT NAMENS UND UNTERZEICHNET
 
-AFFIXED AUGUST 13, 2021.
-wel ALEXANDER N. PARAMO!
-Boar President COO Chief Operation
+BEFESTIGT AM 13. AUGUST 2021.
+Welch ALEXANDER N. PARAMO!
+Boar Präsident COO Chief Operation
 
-Officer of White Spiritual Boy
+Offizier des White Spiritual Boy
 RSB Global Corp. Inc
 
 aa F A
 
-Secretar ard
+Sekretär ard
 White Spirits Corp. Inc
 
 eräncıscı po
-Board of Bond
+Vorstand der Anleihe
 
 SALAMIN B. RIZAL
 
 19
 
-ERG RIETRE A RARER AAETARATEREA CARRERAS
+ERG RIETRE EIN SELTENERER AAETARATEREA CARRERAS
 
-
-
-## Section 019
+## Abschnitt 019
 
 VISION:
 
-It is the policy of the state that to solidify the organizational structure of the people,
-Since it has been said in the Union there is strength towards this end. Every Spiritual
-Officer in the Community while in the performance of their sworn duzies shall at all-
-time be held accountable to the people and responsible to Ihe management and
-maintenance of the environment prosperity of the community and the people in our
-vision and mission to become as “ Pearl of the Orient”,
+Es ist die Politik des Staates, die Organisationsstruktur des Volkes zu festigen,
+Wie es in der Union heißt, gibt es Kraft für dieses Ziel. Jedes Spirituelle
+Beamte der Gemeinschaft müssen während der Ausübung ihres vereidigten Amtes jederzeit-
+Zeit, den Menschen gegenüber rechenschaftspflichtig und gegenüber dem Management verantwortlich zu sein
+Erhaltung der Umwelt, Wohlstand der Gemeinschaft und der Menschen in unserem
+Vision und Mission, zur „Perle des Orients“ zu werden,
 
-Base on the aforementioned vision as inspirec by the Holy Spirit. All native Filipino in
-the Philippines from 5 years old up to Senior Citizen residing in the Philippines are
-entitled to benefits and all humgry peaple in this World should he feed as Glohal Feeding
-and LOVE to the Holy Spirit as your Guiding Light, Love each other as you Love
-Yourselt.
+Basierend auf der oben genannten Vision, inspiriert vom Heiligen Geist. Alle einheimischen Filipinos in
+die Philippinen ab 5 Jahren bis zum Alter von Senioren mit Wohnsitz auf den Philippinen
+Er hat Anspruch auf Leistungen und alle bescheidenen Menschen dieser Welt sollten als Glohal Feeding ernährt werden
+und LIEBE den Heiligen Geist als dein leitendes Licht. Liebet einander, wie ihr liebt
+Sie selbst.
 
-To Development Investment Community Humanitarian Project
+Zum humanitären Projekt der Entwicklungsinvestitionsgemeinschaft
 
-A- Infrastructure and School - Hospitals — Markets
+A – Infrastruktur und Schule – Krankenhäuser – Märkte
 
-B - Road Construction - National Roads ~ 4 Lanes to Urban
+B – Straßenbau – Nationalstraßen ~ 4 Fahrspuren bis zur Stadt
 
-€ - Barangay Roads - Concrete from Barangay to Market - Rlectrification - Agricultural
-Development - Irrigation System - Food Production - Technolagy Transfer
+€ – Barangay-Straßen – Beton von Barangay bis zum Markt – Elektrifizierung – Landwirtschaft
+Entwicklung – Bewässerungssystem – Nahrungsmittelproduktion – Technologietransfer
 
-Program
+Programm
 
-D - Environment Rehabilitalion - Reforestation & Water Conservatlon - Forest
+D – Umweltsanierung – Wiederaufforstung und Wasserschutz – Wald
 
-Preservation & Technology Enhancement Program support to Native Filipinos in the
+Unterstützung des Preservation & Technology Enhancement Program für einheimische Filipinos in der
 
-Whole World - Environmental and Resources Social Services Diamond Star Global
+Ganze Welt – Soziale Dienste für Umwelt und Ressourcen Diamond Star Global
 
-Foundation, Inc.
+Stiftung, Inc.
 
-Note: we inform that notices about activation were sent on October 22, 2019 to World
-Bank, International Monetary Fund, Bank of International Sertlements, The
-international Court of Justice, Secretary-Geneval United Nations, Vatican Bank, to His
-Holiness, Pope Francis. Since November 08, 2019 your High Excellency Share is
-successfully activated far management in all services of Treasury. International treasury
-of civil soctety “Light Great Russia” express high respect to your High Excellency email
-add: treasury@ruskazna.su mobile number: 19959641399. Chief international treasury
-Alexander Paramonov UN ID No.521730 White Spiritual Boy RSH Global Corp:
+Hinweis: Wir informieren Sie darüber, dass Mitteilungen über die Aktivierung am 22. Oktober 2019 an World gesendet wurden
+Bank, Internationaler Währungsfonds, Bank für internationale Zahlungen, The
+Internationaler Gerichtshof, Generalsekretär der Vereinten Nationen, Vatikanbank, an Seine
+Heiligkeit, Papst Franziskus. Seit dem 08. November 2019 ist Ihr High Excellency Share
+Das Fernmanagement in allen Bereichen des Treasury wurde erfolgreich aktiviert. Internationales Finanzministerium
+der Zivilgesellschaft „Light Great Russia“ äußern großen Respekt für Ihre E-Mail an Ihre Hohe Exzellenz
+hinzufügen: treasury@ruskazna.su Handynummer: 19959641399. Chef der internationalen Finanzabteilung
+Alexander Paramonov UN-ID-Nr. 521730 Weißer spiritueller Junge RSH Global Corp:
 
-In witness Whereof, we here unto set our hands this 13! day of August 2021 in Metro
-Manila Provincia de Rizal, Island of Luzon Philippines.
+Zu diesem Zeugnis legen wir hier unsere Hände auf 13! Tag im August 2021 in Metro
+Manila Provincia de Rizal, Insel Luzon, Philippinen.
 
-WITNESS my hand and seal on the dale and place first above written.
+Bezeugen Sie meine Hand und mein Siegel auf dem Tal und legen Sie den ersten Platz ein, der oben geschrieben steht.
 
-Dac. No. 424
-Page No. 96
+Dac. Nr. 424
+Seite Nr. 96
 
-Book No. XX¥
-Series of 2021
+Buch Nr. XX¥
+Serie von 2021
 
 20
 
 La cra pao RICrA erIOTAL CTA Bra BARA ABRIRRIOAEARA TIC
 
 
-## Section 020
+## Abschnitt 020
 
 cl
 
-H.E. ALEXANDER NIKOLAEVICH PARAMONOV
+S.E. ALEXANDER NIKOLAEVICH PARAMONOV
 COO Chief Operating Officer M1
-Monetary One of White Spiritual Boy RSB Global Corp Inc.
-Office : 314 Moscow, 123060, Russia
-Tel: + 7-495-125418
-Email: treasury@raskazna.su
-UN ID No.: 521730
+Finanzielle Eins von White Spiritual Boy RSB Global Corp Inc.
+Büro: 314 Moskau, 123060, Russland
+Tel.: + 7-495-125418
+E-Mail: treasury@raskazna.su
+UN-ID-Nr.: 521730
 
 FG
 
-fe
+z.B
 
-H.E. ALEXANDER NIKOLAEVICH PARAMONOV
-Was born on December 08, 1976
-TIN NO.: 503-365-008-00000
-Date Issued: August 13, 2021
-Place of Issued: Philippines
+S.E. ALEXANDER NIKOLAEVICH PARAMONOV
+Wurde am 08. Dezember 1976 geboren
+TIN-NR.: 503-365-008-00000
+Ausstellungsdatum: 13. August 2021
+Ausstellungsort: Philippinen
 
-I Tenatenatara far foratena erfor ferelena ar forafenaleraforatorafenaferaferefere
+Ich Tenatenatara weit foratena erfor ferelena ar forafenaleraforatorafenaferaferefere
 
 
-## Section 021
+## Abschnitt 021
 
-Note: BUREAU OF INTERNAL REVENUE I.D. (BIR) Philippines
+Hinweis: BUREAU OF INTERNAL REVENUE I.D. (BIR) Philippinen
 
-Purpose: For Company White Spiritual Boy RSB Global Corp. Inc.
+Zweck: Für das Unternehmen White Spiritual Boy RSB Global Corp. Inc.
 
-President COO — Chief Operating Officer
+Präsident COO – Chief Operating Officer
 
-meow ren ma zur EBL TVD
+miau ren ma zur EBL TVD
 
 tea tari sama pea sernenmrs Termine: rien Meme I
-De ames yaar “TN Oo ae tare a Ber woe re
+De ames yaar „TN Oo ae tare a Ber wehe re
 Tee ante OF Han Card Ke ne Karren nn ve
 
 wen
@@ -938,44 +924,44 @@ wen
 rm
 
 
-## Section 022
+## Abschnitt 022
 
 RARAGARAGABCY
 
-H.E. RIZAL, SALAMIN B.
+S.E. RIZAL, SALAMIN B.
 
 CEO Chief Executive Officer
-White Spiritual Boy RSB Global Corp. Inc.
+Weißer spiritueller Junge RSB Global Corp. Inc.
 
-H.E. RIZAL, SALAMIN B.
-Was born on October 22, 1948
-Province of Rizal
-TIN NO.: 420-123-502-000
-Date Issued: March 21, 2012
-Place of Issued: Philippines
+S.E. RIZAL, SALAMIN B.
+Wurde am 22. Oktober 1948 geboren
+Provinz Rizal
+TIN-NR.: 420-123-502-000
+Ausgabedatum: 21. März 2012
+Ausstellungsort: Philippinen
 
 BRA RARAGA GA SAGA GAGA GAGA
 
 
-## Section 023
+## Abschnitt 023
 
-A WHITE SPIRITUAL BOY R.$.B. GLOBAL CORP.
+EIN WEISSER SPIRITUELLER JUNGE R.$.B. GLOBAL CORP.
 YX SEC REG NO CS 201303072 TIN 008-471-126
-a A
+ein A
 
-CERTIFICATION
-TO WHOM IT MAY CONCERN:
-‘This is to certify that the following Board of Directors of my Company name
+ZERTIFIZIERUNG
+WEN ES BETREFFEN KÖNNTE:
+„Hiermit bestätige ich, dass der folgende Vorstand meines Unternehmens seinen Namen trägt
 
-WHITE SPIRITUAL BOY R.S.B. GLOBAL CORP. OF INTERNATIONAL
-TREASURY MONETARY ONE (M1), to the following names,
+WEISSER SPIRITUELLER JUNGE R.S.B. GLOBAL CORP. OF INTERNATIONAL
+TREASURY MONETARY ONE (M1), an die folgenden Namen,
 
 &
 
 E. SALAMIN B. RIZAL ILE. ALEXANDER N. PARAMONOV
 
-President, CEO President, COO
-Chief Executive Officer of Chief Operating Officer of
+Präsident, CEO Präsident, COO
+Chief Executive Officer des Chief Operating Officer von
 White Spiritual Boy R.S.B, Global Comp.Ine White Spiritual Boy R.S.B. Global Corp. Inc.
 1
 24
@@ -987,89 +973,86 @@ dkagAcAGAGA
 N
 
 
-## Section 024
+## Abschnitt 024
 
 EDIZA F. LOZANO
-Corporate Secretary of
-White Spiritual Boy R.S B Global Corp Inc.
+Unternehmenssekretär von
+Weißer spiritueller Junge R.S. B Global Corp Inc.
 
 FRANCISCO A, PRADILLA
-Board of Director of
-White Spiritual Boy R.S.B. Global Corp. Inc
+Vorstand von
+Weißer spiritueller Junge R.S.B. Global Corp. Inc
 
-This certification is issued of the Roard of Director with signature this August 23
+Diese Bescheinigung wird am 23. August vom Roard of Director mit Unterschrift ausgestellt
 
 25
 
-SAMARA B. BASE.
-Treasurer af
-White Spiritual Boy R.S.B. Global Corp Tne.
+SAMARA B. BASIS.
+Schatzmeister af
+Weißer spiritueller Junge R.S.B. Global Corp Tne.
 
 en AI REIL RACTAATARIERICAG AATEC
 
 
-## Section 025
+## Abschnitt 025
 
 #7 7
 Z
 RIZAL, SALAMIN B. ALEXANDER N. PARAMO!
-PRESIDENT CEO Sates? President COO Chief Operation
-RS Global Corp. Ine, Officer of White Spiritual Boy
+PRÄSIDENT CEO Sates? Präsident COO Chief Operation
+RS Global Corp. Ine, leitende Angestellte von White Spiritual Boy
 
 R58 Global Corp. inc
 
-Secretary «
+Sekretärin «
 White Spiritua Baard o
 
-FRANCIS
-Board ı
+FRANZIS
+Vorstand ı
 
-In witness Whereof, we here unto set our hands (his 23rd day of August 2021 in Metro Manila
-Provincia de Rizal, [stand of Luzon Philippines.
+Zu seinem Zeugnis hiervon legen wir hier unsere Hand nieder (seinem 23. August 2021 in Metro Manila).
+Provincia de Rizal, [Stand der Luzon-Philippinen.
 
-WITNESS my hand and seaf on the date and place first above written.
+ZEUGNIS meiner Hand und meines Vertrauens auf das Datum und den Ort, der zuerst oben geschrieben steht.
 
-Doc, No. 474
-Page No. 97,
+Dok. Nr. 474
+Seite Nr. 97,
 
-Book No. RXY
-Series of 2021
+Buch Nr. RXY
+Serie von 2021
 
 26
 
 HARARE A TARA RAGA FARRAR RAAT
 
 
-## Section 026
+## Abschnitt 026
 
 oa
 GAGe
 
-Please note that in compliance with banking and treasury secrecy, the above documents are
-provided in a brief form.
+Bitte beachten Sie, dass die oben genannten Dokumente dem Bank- und Treasury-Geheimnis unterliegen
+in Kurzform zur Verfügung gestellt.
 
-The International Treasury M1 represented by the Chief Treasurer, President and Chief
-Operating Officer of White Spiritual Boy R. S. B. Global Corp Inc. His Highness Alexander
-Nikolaevich Paramonov, with full legal and treasury responsibility. declares to the special
-officers of the international financial banking system who have the appropriate form of
-admission, that we are ready to provide all original and certified documents. as well as special
-codes for the right to own, manage and dispose of the above-mentioned bank accounts and
-their distributions.
+Das Internationale Finanzministerium M1, vertreten durch den Chefschatzmeister, den Präsidenten und den Chef
+Betriebsleiter von White Spiritual Boy R. S. B. Global Corp Inc. Seine Hoheit Alexander
+Nikolaevich Paramonov, mit voller rechtlicher und finanzieller Verantwortung. erklärt zum Besonderen
+Beamte des internationalen Finanzbankensystems, die über die entsprechende Form verfügen
+Zulassung, dass wir bereit sind, alle originalen und beglaubigten Dokumente zur Verfügung zu stellen. sowie besonders
+Codes für das Recht, die oben genannten Bankkonten zu besitzen, zu verwalten und darüber zu verfügen
+ihre Verteilungen.
 
-His Highness
+Seine Hoheit
 
-Alexander Nikolaevich Paramonov
+Alexander Nikolajewitsch Paramonow
 
-Chief Treasurer of the International Treasury Monetary One,
+Chefschatzmeister des International Treasury Monetary One,
 
-President and Chief Operating Officer of
-White Spiritual Boy R. S. B. Global Cerp Inc,
+Präsident und Chief Operating Officer von
+Weißer spiritueller Junge R. S. B. Global Cerp Inc.,
 
-UN No. 521730
+UN-Nr. 521730
 
 RGAGA GARAGE GaGa GAGAGAGAGAGe
 
 27
-
-
-
