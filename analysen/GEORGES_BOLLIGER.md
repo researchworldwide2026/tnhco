@@ -10,13 +10,15 @@
 | Merkmal | Detail |
 |---------|--------|
 | **Vollständiger Name** | Georges Nicolas Bolliger |
-| **Wohnort** | Menzingen, Kanton Zug, Schweiz |
+| **Bürgerort** | Zürich (!) |
+| **Wohnort** | Menzingen, Kanton Zug |
 | **Rolle bei TNHCO** | "Entscheidungsbefugnis" (decision authority) — **Unbekannte Funktion!** |
 | **Im Handelsregister?** | ❌ **NICHT als Verwaltungsrat eingetragen** |
-| **Vorherige Firma** | simpleapps.ch GmbH (IT-Programmierung) |
-| **Rolle dort** | Prokurist (2013–2017), davor VR-Präsident |
+| **Rolle bei GSPC AG** | Delegierter des Verwaltungsrates (ausgeschieden) |
+| **Rolle bei simpleapps.ch GmbH** | Prokurist (2013–2017), davor VR-Präsident |
 | **Geschäftspartner** | Serdar Kilic, Bahadir Durak |
 | **Branchen-Hintergrund** | IT/Programmierung — **KEIN** Finanzhintergrund! |
+| **Gemeinsame Adresse** | Industriestrasse 3, 6345 Neuheim — TNHCO + GSPC AG + simpleapps.ch |
 
 ---
 
@@ -144,7 +146,37 @@ Ersetzt wurden sie durch:
 
 ---
 
-## 🏢 Bolligers vorherige Firma: simpleapps.ch GmbH
+## 🏢 GSPC AG — Die zweite Firma an derselben Adresse
+
+| Merkmal | Detail |
+|---------|--------|
+| **Firma** | GSPC AG |
+| **UID** | CHE-147.733.719 |
+| **Sitz** | **Industriestrasse 3, 6345 Neuheim** 🚨 |
+| **Branche** | IT-Beratung, Softwareentwicklung, Patentauswertung |
+| **Bolligers Rolle** | **Delegierter des Verwaltungsrates** (ausgeschieden) |
+| **Unterschrift** | Kollektivunterschrift zu zweien |
+| **Letzte SHAB-Meldung** | 13.05.2024 |
+| **Status** | Aktiv (laut company.ch) |
+
+### Die gemeinsame Adresse 🚨
+
+```
+Industriestrasse 3, 6345 Neuheim
+├── 🏛️ TNHCO (Terra Nova Helvetica Genossenschaft) — CHE-242.461.997
+├── 🏢 GSPC AG — CHE-147.733.719
+└── 🖥️ simpleapps.ch GmbH — CHE-303.785.801
+```
+
+**DREI Firmen unter EINER Adresse — alle mit Georges Nicolas Bolliger verbunden.**
+
+Dies ist ein klassisches Muster von **"Company Stacking"**: Mehrere Firmen teilen sich eine Adresse, um operative Kosten zu sparen und Beziehungen zu verschleiern. Dass TNHCO — eine angebliche "internationale Finanzinstitution" — sich eine Adresse mit zwei IT-Kleinfirmen teilt, ist mit dem Anspruch einer "Weltfinanzplattform" nicht vereinbar.
+
+---
+
+## 🏢 Bolligers vorherige Firmen
+
+### simpleapps.ch GmbH
 
 | Merkmal | Detail |
 |---------|--------|
@@ -244,19 +276,39 @@ graph TB
 | 5 | **"Keinerlei Erwerbszweck"** | Aber bewirbt aktiv Finanzprodukte und ICOs |
 | 6 | **Sitzwechsel Menzingen → Neuheim** | Parallel zur FINMA-Warnung (Adresse wechselt) |
 | 7 | **Bolligers Name fehlt komplett auf tnhco.org** | Keine Erwähnung auf der eigenen Website |
-| 8 | **simpleapps.ch GmbH in derselben Gemeinde** | Neuheim = TNHCOs aktuelle Adresse = simpleapps.ch Sitz |
+| 8 | **simpleapps.ch + GSPC AG an derselben Adresse wie TNHCO** | "Company Stacking" — drei Firmen, eine Adresse |
 
 ---
 
 ## 🔮 Hypothese: Bolligers tatsächliche Rolle
 
-Auf Basis der vorliegenden Daten ergibt sich folgendes Bild:
+### Der Schweizer "Company Stacker"
 
-1. **Bolliger ist der Schweizer "Türöffner"** — er versteht Schweizer Recht, Genossenschaftsstrukturen und hat lokale Kontakte
-2. **Er stellt das legale Vehikel (TNHCO) bereit**, ohne selbst im Handelsregister zu erscheinen — optimale Verschleierung
-3. **Die drei ursprünglichen Board-Mitglieder (Immoos, Marty, Manuel) waren Platzhalter** für die Gründung und wurden nach 2 Monaten durch neue Strohleute ersetzt
-4. **Paramonov ist der ideologische Kopf**, Bolliger der operative Schweizer Arm
-5. **Die Slowakei-Connection über SPD ROD** dient als angeblicher "Beweis", dass das Genossenschaftsmodell funktioniert — verschweigt aber, dass SPD ROD derselbe Paramonov-Kult ist
+Auf Basis aller gesammelten Daten ergibt sich ein klares Bild:
+
+1. **Bolliger ist ein routinierter Firmengründer im Kanton Zug** — mindestens 3 Firmen (simpleapps.ch, GSPC AG, TNHCO) an derselben Adresse
+2. **Er versteht Schweizer Gesellschaftsrecht** — Genossenschaften, GmbHs, AGs — und weiß, wie man sie mit minimalem Aufwand gründet
+3. **Er bleibt im Hintergrund** — bei TNHCO hat er "Entscheidungsbefugnis" ohne VR-Mandat; bei GSPC AG war er Delegierter, nicht Präsident
+4. **Er nutzt Strohmänner** — die drei ursprünglichen TNHCO-Boardmitglieder (Immoos, Marty, Manuel) traten kollektiv nach 2 Monaten zurück
+5. **Paramonov liefert die Ideologie, Bolliger die Infrastruktur** — die Schweizer Firmenadresse, das Handelsregister, die Bankverbindung
+6. **Die Slowakei-Connection (SPD ROD) dient als "Success Story"** — um neue Kooperationspartner zu ködern
+
+### Psychologisches Profil (spekulativ)
+
+- Alter: unbekannt, aber mindestens 10+ Jahre Berufserfahrung (Gründung 2013)
+- Typ: Technischer Unternehmer, kein Finanzexperte
+- Motivation: Entweder überzeugter Anhänger der Paramonov-Ideologie ODER kalt kalkulierender Geschäftemacher
+- Risikobereitschaft: Hoch — trotz FINMA-Warnung weiter aktiv
+
+### Unbeantwortete Fragen
+
+| Frage | Relevanz |
+|-------|----------|
+| Wer ist **Jacqueline Wachter** (seine Nachfolgerin im TNHCO-VR)? | Neue Vizepräsidentin seit 12/2023 |
+| Was bedeutet **"GSPC"**? (Global Service Provider Consulting?) | Namensherkunft unklar |
+| Hat Bolliger **weitere Firmen** in der Schweiz oder im Ausland? | Nur 3 bekannt |
+| Steht er in **direktem Kontakt** mit Paramonov? | Keine öffentlichen Beweise |
+| Wie finanziert er sich? | Kein Einkommen aus TNHCO (kein Erwerbszweck) — simpleapps.ch/GSPC AG? |
 
 ---
 
@@ -272,6 +324,9 @@ Auf Basis der vorliegenden Daten ergibt sich folgendes Bild:
 | 6 | OffshoreAlert — Bolliger Tag | https://www.offshorealert.com/tag/georges-bolliger/ |
 | 7 | FINMA Warnliste | https://www.finma.ch/en/finma-public/warnungen/warning-list/terra-nova-helvetica-genossenschaft/ |
 | 8 | GoldenEra Partner | https://goldenera.global/learn/ |
+| 9 | kompany.com — GSPC AG, Bolliger ausgeschieden | https://www.kompany.com/p/ch/17030385509 |
+| 10 | KOMPASS — GSPC AG | https://de.kompass.com/de/c/gspc-ag/ch884666/ |
+| 11 | company.ch — GSPC AG | https://www.company.ch/firma/gspc-ag-1168767 |
 
 ---
 
