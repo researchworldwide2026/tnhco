@@ -1,7 +1,30 @@
-# Sun Coin — Recherche-Notiz
+# Sun Coin — Recherche-Notiz (AKTUALISIERT)
 
-> **Stand:** 01.07.2026 | **Anfrage:** Wird "Sun Coin" in TNHCO/M1-Dokumenten erwähnt?  
-> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md)
+> **Stand:** 01.07.2026 | **UPDATE:** Sun Coin auf goldenera.global gefunden!  
+> **Verlinkt:** [GoldenEra Analyse](GOLDENERA_GLOBAL.md) · [Analyse-Index](ANALYSE_INDEX.md)
+
+---
+
+## 🔄 UPDATE 01.07.2026: Sun Coin EXISTIERT!
+
+**Sun Coin wurde auf [goldenera.global](https://goldenera.global) als AKTIVER ICO PRE-SALE gefunden!**
+
+| Merkmal | Detail |
+|---------|--------|
+| **Name** | SunCoin |
+| **Status** | ICO Pre-Sale |
+| **Blockchain** | GoldenEra Blockchain (GEB) |
+| **Payment Gateway** | SunPay M1 (sunpaym1.world) |
+| **Website** | goldenera.global |
+| **Verbindung zu M1** | monetaryone.org |
+
+⚠️ **Sun Coin ist KEIN externes Projekt** — es ist das neueste Krypto-Produkt des Paramonov/TNHCO-Netzwerks, beworben über die GoldenEra-Website.
+
+**Vollständige Analyse:** [GOLDENERA_GLOBAL.md](GOLDENERA_GLOBAL.md)
+
+---
+
+## ~~Alte Recherche (vor dem Fund)~~
 
 ---
 
