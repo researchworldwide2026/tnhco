@@ -103,6 +103,19 @@ Sollten sich in den Dokumentationen **Fehler oder Unstimmigkeiten**
 befinden, werden diese auf Hinweis umgehend geprüft und korrigiert.
 Hinweise bitte per GitHub Issue.
 
+### Namensnutzung
+
+Die Bezeichnung „TNHCO" (Abkürzung für „Terra Nova Helvetica Genossenschaft")
+wird in diesem Repository **ausschließlich referenziell** verwendet — zur
+Bezeichnung der Organisation, die Gegenstand der Dokumentation ist.
+
+- „TNHCO" ist **keine eingetragene Marke** im Schweizer Markenregister (Swissreg)
+- Der Firmenname „Terra Nova Helvetica Genossenschaft" genießt Schutz nach
+  Art. 951 OR — dieser greift jedoch nur bei Verwechslungsgefahr im
+  geschäftlichen Verkehr
+- Dieses Repository steht in **keinerlei Verbindung** zur Terra Nova Helvetica
+  Genossenschaft und erhebt nicht den Anspruch, in deren Namen zu handeln
+
 ### Haftungsausschluss
 
 Die Zusammenstellung erhebt **keinen Anspruch auf Vollständigkeit**.
