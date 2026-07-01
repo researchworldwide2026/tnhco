@@ -1,6 +1,6 @@
 #!/bin/bash
 # Slow but reliable translation - 30s delay to avoid Google rate limits
-cd /Users/researchworldwide2026/tnhco
+cd "$(dirname "$0")"
 
 while true; do
     # Find first failed file
