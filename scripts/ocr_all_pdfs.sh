@@ -2,9 +2,9 @@
 # OCR all PDFs from tnhco.org and convert to Markdown
 # Uses pdftotext first, falls back to pdftoppm + tesseract for image-based PDFs
 
-PDF_DIR="./pdfs"
-MD_DIR="./markdown"
-WORK_TEMP="./.ocr_temp"
+PDF_DIR="../pdfs"
+MD_DIR="../markdown"
+WORK_TEMP="../.ocr_temp"
 
 mkdir -p "$MD_DIR"
 

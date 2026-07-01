@@ -2,9 +2,9 @@
 # TNHCO PDF -> Markdown Extraction v3 - Optimized with parallel processing
 # Uses pdftotext for text-based PDFs, OCR with tesseract for image-based ones
 
-PDF_DIR="./pdfs"
-MD_DIR="./markdown"
-WORK_TEMP="./.ocr_temp"
+PDF_DIR="../pdfs"
+MD_DIR="../markdown"
+WORK_TEMP="../.ocr_temp"
 MAX_JOBS=4  # Parallel OCR jobs
 
 mkdir -p "$MD_DIR" "$WORK_TEMP"

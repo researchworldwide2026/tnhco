@@ -4,9 +4,9 @@
 # Falls back to pdftoppm for PDFs without embedded JPEGs
 # Uses pdftotext for text-based PDFs
 
-PDF_DIR="./pdfs"
-MD_DIR="./markdown"
-WORK_TEMP="./.ocr_temp"
+PDF_DIR="../pdfs"
+MD_DIR="../markdown"
+WORK_TEMP="../.ocr_temp"
 MAX_PROCS=3
 
 mkdir -p "$MD_DIR" "$WORK_TEMP"

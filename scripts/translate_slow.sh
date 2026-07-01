@@ -1,6 +1,6 @@
 #!/bin/bash
 # Slow but reliable translation - 30s delay to avoid Google rate limits
-cd "$(dirname "$0")"
+cd "$(dirname "$0")/.."
 
 while true; do
     # Find first failed file

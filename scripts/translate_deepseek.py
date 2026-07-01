@@ -8,8 +8,8 @@ import os, sys, time, subprocess, json
 from pathlib import Path
 from openai import OpenAI
 
-SRC_DIR = Path("./markdown")
-DST_DIR = Path("./markdown_de")
+SRC_DIR = Path("../markdown")
+DST_DIR = Path("../markdown_de")
 DST_DIR.mkdir(parents=True, exist_ok=True)
 (DST_DIR / "website").mkdir(exist_ok=True)
 

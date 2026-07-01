@@ -1,8 +1,8 @@
 #!/bin/bash
 # TNHCO PDF -> Markdown Extraction v3 - Parallel with xargs
-PDF_DIR="./pdfs"
-MD_DIR="./markdown"
-WORK_TEMP="./.ocr_temp"
+PDF_DIR="../pdfs"
+MD_DIR="../markdown"
+WORK_TEMP="../.ocr_temp"
 MAX_PROCS=3
 
 mkdir -p "$MD_DIR" "$WORK_TEMP"

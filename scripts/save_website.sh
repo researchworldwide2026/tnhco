@@ -1,6 +1,6 @@
 #!/bin/bash
 # Save all tnhco.org website pages as markdown
-OUT="./markdown/website"
+OUT="../markdown/website"
 mkdir -p "$OUT"
 
 save_page() {

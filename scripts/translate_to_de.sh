@@ -3,8 +3,8 @@
 # Uses translate-shell (trans) via Google Translate
 # Skips files already in German (_de suffix)
 
-SRC_DIR="./markdown"
-DST_DIR="./markdown_de"
+SRC_DIR="../markdown"
+DST_DIR="../markdown_de"
 mkdir -p "$DST_DIR/website"
 
 total=0
