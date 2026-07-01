@@ -1,134 +1,130 @@
-# Resolution-002_en (Übersetzung fehlgeschlagen)
-
-*Automatische Übersetzung nicht verfügbar. Originaltext:*
-
 # Resolution-002_en
 
-**Source PDF:** `Resolution-002_en.pdf`
+**Quell-PDF:** „Resolution-002_en.pdf“.
 
-**Extraction method:** OCR via embedded image extraction + preprocessing
-**Images extracted:** 4
-**OCR:** tesseract deu+eng, threshold preprocessing
+**Extraktionsmethode:** OCR über eingebettete Bildextraktion + Vorverarbeitung
+**Bilder extrahiert:** 4
+**OCR:** tesseract deu+eng, Schwellenwertvorverarbeitung
 
 ---
 
-## Section 000
+## Abschnitt 000
 
 „eioNdr.
 
-oy
+oje
 
 MekayHapogHoe Ka3HayenctBo M1
 International Treasury Monetary One
 
-Date: June 02, 2020
-Ref. N°: 002/RES2020
+Datum: 02. Juni 2020
+Ref. Nr.: 002/RES2020
 
-With concern and anxiety, the Board of the International Treasury Monetary One ascertains
-that the global epidemic, caused by the Corona Virus Covid-19, leads to a shut down of the
-World Economy, overstrains the worldwide Health and Welfare Systems and compounds the
-imminent collapse of the World Finance Fiat System.
+Mit Besorgnis und Besorgnis stellt der Vorstand des International Treasury Monetary One fest
+dass die globale Epidemie, verursacht durch das Corona-Virus Covid-19, zu einer Schließung des Unternehmens führt
+Die Weltwirtschaft überlastet die weltweiten Gesundheits- und Wohlfahrtssysteme und verschärft die
+drohender Zusammenbruch des Weltfinanz-Fiat-Systems.
 
-WHEREAS of these threatening tendencies, the International Treasury Monetary One,
-hereinafter referred to as “ITM1”, took the decision to urge the development of a problem-
-solving Monetary Reform.
+IN DER ERWÄGUNG, dass angesichts dieser bedrohlichen Tendenzen das International Treasury Monetary One,
+im Folgenden als „ITM1“ bezeichnet, hat die Entscheidung getroffen, die Entwicklung eines Problems voranzutreiben.
+Lösung der Währungsreform.
 
-WHEREAS global financial crisis finding deficiencies in existing systems financial regulation,
-forced to look for a way out of the situation in the World financial market, to identify the main
-directions of action improving the sustainability of banking systems and avoiding crises like
-the current. It caused the necessity for International Treasury Monetary One to rethinking the
-principles of bank regulation and the need to develop and implement new approaches and
-methods for assessing systemic risks, establishing counter-cyclical capital adequacy norms and
-formation of reserves for possible loan losses during periods of economic ascents and
-downturns.
+IN DER ERWÄGUNG, dass in der globalen Finanzkrise Mängel in den bestehenden Finanzregulierungssystemen festgestellt werden,
+gezwungen, nach einem Ausweg aus der Situation auf dem Weltfinanzmarkt zu suchen, um den Hauptausweg zu identifizieren
+Handlungsrichtungen zur Verbesserung der Nachhaltigkeit von Bankensystemen und zur Vermeidung von Krisen wie
+der Strom. Dies führte dazu, dass International Treasury Monetary One dies neu überdenken musste
+Grundsätze der Bankenregulierung und die Notwendigkeit, neue Ansätze zu entwickeln und umzusetzen und
+Methoden zur Bewertung systemischer Risiken, Festlegung antizyklischer Kapitaladäquanznormen und
+Bildung von Rückstellungen für mögliche Kreditausfälle in Zeiten des wirtschaftlichen Aufschwungs und
+Abschwünge.
 
-RESOLVED, that the monetary reform takes in consideration
+BESCHLOSSEN, dass die Währungsreform berücksichtigt
 
-Furthermore RESOLVED, that ITM1 will deploy their huge portfolio of Bank Balance Sheet
-Gold and Off-Balance Sheet Gold as security to back-up the Monetary Reform.
+Darüber hinaus wurde beschlossen, dass ITM1 sein riesiges Portfolio an Bankbilanzen einsetzen wird
+Gold und außerbilanzielles Gold als Sicherheit zur Absicherung der Währungsreform.
 
 5_002/RES2020
 
-LEI: 2534008YC6NRP4BLOFI15; UN ID: 626139; Ph: +7-495-1258418
+LEI: 2534008YC6NRP4BLOFI15; UN-ID: 626139; Tel.: +7-495-1258418
 
-RESOLUTION No. 002
-THE ONE WAY OUT OF THE GLOBAL FINANCIAL CRISIS
+Beschluss Nr. 002
+DER EINZIGE WEG AUS DER GLOBALEN FINANZKRISE
 
-Has
+Hat
 SAGAGAGAEAGACe
 
-(1) the permanently impairment of the leading world currencies;
+(1) die dauerhafte Wertminderung der führenden Weltwährungen;
 
-(2) the superior level of global-scale debts;
+(2) das hohe Niveau der globalen Schulden;
 
-(3) the boosting tendencies to print money without real secured backup value;
-(4) the hereby caused setback of the USD indexed trading system;
+(3) die zunehmenden Tendenzen, Geld ohne wirklich gesicherten Sicherungswert zu drucken;
+(4) der dadurch verursachte Rückschlag des USD-indexierten Handelssystems;
 
-(5) the use of a Money multiplier, leaving excessive credit reserves in banks;
+(5) die Verwendung eines Geldmultiplikators, der übermäßige Kreditreserven bei den Banken hinterlässt;
 
-(6) the imminent negative consequences of the pending Global Currency Reset (GCR).
+(6) die drohenden negativen Folgen des bevorstehenden Global Currency Reset (GCR).
 
-ese see see se sees selsrelsre
+se se see se se sees selsrelsre
 
 Abr
 
 
-## Section 001
+## Abschnitt 001
 
 Ei
 
-ITM1 as owner and assignee has the nearly entire Global Gold Reserves under management.
+ITM1 verwaltet als Eigentümer und Zessionar nahezu die gesamten globalen Goldreserven.
 
-This fact is recognized by all the regulators of the World Finance System as IMF, World Bank,
-BIS, UN etc and offers the perspective to place a solution with national, ideological and
-economic interests.
+Diese Tatsache wird von allen Regulierungsbehörden des Weltfinanzsystems wie IWF, Weltbank,
+BIZ, UN usw. und bietet die Perspektive, eine Lösung mit nationalen, ideologischen und
+wirtschaftliche Interessen.
 
-WHEREAS with consequent accrual of our Resolution No. 001 “Anti Crisis Financial
-Measures”, published on the 7" of April 2020, we recommend that the GOLD STANDARD
-has to be implemented in the World Finance, and fast.
+IN DER ERWÄGUNG, dass mit der daraus resultierenden Entstehung unseres Beschlusses Nr. 001 „Anti Crisis Financial
+Measures“, veröffentlicht am 7. April 2020, empfehlen wir den GOLD STANDARD
+muss in der Finanzwelt umgesetzt werden, und zwar schnell.
 
-We advocate (1) the introduction of XAU, the currency code for Gold, as index for one general
-World payment standard and (2) the design, issuance and printing of the series of Treasury
-Bills of the World currency “TBM1”, directed by the ITM1 and affiliated partners.
+Wir befürworten (1) die Einführung von XAU, dem Währungscode für Gold, als Index für einen General
+Weltweiter Zahlungsstandard und (2) die Gestaltung, Ausgabe und der Druck der Treasury-Reihe
+Banknoten der Weltwährung „TBM1“, geleitet von ITM1 und angeschlossenen Partnern.
 
-WHEREAS integrating the positive features of the Special Drawing Rights (SDR), TBMI will
-be used as the prospectively major international element for the formation of official foreign
-exchange reserve systems, for the regulation of the payment balances and for measuring the
-value of new national currencies.
+IN DER ERWÄGUNG, dass TBMI die positiven Eigenschaften der Sonderziehungsrechte (SZR) integrieren wird
+als voraussichtlich wichtigstes internationales Element für die Bildung offizieller Außenpolitik genutzt werden
+Devisenreservesysteme, zur Regulierung der Zahlungsbilanzen und zur Messung der
+Wert neuer nationaler Währungen.
 
-RESOLVED, International Treasury M1, as Owner and Manager of the backing gold assets
-and as Safe Guard and Creator of the related currency codes, introduces the following solution
-approaches and concrete set of measures:
+ENTSCHLOSSEN, International Treasury M1, als Eigentümer und Manager der unterstützenden Goldvermögenswerte
+und stellt als Wächter und Ersteller der zugehörigen Währungscodes die folgende Lösung vor
+Ansätze und konkrete Maßnahmenpakete:
 
-(1) Put into effect immediately the final regulations of Basel III for the Introduction of the Gold
-Standard by advocating XAU as sole World payment standard index for a new World
-Currencies;
+(1) Die endgültigen Bestimmungen von Basel III zur Einführung des Goldes sofort in Kraft setzen
+Standard, indem XAU als einziger weltweiter Zahlungsstandardindex für eine neue Welt befürwortet wird
+Währungen;
 
-(2) Implement three (3) different new World reserve currencies into the World Financial
-System, calculate, setup and align them to the value of XAU and arrange the worldwide
-circulation;
+(2) Implementierung von drei (3) verschiedenen neuen Weltreservewährungen in das Weltfinanzsystem
+System, berechnen, einrichten und auf den Wert von XAU ausrichten und weltweit arrangieren
+Zirkulation;
 
-(3) Install the new World reserve currencies under the following specific names:
-a) "Golden Soviet Ruble" — 1 (One) Golden Soviet Ruble = 0.987412 grams of gold;
-b) "Gold USA Dollar" — 1 (One) Gold us Dollar = 1.2345 grams of gold;
-c) "Golden ECU" — 1 (One) Golden ECU = 1 troy ounce of gold.
+(3) Einführung der neuen Weltreservewährungen unter den folgenden spezifischen Namen:
+a) „Goldener Sowjetrubel“ – 1 (Ein) Goldener Sowjetrubel = 0,987412 Gramm Gold;
+b) „Gold-US-Dollar“ – 1 (ein) Gold-US-Dollar = 1,2345 Gramm Gold;
+c) „Goldener ECU“ – 1 (ein) goldener ECU = 1 Feinunze Gold.
 
-(4) Create an exchange rate of "World money" in relation to World reserve currencies for the
-period of the crisis and for the period of elimination of post-crisis consequences;
+(4) Erstellen Sie einen Wechselkurs für „Weltgeld“ im Verhältnis zu den Weltreservewährungen
+Zeitraum der Krise und für den Zeitraum der Beseitigung der Folgen nach der Krise;
 
-(5) Issue and print the gold backed bank notes, denominated in the above-mentioned World
-Reserve Currencies and organize the system to place them worldwide in the Treasuries, their
-National Banks, Reserve Banks and/or Central State Banks in order to increase and consolidate
-the gold balance of each country and force and enable the issuance of national currencies;
+(5) Ausgabe und Druck der goldgedeckten Banknoten, die auf die oben genannte Welt lauten
+Reservieren Sie Währungen und organisieren Sie das System, um sie weltweit in den Staatsanleihen zu platzieren
+Nationalbanken, Reservebanken und/oder Zentralbanken des Staates, um sie zu vergrößern und zu konsolidieren
+den Goldbestand jedes Landes und erzwingt und ermöglicht die Ausgabe nationaler Währungen;
 
-(6) TBM1 accepts as payment for tax payments and as a replenishment of banks' reserves;
+(6) TBM1 akzeptiert als Zahlungsmittel für Steuerzahlungen und zur Auffüllung der Bankreserven;
 
-(7) Motivate, urge and support these receiving entities to study, analyze and finally define
-terms and conditions for the expansionary financial and monetary policies, in order to originate
-and stimulate a secured international commodity and exchange trading system;
+(7) Motivieren, drängen und unterstützen Sie diese empfangenden Einheiten, zu studieren, zu analysieren und schließlich zu definieren
+Bedingungen für die expansive Finanz- und Währungspolitik, um entstehen zu können
+und ein sicheres internationales Rohstoff- und Börsenhandelssystem fördern;
 
-(8) Create an issuance and allocation system which lead to an understandable classification and
-evaluation of the currencies defining the value-centered backup model of the currencies;
+(8) Erstellen Sie ein Ausgabe- und Zuordnungssystem, das zu einer verständlichen Klassifizierung führt und
+Bewertung der Währungen, Definition des wertzentrierten Sicherungsmodells der Währungen;
 
 3002/RES2020
 mn
@@ -136,60 +132,60 @@ mn
 SAGAR RIGA TRI FAT AGA GFR
 
 
-## Section 002
+## Abschnitt 002
 
 E
 
-(9) Provide positive impacts to smooth economic fluctuations and in order (i) prevent the
-occurrence of permanent fluctuations of currencies, rate values, and exchanges (11) to balance
-the economic activity and growth, (111) to improve and redistribute the standard of living for all
-citizens of the world and (iv) to advance technological progress for fighting against and solving
-the threatening challenges the world is facing;
+(9) Positive Auswirkungen haben, um wirtschaftliche Schwankungen zu glätten und (i) das zu verhindern
+Auftreten permanenter Schwankungen von Währungen, Kurswerten und Wechselkursen (11) auszugleichen
+die Wirtschaftstätigkeit und das Wirtschaftswachstum (111), um den Lebensstandard aller zu verbessern und neu zu verteilen
+Bürger der Welt und (iv) den technologischen Fortschritt zur Bekämpfung und Lösung voranzutreiben
+die bedrohlichen Herausforderungen, vor denen die Welt steht;
 
-(10) In accordance with the final recommendations and requirements Basel III, recommend
-soon to all banking regulators of countries, as National Banks, Reserve Banks and/or Central
-State Banks to carry out audit of the Special Accounts of the state and commercial banks,
-having defined Capital requirements Tierl, Tier2, Tier3. By identifying all assets that do not
-meet the Capital requirements Tierl, Tier2, Tier3, take them out of circulation, out of balance
-sheet and prepare them for liquidation;
+(10) In Übereinstimmung mit den endgültigen Empfehlungen und Anforderungen Basel III, empfehlen
+Bald an alle Bankenaufsichtsbehörden der Länder, wie Nationalbanken, Reservebanken und/oder Zentralbanken
+Staatsbanken führen Prüfungen der Sonderkonten der Staats- und Geschäftsbanken durch,
+mit definierten Kapitalanforderungen Tierl, Tier2, Tier3. Durch die Identifizierung aller Vermögenswerte, bei denen dies nicht der Fall ist
+Erfüllen Sie die Kapitalanforderungen Tierl, Tier2, Tier3, nehmen Sie sie aus dem Verkehr, aus dem Gleichgewicht
+Blatt und bereiten Sie sie für die Liquidation vor;
 
-(11) Concerning debts of the countries on the basis of loans received from various banking
-organizations. We recommend to the Ministries of Finance of the countries request from
-regulators of countries where to stay Lender Bank to provide the report on Capital
-requirements Tierl, Tier2, Tier3 of the received Loans on the basis of the recommendation and
-requirements Basel III. If Capital requirements of the received Loans do not have appropriate
-gold backing, then to prepare these obligations for liquidation;
+(11) Betrifft Schulden der Länder auf der Grundlage von Krediten, die sie von verschiedenen Banken erhalten haben
+Organisationen. Wir empfehlen, bei den Finanzministerien der Länder eine Anfrage zu stellen
+Aufsichtsbehörden der Länder, in denen die Lender Bank bleiben soll, um den Bericht über das Kapital bereitzustellen
+Anforderungen Tierl, Tier2, Tier3 der erhaltenen Kredite auf Basis der Empfehlung und
+Anforderungen Basel III. Wenn die Kapitalanforderungen der erhaltenen Kredite nicht angemessen sind
+Golddeckung, um diese Verbindlichkeiten dann für die Liquidation vorzubereiten;
 
-(12) Concerning debts to the International Monetary Fund. Recommend to Finance Ministries
-to carry out debt audits since the introduction of the Jamaica Monetary System. Submit these
-reports to the International Treasury M1, on the basis of which the International Treasury M1
-will provide necessary assets for the complete closure of Government debts to the International
-Monetary Fund;
+(12) Bezüglich Schulden gegenüber dem Internationalen Währungsfonds. Den Finanzministerien empfehlen
+Schuldenprüfungen seit der Einführung des jamaikanischen Währungssystems durchzuführen. Reichen Sie diese ein
+Berichte an das Internationale Finanzministerium M1, auf deren Grundlage das Internationale Finanzministerium M1
+wird die notwendigen Vermögenswerte für die vollständige Tilgung der Staatsschulden gegenüber der Internationale bereitstellen
+Währungsfonds;
 
-(13) Concerning intercountry, external government debt which formed between countries since
-the introduction of the Jamaica Monetary System. Recommend to Finance Ministries to carry
-out debt audits and classify these debts, identify medium- and long-term debts, to submit these
-reports of the exclusively medium- and long-term external debts to the International Treasury
-M1. The International Treasury M1 will provide necessary assets for the complete closure of
-medium- and long-term external debts between the countries. Exceptions are government debts
-formed for implementation of investment projects and state programs according to the priority
-directions of the country's economy development;
+(13) In Bezug auf die internationale Auslandsverschuldung, die sich seitdem zwischen den Ländern gebildet hat
+die Einführung des jamaikanischen Währungssystems. Empfehlen Sie den Finanzministerien die Mitnahme
+Schuldenprüfungen durchführen und diese Schulden klassifizieren, mittel- und langfristige Schulden identifizieren und diese einreichen
+Meldungen der ausschließlich mittel- und langfristigen Auslandsschulden an das Internationale Finanzministerium
+M1. Das internationale Finanzministerium M1 wird die notwendigen Vermögenswerte für die vollständige Schließung bereitstellen
+mittel- und langfristige Auslandsschulden zwischen den Ländern. Ausnahmen bilden Staatsschulden
+gebildet für die Umsetzung von Investitionsprojekten und staatlichen Programmen entsprechend der Priorität
+Richtungen der wirtschaftlichen Entwicklung des Landes;
 
-(14) Recommend that all countries review government programmes and investment projects in
-accordance with priority directions for the development of the country's economy. International
-Treasury MI recommend to define programs and projects that meet the conditions
-development of environmental ecological safety, solving the problem of food production,
-solving the problem of employment of the population, solving the problems of infrastructure
-development, housing for all citizens, transition to sustainable use of natural resources.
-Recommend that all countries review energy security concepts with the transition to alternative
-clean energy sources, taking into account the availability of innovative technologies of free
-energy which will be actively implemented by us.
+(14) Empfehlen Sie, dass alle Länder staatliche Programme und Investitionsprojekte überprüfen
+in Übereinstimmung mit den vorrangigen Richtungen für die Entwicklung der Wirtschaft des Landes. International
+Treasury MI empfiehlt, Programme und Projekte zu definieren, die die Bedingungen erfüllen
+Entwicklung der ökologischen Umweltsicherheit, Lösung des Problems der Lebensmittelproduktion,
+Lösung des Problems der Beschäftigung der Bevölkerung, Lösung der Probleme der Infrastruktur
+Entwicklung, Wohnraum für alle Bürger, Übergang zu einer nachhaltigen Nutzung natürlicher Ressourcen.
+Empfehlen Sie allen Ländern, Energiesicherheitskonzepte beim Übergang zu alternativen Energiequellen zu überprüfen
+saubere Energiequellen unter Berücksichtigung der Verfügbarkeit innovativer Technologien kostenlos
+Energie, die von uns aktiv umgesetzt wird.
 
-(15) Recommended to provide for the International Treasury M1 with the prepared government
-programs and investment projects in accordance with priority directions for the development of
-the country's economy. The International Treasury M1 will provide necessary assets for
-financing the government programmes and investment projects. Special working group from
-each country will determine terms and program - funding schedule. The task of the Special
+(15) Es wird empfohlen, mit der vorbereiteten Regierung für das internationale Finanzministerium M1 zu sorgen
+Programme und Investitionsprojekte gemäß den vorrangigen Entwicklungsrichtungen von
+die Wirtschaft des Landes. Das internationale Finanzministerium M1 stellt die erforderlichen Vermögenswerte bereit
+Finanzierung der staatlichen Programme und Investitionsprojekte. Sonderarbeitsgruppe von
+Jedes Land legt die Bedingungen und den Programm- und Finanzierungsplan fest. Die Aufgabe des Specials
 
 3002/RES2020
 mn
@@ -197,62 +193,59 @@ mn
 TARTAR RAGA AAA AAG
 
 
-## Section 003
+## Abschnitt 003
 
 In
 ‚|
-iT:
+es:
 
-working group there will be a definition which government programs will receive non-
-returnable financing.
+In der Arbeitsgruppe wird es eine Definition geben, welche Regierungsprogramme nicht-finanzielle Fördermittel erhalten.
+rückzahlbare Finanzierung.
 
-WHEREAS in accordance with the above-mentioned structural measures and with the proviso
-that the realization requests an intensive collaboration worldwide, the ITM1 respectfully
-recommend all International Financial Entities, Universities and private accredited experts to
-commit their qualified and confidential participation on the platform "Anti-Crisis Center".
+Unter Berücksichtigung der oben genannten baulichen Maßnahmen und mit der Maßgabe
+Dass die Umsetzung eine intensive Zusammenarbeit weltweit erfordert, respektiert das ITM1
+Ich empfehle allen internationalen Finanzunternehmen, Universitäten und privaten akkreditierten Experten
+verpflichten sich zu ihrer qualifizierten und vertraulichen Teilnahme auf der Plattform „Anti-Krisen-Zentrum“.
 
-This special department of the ITM1 aims to engineer and coordinate problem-solving
-solutions in order to avoid empty accounts of clients of global and local banks and to be
-confronted with panic activities and drastic cuts in our liberal mixed economic market system.
+Ziel dieser Spezialabteilung des ITM1 ist es, Problemlösungen zu konzipieren und zu koordinieren
+Lösungen, um leere Konten von Kunden globaler und lokaler Banken zu vermeiden und zu sein
+mit Panikaktivitäten und drastischen Einschnitten in unserem liberalen gemischtwirtschaftlichen Marktsystem konfrontiert.
 
-RESOLVED, the Governments and the affiliated financial bodies are recommended to adopt
-one of the referred World's reserve currencies and to approve the necessary steps by the
-Parliaments and on their Central Bank level.
+ENTSCHLOSSEN, wird den Regierungen und den angeschlossenen Finanzinstituten die Annahme empfohlen
+einer der genannten Weltreservewährungen und die Genehmigung der erforderlichen Schritte durch die
+Parlamente und auf deren Zentralbankebene.
 
-RESOLVED, the transmission and implementation period should last up to December 31, 2020
-and that the aggregate amount of national currencies shall not exceed the estimated gold
-backup in accordance with the final recommendations and requirements Basel III.
+BESCHLOSSEN, der Übermittlungs- und Umsetzungszeitraum sollte bis zum 31. Dezember 2020 dauern
+und dass der Gesamtbetrag der nationalen Währungen den geschätzten Goldwert nicht überschreiten darf
+Backup gemäß den endgültigen Empfehlungen und Anforderungen Basel III.
 
-RESOLVED, the Control and Audit over the implementation of this Resolution No. 002 is
-entrusted to the Executive Committee, equipped with special rights and power by the ITM1.
+BESCHLOSSEN, die Kontrolle und Prüfung über die Umsetzung dieser Resolution Nr. 002 ist
+dem Exekutivkomitee anvertraut und vom ITM1 mit besonderen Rechten und Befugnissen ausgestattet.
 
-The Executive Committee will be constituted and composed of ITM1 officials and participants
-of the “Anti-Crisis Center”.
+Das Exekutivkomitee setzt sich aus ITM1-Funktionären und Teilnehmern zusammen
+des „Anti-Krisen-Zentrums“.
 
-This resolution has been passed on this 2nd day of June, 2020 and is effective forthwith by
-signing under witness.
+Dieser Beschluss wurde am 2. Juni 2020 gefasst und tritt mit sofortiger Wirkung in Kraft
+Unterzeichnung unter Zeuge.
 
-His Highness
+Seine Hoheit
 
-Alexander Nikolaevich Paramonov
+Alexander Nikolajewitsch Paramonow
 
-The Chief Treasurer of the International Treasury Monetary One,
+Der Chefschatzmeister des International Treasury Monetary One,
 
-The President and Chief Operating Officer
-of the White Spiritual Boy R.S.B. Global Corp Inc,
+Der Präsident und Chief Operating Officer
+des White Spiritual Boy R.S.B. Global Corp Inc,
 
-Grand Magister and Grand Intendant
-of the Jerusalem, Rhodes and Maltese
-Sovereign Military Hospitaller Order of Saint John
+Großmagister und Großintendant
+von Jerusalem, Rhodos und Malteser
+Souveräner Militär-Hospitalier-Orden des Heiligen Johannes
 
-ORDER OF HOSPITALLERS
+ORDEN DER KRANKENHÄUSER
 
-UN No. 521730
+UN-Nr. 521730
 
 3002/RES2020
 mn
 
 eraterelerslarelerzlerelsrelsrelarplsgplsrplsiplegplegplerzlerplerelerelare
-
-
-
