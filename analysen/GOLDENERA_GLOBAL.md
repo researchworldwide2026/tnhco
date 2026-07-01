@@ -1,7 +1,7 @@
 # GOLDENERA.GLOBAL — Vollständige Analyse (mit Whitepaper-Daten)
 
 > **Stand:** 01.07.2026 | **Quellen:** Website goldenera.global + Whitepaper V1.3 (27.02.2026)  
-> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [Personen](../PERSONEN_VERFLECHTUNGEN.md) · [Sun Coin](SUN_COIN_RECHERCHE.md) · [Whitepaper DE](goldenera_raw/GoldenEra_Whitepaper_DE.md)
+> **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [Personen](PERSONEN_VERFLECHTUNGEN.md) · [Sun Coin](SUN_COIN_RECHERCHE.md) · [Whitepaper DE](goldenera_raw/GoldenEra_Whitepaper_DE.md)
 
 ---
 

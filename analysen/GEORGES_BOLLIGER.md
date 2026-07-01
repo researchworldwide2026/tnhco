@@ -1,7 +1,7 @@
 # Georges Nicolas Bolliger — Vollständige Recherche
 
 > **Stand:** 01.07.2026 | **Quellen:** Zefix, SHAB, North Data, business-monitor.ch, OffshoreAlert, FINMA  
-> **Verlinkt:** [Personen](../PERSONEN_VERFLECHTUNGEN.md) · [Glaubwürdigkeit](../GLAUBWUERDIGKEIT_TNHCO.md) · [GoldenEra](GOLDENERA_GLOBAL.md)
+> **Verlinkt:** [Personen](PERSONEN_VERFLECHTUNGEN.md) · [Glaubwürdigkeit](GLAUBWUERDIGKEIT_TNHCO.md) · [GoldenEra](GOLDENERA_GLOBAL.md)
 
 ---
 
@@ -330,4 +330,4 @@ Auf Basis aller gesammelten Daten ergibt sich ein klares Bild:
 
 ---
 
-> **Verlinkt:** [Personen](../PERSONEN_VERFLECHTUNGEN.md) · [Glaubwürdigkeit](../GLAUBWUERDIGKEIT_TNHCO.md) · [GoldenEra](GOLDENERA_GLOBAL.md)
+> **Verlinkt:** [Personen](PERSONEN_VERFLECHTUNGEN.md) · [Glaubwürdigkeit](GLAUBWUERDIGKEIT_TNHCO.md) · [GoldenEra](GOLDENERA_GLOBAL.md)

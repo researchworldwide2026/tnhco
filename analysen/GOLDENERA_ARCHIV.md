@@ -224,4 +224,4 @@ graph TB
 
 ---
 
-> **Verlinkt:** [Kurz-Analyse](GOLDENERA_GLOBAL.md) · [Analyse-Index](ANALYSE_INDEX.md) · [Sun Coin Recherche](SUN_COIN_RECHERCHE.md) · [Personen](../PERSONEN_VERFLECHTUNGEN.md)
+> **Verlinkt:** [Kurz-Analyse](GOLDENERA_GLOBAL.md) · [Analyse-Index](ANALYSE_INDEX.md) · [Sun Coin Recherche](SUN_COIN_RECHERCHE.md) · [Personen](PERSONEN_VERFLECHTUNGEN.md)

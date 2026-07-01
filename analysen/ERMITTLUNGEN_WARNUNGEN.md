@@ -255,4 +255,4 @@ graph LR
 
 > ⚠️ **Disclaimer:** Diese Analyse basiert auf öffentlich zugänglichen Quellen. Die Ermittlungsergebnisse der Hawks bedeuten nicht zwingend, dass kein Schaden entstanden ist — nur dass die von Sexwale vorgebrachten Beweise nicht ausreichten.
 >
-> **Verlinkte Projektdokumente:** [📄 Hauptrecherche White Spiritual Boy](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [📊 Organigramm & Verflechtungen](ORGANIGRAMM_VERFLECHTUNGEN.md) · [📑 TNHCO Dokumentenarchiv](../markdown/) · [🌐 Deutsche Übersetzungen](../markdown_de/) · [📋 Gesamtindex](../INDEX.md)
+> **Verlinkte Projektdokumente:** [📄 Hauptrecherche White Spiritual Boy](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [📊 Organigramm & Verflechtungen](ORGANIGRAMM_VERFLECHTUNGEN.md) · [📑 TNHCO Dokumentenarchiv](../markdown/) · [🌐 Deutsche Übersetzungen](../markdown_de/) · [📋 Gesamtindex](INDEX.md)

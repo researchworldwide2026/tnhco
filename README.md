@@ -52,10 +52,10 @@ oder entfernt — mit Ausnahme von Formatierungsanpassungen (PDF → Markdown).
 
 | Dokument | Thema |
 |----------|-------|
-| [`GLAUBWUERDIGKEIT_TNHCO.md`](GLAUBWUERDIGKEIT_TNHCO.md) | Gesamtbewertung der Glaubwürdigkeit |
-| [`PERSONEN_VERFLECHTUNGEN.md`](PERSONEN_VERFLECHTUNGEN.md) | Personelle Netzwerke |
-| [`ORGANIGRAMM_VERFLECHTUNGEN.md`](ORGANIGRAMM_VERFLECHTUNGEN.md) | Firmengeflechte |
-| [`WHITE_SPIRITUAL_BOY_RESEARCH.md`](WHITE_SPIRITUAL_BOY_RESEARCH.md) | Alexander Paramonov / Kult-Kontext |
+| [`GLAUBWUERDIGKEIT_TNHCO.md`](analysen/GLAUBWUERDIGKEIT_TNHCO.md) | Gesamtbewertung der Glaubwürdigkeit |
+| [`PERSONEN_VERFLECHTUNGEN.md`](analysen/PERSONEN_VERFLECHTUNGEN.md) | Personelle Netzwerke |
+| [`ORGANIGRAMM_VERFLECHTUNGEN.md`](analysen/ORGANIGRAMM_VERFLECHTUNGEN.md) | Firmengeflechte |
+| [`WHITE_SPIRITUAL_BOY_RESEARCH.md`](analysen/WHITE_SPIRITUAL_BOY_RESEARCH.md) | Alexander Paramonov / Kult-Kontext |
 | [`analysen/GEORGES_BOLLIGER.md`](analysen/GEORGES_BOLLIGER.md) | Detaillierte Personenrecherche |
 | [`analysen/GOLDENERA_GLOBAL.md`](analysen/GOLDENERA_GLOBAL.md) | GoldenEra-Whitepaper-Analyse |
 | [`analysen/SUN_COIN_RECHERCHE.md`](analysen/SUN_COIN_RECHERCHE.md) | SunCoin ICO Recherche |
