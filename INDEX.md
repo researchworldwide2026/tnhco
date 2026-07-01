@@ -1,9 +1,20 @@
 # TNHCO (Terra Nova Helvetica Cooperative) - Complete Document Index
 
-**Extraction Date:** 2026-06-30
+**Extraction Date:** 2026-06-30 | **Last Update:** 2026-07-01
 **Source:** https://tnhco.org
 **Total PDF documents:** 90
 **Total website pages:** 18
+
+---
+
+## 🔬 Research Documents (2026-07-01)
+
+| Document | Description |
+|----------|-------------|
+| [WHITE_SPIRITUAL_BOY_RESEARCH.md](WHITE_SPIRITUAL_BOY_RESEARCH.md) | Tiefenrecherche: White Spiritual Boy, M1, Paramonov |
+| [ORGANIGRAMM_VERFLECHTUNGEN.md](ORGANIGRAMM_VERFLECHTUNGEN.md) | 7 Mermaid-Diagramme: Alle Organisationsverflechtungen |
+| [ERMITTLUNGEN_WARNUNGEN.md](ERMITTLUNGEN_WARNUNGEN.md) | Laufende & abgeschlossene Ermittlungen, Behördenwarnungen |
+| [GLAUBWUERDIGKEIT_TNHCO.md](GLAUBWUERDIGKEIT_TNHCO.md) | 🚨 FINMA-Warnung, IOSCO, Glaubwürdigkeits-Risiken |
 
 ---
 
