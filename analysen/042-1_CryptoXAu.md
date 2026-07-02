@@ -92,6 +92,14 @@ Wort erwähnt.
    Zielgruppensegmentierung** (Resolutionen für „Regierungen",
    GoldenEra für Retail-Investoren).
 
+6. **Blockchain ohne Dezentralität** — CryptoXAu wird ohne technische
+   Spezifikation, ohne Konsensmechanismus und ohne Netzwerk-Architektur
+   per Dekret proklamiert. Es gibt keinen unabhängigen Validator,
+   keinen offenen Mining-Wettbewerb und keinen Schutz vor zentraler
+   Kontrolle. Siehe ausführliche Grundsatzanalyse in der
+   [SunCoin-Recherche](SUN_COIN_RECHERCHE.md) (Abschnitt „Dezentralität
+   als Legitimation von Blockchain").
+
 ### Hypothesen
 
 | Hypothese | Plausibilität |
