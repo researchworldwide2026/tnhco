@@ -88,6 +88,50 @@ auf Basis öffentlich zugänglicher Informationen.**
 
 ---
 
+## ⚙️ Methodik & Hinweise zur Erstellung
+
+### KI-Unterstützung
+
+Die überwiegende Mehrheit der Inhalte in diesem Repository — insbesondere
+sämtliche Übersetzungen, Analysen, Zusammenfassungen und Strukturierungen der
+Dokumente — wurde **mithilfe von DeepSeek V4** (einem großen KI-Sprachmodell)
+erstellt. Die KI wurde für folgende Arbeitsschritte eingesetzt:
+
+- Übersetzung der Resolutionen und Webseiten vom Englischen ins Deutsche
+- Extraktion von Kernaussagen, Widersprüchen und Red Flags aus den Dokumenten
+- Strukturierung und Kategorisierung der Inhalte
+- Erstellung der Einzelanalysen zu den 48 Resolutionen
+- Formulierung von Querschnittsanalysen und Zusammenfassungen
+
+Sämtliche KI-generierten Inhalte wurden **anschließend manuell geprüft und
+validiert**. Die zugrunde liegenden Originaldokumente sind unverändert im
+Ordner `pdfs/` bzw. `markdown/` hinterlegt und können jederzeit mit den
+Analysen abgeglichen werden.
+
+### OCR-Bedingte Einschränkungen
+
+Ein erheblicher Teil der Quelldokumente lag **ausschließlich als bildbasierte
+PDFs** (gescannte Dokumente ohne eingebetteten Text) vor. Diese wurden mittels
+**Tesseract OCR** (optische Zeichenerkennung) in maschinenlesbaren Text
+umgewandelt. Dabei sind folgende Einschränkungen zu beachten:
+
+- **OCR-Fehler:** Zeichenerkennungsfehler (z. B. „®" statt „R", „™" statt „T")
+  sind in den extrahierten Texten vorhanden und können sich in Übersetzungen
+  und Analysen fortpflanzen
+- **Sprachmix:** Viele Originaldokumente enthalten mehrsprachige Passagen
+  (Englisch, Deutsch, Ungarisch, Russisch, Slowakisch), was die OCR-Qualität
+  zusätzlich beeinträchtigt
+- **Formatierungsartefakte:** Dekorative Ränder, Wasserzeichen und
+  Briefkopf-Grafiken der Original-PDFs erzeugen Störtexte in den
+  OCR-Ergebnissen
+- **Fehlerfortpflanzung:** In Einzelfällen können sich OCR-Fehler über den
+  Übersetzungsprozess (OCR → Übersetzung → Analyse) kaskadierend auswirken
+
+Die **Original-PDFs** im Ordner `pdfs/` sind die maßgebliche Quelle. Bei
+Unstimmigkeiten zwischen Analyse und Originaldokument gilt stets das Original.
+
+---
+
 ## Rechtlicher Hinweis
 
 ### Zweck dieses Repositories
