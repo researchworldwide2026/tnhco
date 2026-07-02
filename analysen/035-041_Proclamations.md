@@ -76,11 +76,40 @@ Weltreorganisation — in nur 3 Monaten.
 
 ---
 
-## 🚨 Die Zahl der Absurdität
+## 🚨 Die Zahl der Absurdität: 1,18 Milliarden Tonnen Gold
+
+Resolution 041 behauptet die Entnahme von **1.181.136.671 metrischen Tonnen**
+„verborgener Schätze von RA MO MI XAU" — im Dokument als Zahlwort
+ausgeschrieben: *„One billion one hundred eighty-one million one hundred
+thirty-six thousand six hundred seventy-one metric tons"*.
+
+| Vergleich | Menge |
+|-----------|-------|
+| **M1-Behauptung (Res. 041)** | 1.181.136.671 t |
+| **Alles jemals geförderte Gold** | ~205.000 t |
+| **Überhöhung** | **Faktor 5.761** |
+| **Gold in allen Ozeanen (gelöst)** | ~20 Mio. t |
+| **Gold in der gesamten Erdkruste** | ~1–2 Mrd. t (99,99 % unzugänglich) |
+
+Die beanspruchte Menge entspricht praktisch dem **gesamten in der
+Erdkruste existierenden Gold** — inklusive des in Magma gelösten,
+für immer unzugänglichen Anteils. Dies ist kein Rechenfehler oder
+OCR-Artefakt; die Zahl ist im Originaldokument als Zahlwort
+ausgeschrieben.
+
+Diese Zahl steht im direkten Widerspruch zur SunCoin-Tokenomics
+(siehe [SunCoin-Recherche](SUN_COIN_RECHERCHE.md) — Abschnitt
+„Der fundamentale Widerspruch"): Wenn M1 1,18 Mrd. Tonnen Gold
+besitzt, aber SunCoin nur zu 25 % mit Gold deckt und dafür 22.222
+Tonnen benötigt, entspricht die angebliche Reserve dem **53.000-fachen**
+des SunCoin-Deckungsbedarfs.
+
+Kurz: Die Zahl ist **physikalisch absurd** und dient als
+Größenwahnsignal an ein finanzunkundiges Publikum.
 
 | Behauptung | Realität |
 |-----------|----------|
-| 1,18 Milliarden Tonnen Gold | Alles jemals geförderte Gold: ~200.000 t — Faktor **6.000** übertrieben |
+| 1,18 Milliarden Tonnen Gold | Alles jemals geförderte Gold: ~200.000 t — Faktor **~5.760** übertrieben |
 | 393,7 Billionen × 3 Währungen | Selbst bei 1g Gold/Währungseinheit: ~393 Billionen Tonnen Gold nötig — Masse eines großen Asteroiden |
 
 ---

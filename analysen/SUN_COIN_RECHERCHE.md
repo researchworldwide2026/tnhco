@@ -338,6 +338,10 @@ Die Resolutionen behaupten seit 2020:
 | M1 besitzt **„nahezu alle globalen Goldreserven"** | Resolution 002 (2020) |
 | M1 hat **„$100+ Quadrillionen blockiert"** | Resolution 017 (2022) |
 | M1 verfügt über **1,18 Milliarden Tonnen Gold** | Resolution 041 (2023) |
+| | ⚠️ **Realitätscheck:** Alles jemals geförderte Gold: ~205.000 t. |
+| | M1 beansprucht das **5.761-Fache** allen existierenden Goldes — |
+| | praktisch das gesamte Gold der Erdkruste inkl. unzugänglichem Magma-Gold. |
+| | → [Detaillierte Analyse](035-041_Proclamations.md) (Abschnitt „Die Zahl der Absurdität") |
 | M1 ist **„Absoluter Eigentümer"** aller Weltfinanzvermögen | Resolution 032 (2023) |
 | M1 kann **„alle IWF-Schulden tilgen"** | Resolution 002 (2020) |
 | M1 finanziert **„alle UN-Nachhaltigkeitsziele"** | Resolution 005 (2021) |
