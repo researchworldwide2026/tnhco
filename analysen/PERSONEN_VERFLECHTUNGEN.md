@@ -1,7 +1,7 @@
 # Personen & Verflechtungen — Das TNHCO/M1/White-Spiritual-Boy Netzwerk
 
 > **Stand:** 2026-07-01 | **Quellen:** FINMA, IOSCO, OffshoreAlert, sekty.tv, DuckDuckGo-Recherche, TNHCO-Archive  
-> **Verlinkte Dokumente:** [Hauptrecherche](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [Ermittlungen](ERMITTLUNGEN_WARNUNGEN.md) · [Glaubwürdigkeit](GLAUBWUERDIGKEIT_TNHCO.md) · [Organigramm](ORGANIGRAMM_VERFLECHTUNGEN.md) · [Gesamtindex](INDEX.md)
+> **Verlinkte Dokumente:** [Hauptrecherche](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [Ermittlungen](ERMITTLUNGEN_WARNUNGEN.md) · [Glaubwürdigkeit](GLAUBWUERDIGKEIT_TNHCO.md) · [Organigramm](ORGANIGRAMM_VERFLECHTUNGEN.md) · [Kultstruktur](KULTSTRUKTUR.md) · [Gesamtindex](INDEX.md)
 
 ---
 

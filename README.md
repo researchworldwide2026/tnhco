@@ -56,6 +56,7 @@ auf Basis öffentlich zugänglicher Informationen.**
 | [GELDSYSTEM_PARADOX.md](analysen/GELDSYSTEM_PARADOX.md) | Warum ein eigenes Geldsystem gegen „Betrug"? |
 | [VERFLECHTUNGSGRAPH.md](analysen/VERFLECHTUNGSGRAPH.md) | Graph aller Dokumenten-Referenzen & Abhängigkeiten |
 | [BTC_VS_KRYPTO.md](analysen/BTC_VS_KRYPTO.md) | 🧠 Bitcoin vs. „Krypto" — fundamentale Asymmetrie, echte vs. vorgetäuschte Dezentralisierung |
+| [KULTSTRUKTUR.md](analysen/KULTSTRUKTUR.md) | ⚠️ TNHCO/M1 als Sektenkonstrukt — BITE-Modell, 5-Phasen-Rekrutierung, Personenkult |
 
 ### 📜 Einzelresolutionen (Analysen)
 

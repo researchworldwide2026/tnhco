@@ -1,7 +1,7 @@
 # Glaubwürdigkeitsanalyse: TNHCO — Warnungen, Register & Risiken
 
 > **Stand:** 2026-07-01 | **Letzte FINMA-Aktualisierung:** 04.02.2025  
-> **Verlinkte Dokumente:** [Hauptrecherche](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [Ermittlungen](ERMITTLUNGEN_WARNUNGEN.md) · [Organigramm](ORGANIGRAMM_VERFLECHTUNGEN.md) · [Personen & Verflechtungen](PERSONEN_VERFLECHTUNGEN.md) · [Gesamtindex](INDEX.md)
+> **Verlinkte Dokumente:** [Hauptrecherche](WHITE_SPIRITUAL_BOY_RESEARCH.md) · [Ermittlungen](ERMITTLUNGEN_WARNUNGEN.md) · [Organigramm](ORGANIGRAMM_VERFLECHTUNGEN.md) · [Personen & Verflechtungen](PERSONEN_VERFLECHTUNGEN.md) · [Kultstruktur](KULTSTRUKTUR.md) · [Gesamtindex](INDEX.md)
 
 ---
 

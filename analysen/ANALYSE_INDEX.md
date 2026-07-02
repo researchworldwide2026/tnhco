@@ -95,6 +95,7 @@ graph TB
 | [GELDSYSTEM_PARADOX.md](GELDSYSTEM_PARADOX.md) | 💰 Warum ein eigenes Geldsystem, wenn man Geldsysteme für betrügerisch hält? |
 | [VERFLECHTUNGSGRAPH.md](VERFLECHTUNGSGRAPH.md) | 📊 Gesamtgraph aller Dokumenten-Referenzen |
 | [BTC_VS_KRYPTO.md](BTC_VS_KRYPTO.md) | 🧠 Bitcoin vs. „Krypto" — echte vs. vorgetäuschte Dezentralisierung, 7-Säulen-Modell |
+| [KULTSTRUKTUR.md](KULTSTRUKTUR.md) | ⚠️ TNHCO/M1 als Sektenkonstrukt — BITE-Modell, 5 Phasen, Personenkult, Extraktionsmechanismen |
 
 ---
 
