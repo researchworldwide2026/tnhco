@@ -55,6 +55,7 @@ auf Basis öffentlich zugänglicher Informationen.**
 | [THEMEN_VERMISCHUNG.md](analysen/THEMEN_VERMISCHUNG.md) | Finanzen/Religion/Verschwörung — systematische Analyse |
 | [GELDSYSTEM_PARADOX.md](analysen/GELDSYSTEM_PARADOX.md) | Warum ein eigenes Geldsystem gegen „Betrug"? |
 | [VERFLECHTUNGSGRAPH.md](analysen/VERFLECHTUNGSGRAPH.md) | Graph aller Dokumenten-Referenzen & Abhängigkeiten |
+| [BTC_VS_KRYPTO.md](analysen/BTC_VS_KRYPTO.md) | 🧠 Bitcoin vs. „Krypto" — fundamentale Asymmetrie, echte vs. vorgetäuschte Dezentralisierung |
 
 ### 📜 Einzelresolutionen (Analysen)
 

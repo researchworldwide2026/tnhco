@@ -94,6 +94,7 @@ graph TB
 | [THEMEN_VERMISCHUNG.md](THEMEN_VERMISCHUNG.md) | 🔀 Analyse der Themenvermischung (Finanzen/Religion/Verschwörung) |
 | [GELDSYSTEM_PARADOX.md](GELDSYSTEM_PARADOX.md) | 💰 Warum ein eigenes Geldsystem, wenn man Geldsysteme für betrügerisch hält? |
 | [VERFLECHTUNGSGRAPH.md](VERFLECHTUNGSGRAPH.md) | 📊 Gesamtgraph aller Dokumenten-Referenzen |
+| [BTC_VS_KRYPTO.md](BTC_VS_KRYPTO.md) | 🧠 Bitcoin vs. „Krypto" — echte vs. vorgetäuschte Dezentralisierung, 7-Säulen-Modell |
 
 ---
 
