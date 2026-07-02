@@ -96,6 +96,7 @@ graph TB
 | [VERFLECHTUNGSGRAPH.md](VERFLECHTUNGSGRAPH.md) | 📊 Gesamtgraph aller Dokumenten-Referenzen |
 | [BTC_VS_KRYPTO.md](BTC_VS_KRYPTO.md) | 🧠 Bitcoin vs. „Krypto" — echte vs. vorgetäuschte Dezentralisierung, 7-Säulen-Modell |
 | [KULTSTRUKTUR.md](KULTSTRUKTUR.md) | ⚠️ TNHCO/M1 als Sektenkonstrukt — BITE-Modell, 5 Phasen, Personenkult, Extraktionsmechanismen |
+| [LGBT_VERBOT.md](LGBT_VERBOT.md) | 🏳️‍🌈 Resolution 035 — Todesstrafe für LGBT, „Disembodiment", totalitäres Meinungsverbot |
 
 ---
 

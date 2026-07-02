@@ -21,6 +21,7 @@ Weltreorganisation — in nur 3 Monaten.
   Geschlechtsumwandlung, Menschenhandel in **„allen Weltmedien"**
 - Strafe: **Todesstrafe** + **„vollständige Entkörperung"** (spirituelle Hinrichtung)
 - Verbietet auch „Lügen, Verleumdung, Falschheit" gegen die „Lichte Menschheit"
+- → **[Detaillierte Analyse & Quellen](LGBT_VERBOT.md)**
 
 ### 036 — Kriminalisierung aller Fonds (03.08.2023)
 

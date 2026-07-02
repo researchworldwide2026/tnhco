@@ -57,6 +57,7 @@ auf Basis öffentlich zugänglicher Informationen.**
 | [VERFLECHTUNGSGRAPH.md](analysen/VERFLECHTUNGSGRAPH.md) | Graph aller Dokumenten-Referenzen & Abhängigkeiten |
 | [BTC_VS_KRYPTO.md](analysen/BTC_VS_KRYPTO.md) | 🧠 Bitcoin vs. „Krypto" — fundamentale Asymmetrie, echte vs. vorgetäuschte Dezentralisierung |
 | [KULTSTRUKTUR.md](analysen/KULTSTRUKTUR.md) | ⚠️ TNHCO/M1 als Sektenkonstrukt — BITE-Modell, 5-Phasen-Rekrutierung, Personenkult |
+| [LGBT_VERBOT.md](analysen/LGBT_VERBOT.md) | 🏳️‍🌈 Resolution 035 — LGBT-Verbot mit Todesstrafe, Analyse & Quellen |
 
 ### 📜 Einzelresolutionen (Analysen)
 
