@@ -66,6 +66,63 @@ Illuminati und Kabbal als Feind aufgelistet. **Kein Coin/Token.**
 
 ---
 
+## 🔄 Quervergleich: SunCoin (SCGE) vs. CryptoXAu (AXM)
+
+Während SunCoin auf der **Marketing-Website** goldenenera.global als
+kommerzielles ICO-Produkt beworben wird, definieren die **Resolutionen**
+eine völlig andere Kryptowährung: CryptoXAu (AXM). Die beiden Produkte
+scheinen **parallel zu existieren, ohne sich gegenseitig zu referenzieren**.
+
+| Merkmal | SunCoin (SCGE) | CryptoXAu (AXM) |
+|---------|---------------|-----------------|
+| **Quelle** | goldenera.global (Marketing) | Resolution 042-1 (pseudo-legal) |
+| **Datum** | 2026 (Whitepaper V1.3) | 13.12.2023 |
+| **Blockchain** | GoldenEra Blockchain (GEB) | Nicht spezifiziert |
+| **Golddeckung** | 25 % | 100 % („1 AXM = 1g Gold") |
+| **Supply** | 88,9 Mrd. | Nicht limitiert erwähnt |
+| **Preis** | $20 (ICO) | 1g Gold (~$60–80) |
+| **Payment** | SunPay M1 (sunpaym1.world) | SunPay (Resolution 047, 2025) |
+| **Wallet** | GoldenEra Wallet (angekündigt) | Nicht erwähnt |
+| **Exchange** | GoldenEra Exchange (Q3 2026) | Nicht erwähnt |
+
+### Ungereimtheiten aus SunCoin-Perspektive
+
+1. **CryptoXAu fehlt auf GoldenEra komplett** — die Marketing-Website erwähnt
+   mit keinem Wort diejenige Kryptowährung, die per Resolution 042-1 zum
+   „Standard des Goldstandard-Systems" erklärt wurde. Ein ICO für SunCoin,
+   während die „eigentliche" M1-Währung unerwähnt bleibt, ist wirtschaftlich
+   unplausibel.
+
+2. **Zwei verschiedene Golddeckungen** — CryptoXAu beansprucht 100 %
+   Golddeckung (1 AXM = 1g Gold), SunCoin nur 25 %. Wenn M1 tatsächlich
+   „alle Goldreserven der Welt" besitzt, warum dann ein nur 25 % gedeckter Coin?
+
+3. **GoldenEra Blockchain (GEB) vs. Resolutionssystem** — SunCoin operiert auf
+   der GEB, einem Hostinger-Free-Hosting-basierten „Account-Based"-System ohne
+   Smart Contracts. CryptoXAu wird ohne technische Spezifikation proklamiert.
+   Zwei verschiedene Blockchains oder eine?
+
+4. **SunPay-Dopplung** — SunPay erscheint sowohl in Resolution 047 (als
+   globales Zahlungssystem mit 10 Billionen USDB) als auch auf GoldenEra
+   (als sunpaym1.world für SunCoin). Identisches Branding, aber es ist unklar,
+   ob es sich um dasselbe System handelt.
+
+5. **Zeitliche Lücke** — CryptoXAu wurde im Dezember 2023 per Resolution
+   „geschaffen". SunCoin erscheint erst 2026. Was geschah in den 2+ Jahren
+   dazwischen? Wurde CryptoXAu aufgegeben und durch SunCoin ersetzt? Oder
+   sind es von Anfang an getrennte Produkte für getrennte Zielgruppen?
+
+### Hypothesen
+
+| Hypothese | Plausibilität |
+|-----------|---------------|
+| **Rebranding:** CryptoXAu wurde in SunCoin umbenannt | Mittel — erklärt die Nicht-Erwähnung, aber nicht die unterschiedliche Golddeckung |
+| **Zwei-Produkt-Strategie:** CryptoXAu für Institutionen, SunCoin für Retail | Niedrig — Resolutionen adressieren „alle Länder", nicht nur Institutionen |
+| **Getrennte Projekte:** Unterschiedliche Teams/Partner, lose koordiniert | Hoch — erklärt die Inkonsistenzen und das Schweigen der jeweils anderen Seite |
+| **CryptoXAu = abgebrochen:** Resolutionen sind reine Fantasie, SunCoin der einzige reale Versuch | Hoch — erklärt das völlige Fehlen technischer Details bei CryptoXAu |
+
+---
+
 ## Fazit
 
 Sun Coin ist ein aktives ICO-Produkt des Paramonov/TNHCO-Netzwerks auf der
