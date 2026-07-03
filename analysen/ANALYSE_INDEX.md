@@ -98,6 +98,7 @@ graph TB
 | [KULTSTRUKTUR.md](KULTSTRUKTUR.md) | ⚠️ TNHCO/M1 als Sektenkonstrukt — BITE-Modell, 5 Phasen, Personenkult, Extraktionsmechanismen |
 | [LGBT_VERBOT.md](LGBT_VERBOT.md) | 🏳️‍🌈 Resolution 035 — Todesstrafe für LGBT, „Disembodiment", totalitäres Meinungsverbot |
 | [SPIRITUELLE_PARADOXIE.md](SPIRITUELLE_PARADOXIE.md) | Licht-Sprache vs. tatsächliche Wirkung — Halbwahrheiten, Energiebindung, spirituelle Verkehrung |
+| [VERGLEICHSRECHERCHE.md](VERGLEICHSRECHERCHE.md) | 🔍 15 Vergleichsfälle: Swissindo, OneCoin, NESARA, Reichsbürger, Romana Didulo u.a. — globale Kontextualisierung |
 
 ---
 

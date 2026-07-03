@@ -59,6 +59,7 @@ auf Basis öffentlich zugänglicher Informationen.**
 | [KULTSTRUKTUR.md](analysen/KULTSTRUKTUR.md) | ⚠️ TNHCO/M1 als Sektenkonstrukt — BITE-Modell, 5-Phasen-Rekrutierung, Personenkult |
 | [LGBT_VERBOT.md](analysen/LGBT_VERBOT.md) | 🏳️‍🌈 Resolution 035 — LGBT-Verbot mit Todesstrafe, Analyse & Quellen |
 | [SPIRITUELLE_PARADOXIE.md](analysen/SPIRITUELLE_PARADOXIE.md) | Spirituelle Betrachtung: Licht-Sprache, Halbwahrheiten, Energiebindung und Wirkungsumkehr |
+| [VERGLEICHSRECHERCHE.md](analysen/VERGLEICHSRECHERCHE.md) | 🔍 15 Vergleichsfälle: ähnliche Organisationen, Scams & Sekten weltweit (Swissindo, OneCoin, NESARA, Reichsbürger u.a.) |
 
 ### 📜 Einzelresolutionen (Analysen)
 
