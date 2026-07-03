@@ -97,6 +97,7 @@ graph TB
 | [BTC_VS_KRYPTO.md](BTC_VS_KRYPTO.md) | 🧠 Bitcoin vs. „Krypto" — echte vs. vorgetäuschte Dezentralisierung, 7-Säulen-Modell |
 | [KULTSTRUKTUR.md](KULTSTRUKTUR.md) | ⚠️ TNHCO/M1 als Sektenkonstrukt — BITE-Modell, 5 Phasen, Personenkult, Extraktionsmechanismen |
 | [LGBT_VERBOT.md](LGBT_VERBOT.md) | 🏳️‍🌈 Resolution 035 — Todesstrafe für LGBT, „Disembodiment", totalitäres Meinungsverbot |
+| [SPIRITUELLE_PARADOXIE.md](SPIRITUELLE_PARADOXIE.md) | Licht-Sprache vs. tatsächliche Wirkung — Halbwahrheiten, Energiebindung, spirituelle Verkehrung |
 
 ---
 

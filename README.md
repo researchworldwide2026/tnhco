@@ -58,6 +58,7 @@ auf Basis öffentlich zugänglicher Informationen.**
 | [BTC_VS_KRYPTO.md](analysen/BTC_VS_KRYPTO.md) | 🧠 Bitcoin vs. „Krypto" — fundamentale Asymmetrie, echte vs. vorgetäuschte Dezentralisierung |
 | [KULTSTRUKTUR.md](analysen/KULTSTRUKTUR.md) | ⚠️ TNHCO/M1 als Sektenkonstrukt — BITE-Modell, 5-Phasen-Rekrutierung, Personenkult |
 | [LGBT_VERBOT.md](analysen/LGBT_VERBOT.md) | 🏳️‍🌈 Resolution 035 — LGBT-Verbot mit Todesstrafe, Analyse & Quellen |
+| [SPIRITUELLE_PARADOXIE.md](analysen/SPIRITUELLE_PARADOXIE.md) | Spirituelle Betrachtung: Licht-Sprache, Halbwahrheiten, Energiebindung und Wirkungsumkehr |
 
 ### 📜 Einzelresolutionen (Analysen)
 
