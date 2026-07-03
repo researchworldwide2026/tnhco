@@ -60,6 +60,15 @@ auf Basis öffentlich zugänglicher Informationen.**
 | [LGBT_VERBOT.md](analysen/LGBT_VERBOT.md) | 🏳️‍🌈 Resolution 035 — LGBT-Verbot mit Todesstrafe, Analyse & Quellen |
 | [SPIRITUELLE_PARADOXIE.md](analysen/SPIRITUELLE_PARADOXIE.md) | Spirituelle Betrachtung: Licht-Sprache, Halbwahrheiten, Energiebindung und Wirkungsumkehr |
 | [VERGLEICHSRECHERCHE.md](analysen/VERGLEICHSRECHERCHE.md) | 🔍 15 Vergleichsfälle: ähnliche Organisationen, Scams & Sekten weltweit (Swissindo, OneCoin, NESARA, Reichsbürger u.a.) |
+| [SZENARIEN.md](analysen/SZENARIEN.md) | 🔮 Drei Szenarien: Best Case, Worst Case, Most Likely — wie könnte es weitergehen? |
+| [GALERIE_DER_ABSURDITAET.md](analysen/GALERIE_DER_ABSURDITAET.md) | 🎪 Humorvolle Einordnung der absurdesten Zahlenclaims (Googol, Centillion, 1,18 Mrd. t Gold) |
+
+### 🛡️ Praktische Hilfen
+
+| Dokument | Beschreibung |
+|----------|-------------|
+| [RED_FLAG_CHECKLISTE.md](analysen/RED_FLAG_CHECKLISTE.md) | 🚨 Laienverständlich: 10 Warnsignale + „Was tun, wenn jemand beteiligt ist?" |
+| [METHODOLOGIE.md](METHODOLOGIE.md) | Wie wurde recherchiert? OCR, Übersetzung, Quellen, Ethik |
 
 ### 📜 Einzelresolutionen (Analysen)
 
@@ -69,6 +78,19 @@ auf Basis öffentlich zugänglicher Informationen.**
 | 010 | Resolution-010 (13.01.2022) — King of Kings | [→ Analyse](analysen/010_King_of_Kings.md) |
 | 034 | Resolution-034 (02.06.2023) — Bilderbergs | [→ Analyse](analysen/034_Bilderbergs.md) |
 | 042 | Resolution-042 (18.10.2023) — Crypto Ban | [→ Analyse](analysen/042_Crypto_Ban.md) |
+
+### 🎭 Dramatis Personae — Schlüsselfiguren
+
+| Person | Rolle | Link |
+|--------|-------|------|
+| **Alexander Paramonov** | „King of Kings", Chief Treasurer M1, selbsternannter Souverän | [→ White Spiritual Boy](analysen/WHITE_SPIRITUAL_BOY_RESEARCH.md) |
+| **Georges Bolliger** | TNHCO-Hintermann mit „Entscheidungsbefugnis", IT-Hintergrund | [→ Recherche](analysen/GEORGES_BOLLIGER.md) |
+| **Sergei Taraskin** | Zahnarzt, „Präsident der USSR", direkter Paramonov-Vorläufer | [→ Vergleichsrecherche](analysen/VERGLEICHSRECHERCHE.md) |
+| **Tokyo Sexwale** | ANC-Veteran, brachte „White Spiritual Boy Trust" an die Öffentlichkeit | [→ Ermittlungen](analysen/ERMITTLUNGEN_WARNUNGEN.md) |
+| **Jacqueline Wachter** | Aktuelle TNHCO-Vizepräsidentin (seit 12/2023) | [→ Personen](analysen/PERSONEN_VERFLECHTUNGEN.md) |
+| **René Immoos** | Ex-Vizepräsident, trat nach 2 Monaten zurück (12/2023) | [→ Bolliger](analysen/GEORGES_BOLLIGER.md) |
+| **Josef Marty** | Ex-Verwaltungsrat, trat nach 2 Monaten zurück (12/2023) | [→ Bolliger](analysen/GEORGES_BOLLIGER.md) |
+| **Valérie Manuel** | Ex-Verwaltungsrätin, trat nach 2 Monaten zurück (12/2023) | [→ Bolliger](analysen/GEORGES_BOLLIGER.md) |
 
 ### 📋 Index-Dokumente
 

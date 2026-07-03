@@ -16,7 +16,7 @@ graph TB
     end
 
     subgraph "🇨🇭 SCHWEIZ — Operative Drehscheibe"
-        BOLLIGER["👤 Georges Bolliger<br/>TNHCO-Verwaltungsrat?<br/>†2016 oder aktiv"]
+        BOLLIGER["👤 Georges Bolliger<br/>TNHCO-Verwaltungsrat?<br/>Vitalstatus ungeklärt"]
         MARTY["👤 Josef Marty<br/>Zuger Politik- &<br/>Geschäftskreise"]
         IMMOOS["👤 René Immoos<br/>Menzingen<br/>500+ LinkedIn-Kontakte"]
         MANUEL["👤 Valeria Manuel<br/>Rätselhafte Figur<br/>Keine Webpräsenz"]

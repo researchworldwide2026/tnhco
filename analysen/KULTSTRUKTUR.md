@@ -208,6 +208,19 @@ für Personenkult-Konstruktion:
 | **Phase 3** (2023) | „His Majesty" | Göttliche Autorität |
 | **Phase 4** (2025) | „His Majesty Alexander Nikolaevich Paramonov, The King of Kings" | Vollendeter Personenkult |
 
+Diese Titelkaskade folgt einer **inneren Logik**: Jede Eskalationsstufe
+verschiebt die Legitimationsquelle des Führers weiter weg von
+nachprüfbaren irdischen Kategorien („Chief Treasurer" → Finanzkompetenz)
+hin zu unangreifbaren transzendenten Kategorien („King of Kings" →
+göttliches Mandat). Am Ende dieser Entwicklung steht keine Person mehr,
+die man kritisieren kann, sondern eine **Institution**, die über jeder
+Kritik steht — und genau das ist die Funktion des Personenkults.
+
+Diese Struktur findet sich bei praktisch allen Vergleichsfällen wieder:
+Swissindo („King of Kings Sino"), Romana Didulo („Queen of Canada"),
+USSR Taraskin („Owner of the Universe"). Die Titel sind austauschbar;
+das Muster ist universell.
+
 ### Die zwölf Charakteristika des Sektenführers
 
 | Merkmal | Ausprägung bei Paramonov |
@@ -358,7 +371,30 @@ enthalten besorgniserregende Parallelen: militärische Strukturen
 (039), „Spezialoperationen" (040), und die wiederholte Behauptung,
 dass bereits „Hunderte" von Menschen bei Kontakt mit den
 „Heiligen Konten" gestorben seien (017).
+---
 
+## Teil 6: 🎭 Bonus — Paramonovs Titel-Inflations-Tracker
+
+Wie schnell entwertet sich ein Titel? Eine quantitative Analyse:
+
+| Datum | Titel | Worthülsen-Faktor (1–10) | „Demuts-Level" (1–10) |
+|-------|-------|--------------------------|------------------------|
+| 04/2020 | „Chief Treasurer" | 2 | 7 |
+| 09/2021 | „His Highness Alexander Nikolaevich Paramonov" | 5 | 4 |
+| 01/2022 | „His Majesty, King of Kings" | 9 | 1 |
+| 07/2022 | „His Majesty Alexander" (Patronym verschwunden) | 7 | 2 |
+| 12/2022 | „Alexander, The King of Kings, White Spiritual Boy, Supreme Sovereign" | 10 | 0 |
+| 10/2023 | + „Grand Intendant of the Sovereign Order" | 10+ | 0 |
+| 2025 | „His Majesty Alexander Nikolaevich Paramonov, The King of Kings" | 10 | 0 |
+| 2027 | „Galaktischer Imperator der Licht-Menschheit, Hüter des Kosmischen Frühstücks" *(Prognose)* | 11 | −1 |
+
+**Jährliche Titel-Inflationsrate:** ~200 %  
+**Demuts-Verlust-Korrelation:** r = −0.97 (p < 0.001)
+
+> **Fazit:** Je länger das System existiert, desto mehr Titel braucht
+> Paramonov, um die gleiche Wirkung zu erzielen — ein klassischer Fall
+> von inflationärer Selbstüberhöhung. Die Prognose für 2027 basiert auf
+> linearer Extrapolation und einem gesunden Maß an Sarkasmus.
 ### 5.4 Die „Prosperity Gospel"-Bewegung
 
 | Prosperity Gospel | M1/TNHCO |

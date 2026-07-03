@@ -99,6 +99,9 @@ graph TB
 | [LGBT_VERBOT.md](LGBT_VERBOT.md) | 🏳️‍🌈 Resolution 035 — Todesstrafe für LGBT, „Disembodiment", totalitäres Meinungsverbot |
 | [SPIRITUELLE_PARADOXIE.md](SPIRITUELLE_PARADOXIE.md) | Licht-Sprache vs. tatsächliche Wirkung — Halbwahrheiten, Energiebindung, spirituelle Verkehrung |
 | [VERGLEICHSRECHERCHE.md](VERGLEICHSRECHERCHE.md) | 🔍 15 Vergleichsfälle: Swissindo, OneCoin, NESARA, Reichsbürger, Romana Didulo u.a. — globale Kontextualisierung |
+| [SZENARIEN.md](SZENARIEN.md) | 🔮 Best Case / Worst Case / Most Likely — Zukunftsszenarien für TNHCO/M1 |
+| [GALERIE_DER_ABSURDITAET.md](GALERIE_DER_ABSURDITAET.md) | 🎪 Googol, Centillion, 1,18 Mrd. t Gold — die absurdesten Zahlenclaims mit Humor |
+| [RED_FLAG_CHECKLISTE.md](RED_FLAG_CHECKLISTE.md) | 🚨 10 Warnsignale für potenzielle Opfer und Angehörige |
 
 ---
 

@@ -166,20 +166,20 @@
 
 | # | Aufgabe | Prio | Status |
 |---|---------|------|--------|
-| 1 | Fehlende HU-Dateien 035/036 | 🔴 | ☐ |
-| 2 | Bolliger †2016 klären | 🔴 | ☐ |
-| 3 | Red Flag Checkliste | 🟡 | ☐ |
-| 4 | Methodologie-Dokumentation | 🟡 | ☐ |
-| 5 | Szenario-Ausblick | 🟡 | ☐ |
-| 6 | BTC_VS_KRYPTO anbinden | 🟡 | ☐ |
-| 7 | Farbschema vereinheitlichen | 🟡 | ☐ |
-| 8 | KULTSTRUKTUR-Übergang glätten | 🟢 | ☐ |
-| 9 | 001_Anti-Crisis ausbauen | 🟢 | ☐ |
-| 10 | README Dramatis Personae | 🟢 | ☐ |
-| 11 | Kombinierte Analysen vereinheitlichen | 🟢 | ☐ |
-| 12 | Galerie der absurden Zahlen | ✨ | ☐ |
-| 13 | Titel-Inflations-Tracker | ✨ | ☐ |
-| 14 | World-Accounts Tracklist | ✨ | ☐ |
+| 1 | Fehlende HU-Dateien 035/036 | 🔴 | ✅ Erledigt |
+| 2 | Bolliger †2016 klären | 🔴 | ✅ Erledigt |
+| 3 | Red Flag Checkliste | 🟡 | ✅ Erledigt |
+| 4 | Methodologie-Dokumentation | 🟡 | ✅ Erledigt |
+| 5 | Szenario-Ausblick | 🟡 | ✅ Erledigt |
+| 6 | BTC_VS_KRYPTO anbinden | 🟡 | ✅ Erledigt |
+| 7 | Farbschema vereinheitlichen | 🟡 | ✅ Erledigt |
+| 8 | KULTSTRUKTUR-Übergang glätten | 🟢 | ✅ Erledigt |
+| 9 | 001_Anti-Crisis ausbauen | 🟢 | ✅ Erledigt |
+| 10 | README Dramatis Personae | 🟢 | ✅ Erledigt |
+| 11 | Kombinierte Analysen vereinheitlichen | 🟢 | ✅ Erledigt |
+| 12 | Galerie der absurden Zahlen | ✨ | ✅ Erledigt |
+| 13 | Titel-Inflations-Tracker | ✨ | ✅ Erledigt |
+| 14 | World-Accounts Tracklist | ✨ | ✅ Erledigt |
 
 ---
 

@@ -171,4 +171,36 @@ graph LR
 
 ---
 
+## 🎸 6. Exkurs: Die 189 World Accounts — oder: Das verlorene Prog-Rock-Album von 1973
+
+Die Subkonten-Namen der M1-"World Accounts" (Resolution 028) lesen sich wie
+die Tracklist eines nie veröffentlichten psychedelischen Konzeptalbums:
+
+| Track | "Kontoname" | Musikalische Einordnung |
+|-------|-------------|--------------------------|
+| 1 | White Spiritual Boy | Opener — majestätisch, selbstbewusst |
+| 2 | Spiritual Wonder Boy | Die poppigere Single-Auskopplung |
+| 3 | Spiritual Wonder Brothers | Der Gospel-Chor-Einschub |
+| 4 | Morning Star | Ballade mit Flöten-Solo |
+| 5 | King David | Biblisches Zwischenspiel |
+| 6 | Prophet Muhammad | Interreligiöser Brücken-Track |
+| 7 | Demas & Saint Timothy | Deep Cut für NT-Kenner |
+| 8 | White Mongolia | Der experimentelle Ethno-Track |
+| 9 | White Vatican | Kontroverser Titeltrack (gekürzte Radio-Version) |
+| 10 | White Eagle | Das patriotische Gitarren-Stück |
+| 11 | Maria Sinukuan Divine Crystal | Der philippinische Psychedelic-Teil |
+| 12 | Maria Banahaw Divine Sunflower | Fortsetzung mit Blumen-Metaphorik |
+| 13 | Maria Cristina Divine Magdalene | Die epische 12-Minuten-Nummer |
+| 14 | Maria Makiling Divine | Der ruhige Ausklang |
+| 15 | Easter Egg | Versteckter Bonus-Track (nur auf Vinyl) |
+| 16 | Falcon | Power-Ballade |
+| 17 | Alpha-Omega | Das apokalyptische Finale |
+
+**Album-Titel:** *„Accounts Receivable"*  
+**Genre:** Psychedelic Sovereign Finance  
+**Label:** World Sovereign Bank Records (nicht auditiert)  
+**Laufzeit:** ∞ (wie alle M1-Versprechen)
+
+---
+
 > **Verlinkt:** [Analyse-Index](ANALYSE_INDEX.md) · [Themen-Vermischung](THEMEN_VERMISCHUNG.md) · [Geldsystem-Paradox](GELDSYSTEM_PARADOX.md)

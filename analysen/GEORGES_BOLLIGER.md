@@ -19,6 +19,7 @@
 | **Geschäftspartner** | Serdar Kilic, Bahadir Durak |
 | **Branchen-Hintergrund** | IT/Programmierung — **KEIN** Finanzhintergrund! |
 | **Gemeinsame Adresse** | Industriestrasse 3, 6345 Neuheim — TNHCO + GSPC AG + simpleapps.ch |
+| **Vitalstatus** | 🟡 **Ungeklärt** — siehe Hinweis unten |
 
 ---
 
@@ -27,6 +28,19 @@
 ### Der unsichtbare Strippenzieher
 
 Georges Nicolas Bolliger ist die **rätselhafteste Figur** im TNHCO-Komplex. Obwohl er von OffshoreAlert und business-monitor.ch als Schlüsselperson mit "Entscheidungsbefugnis" gelistet wird, **taucht sein Name in keiner Verwaltungsratsliste des Handelsregisters auf.** Seine Funktion bei TNHCO ist offiziell "unbekannt".
+
+### ⚠️ Vitalstatus: Lebt der TNHCO-Georges Bolliger noch?
+
+Es existieren **zwei Todesanzeigen** für Personen namens „Georges Bolliger" in der Schweiz:
+
+| Datum | Ort | Quelle |
+|-------|-----|--------|
+| 06.01.2016 | Sierre, Valais | Le Nouvelliste (Todesanzeige) |
+| 03.04.2025 | — | deces.ch |
+
+**Es ist unklar, ob eine dieser Anzeigen den TNHCO-Georges Bolliger betrifft.** „Georges Bolliger" ist ein in der Schweiz mehrfach vorkommender Name. Der TNHCO-Bolliger hat Bürgerort **Zürich** und Wohnsitz **Menzingen ZG** — beides weit entfernt von Sierre/Valais. Die deces.ch-Notiz von 2025 enthält keine Ortsangabe.
+
+**Fazit:** Bis zur Einsicht in einen aktuellen Handelsregisterauszug oder eine andere verlässliche Quelle bleibt der Vitalstatus ungeklärt. Die OffshoreAlert-Nennung mit „Entscheidungsbefugnis" spricht eher für eine lebende Person, ist aber kein Beweis.
 
 ### Die Fakten
 

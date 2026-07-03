@@ -5,6 +5,26 @@
 
 ---
 
+## Warum diese Analyse hier steht
+
+SunCoin (SCGE) und CryptoXAu (AXM) — die beiden Krypto-Produkte des
+TNHCO/M1/GoldenEra-Systems — sind **Paradebeispiele für alles, was Bitcoin
+nicht ist:** Pre-Mine (100 % aller Coins vorab erstellt), CEO-gesteuert
+(Paramonov setzt den Preis per Dekret), Foundation-kontrolliert (79 % in
+Projekt-Hand), zentralisierte Blockchain (GoldenEra Blockchain auf
+Hostinger Free-Hosting) und „goldgedeckt" ohne Audit.
+
+SunCoin ist kein Ausreißer. Es ist die **logische Konsequenz** eines
+Systems, das Dezentralisierung vortäuscht, während es maximale zentrale
+Kontrolle anstrebt. Um zu verstehen, WARUM SunCoin ein Scam ist, muss man
+verstehen, was echte Dezentralisierung bedeutet — und warum Bitcoin sie als
+einziges Krypto-Projekt tatsächlich erreicht hat.
+
+Diese Analyse dient als **Kontrastfolie**: Alles, was Bitcoin ausmacht,
+fehlt bei SunCoin. Und alles, was SunCoin ausmacht, hat Bitcoin nie gebraucht.
+
+---
+
 ## Einleitung: Eine Technologie, zwei Welten
 
 Der Begriff „Kryptowährung" fasst zwei fundamental unterschiedliche

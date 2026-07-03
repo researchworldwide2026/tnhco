@@ -5,6 +5,17 @@
 
 ---
 
+## 📊 Übersicht
+
+| Res | Datum | Kernaussage | Beweislage |
+|-----|-------|-------------|------------|
+| 019 | 23.09.2022 | 13 Adelsfamilien zu Kriminellen erklärt, alle Vermögen abgezogen | ❌ Keine |
+| 020 | 05.10.2022 | M1 übernimmt Schatzamt der UdSSR, Paramonov zum „Treasurer der USSR" ernannt | ❌ Keine |
+| 021 | 25.10.2022 | Goldbindung der drei Reservewährungen neu festgelegt, „Spiel der Götter" | ❌ Keine |
+| 022 | 30.11.2022 | Transformation in „Licht-Zustand", M1-Produkte als „Heilmittel" | ❌ Keine |
+
+---
+
 ## ⚠️ Wichtiger Hinweis
 
 Die Resolutionen 019–022 werden nun als **„Order"** oder **„Ordinance"**
